@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#07111f">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="KABU DAILY">
+  <meta name="description" content="日本株の適時開示を確認する静的PWA">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icon.svg">
+  <link rel="apple-touch-icon" href="icon.svg">
+  <link rel="stylesheet" href="styles.css">
+  <title>KABU DAILY</title>
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="./"><span class="logo">K</span><span>KABU <b>DAILY</b></span></a>
+    <button id="themeButton" class="icon-button" type="button" aria-label="テーマを変更">☾</button>
+  </header>
+  <main>
+    <section class="hero">
+      <div><p class="eyebrow">TDNET DISCLOSURES</p><h1>適時開示ダッシュボード</h1><p>公開情報を、見つけやすく整理します。</p></div>
+      <div class="update-info"><span id="statusDot"></span><div>最終更新日時<br><strong id="lastUpdated">確認中…</strong></div></div>
+    </section>
+    <div id="notice" class="notice" role="status" aria-live="polite"></div>
+    <section class="summary" aria-label="集計">
+      <article><span>本日の件数</span><strong id="todayCount">0</strong></article>
+      <article><span>未読件数</span><strong id="unreadCount">0</strong></article>
+      <article><span>重要度 ★4以上</span><strong id="importantCount">0</strong></article>
+      <article><span>優待件数</span><strong id="benefitCount">0</strong></article>
+    </section>
+    <section class="controls" aria-label="絞り込み">
+      <label class="search"><span>⌕</span><input id="searchInput" type="search" placeholder="証券コード・会社名・タイトルで検索"></label>
+      <label><span>分類</span><select id="categoryFilter"><option value="">すべて</option></select></label>
+      <label><span>重要度</span><select id="importanceFilter"><option value="0">すべて</option><option value="5">★★★★★</option><option value="4">★★★★☆ 以上</option><option value="3">★★★☆☆ 以上</option></select></label>
+      <label><span>並び替え</span><select id="sortOrder"><option value="newest">発表時刻（新しい順）</option><option value="oldest">発表時刻（古い順）</option><option value="importance">重要度順</option><option value="company">会社名順</option><option value="code">証券コード順</option></select></label>
+    </section>
+    <section class="quick-filters" aria-label="かんたんフィルター">
+      <label><input id="todayOnly" type="checkbox"><span>今日だけ</span></label>
+      <label><input id="unreadOnly" type="checkbox"><span>未読のみ</span></label>
+      <label><input id="savedOnly" type="checkbox"><span>お気に入りのみ</span></label>
+      <label><input id="importantOnly" type="checkbox"><span>★4以上</span></label>
+      <label><input id="benefitOnly" type="checkbox"><span>優待関連</span></label>
+      <label><input id="dividendOnly" type="checkbox"><span>配当（増配・減配）</span></label>
+      <label><input id="earningsOnly" type="checkbox"><span>決算・業績修正</span></label>
+      <label><input id="maOnly" type="checkbox"><span>TOB・M&amp;A</span></label>
+    </section>
+    <div class="section-title"><div><h2>適時開示 <small id="visibleCount">0件</small></h2><p>未読はカード左側の緑色ラインで分かります</p></div><div class="list-actions"><button id="markAllRead" type="button">✓ すべて既読</button><button id="resetRead" type="button">↺ 既読をリセット</button><button id="manageButton" type="button">☆ お気に入り</button></div></div>
+    <section id="disclosureList" class="disclosures" aria-live="polite"></section>
+    <p id="emptyMessage" class="empty" hidden>条件に合う適時開示はありません。</p>
+  </main>
+  <dialog id="savedDialog">
+    <form method="dialog"><button class="close" aria-label="閉じる">×</button></form>
+    <h2>お気に入り</h2><p>証券コードだけをこの端末に保存します。GitHubへは送信されません。</p>
+    <form id="savedForm"><input id="savedCode" inputmode="numeric" pattern="[0-9]{4}" maxlength="4" placeholder="例：7203" required><button>追加</button></form>
+    <div id="savedCodes" class="saved-codes"></div>
+  </dialog>
+  <footer>公開情報の整理用です。投資判断は必ず公式PDFをご確認ください。</footer>
+  <script src="app.js" defer></script>
+</body>
+</html>
