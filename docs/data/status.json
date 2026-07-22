@@ -1,6 +1,6 @@
 {
-  "ok": false,
-  "checked_at": null,
-  "fetched_count": 0,
-  "message": "まだGitHub Actionsによる取得を実行していません。"
+  "ok": true,
+  "checked_at": "2026-07-22T23:30:18+09:00",
+  "fetched_count": 93,
+  "message": "取得に成功しました"
 }
