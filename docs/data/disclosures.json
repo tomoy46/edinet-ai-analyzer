@@ -1,0 +1,26 @@
+{
+  "sample": true,
+  "last_success_at": null,
+  "disclosures": [
+    {
+      "id": "sample-yutai-0001",
+      "published_at": "2026-07-22T15:30:00+09:00",
+      "security_code": "1234",
+      "company_name": "サンプル株式会社",
+      "title": "【画面確認用サンプル】株主優待制度の新設に関するお知らせ",
+      "category": "優待新設",
+      "importance": 5,
+      "pdf_url": "https://www.release.tdnet.info/inbs/"
+    },
+    {
+      "id": "sample-earnings-0002",
+      "published_at": "2026-07-22T12:00:00+09:00",
+      "security_code": "5678",
+      "company_name": "見本テクノロジー",
+      "title": "【画面確認用サンプル】決算短信",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/"
+    }
+  ]
+}

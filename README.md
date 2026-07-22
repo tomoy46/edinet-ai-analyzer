@@ -1,69 +1,88 @@
-# 有価証券報告書AI分析ツール
+# KABU DAILY — GitHub Pages版（第1段階）
 
-日本株の証券コードを入力すると、EDINET API から直近の有価証券報告書を検索・取得し、OpenAI API で個人投資家向けに要約・分析する Next.js アプリです。
+PCを起動していなくても、iPhone・iPad・PCから見られる日本株適時開示ダッシュボードです。表示はGitHub Pages、データ更新はGitHub Actionsで行います。OpenAI API、有料API、APIキー、ローカルサーバー、SQLiteは使用しません。
 
-本アプリは投資助言ではなく、公開 IR 資料を整理するための学習・投資管理ツールです。分析結果には誤りが含まれる可能性があるため、投資判断は必ず公式 IR 資料を確認したうえで、ご自身の判断で行ってください。
+## 構成
 
-## 主な機能
+- `docs/`：GitHub Pagesで公開するHTML・CSS・JavaScript・PWAファイル
+- `docs/data/disclosures.json`：最大180日間の適時開示（同じPDFは重複保存しません）
+- `docs/data/status.json`：直近の取得成否と取得件数
+- `scripts/fetch_tdnet.py`：TDnet公開ページを低頻度で確認してJSONを作るPython処理
+- `.github/workflows/update-disclosures.yml`：平日9:00、12:00、15:30、17:30（日本時間）の自動更新と手動更新
+- `tests/`：分類・解析・重複防止・失敗時保護の自動テスト
 
-- 証券コードから EDINET の書類一覧 API を直近約 400 日分検索
-- `docTypeCode` と `docDescription` を使って有価証券報告書を判定
-- 訂正有価証券報告書より通常の有価証券報告書を優先
-- EDINET の書類取得 API から CSV 変換済みデータ、XBRL、PDF 相当データの順で取得を試行
-- 抽出したテキストを OpenAI API で JSON 分析
-- 会社名、証券コード、EDINET コード、提出日、事業内容、業績、財務、リスク、確認すべき IR 資料などを画面表示
+## 画面でできること
 
-## 技術構成
+- 新着順／重要度順の並び替え、分類・重要度による絞り込み、証券コード・会社名・タイトル検索
+- 証券コードを端末内だけにお気に入り保存し、お気に入りだけを表示
+- 今日・未読・★4以上・優待・配当・決算／業績修正・TOB／M&Aのかんたん絞り込み
+- PDFを開いた情報の既読保存、すべて既読、既読リセット
+- 発表時刻の新旧、重要度、会社名、証券コードによる並び替え
+- ダーク／ライトテーマ、iPhone・iPad・PC対応、ホーム画面追加、直近データのオフライン表示
+- 取得失敗時も前回の正常なJSONを表示し、画面上には警告を表示
 
-- Next.js App Router
-- TypeScript
-- 通常の CSS（`app/globals.css`）
-- API Route によるサーバー側処理
-- EDINET API
-- OpenAI API
-- Vercel デプロイ想定
+> 最初の2件は、レイアウトを確認するための明示的なサンプルです。画面にも「サンプル」と警告が出ます。GitHub Actionsが初めて成功すると削除され、TDnetの実データだけになります。
 
-## 必要な環境変数
+## GitHub Pagesを公開する手順
 
-`.env.local` をプロジェクトルートに作成し、以下を設定してください。
+操作は1つずつ進めてください。
+
+1. GitHubでこのリポジトリのページを開き、上部の **Settings** を押します。
+2. 左側の **Pages** を押します。
+3. **Build and deployment** の **Source** が表示されたら、**GitHub Actions** を選びます。
+4. リポジトリ上部の **Actions** を押します。
+5. 左側の **GitHub Pages公開** を押します。
+6. **Run workflow** → 緑色の **Run workflow** を押します。
+7. 1～3分待って **Settings** → **Pages** をもう一度開きます。
+8. `Your site is live at ...` のURLが表示されたら、リンクを押します。
+
+公開する中身はワークフロー内で`docs`フォルダだけに限定しています。データ更新ワークフローも、JSONを保存した後に同じ`docs`フォルダを自動公開します。
+
+公開URLは通常 `https://GitHubユーザー名.github.io/リポジトリ名/` です。リポジトリが非公開の場合にPagesを公開できるかどうかは、GitHubの契約設定により異なります。
+
+## GitHub Actionsを手動実行する手順
+
+1. リポジトリ上部の **Actions** を押します。
+2. 左側の **適時開示データ更新** を押します。
+3. 右側の **Run workflow** を押します。
+4. Branchを確認して、緑色の **Run workflow** を押します。
+5. 数秒後に表示される実行行を押します。緑色のチェックなら完了です。
+
+### Run workflowが表示されない場合
+
+上部の **Settings** → 左側の **Actions** → **General** → 下部の **Workflow permissions** で **Read and write permissions** を選び、**Save**を押します。組織やブランチの保護設定により、Actionsから直接pushできない場合があります。
+
+取得に失敗しても `disclosures.json` は書き換えません。失敗状態だけを `status.json` に保存するため、公開画面には前回の正常データと警告が表示されます。
+
+## 公開URLを確認する
+
+リポジトリ上部の **Settings** → 左側の **Pages** の順に押します。ページ上部の **Visit site** または `Your site is live at ...` のリンクが公開URLです。
+
+## iPhone・iPadのホーム画面へ追加
+
+1. Safariで公開URLを開きます（ChromeではなくSafariを使います）。
+2. 画面下部の共有ボタン `□↑` を押します。iPadでは上部にあります。
+3. メニューを上へ動かし、**ホーム画面に追加**を押します。
+4. 右上の **追加** を押します。
+5. ホーム画面の `KABU DAILY` アイコンを押すと起動します。
+
+## セキュリティと公開範囲
+
+GitHub Pagesは公開サイトです。保有株数、取得単価、資産額、氏名、パスワードは保存も表示もしません。「保存銘柄」は各端末の`localStorage`（ブラウザ内の保存場所）だけに入り、GitHubや外部APIへ送信されません。外部通信はブラウザから静的ファイルと公式PDFを開く通信、ActionsからTDnet公開一覧を確認する通信だけです。
+
+## 現在の制限
+
+- TDnetの当日一覧の先頭ページを取得します。非常に開示が多い日の2ページ目以降は未対応です。
+- GitHub Actionsの定期実行は混雑時に数分以上遅れる場合があります。
+- 分類はタイトル中のキーワードによる自動判定で、誤分類の可能性があります。
+- Safariは状況により古いオフラインキャッシュを表示することがあります。その場合はSafariでページを開いて再読み込みしてください。
+- 株価、市場情報、ニュース、通知は今回の第1段階には含めていません。
+
+## 開発者向けテスト
 
 ```bash
-EDINET_API_KEY=your_edinet_api_key
-OPENAI_API_KEY=your_openai_api_key
+python -m unittest discover -s tests -v
+python -m http.server 8000 --directory docs
 ```
 
-- `EDINET_API_KEY`: EDINET API の API キーです。
-- `OPENAI_API_KEY`: OpenAI API の API キーです。
-
-どちらのキーも API Route のサーバー側でのみ利用され、フロントエンドには露出しません。
-
-## ローカル起動方法
-
-```bash
-npm install
-npm run dev
-```
-
-ブラウザで `http://localhost:3000` を開いてください。
-
-## Vercel へのデプロイ方法
-
-1. このリポジトリを GitHub などに push します。
-2. Vercel で対象リポジトリを Import します。
-3. Project Settings の Environment Variables に以下を登録します。
-   - `EDINET_API_KEY`
-   - `OPENAI_API_KEY`
-4. Framework Preset が Next.js になっていることを確認します。
-5. Deploy を実行します。
-
-## 検証メモ
-
-この Codex コンテナでは npm registry へのアクセスが HTTP 403 になるため、`npm install` と `npm run build` は未検証です。Vercel または通常のローカル環境で依存関係をインストールし、ビルドを確認してください。
-
-## 注意事項
-
-- 本サービスは公開 IR 資料をもとに情報を整理するものであり、特定銘柄の売買を推奨するものではありません。
-- OpenAI の分析結果には誤りが含まれる可能性があります。
-- 重要な数値や記述は、必ず EDINET や企業 IR の公式資料で確認してください。
-- EDINET API のレスポンス形式や利用条件が変更された場合、取得処理の調整が必要になる可能性があります。
-- 書類取得・テキスト抽出では CSV 変換済みデータを優先し、難しい場合は XBRL/PDF 相当の取得にフォールバックする構成です。
+ブラウザで <http://localhost:8000> を開きます。
