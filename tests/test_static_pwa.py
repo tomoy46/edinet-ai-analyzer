@@ -41,6 +41,12 @@ class StaticPwaTest(unittest.TestCase):
         self.assertIn('if (!value) return "未取得"', self.javascript)
         self.assertIn("data.sample === true", self.javascript)
 
+    def test_data_urls_are_based_on_app_location(self):
+        self.assertIn('new URL("./", APP_SCRIPT_URL)', self.javascript)
+        self.assertIn('new URL("data/disclosures.json", APP_BASE_URL)', self.javascript)
+        self.assertIn('new URL("data/status.json", APP_BASE_URL)', self.javascript)
+        self.assertNotIn('fetch("/data/', self.javascript)
+
 
 if __name__ == "__main__":
     unittest.main()

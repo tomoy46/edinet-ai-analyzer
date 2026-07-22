@@ -14,6 +14,12 @@ function loadReadItems() {
 }
 const state = { disclosures: [], status: {}, sample: false, saved: loadFavorites(), read: loadReadItems() };
 const $ = (selector) => document.querySelector(selector);
+// app.js自身の公開場所を基準にするため、ユーザーサイト直下でも
+// /edinet-ai-analyzer/ のようなプロジェクトPagesでも正しいURLになります。
+const APP_SCRIPT_URL = document.currentScript?.src || new URL("app.js", document.baseURI).href;
+const APP_BASE_URL = new URL("./", APP_SCRIPT_URL);
+const DISCLOSURES_URL = new URL("data/disclosures.json", APP_BASE_URL);
+const STATUS_URL = new URL("data/status.json", APP_BASE_URL);
 const escapeHtml = (value) => String(value ?? "").replace(/[&<>"']/g, (character) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" })[character]);
 const stars = (count) => "★".repeat(count) + "☆".repeat(5 - count);
 
@@ -102,15 +108,19 @@ function renderSavedCodes() {
   document.querySelectorAll("#savedCodes button").forEach((button) => button.onclick = () => toggleSaved(button.dataset.code));
 }
 
+async function fetchJson(url) {
+  const response = await fetch(url, { cache: "no-store" });
+  if (!response.ok) throw new Error(`${url.pathname} の取得に失敗しました（HTTP ${response.status}）`);
+  try { return await response.json(); }
+  catch (error) { throw new Error(`${url.pathname} をJSONとして読めませんでした: ${error.message}`); }
+}
+
 async function loadData() {
   try {
-    const [dataResponse, statusResponse] = await Promise.all([
-      fetch("data/disclosures.json", { cache: "no-store" }),
-      fetch("data/status.json", { cache: "no-store" }),
+    const [data, status] = await Promise.all([
+      fetchJson(DISCLOSURES_URL),
+      fetchJson(STATUS_URL),
     ]);
-    if (!dataResponse.ok || !statusResponse.ok) throw new Error("JSONを読み込めません");
-    const data = await dataResponse.json();
-    const status = await statusResponse.json();
     if (!data || !Array.isArray(data.disclosures) || !status || typeof status !== "object") {
       throw new Error("JSONの形式が正しくありません");
     }
@@ -138,4 +148,4 @@ $("#savedForm").onsubmit = (event) => { event.preventDefault(); toggleSaved($("#
 $("#themeButton").onclick = () => { document.body.classList.toggle("light"); localStorage.setItem("theme", document.body.classList.contains("light") ? "light" : "dark"); };
 if (localStorage.getItem("theme") === "light") document.body.classList.add("light");
 saveCodes(); loadData();
-if ("serviceWorker" in navigator) navigator.serviceWorker.register("sw.js");
+if ("serviceWorker" in navigator) navigator.serviceWorker.register(new URL("sw.js", APP_BASE_URL));
