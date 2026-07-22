@@ -1,0 +1,61 @@
+name: 適時開示データ更新
+
+on:
+  workflow_dispatch:
+  schedule:
+    # GitHub Actionsの時刻はUTC。日本時間の平日 9:00 / 12:00 / 15:30 / 17:30。
+    - cron: "0 0 * * 1-5"
+    - cron: "0 3 * * 1-5"
+    - cron: "30 6 * * 1-5"
+    - cron: "30 8 * * 1-5"
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: update-tdnet-disclosures
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: ファイルを取得
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Pythonを準備
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: TDnetを確認
+        run: python scripts/fetch_tdnet.py
+      - name: JSONの変更を保存
+        run: |
+          if git diff --quiet -- docs/data; then
+            echo "保存する変更はありません。"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/data/disclosures.json docs/data/status.json
+          git commit -m "data: update TDnet disclosures"
+          git push
+      - name: Pages用ファイルを準備
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+
+  deploy:
+    needs: update
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: GitHub Pagesへ反映
+        id: deployment
+        uses: actions/deploy-pages@v4
