@@ -15,13 +15,21 @@ class FetchTdnetTest(unittest.TestCase):
             "株主優待制度の新設": "優待新設", "株主優待制度の拡充": "優待拡充",
             "株主優待制度の変更": "優待変更", "株主優待制度の廃止": "優待廃止",
             "配当予想の修正（増配）": "増配", "配当予想の修正（減配）": "減配",
-            "配当予想の修正": "配当予想修正", "自己株式の取得": "自社株買い",
+            "配当予想の修正": "その他", "自己株式の取得": "自社株買い",
             "決算短信": "決算", "業績予想の修正": "業績予想修正",
-            "公開買付けのお知らせ": "TOB・M&A", "代表者の異動": "その他",
+            "公開買付けのお知らせ": "TOB", "株式交換のお知らせ": "M&A",
+            "代表者の異動": "その他",
         }
         for title, expected in cases.items():
             with self.subTest(title=title):
                 self.assertEqual(classify(title)[0], expected)
+
+    def test_importance_is_always_between_one_and_five(self):
+        titles = ["株主優待制度の新設", "決算短信", "代表者の異動"]
+        for title in titles:
+            self.assertIn(classify(title)[1], range(1, 6))
+        self.assertEqual(classify("代表者の異動")[1], 1)
+        self.assertEqual(classify("株主優待制度の新設")[1], 5)
 
     def test_parse_tdnet_row(self):
         html = '<table><tr><td>15:30</td><td>7203</td><td>トヨタ</td><td><a href="x.pdf">自己株式の取得</a></td></tr></table>'

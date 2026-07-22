@@ -28,22 +28,23 @@
     <section class="summary" aria-label="集計">
       <article><span>表示件数</span><strong id="visibleCount">0</strong></article>
       <article><span>重要開示</span><strong id="importantCount">0</strong></article>
-      <article><span>保存銘柄</span><strong id="savedCount">0</strong></article>
+      <article><span>お気に入り</span><strong id="savedCount">0</strong></article>
       <article><span>取得件数</span><strong id="fetchedCount">0</strong></article>
     </section>
     <section class="controls" aria-label="絞り込み">
       <label class="search"><span>⌕</span><input id="searchInput" type="search" placeholder="証券コード・会社名・タイトルで検索"></label>
       <label><span>分類</span><select id="categoryFilter"><option value="">すべて</option></select></label>
       <label><span>重要度</span><select id="importanceFilter"><option value="0">すべて</option><option value="5">★★★★★</option><option value="4">★★★★☆ 以上</option><option value="3">★★★☆☆ 以上</option></select></label>
-      <label class="saved-only"><input id="savedOnly" type="checkbox"><span>保存銘柄のみ</span></label>
+      <label><span>並び替え</span><select id="sortOrder"><option value="newest">新着順</option><option value="importance">重要度順</option></select></label>
+      <label class="saved-only"><input id="savedOnly" type="checkbox"><span>お気に入りのみ</span></label>
     </section>
-    <div class="section-title"><div><h2>適時開示</h2><p>新しい発表から表示・保存銘柄は上位に表示</p></div><button id="manageButton" type="button">☆ 保存銘柄を管理</button></div>
+    <div class="section-title"><div><h2>適時開示</h2><p>新着順または重要度順で表示</p></div><button id="manageButton" type="button">☆ お気に入りを管理</button></div>
     <section id="disclosureList" class="disclosures" aria-live="polite"></section>
     <p id="emptyMessage" class="empty" hidden>条件に合う適時開示はありません。</p>
   </main>
   <dialog id="savedDialog">
     <form method="dialog"><button class="close" aria-label="閉じる">×</button></form>
-    <h2>保存銘柄</h2><p>証券コードだけをこの端末に保存します。GitHubへは送信されません。</p>
+    <h2>お気に入り</h2><p>証券コードだけをこの端末に保存します。GitHubへは送信されません。</p>
     <form id="savedForm"><input id="savedCode" inputmode="numeric" pattern="[0-9]{4}" maxlength="4" placeholder="例：7203" required><button>追加</button></form>
     <div id="savedCodes" class="saved-codes"></div>
   </dialog>

@@ -26,11 +26,13 @@ CATEGORY_RULES = (
     (("優待制度の変更", "株主優待制度の変更"), "優待変更", 3),
     (("増配", "記念配当"), "増配", 4),
     (("減配", "無配"), "減配", 5),
-    (("配当予想の修正", "剰余金の配当"), "配当予想修正", 3),
     (("自己株式の取得", "自社株買い"), "自社株買い", 4),
-    (("公開買付", "ＴＯＢ", "TOB", "合併", "株式交換", "買収"), "TOB・M&A", 5),
-    (("業績予想の修正", "上方修正", "下方修正"), "業績予想修正", 4),
+    (("公開買付", "ＴＯＢ", "TOB"), "TOB", 5),
+    (("合併", "株式交換", "株式移転", "買収", "事業譲渡", "M&A"), "M&A", 5),
+    (("下方修正",), "業績予想修正", 5),
+    (("業績予想の修正", "上方修正"), "業績予想修正", 4),
     (("決算短信", "決算説明"), "決算", 3),
+    (("配当予想の修正", "剰余金の配当"), "その他", 3),
 )
 
 
@@ -39,7 +41,7 @@ def classify(title: str) -> tuple[str, int]:
     for keywords, category, importance in CATEGORY_RULES:
         if any(keyword.casefold() in normalized for keyword in keywords):
             return category, importance
-    return "その他", 2
+    return "その他", 1
 
 
 class TdnetParser(HTMLParser):
