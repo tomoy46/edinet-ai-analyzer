@@ -1,4 +1,6 @@
 const CATEGORIES = ["優待新設", "優待拡充", "優待変更", "優待廃止", "増配", "減配", "自社株買い", "決算", "業績予想修正", "TOB", "M&A", "その他"];
+const appUrl = new URL(document.currentScript.src, document.baseURI);
+const basePath = new URL("./", appUrl);
 function loadFavorites() {
   try {
     const stored = localStorage.getItem("favoriteSecurities") || localStorage.getItem("savedSecurities") || "[]";
@@ -103,14 +105,13 @@ function renderSavedCodes() {
 async function loadData() {
   try {
     const [dataResponse, statusResponse] = await Promise.all([
-      fetch("data/disclosures.json", { cache: "no-store" }),
-      fetch("data/status.json", { cache: "no-store" }),
+      fetch(new URL("data/disclosures.json", basePath), { cache: "no-store" }),
+      fetch(new URL("data/status.json", basePath), { cache: "no-store" }),
     ]);
     if (!dataResponse.ok || !statusResponse.ok) throw new Error("JSONを読み込めません");
     const data = await dataResponse.json();
     state.status = await statusResponse.json(); state.disclosures = data.disclosures || []; state.sample = Boolean(data.sample);
     $("#lastUpdated").textContent = formatDate(data.last_success_at || state.status.checked_at);
-    $("#fetchedCount").textContent = state.status.fetched_count ?? 0;
     $("#statusDot").style.background = state.status.ok ? "var(--accent)" : "var(--danger)";
     if (state.sample) showNotice("画面確認用のサンプルデータです。実際の適時開示ではありません。Actionsを実行すると実データへ置き換わります。", true);
     else if (!state.status.ok) showNotice(state.status.message || "取得に失敗したため、前回のデータを表示しています。", true);
