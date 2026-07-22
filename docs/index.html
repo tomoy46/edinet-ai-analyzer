@@ -22,23 +22,32 @@
   <main>
     <section class="hero">
       <div><p class="eyebrow">TDNET DISCLOSURES</p><h1>適時開示ダッシュボード</h1><p>公開情報を、見つけやすく整理します。</p></div>
-      <div class="update-info"><span id="statusDot"></span><div>最終取得<br><strong id="lastUpdated">確認中…</strong></div></div>
+      <div class="update-info"><span id="statusDot"></span><div>最終更新日時<br><strong id="lastUpdated">確認中…</strong></div></div>
     </section>
     <div id="notice" class="notice" role="status" aria-live="polite"></div>
     <section class="summary" aria-label="集計">
-      <article><span>表示件数</span><strong id="visibleCount">0</strong></article>
-      <article><span>重要開示</span><strong id="importantCount">0</strong></article>
-      <article><span>お気に入り</span><strong id="savedCount">0</strong></article>
-      <article><span>取得件数</span><strong id="fetchedCount">0</strong></article>
+      <article><span>本日の件数</span><strong id="todayCount">0</strong></article>
+      <article><span>未読件数</span><strong id="unreadCount">0</strong></article>
+      <article><span>重要度 ★4以上</span><strong id="importantCount">0</strong></article>
+      <article><span>優待件数</span><strong id="benefitCount">0</strong></article>
     </section>
     <section class="controls" aria-label="絞り込み">
       <label class="search"><span>⌕</span><input id="searchInput" type="search" placeholder="証券コード・会社名・タイトルで検索"></label>
       <label><span>分類</span><select id="categoryFilter"><option value="">すべて</option></select></label>
       <label><span>重要度</span><select id="importanceFilter"><option value="0">すべて</option><option value="5">★★★★★</option><option value="4">★★★★☆ 以上</option><option value="3">★★★☆☆ 以上</option></select></label>
-      <label><span>並び替え</span><select id="sortOrder"><option value="newest">新着順</option><option value="importance">重要度順</option></select></label>
-      <label class="saved-only"><input id="savedOnly" type="checkbox"><span>お気に入りのみ</span></label>
+      <label><span>並び替え</span><select id="sortOrder"><option value="newest">発表時刻（新しい順）</option><option value="oldest">発表時刻（古い順）</option><option value="importance">重要度順</option><option value="company">会社名順</option><option value="code">証券コード順</option></select></label>
     </section>
-    <div class="section-title"><div><h2>適時開示</h2><p>新着順または重要度順で表示</p></div><button id="manageButton" type="button">☆ お気に入りを管理</button></div>
+    <section class="quick-filters" aria-label="かんたんフィルター">
+      <label><input id="todayOnly" type="checkbox"><span>今日だけ</span></label>
+      <label><input id="unreadOnly" type="checkbox"><span>未読のみ</span></label>
+      <label><input id="savedOnly" type="checkbox"><span>お気に入りのみ</span></label>
+      <label><input id="importantOnly" type="checkbox"><span>★4以上</span></label>
+      <label><input id="benefitOnly" type="checkbox"><span>優待関連</span></label>
+      <label><input id="dividendOnly" type="checkbox"><span>配当（増配・減配）</span></label>
+      <label><input id="earningsOnly" type="checkbox"><span>決算・業績修正</span></label>
+      <label><input id="maOnly" type="checkbox"><span>TOB・M&amp;A</span></label>
+    </section>
+    <div class="section-title"><div><h2>適時開示 <small id="visibleCount">0件</small></h2><p>未読はカード左側の緑色ラインで分かります</p></div><div class="list-actions"><button id="markAllRead" type="button">✓ すべて既読</button><button id="resetRead" type="button">↺ 既読をリセット</button><button id="manageButton" type="button">☆ お気に入り</button></div></div>
     <section id="disclosureList" class="disclosures" aria-live="polite"></section>
     <p id="emptyMessage" class="empty" hidden>条件に合う適時開示はありません。</p>
   </main>
