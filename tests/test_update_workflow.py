@@ -7,7 +7,7 @@ class UpdateWorkflowTest(unittest.TestCase):
     def setUpClass(cls):
         cls.workflow = Path(".github/workflows/update-disclosures.yml").read_text(encoding="utf-8")
 
-    def test_manual_trigger_and_staggered_weekday_schedules(self):
+    def test_manual_and_weekday_schedules_are_configured(self):
         self.assertIn("  workflow_dispatch:\n", self.workflow)
         expected_crons = (
             "7 0 * * 1-5",

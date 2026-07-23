@@ -3,7 +3,7 @@ name: 適時開示データ更新
 on:
   workflow_dispatch:
   schedule:
-    # GitHub Actionsの時刻はUTC。日本時間の平日 9:07 / 12:07 / 15:37 / 17:37。
+    # GitHub Actionsの時刻はUTC（以下は日本時間の平日 9:07 / 12:07 / 15:37 / 17:37）。
     - cron: "7 0 * * 1-5"
     - cron: "7 3 * * 1-5"
     - cron: "37 6 * * 1-5"
