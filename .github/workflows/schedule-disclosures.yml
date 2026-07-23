@@ -4,9 +4,11 @@ run-name: 開示データ更新（${{ github.event_name }}）
 on:
   workflow_dispatch:
   schedule:
-    # スケジュール起動の検証中は5分ごとに実行する。
-    - cron: "*/5 * * * *"
-
+  - cron: "7 0 * * 1-5"
+  - cron: "7 3 * * 1-5"
+  - cron: "37 6 * * 1-5"
+  - cron: "37 8 * * 1-5"
+  
 permissions:
   contents: write
   pages: write
