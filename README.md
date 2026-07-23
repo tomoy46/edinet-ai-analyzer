@@ -8,7 +8,8 @@ PCを起動していなくても、iPhone・iPad・PCから見られる日本株
 - `docs/data/disclosures.json`：最大180日間の適時開示（同じPDFは重複保存しません）
 - `docs/data/status.json`：直近の取得成否と取得件数
 - `scripts/fetch_tdnet.py`：TDnet公開ページを低頻度で確認してJSONを作るPython処理
-- `.github/workflows/update-disclosures.yml`：平日9:00、12:00、15:30、17:30（日本時間）の自動更新と手動更新
+- `.github/workflows/schedule-disclosures.yml`：schedule発火確認中の5分間隔自動更新と手動更新の入口（確認後に通常時刻へ戻します）
+- `.github/workflows/update-disclosures.yml`：定期更新から呼び出される処理本体と手動更新入口
 - `tests/`：分類・解析・重複防止・失敗時保護の自動テスト
 
 ## 画面でできること
@@ -74,6 +75,9 @@ GitHub Pagesは公開サイトです。保有株数、取得単価、資産額�
 
 - TDnetの当日一覧の先頭ページを取得します。非常に開示が多い日の2ページ目以降は未対応です。
 - GitHub Actionsの定期実行は混雑時に数分以上遅れる場合があります。
+- 定期実行の履歴は **Actor が `github-actions` になるとは限りません**。schedule の Actor は通常、cron を最後に変更したユーザーです。Actions の履歴では Actor ではなく、実行名 **「定期実行（schedule）」**、または実行詳細の event が `schedule` であることを確認してください。
+- schedule は default branch にあるworkflowだけが対象です。Actionsでworkflowが無効、リポジトリがfork、またはpublicリポジトリで60日間活動がない場合は、GitHub上で定期実行を再度有効化する必要があります。手動実行が成功しても、それだけではscheduleイベントが発生した証明にはなりません。
+- GitHub APIが公開するworkflowの`state`や実行履歴には、内部スケジューラへのcron登録状態を示す項目がありません。このリポジトリでは定期実行入口を独立したworkflowとして作り直し、GitHub側に新しいworkflow IDでscheduleを再登録させています。
 - 分類はタイトル中のキーワードによる自動判定で、誤分類の可能性があります。
 - Safariは状況により古いオフラインキャッシュを表示することがあります。その場合はSafariでページを開いて再読み込みしてください。
 - 株価、市場情報、ニュース、通知は今回の第1段階には含めていません。

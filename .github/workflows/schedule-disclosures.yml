@@ -1,0 +1,29 @@
+name: 適時開示データ定期更新
+run-name: 定期実行（${{ github.event.schedule }}）
+
+# Scheduled events are registered by workflow file identity.  Keep the cron-only
+# entry point separate from the manually dispatched worker so that replacing this
+# file forces GitHub to create a fresh scheduler registration.
+on:
+  workflow_dispatch:
+  schedule:
+    # scheduleの発火確認後、平日の通常時刻へ戻す一時テスト設定。
+    - cron: "*/5 * * * *"
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  trigger-info:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 実行契機を表示
+        run: |
+          echo "event_name=${{ github.event_name }}"
+          echo "actor=${{ github.actor }}"
+
+  update:
+    needs: trigger-info
+    uses: ./.github/workflows/update-disclosures.yml
