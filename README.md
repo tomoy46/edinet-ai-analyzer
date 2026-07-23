@@ -8,7 +8,7 @@ PCを起動していなくても、iPhone・iPad・PCから見られる日本株
 - `docs/data/disclosures.json`：最大180日間の適時開示（同じPDFは重複保存しません）
 - `docs/data/status.json`：直近の取得成否と取得件数
 - `scripts/fetch_tdnet.py`：TDnet公開ページを低頻度で確認してJSONを作るPython処理
-- `.github/workflows/schedule-disclosures.yml`：schedule発火確認中の5分間隔自動更新と手動更新の入口（確認後に通常時刻へ戻します）
+- `.github/workflows/schedule-disclosures.yml`：平日9:07、12:07、15:37、17:37（日本時間）の自動更新入口
 - `.github/workflows/update-disclosures.yml`：定期更新から呼び出される処理本体と手動更新入口
 - `tests/`：分類・解析・重複防止・失敗時保護の自動テスト
 
