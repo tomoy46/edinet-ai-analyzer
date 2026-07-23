@@ -1,7 +1,177 @@
 {
   "sample": false,
-  "last_success_at": "2026-07-23T10:27:07+09:00",
+  "last_success_at": "2026-07-23T12:53:41+09:00",
   "disclosures": [
+    {
+      "id": "0607b9da714b7898468d",
+      "published_at": "2026-07-23T12:30:00+09:00",
+      "security_code": "8022",
+      "company_name": "ミズノ",
+      "title": "譲渡制限付株式報酬としての自己株式の処分の払込完了に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260723598186.pdf"
+    },
+    {
+      "id": "a32f31a89d4cabe70d50",
+      "published_at": "2026-07-23T12:30:00+09:00",
+      "security_code": "8985",
+      "company_name": "Ｒ－ＪＨＲ",
+      "title": "物件取得に関する報道について",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260723598128.pdf"
+    },
+    {
+      "id": "e1154c4dab67b50fadc1",
+      "published_at": "2026-07-23T12:00:00+09:00",
+      "security_code": "1720",
+      "company_name": "東急建設",
+      "title": "譲渡制限付株式報酬としての自己株式の処分の払込完了に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260722597380.pdf"
+    },
+    {
+      "id": "41ae9f56544c0e2ef40f",
+      "published_at": "2026-07-23T12:00:00+09:00",
+      "security_code": "2796",
+      "company_name": "ファーマライズＨＤ",
+      "title": "剰余金の配当に関するお知らせ",
+      "category": "その他",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260723598173.pdf"
+    },
+    {
+      "id": "1088ad6389b8ae0b4e40",
+      "published_at": "2026-07-23T12:00:00+09:00",
+      "security_code": "9115",
+      "company_name": "明海グループ",
+      "title": "固定資産の譲渡および、特別利益の計上に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260723597996.pdf"
+    },
+    {
+      "id": "466bebbc64bf25251693",
+      "published_at": "2026-07-23T11:30:00+09:00",
+      "security_code": "1557",
+      "company_name": "Ｅ－ＳＳＧＡＴＣ",
+      "title": "State Street SPDR S&P500 ETFに関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260723598151.pdf"
+    },
+    {
+      "id": "ecf243d5e66ba5b832f3",
+      "published_at": "2026-07-23T11:30:00+09:00",
+      "security_code": "2070",
+      "company_name": "Ｎ－三菱ＵＦＪ証ＨＤ",
+      "title": "上場ETN（発行者：三菱UFJ証券ホールディングス株式会社）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260723598062.pdf"
+    },
+    {
+      "id": "45d7a6d6cda331521fac",
+      "published_at": "2026-07-23T11:30:00+09:00",
+      "security_code": "6863",
+      "company_name": "ニレコ",
+      "title": "譲渡制限付株式報酬としての自己株式の処分に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260723598122.pdf"
+    },
+    {
+      "id": "adbdceb07399634abf43",
+      "published_at": "2026-07-23T11:30:00+09:00",
+      "security_code": "8425",
+      "company_name": "みずほリース",
+      "title": "第36回、第37回無担保普通社債（社債間限定同順位特約付）の発行に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260723598019.pdf"
+    },
+    {
+      "id": "79eb809886507885fc4e",
+      "published_at": "2026-07-23T11:25:00+09:00",
+      "security_code": "1326",
+      "company_name": "Ｅ－ワールド",
+      "title": "SPDRゴールド・シェアに関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260723598138.pdf"
+    },
+    {
+      "id": "7bcc56d6734c4d2c906b",
+      "published_at": "2026-07-23T11:20:00+09:00",
+      "security_code": "1349",
+      "company_name": "Ｅ－ＳＳＧＡ－ＳＩＮ",
+      "title": "アジア国債・公債ＥＴＦ（正式名称：ＡＢＦ汎アジア債券インデックス・ファンド）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260723598124.pdf"
+    },
+    {
+      "id": "68d549d4c17f707c1b72",
+      "published_at": "2026-07-23T11:15:00+09:00",
+      "security_code": "9057",
+      "company_name": "遠州トラック",
+      "title": "取締役及び執行役員に対する譲渡制限付株式としての自己株式処分の払込完了に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260723598161.pdf"
+    },
+    {
+      "id": "ea3ba753c8c1c342afb0",
+      "published_at": "2026-07-23T11:00:00+09:00",
+      "security_code": "2780",
+      "company_name": "コメ兵ＨＤ",
+      "title": "譲渡制限付株式報酬としての自己株式の処分の払込完了に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260723597992.pdf"
+    },
+    {
+      "id": "dbe99709ecb31ed1276d",
+      "published_at": "2026-07-23T11:00:00+09:00",
+      "security_code": "4362",
+      "company_name": "日本精化",
+      "title": "譲渡制限付株式報酬としての自己株式の処分の払込完了に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260723598031.pdf"
+    },
+    {
+      "id": "cc9854517c768211a7bd",
+      "published_at": "2026-07-23T11:00:00+09:00",
+      "security_code": "8934",
+      "company_name": "サンフロンティア",
+      "title": "譲渡制限付株式報酬としての自己株式の処分の払込完了に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260723598068.pdf"
+    },
+    {
+      "id": "66baedcb5d03d8165cda",
+      "published_at": "2026-07-23T11:00:00+09:00",
+      "security_code": "8934",
+      "company_name": "サンフロンティア",
+      "title": "執行役員及び一部従業員に対する譲渡制限付株式としての自己株式の処分の払込完了に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260723598076.pdf"
+    },
+    {
+      "id": "5006847b980716484c1f",
+      "published_at": "2026-07-23T11:00:00+09:00",
+      "security_code": "9501",
+      "company_name": "東電力ＨＤ",
+      "title": "原子力損害賠償・廃炉等支援機構からの資金の交付について",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260721596856.pdf"
+    },
     {
       "id": "c09b0064c31339d9c2a7",
       "published_at": "2026-07-23T10:15:00+09:00",
