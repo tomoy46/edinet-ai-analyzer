@@ -1,6 +1,8 @@
 const CATEGORIES = ["優待新設", "優待拡充", "優待変更", "優待廃止", "増配", "減配", "自社株買い", "決算", "業績予想修正", "TOB", "M&A", "その他"];
 const appUrl = new URL(document.currentScript.src, document.baseURI);
 const basePath = new URL("./", appUrl);
+const updateApiUrl = document.querySelector('meta[name="update-api-url"]')?.content.replace(/\/$/, "");
+const UPDATE_POLL_INTERVAL = 3000;
 function loadFavorites() {
   try {
     const stored = localStorage.getItem("favoriteSecurities") || localStorage.getItem("savedSecurities") || "[]";
@@ -47,6 +49,45 @@ function showNotice(message, error = false) {
   const notice = $("#notice");
   notice.textContent = message;
   notice.className = `notice show${error ? " error" : ""}`;
+}
+
+const wait = (milliseconds) => new Promise((resolve) => setTimeout(resolve, milliseconds));
+
+async function readApiResponse(response) {
+  const body = await response.json().catch(() => ({}));
+  if (!response.ok) throw new Error(body.error || "更新APIとの通信に失敗しました。");
+  return body;
+}
+
+async function requestUpdate() {
+  const button = $("#updateButton");
+  if (!updateApiUrl || updateApiUrl.includes("YOUR-WORKER")) {
+    showNotice("更新APIが未設定です。管理者へお問い合わせください。", true);
+    return;
+  }
+
+  button.disabled = true;
+  button.classList.add("updating");
+  button.querySelector(".update-label").textContent = "更新中…";
+  showNotice("適時開示データを更新しています。この画面のままお待ちください。");
+  try {
+    const started = await readApiResponse(await fetch(updateApiUrl, { method: "POST" }));
+    showNotice("更新開始。GitHub Actionsの完了までこの画面のままお待ちください。");
+    while (true) {
+      await wait(UPDATE_POLL_INTERVAL);
+      const run = await readApiResponse(await fetch(`${updateApiUrl}?run_id=${encodeURIComponent(started.run_id)}`, { cache: "no-store" }));
+      if (run.status !== "completed") continue;
+      if (run.conclusion !== "success") throw new Error(run.error || "データ更新に失敗しました。しばらくしてから再度お試しください。");
+      showNotice("更新が完了しました。画面を再読み込みします。");
+      window.location.reload();
+      return;
+    }
+  } catch (error) {
+    showNotice(error.message || "データ更新に失敗しました。", true);
+    button.disabled = false;
+    button.classList.remove("updating");
+    button.querySelector(".update-label").textContent = "更新";
+  }
 }
 
 function render() {
@@ -129,6 +170,7 @@ $("#resetRead").onclick = () => { state.read.clear(); saveReadItems(); render();
 $("#manageButton").onclick = () => { renderSavedCodes(); $("#savedDialog").showModal(); };
 $("#savedForm").onsubmit = (event) => { event.preventDefault(); toggleSaved($("#savedCode").value); $("#savedCode").value = ""; };
 $("#themeButton").onclick = () => { document.body.classList.toggle("light"); localStorage.setItem("theme", document.body.classList.contains("light") ? "light" : "dark"); };
+$("#updateButton").onclick = requestUpdate;
 if (localStorage.getItem("theme") === "light") document.body.classList.add("light");
 saveCodes(); loadData();
 if ("serviceWorker" in navigator) navigator.serviceWorker.register("sw.js");

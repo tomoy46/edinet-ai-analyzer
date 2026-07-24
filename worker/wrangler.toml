@@ -1,0 +1,9 @@
+name = "kabu-daily-update-api"
+main = "src/index.js"
+compatibility_date = "2026-07-24"
+
+[vars]
+GITHUB_OWNER = "YOUR_GITHUB_OWNER"
+GITHUB_REPO = "edinet-ai-analyzer"
+GITHUB_REF = "main"
+ALLOWED_ORIGIN = "https://YOUR_GITHUB_OWNER.github.io"

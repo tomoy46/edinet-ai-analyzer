@@ -16,8 +16,20 @@ class UpdateWorkflowTest(unittest.TestCase):
     def test_temporary_schedule_and_manual_trigger_have_a_dedicated_entry_point(self):
         self.assertIn("  workflow_dispatch:\n", self.schedule)
         self.assertIn("  schedule:\n", self.schedule)
-        self.assertEqual(self.schedule.count('- cron: "*/5 * * * *"'), 1)
+        for cron in ('7 0 * * 1-5', '7 3 * * 1-5', '37 6 * * 1-5', '37 8 * * 1-5'):
+            self.assertEqual(self.schedule.count(f'- cron: "{cron}"'), 1)
         self.assertIn("uses: ./.github/workflows/update-disclosures.yml", self.schedule)
+
+    def test_worker_dispatch_can_be_correlated_to_its_run(self):
+        worker = Path("worker/src/index.js").read_text(encoding="utf-8")
+        self.assertIn('const WORKFLOW = "schedule-disclosures.yml"', worker)
+        self.assertIn("workflow_dispatch", worker)
+        self.assertIn("request_id", worker)
+        self.assertIn("GITHUB_TOKEN", worker)
+        self.assertIn("run_id", worker)
+        self.assertIn("env.GITHUB_REF", worker)
+        self.assertIn('url.pathname === "/health"', worker)
+        self.assertIn("inputs.request_id", self.schedule)
 
     def test_scheduled_entry_point_logs_trigger_before_update(self):
         self.assertIn("  trigger-info:\n", self.schedule)
