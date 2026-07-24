@@ -1,7 +1,147 @@
 {
   "sample": false,
-  "last_success_at": "2026-07-24T01:51:00+09:00",
+  "last_success_at": "2026-07-24T10:54:39+09:00",
   "disclosures": [
+    {
+      "id": "9c2780116d8ac893ca9d",
+      "published_at": "2026-07-24T10:50:00+09:00",
+      "security_code": "3799",
+      "company_name": "キーウェア",
+      "title": "取締役及び執行役員に対する譲渡制限付株式としての自己株式処分の払込完了に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260722597553.pdf"
+    },
+    {
+      "id": "0100a9f69648a83e480c",
+      "published_at": "2026-07-24T10:00:00+09:00",
+      "security_code": "1329",
+      "company_name": "Ｅ－ブラックロック",
+      "title": "上場ETF（管理会社：ブラックロック・ジャパン）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260724598819.pdf"
+    },
+    {
+      "id": "12b164b0cda3b1531753",
+      "published_at": "2026-07-24T10:00:00+09:00",
+      "security_code": "1671",
+      "company_name": "Ｅ－シンプレクス",
+      "title": "上場ＥＴＦ(管理会社：シンプレクス・アセット・マネジメント)に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260724598812.pdf"
+    },
+    {
+      "id": "3d79d5f2ebcdb198a0a4",
+      "published_at": "2026-07-24T10:00:00+09:00",
+      "security_code": "3004",
+      "company_name": "神栄",
+      "title": "譲渡制限付株式報酬としての自己株式の処分の払込完了に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260622575613.pdf"
+    },
+    {
+      "id": "cdd4e5a6b21bf349b0f9",
+      "published_at": "2026-07-24T10:00:00+09:00",
+      "security_code": "6125",
+      "company_name": "岡本工機",
+      "title": "支配株主等に関する事項について",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260722597645.pdf"
+    },
+    {
+      "id": "65990f6dd95c36f09947",
+      "published_at": "2026-07-24T10:00:00+09:00",
+      "security_code": "6137",
+      "company_name": "小池酸工",
+      "title": "譲渡制限付株式報酬としての自己株式の処分の払込完了に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260724598851.pdf"
+    },
+    {
+      "id": "6ecf3c937a7d3c0327ce",
+      "published_at": "2026-07-24T10:00:00+09:00",
+      "security_code": "6159",
+      "company_name": "ミクロン精密",
+      "title": "自己株式立会外買付取引（ToSTNeT-3）による自己株式の取得結果及び取得終了に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260723597990.pdf"
+    },
+    {
+      "id": "ede4f04591bd930f8f41",
+      "published_at": "2026-07-24T10:00:00+09:00",
+      "security_code": "6982",
+      "company_name": "リード",
+      "title": "譲渡制限付株式報酬としての自己株式の処分の払込完了に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260724598782.pdf"
+    },
+    {
+      "id": "bc234bd4e8e87972cfd9",
+      "published_at": "2026-07-24T08:30:00+09:00",
+      "security_code": "1672",
+      "company_name": "Ｅ－ＷｉｓｄｏｍＴｒ",
+      "title": "上場ETF（管理会社：WisdomTree、外国投資法人：MSL）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260724597926.pdf"
+    },
+    {
+      "id": "51e2d2b662484148b22b",
+      "published_at": "2026-07-24T08:30:00+09:00",
+      "security_code": "1672",
+      "company_name": "Ｅ－ＷｉｓｄｏｍＴｒ",
+      "title": "上場ETF（管理会社：WisdomTree、外国投資法人：CSL）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260724597927.pdf"
+    },
+    {
+      "id": "a41bd84f3eca4a38c703",
+      "published_at": "2026-07-24T08:30:00+09:00",
+      "security_code": "5830",
+      "company_name": "いよぎんＨＤ",
+      "title": "当社に関する一部報道について",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260723598074.pdf"
+    },
+    {
+      "id": "9e327be0bd6eaddd87db",
+      "published_at": "2026-07-24T08:30:00+09:00",
+      "security_code": "8541",
+      "company_name": "愛媛銀",
+      "title": "当行に関する一部報道について",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260723598703.pdf"
+    },
+    {
+      "id": "3d1a86b37444a4cc6eda",
+      "published_at": "2026-07-24T08:30:00+09:00",
+      "security_code": "9348",
+      "company_name": "Ｇ－ｉｓｐａｃｅ",
+      "title": "欧州宇宙機関（ESA）との追加契約に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260722597136.pdf"
+    },
+    {
+      "id": "25aa64076aa7a1e18b2a",
+      "published_at": "2026-07-24T08:00:00+09:00",
+      "security_code": "4234",
+      "company_name": "サンエー化研",
+      "title": "取締役（社外取締役を除く。）、監査役（社外監査役を含む。）及び執行役員に対する譲渡制限付の株式としての自己株式処分のから払込完了に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260626581869.pdf"
+    },
     {
       "id": "40645188f77b21dd5029",
       "published_at": "2026-07-23T18:15:00+09:00",
