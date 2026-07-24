@@ -49,6 +49,9 @@ class UpdateWorkflowTest(unittest.TestCase):
         self.assertIn("GEMINI_SUMMARY_LIMIT: \"8\"", self.workflow)
         self.assertIn("    secrets: inherit", self.schedule)
 
+    def test_tdnet_fetch_runs_as_a_package_module(self):
+        self.assertIn("run: python -m scripts.fetch_tdnet", self.workflow)
+
 
 if __name__ == "__main__":
     unittest.main()
