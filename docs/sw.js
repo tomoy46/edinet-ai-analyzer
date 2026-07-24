@@ -1,4 +1,4 @@
-const CACHE = "kabu-daily-pages-v6";
+const CACHE = "kabu-daily-pages-v7";
 const APP = ["./", "styles.css", "app.js", "manifest.webmanifest", "icon.svg", "data/disclosures.json", "data/status.json"];
 self.addEventListener("install", (event) => event.waitUntil(caches.open(CACHE).then((cache) => cache.addAll(APP))));
 self.addEventListener("activate", (event) => event.waitUntil(self.clients.claim()));

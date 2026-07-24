@@ -4,6 +4,9 @@ run-name: ${{ github.event_name == 'schedule' && '定期実行（schedule）' ||
 on:
   workflow_dispatch:
   workflow_call:
+    secrets:
+      GEMINI_API_KEY:
+        required: false
 
 permissions:
   contents: write
@@ -33,6 +36,9 @@ jobs:
         with:
           python-version: "3.12"
       - name: TDnetを確認
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_SUMMARY_LIMIT: "8"
         run: python scripts/fetch_tdnet.py
       - name: JSONの変更を保存
         run: |

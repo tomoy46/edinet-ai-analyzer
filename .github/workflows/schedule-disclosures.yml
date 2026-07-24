@@ -31,3 +31,4 @@ jobs:
   update:
     needs: trigger-info
     uses: ./.github/workflows/update-disclosures.yml
+    secrets: inherit

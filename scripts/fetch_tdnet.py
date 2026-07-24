@@ -12,6 +12,8 @@ from urllib.error import HTTPError, URLError
 from urllib.parse import urljoin
 from urllib.request import Request, urlopen
 
+from scripts.summarize_gemini import add_missing_summaries
+
 JST = timezone(timedelta(hours=9))
 BASE_URL = "https://www.release.tdnet.info/inbs/"
 USER_AGENT = "Kabu-Daily-GitHub-Actions/2.0 (public dashboard; low-frequency access)"
@@ -148,10 +150,18 @@ def update(data_path: Path, status_path: Path, now: datetime | None = None) -> b
         fetched = fetch(now)
         previous_items = [] if existing.get("sample") else existing.get("disclosures", [])
         by_id = {item["id"]: item for item in previous_items if isinstance(item, dict)}
-        by_id.update({item["id"]: item for item in fetched})
+        for item in fetched:
+            previous = by_id.get(item["id"], {})
+            if isinstance(previous, dict) and previous.get("ai_summary"):
+                item["ai_summary"] = previous["ai_summary"]
+            by_id[item["id"]] = item
         cutoff = now - timedelta(days=RETENTION_DAYS)
         retained = [item for item in by_id.values() if datetime.fromisoformat(str(item["published_at"])) >= cutoff]
         retained.sort(key=lambda item: str(item["published_at"]), reverse=True)
+        try:
+            add_missing_summaries(retained)
+        except Exception as error:
+            print(f"::warning::AI summarization disabled for this update ({type(error).__name__})")
         write_json(data_path, {"sample": False, "last_success_at": now.isoformat(timespec="seconds"), "disclosures": retained})
         write_json(status_path, {"ok": True, "checked_at": now.isoformat(timespec="seconds"), "fetched_count": len(fetched), "message": "取得に成功しました"})
         return True

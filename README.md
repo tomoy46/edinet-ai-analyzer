@@ -1,6 +1,6 @@
 # KABU DAILY — GitHub Pages版（第1段階）
 
-PCを起動していなくても、iPhone・iPad・PCから見られる日本株適時開示ダッシュボードです。表示はGitHub Pages、データ更新はGitHub Actionsで行います。OpenAI API、有料API、APIキー、ローカルサーバー、SQLiteは使用しません。
+PCを起動していなくても、iPhone・iPad・PCから見られる日本株適時開示ダッシュボードです。表示はGitHub Pages、データ更新とGemini APIによる対象開示のAI要約はGitHub Actionsで行います。APIキーはGitHub ActionsのSecretのみに保存します。
 
 ## 構成
 
@@ -21,6 +21,7 @@ PCを起動していなくても、iPhone・iPad・PCから見られる日本株
 - 発表時刻の新旧、重要度、会社名、証券コードによる並び替え
 - ダーク／ライトテーマ、iPhone・iPad・PC対応、ホーム画面追加、直近データのオフライン表示
 - 取得失敗時も前回の正常なJSONを表示し、画面上には警告を表示
+- 重要度★4以上、または決算・業績予想修正・増減配・優待新設／廃止・自社株買いの開示に、AI要約・株価への影響・重要ポイント・注意点を表示
 - 右上の「↻ 更新」から更新を開始し、GitHub Actionsの正常終了後に自動再読み込み
 
 > 最初の2件は、レイアウトを確認するための明示的なサンプルです。画面にも「サンプル」と警告が出ます。GitHub Actionsが初めて成功すると削除され、TDnetの実データだけになります。
@@ -43,6 +44,8 @@ PCを起動していなくても、iPhone・iPad・PCから見られる日本株
 公開URLは通常 `https://GitHubユーザー名.github.io/リポジトリ名/` です。リポジトリが非公開の場合にPagesを公開できるかどうかは、GitHubの契約設定により異なります。
 
 ## GitHub Actionsを手動実行する手順
+
+事前にリポジトリの **Settings** → **Secrets and variables** → **Actions** で、Gemini APIキーをRepository secret `GEMINI_API_KEY`として登録してください。Secretが未設定でもTDnetの通常更新は継続します。要約は安定版の`gemini-2.5-flash-lite`を使い、1回の更新につき最大8件まで作成します。既存の要約は再利用されます。
 
 1. リポジトリ上部の **Actions** を押します。
 2. 左側の **適時開示データ更新** を押します。

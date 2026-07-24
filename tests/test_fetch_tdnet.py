@@ -74,6 +74,19 @@ class FetchTdnetTest(unittest.TestCase):
             self.assertFalse(result["sample"])
             self.assertEqual(result["disclosures"], [item])
 
+    @patch("scripts.fetch_tdnet.add_missing_summaries", return_value=0)
+    def test_existing_ai_summary_is_reused(self, summarize):
+        with tempfile.TemporaryDirectory() as directory:
+            data = Path(directory) / "disclosures.json"; status = Path(directory) / "status.json"
+            cached = {"summary": ["前回の要約"], "impact": "中立", "key_points": [], "caution": "注意"}
+            old = {"id": "same", "published_at": "2026-07-22T10:00:00+09:00", "ai_summary": cached}
+            fresh = {"id": "same", "published_at": "2026-07-22T10:00:00+09:00", "title": "updated"}
+            data.write_text(json.dumps({"sample": False, "disclosures": [old]}), encoding="utf-8")
+            with patch("scripts.fetch_tdnet.fetch", return_value=[fresh]):
+                self.assertTrue(update(data, status, datetime(2026, 7, 22, 12, tzinfo=JST)))
+            self.assertEqual(json.loads(data.read_text())["disclosures"][0]["ai_summary"], cached)
+            summarize.assert_called_once()
+
 
 if __name__ == "__main__":
     unittest.main()

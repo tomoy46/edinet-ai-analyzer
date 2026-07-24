@@ -41,7 +41,13 @@ class StaticPwaTest(unittest.TestCase):
         self.assertNotIn("fetchedCount", self.javascript)
 
     def test_service_worker_cache_version_is_updated(self):
-        self.assertIn('const CACHE = "kabu-daily-pages-v6";', self.service_worker)
+        self.assertIn('const CACHE = "kabu-daily-pages-v7";', self.service_worker)
+
+    def test_ai_summary_fields_are_rendered_safely(self):
+        for field in ("ai_summary", "summary", "impact", "key_points", "caution"):
+            self.assertIn(field, self.javascript)
+        self.assertIn("escapeHtml(line)", self.javascript)
+        self.assertIn("株価への影響", self.javascript)
 
     def test_update_button_waits_for_success_without_a_frontend_token(self):
         self.assertIn('id="updateButton"', self.html)

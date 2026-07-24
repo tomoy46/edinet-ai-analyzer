@@ -44,6 +44,11 @@ class UpdateWorkflowTest(unittest.TestCase):
         self.assertIn('echo "event=${{ github.event_name }}"', self.workflow)
         self.assertIn('echo "scheduled_at=${{ github.event.schedule || \'manual\' }}"', self.workflow)
 
+    def test_gemini_key_is_only_passed_as_a_secret(self):
+        self.assertIn("GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}", self.workflow)
+        self.assertIn("GEMINI_SUMMARY_LIMIT: \"8\"", self.workflow)
+        self.assertIn("    secrets: inherit", self.schedule)
+
 
 if __name__ == "__main__":
     unittest.main()
