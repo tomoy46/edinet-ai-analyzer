@@ -8,7 +8,10 @@ from urllib.error import HTTPError, URLError
 from urllib.request import Request, urlopen
 
 GEMINI_MODEL = "gemini-2.5-flash"
-GEMINI_ENDPOINT = f"https://generativelanguage.googleapis.com/v1beta/models/{GEMINI_MODEL}:generateContent"
+GEMINI_API_BASE = "https://generativelanguage.googleapis.com"
+# Gemini 2.5 の公式 REST API は v1beta を正規の呼び出し先として案内しています。
+GEMINI_API_VERSION = "v1beta"
+GEMINI_ENDPOINT = f"{GEMINI_API_BASE}/{GEMINI_API_VERSION}/models/{GEMINI_MODEL}:generateContent"
 GEMINI_TIMEOUT_SECONDS = 60
 GEMINI_MAX_RETRIES = 3
 GEMINI_MAX_ATTEMPTS = GEMINI_MAX_RETRIES + 1
@@ -70,6 +73,20 @@ def _retry_after_seconds(error: HTTPError, fallback: int) -> float:
         return float(fallback)
 
 
+def _safe_error_body(error: HTTPError, api_key: str, pdf: bytes) -> str:
+    """Return a bounded Gemini error response with request secrets removed."""
+    try:
+        body = error.read().decode("utf-8", errors="replace")
+    except (AttributeError, OSError):
+        return "<response body unavailable>"
+    # Google error responses do not normally echo request data, but redact both
+    # secrets explicitly before the response is allowed to reach Actions logs.
+    for secret in (api_key, base64.b64encode(pdf).decode("ascii")):
+        if secret:
+            body = body.replace(secret, "[REDACTED]")
+    return " ".join(body.split())[:4000] or "<empty response body>"
+
+
 def generate_summary(item: dict[str, object], api_key: str, on_rate_limit=None) -> dict[str, object]:
     pdf = _download_pdf(str(item["pdf_url"]))
     payload = {
@@ -97,6 +114,10 @@ def generate_summary(item: dict[str, object], api_key: str, on_rate_limit=None) 
             text = result["candidates"][0]["content"]["parts"][0]["text"]
             return _validate_summary(json.loads(text))
         except HTTPError as error:
+            # Only errors raised by the Gemini request reach this block; PDF
+            # download errors happen before the request/retry loop.
+            if error.code == 404:
+                error.gemini_response_body = _safe_error_body(error, api_key, pdf)
             if error.code == 429:
                 if on_rate_limit:
                     on_rate_limit()
@@ -139,9 +160,11 @@ def add_missing_summaries(items: list[dict[str, object]]) -> int:
             failed += 1
             if isinstance(error, HTTPError) and error.code == 429:
                 hit_rate_limit = True
-            # APIキーやレスポンス本文は出力せず、通常のTDnet更新を継続します。
+            # APIキーやPDF本文は出力せず、通常のTDnet更新を継続します。
             status = f" HTTP {error.code}" if isinstance(error, HTTPError) else ""
             print(f"::warning::AI summary skipped for disclosure {item.get('id', 'unknown')} ({type(error).__name__}{status})")
+            if isinstance(error, HTTPError) and error.code == 404 and hasattr(error, "gemini_response_body"):
+                print(f"::warning::Gemini API HTTP 404 response: {error.gemini_response_body}")
         if hit_rate_limit:
             rate_limited += 1
     print(f"AI summary results: success={completed} failed={failed} rate_limited_429={rate_limited}")
