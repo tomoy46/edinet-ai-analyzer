@@ -1,7 +1,127 @@
 {
   "sample": false,
-  "last_success_at": "2026-07-24T17:47:03+09:00",
+  "last_success_at": "2026-07-24T18:12:42+09:00",
   "disclosures": [
+    {
+      "id": "541320d10803d6a01b79",
+      "published_at": "2026-07-24T18:00:00+09:00",
+      "security_code": "2019",
+      "company_name": "ＧＸ優先証券隔月",
+      "title": "ETFの収益分配のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260724599489.pdf"
+    },
+    {
+      "id": "4f187dc3e95d42ac5a58",
+      "published_at": "2026-07-24T18:00:00+09:00",
+      "security_code": "2095",
+      "company_name": "ＧＸＵＳ配当貴族ヘ",
+      "title": "ETFの収益分配のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260724599490.pdf"
+    },
+    {
+      "id": "64bbaa85d139b2f72de6",
+      "published_at": "2026-07-24T18:00:00+09:00",
+      "security_code": "2236",
+      "company_name": "ＧＸＵＳ配当貴族",
+      "title": "ETFの収益分配のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260724599491.pdf"
+    },
+    {
+      "id": "3c41c76b0b9fe31d0fcf",
+      "published_at": "2026-07-24T18:00:00+09:00",
+      "security_code": "2253",
+      "company_name": "ＧＸＵＳスーパーＤ",
+      "title": "ETFの収益分配のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260724599494.pdf"
+    },
+    {
+      "id": "82b020c90491cf64fea6",
+      "published_at": "2026-07-24T18:00:00+09:00",
+      "security_code": "2564",
+      "company_name": "ＧＸスーパーディビ",
+      "title": "ETFの収益分配のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260724599498.pdf"
+    },
+    {
+      "id": "b1ebfbcbe43c86989396",
+      "published_at": "2026-07-24T18:00:00+09:00",
+      "security_code": "2626",
+      "company_name": "ＧＸデジタル日株",
+      "title": "ETFの収益分配のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260724599495.pdf"
+    },
+    {
+      "id": "656e94d8a856a34e3220",
+      "published_at": "2026-07-24T18:00:00+09:00",
+      "security_code": "2627",
+      "company_name": "ＧＸｅコマース日株",
+      "title": "ETFの収益分配のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260724599485.pdf"
+    },
+    {
+      "id": "7b8dfa3134fb077e51c1",
+      "published_at": "2026-07-24T18:00:00+09:00",
+      "security_code": "2849",
+      "company_name": "ＧＸ高配当ＥＳＧ日株",
+      "title": "ETFの収益分配のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260724599496.pdf"
+    },
+    {
+      "id": "440f9514daa6781b9b83",
+      "published_at": "2026-07-24T18:00:00+09:00",
+      "security_code": "3133",
+      "company_name": "Ｇ－海帆",
+      "title": "第23期定時株主総会の継続会の開催中止及び臨時株主総会の開催に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260724599560.pdf"
+    },
+    {
+      "id": "39a4a42616cdcae7b230",
+      "published_at": "2026-07-24T18:00:00+09:00",
+      "security_code": "4222",
+      "company_name": "児玉化",
+      "title": "親会社以外の支配株主の異動に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260724599532.pdf"
+    },
+    {
+      "id": "24633622e1f8705f556c",
+      "published_at": "2026-07-24T18:00:00+09:00",
+      "security_code": "7090",
+      "company_name": "Ｇ－リグア",
+      "title": "支払解決金（特別損失）の計上に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260723598544.pdf"
+    },
+    {
+      "id": "33f402626b5af9ae8c92",
+      "published_at": "2026-07-24T17:50:00+09:00",
+      "security_code": "4978",
+      "company_name": "Ｇ－リプロセル",
+      "title": "AMED公募事業「再生医療・遺伝子治療の産業化に向けた基盤技術開発事業」に係る提案の採択に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260724599552.pdf"
+    },
     {
       "id": "5829e7230812fa75ae0e",
       "published_at": "2026-07-24T17:40:00+09:00",
