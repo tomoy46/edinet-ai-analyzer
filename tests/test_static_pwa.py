@@ -49,6 +49,14 @@ class StaticPwaTest(unittest.TestCase):
         self.assertIn('fetch(updateApiUrl, { method: "POST" })', self.javascript)
         self.assertIn('showNotice("更新開始。', self.javascript)
         self.assertIn('button.querySelector(".update-label").textContent = "更新中…"', self.javascript)
+        self.assertGreater(
+            self.javascript.index('button.querySelector(".update-label").textContent = "更新中…"'),
+            self.javascript.index('await fetch(updateApiUrl, { method: "POST" })'),
+        )
+        self.assertIn("RETRYABLE_POLL_STATUSES = new Set([403, 404, 500])", self.javascript)
+        self.assertIn("UPDATE_POLL_RETRY_LIMIT = 5", self.javascript)
+        self.assertIn('error.code === "method_not_allowed"', self.javascript)
+        self.assertIn("button.disabled = false", self.javascript)
         self.assertIn('run.conclusion !== "success"', self.javascript)
         self.assertIn("window.location.reload()", self.javascript)
         self.assertNotIn("GITHUB_TOKEN", self.html + self.javascript)
