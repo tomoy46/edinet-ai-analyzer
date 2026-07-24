@@ -1,3 +1,4 @@
+import io
 import json
 import os
 import unittest
@@ -7,6 +8,7 @@ from urllib.error import HTTPError
 from scripts.summarize_gemini import (
     DEFAULT_SUMMARY_LIMIT,
     GEMINI_DISCLOSURE_INTERVAL_SECONDS,
+    GEMINI_ENDPOINT,
     GEMINI_MAX_ATTEMPTS,
     GEMINI_MODEL,
     GEMINI_RETRY_DELAYS,
@@ -22,6 +24,10 @@ class GeminiSummaryTest(unittest.TestCase):
         self.assertEqual(GEMINI_MODEL, "gemini-2.5-flash")
         self.assertEqual(GEMINI_MAX_ATTEMPTS, 4)
         self.assertEqual(GEMINI_RETRY_DELAYS, (30, 60, 120))
+        self.assertEqual(
+            GEMINI_ENDPOINT,
+            "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent",
+        )
 
     def test_only_requested_disclosures_are_candidates(self):
         self.assertTrue(should_summarize({"importance": 4, "category": "TOB"}))
@@ -105,6 +111,20 @@ class GeminiSummaryTest(unittest.TestCase):
             generate_summary({"pdf_url": "https://example.com/a.pdf"}, "secret")
         self.assertEqual(urlopen.call_count, 1)
         sleep.assert_not_called()
+
+    @patch("scripts.summarize_gemini._download_pdf", return_value=b"private-pdf")
+    @patch("scripts.summarize_gemini.urlopen")
+    def test_404_response_is_logged_without_secrets(self, urlopen, _download):
+        response_body = b'{"error":{"message":"model missing; secret-key; cHJpdmF0ZS1wZGY="}}'
+        urlopen.side_effect = HTTPError("url", 404, "missing", {}, io.BytesIO(response_body))
+        items = [{"id": "one", "importance": 5, "pdf_url": "https://example.com/a.pdf"}]
+        with patch.dict(os.environ, {"GEMINI_API_KEY": "secret-key"}, clear=True), patch("builtins.print") as output:
+            self.assertEqual(add_missing_summaries(items), 0)
+        logged = "\n".join(call.args[0] for call in output.call_args_list)
+        self.assertIn("Gemini API HTTP 404 response", logged)
+        self.assertIn("[REDACTED]", logged)
+        self.assertNotIn("secret-key", logged)
+        self.assertNotIn("cHJpdmF0ZS1wZGY=", logged)
 
 
 if __name__ == "__main__":
