@@ -1,6 +1,8 @@
 const CATEGORIES = ["優待新設", "優待拡充", "優待変更", "優待廃止", "増配", "減配", "自社株買い", "決算", "業績予想修正", "TOB", "M&A", "その他"];
 const appUrl = new URL(document.currentScript.src, document.baseURI);
 const basePath = new URL("./", appUrl);
+const updateApiUrl = document.querySelector('meta[name="update-api-url"]')?.content.replace(/\/$/, "");
+const UPDATE_POLL_INTERVAL = 3000;
 function loadFavorites() {
   try {
     const stored = localStorage.getItem("favoriteSecurities") || localStorage.getItem("savedSecurities") || "[]";
@@ -47,6 +49,68 @@ function showNotice(message, error = false) {
   const notice = $("#notice");
   notice.textContent = message;
   notice.className = `notice show${error ? " error" : ""}`;
+}
+
+const wait = (milliseconds) => new Promise((resolve) => setTimeout(resolve, milliseconds));
+
+async function readApiResponse(response) {
+  const body = await response.json().catch(() => ({}));
+  if (!response.ok) throw new Error(body.error || "更新APIとの通信に失敗しました。");
+  return body;
+}
+
+async function requestUpdate() {
+  const button = $("#updateButton");
+  if (!updateApiUrl || updateApiUrl.includes("YOUR-WORKER")) {
+    showNotice("更新APIが未設定です。管理者へお問い合わせください。", true);
+    return;
+  }
+
+  button.disabled = true;
+  button.classList.add("updating");
+  button.querySelector(".update-label").textContent = "更新中…";
+  let started;
+  try {
+    started = await readApiResponse(await fetch(updateApiUrl, { method: "POST" }));
+  } catch (error) {
+    showNotice(error.message || "データ更新に失敗しました。", true);
+    button.disabled = false;
+    button.classList.remove("updating");
+    button.querySelector(".update-label").textContent = "更新";
+    return;
+  }
+
+  showNotice("更新を開始しました");
+  while (true) {
+    await wait(UPDATE_POLL_INTERVAL);
+    try {
+      const response = await fetch(`${updateApiUrl}?run_id=${encodeURIComponent(started.run_id)}`, { cache: "no-store" });
+      // デプロイ反映中などに中継APIがGETへ405を返しても、開始済みのActionsは継続している。
+      if (response.status === 405) {
+        showNotice("更新中…");
+        continue;
+      }
+      const run = await readApiResponse(response);
+      if (run.status !== "completed") {
+        showNotice("更新中…");
+        continue;
+      }
+      if (run.conclusion !== "success") {
+        showNotice("GitHub Actionsの更新処理が正常終了しませんでした。");
+        button.disabled = false;
+        button.classList.remove("updating");
+        button.querySelector(".update-label").textContent = "更新";
+        return;
+      }
+      showNotice("更新が完了しました。画面を再読み込みします。");
+      window.location.reload();
+      return;
+    } catch (error) {
+      // POST成功後の一時的な確認エラーはユーザー向けエラーにせず、確認を続ける。
+      console.warn("更新状況を確認できませんでした。再試行します。", error);
+      showNotice("更新中…");
+    }
+  }
 }
 
 function render() {
@@ -129,6 +193,7 @@ $("#resetRead").onclick = () => { state.read.clear(); saveReadItems(); render();
 $("#manageButton").onclick = () => { renderSavedCodes(); $("#savedDialog").showModal(); };
 $("#savedForm").onsubmit = (event) => { event.preventDefault(); toggleSaved($("#savedCode").value); $("#savedCode").value = ""; };
 $("#themeButton").onclick = () => { document.body.classList.toggle("light"); localStorage.setItem("theme", document.body.classList.contains("light") ? "light" : "dark"); };
+$("#updateButton").onclick = requestUpdate;
 if (localStorage.getItem("theme") === "light") document.body.classList.add("light");
 saveCodes(); loadData();
 if ("serviceWorker" in navigator) navigator.serviceWorker.register("sw.js");

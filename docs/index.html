@@ -8,6 +8,7 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="apple-mobile-web-app-title" content="KABU DAILY">
   <meta name="description" content="日本株の適時開示を確認する静的PWA">
+  <meta name="update-api-url" content="https://proud-wildflower-1a64.tomoya03212738.workers.dev/">
   <link rel="manifest" href="manifest.webmanifest">
   <link rel="icon" href="icon.svg">
   <link rel="apple-touch-icon" href="icon.svg">
@@ -17,7 +18,10 @@
 <body>
   <header class="topbar">
     <a class="brand" href="./"><span class="logo">K</span><span>KABU <b>DAILY</b></span></a>
-    <button id="themeButton" class="icon-button" type="button" aria-label="テーマを変更">☾</button>
+    <div class="topbar-actions">
+      <button id="updateButton" class="update-button" type="button"><span class="update-icon" aria-hidden="true">↻</span><span class="update-label">更新</span></button>
+      <button id="themeButton" class="icon-button" type="button" aria-label="テーマを変更">☾</button>
+    </div>
   </header>
   <main>
     <section class="hero">
