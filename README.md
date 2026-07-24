@@ -45,7 +45,7 @@ PCを起動していなくても、iPhone・iPad・PCから見られる日本株
 
 ## GitHub Actionsを手動実行する手順
 
-事前にリポジトリの **Settings** → **Secrets and variables** → **Actions** で、Gemini APIキーをRepository secret `GEMINI_API_KEY`として登録してください。Secretが未設定でもTDnetの通常更新は継続します。要約は安定版の`gemini-2.5-flash-lite`を使い、1回の更新につき最大8件まで作成します。既存の要約は再利用されます。
+事前にリポジトリの **Settings** → **Secrets and variables** → **Actions** で、Gemini APIキーをRepository secret `GEMINI_API_KEY`として登録してください。Secretが未設定でもTDnetの通常更新は継続します。要約は`gemini-2.5-flash`を使います。無料枠のレート制限を避けやすくするため、1回の更新につき最大3件ずつ作成し、API呼び出しの間隔を空けます。既存の要約は再利用され、再要約されません。
 
 1. リポジトリ上部の **Actions** を押します。
 2. 左側の **適時開示データ更新** を押します。

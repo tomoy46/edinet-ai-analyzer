@@ -20,7 +20,7 @@ concurrency:
 jobs:
   update:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 15
     steps:
       - name: 実行契機を記録
         run: |
@@ -38,7 +38,7 @@ jobs:
       - name: TDnetを確認
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          GEMINI_SUMMARY_LIMIT: "8"
+          GEMINI_SUMMARY_LIMIT: "3"
         run: python -m scripts.fetch_tdnet
       - name: JSONの変更を保存
         run: |
