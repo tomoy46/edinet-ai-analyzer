@@ -1,4 +1,6 @@
 import json
+import subprocess
+import sys
 import tempfile
 import unittest
 from datetime import datetime
@@ -7,6 +9,26 @@ from unittest.mock import patch
 from urllib.error import HTTPError, URLError
 
 from scripts.fetch_tdnet import JST, MAX_ATTEMPTS, classify, disclosure_id, download, parse, update
+
+
+class FetchTdnetEntrypointTest(unittest.TestCase):
+    def test_script_entrypoint_can_import_summarizer(self):
+        result = subprocess.run(
+            [sys.executable, "scripts/fetch_tdnet.py", "--help"],
+            capture_output=True,
+            text=True,
+            check=False,
+        )
+        self.assertEqual(result.returncode, 0, result.stderr)
+
+    def test_module_entrypoint_can_import_summarizer(self):
+        result = subprocess.run(
+            [sys.executable, "-m", "scripts.fetch_tdnet", "--help"],
+            capture_output=True,
+            text=True,
+            check=False,
+        )
+        self.assertEqual(result.returncode, 0, result.stderr)
 
 
 class FetchTdnetTest(unittest.TestCase):

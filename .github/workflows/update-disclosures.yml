@@ -39,7 +39,7 @@ jobs:
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GEMINI_SUMMARY_LIMIT: "8"
-        run: python scripts/fetch_tdnet.py
+        run: python -m scripts.fetch_tdnet
       - name: JSONの変更を保存
         run: |
           if git diff --quiet -- docs/data; then

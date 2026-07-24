@@ -12,7 +12,10 @@ from urllib.error import HTTPError, URLError
 from urllib.parse import urljoin
 from urllib.request import Request, urlopen
 
-from scripts.summarize_gemini import add_missing_summaries
+if __package__:
+    from .summarize_gemini import add_missing_summaries
+else:
+    from summarize_gemini import add_missing_summaries
 
 JST = timezone(timedelta(hours=9))
 BASE_URL = "https://www.release.tdnet.info/inbs/"
