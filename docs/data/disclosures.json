@@ -1,7 +1,57 @@
 {
   "sample": false,
-  "last_success_at": "2026-07-24T10:58:57+09:00",
+  "last_success_at": "2026-07-24T11:26:57+09:00",
   "disclosures": [
+    {
+      "id": "5a4451d514a3a8ea5416",
+      "published_at": "2026-07-24T11:25:00+09:00",
+      "security_code": "1326",
+      "company_name": "Ｅ－ワールド",
+      "title": "SPDRゴールド・シェアに関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260724599005.pdf"
+    },
+    {
+      "id": "f945109b14e625c47115",
+      "published_at": "2026-07-24T11:20:00+09:00",
+      "security_code": "1349",
+      "company_name": "Ｅ－ＳＳＧＡ－ＳＩＮ",
+      "title": "アジア国債・公債ＥＴＦ（正式名称：ＡＢＦ汎アジア債券インデックス・ファンド）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260724598999.pdf"
+    },
+    {
+      "id": "65626a2c4e1f14fbc2a9",
+      "published_at": "2026-07-24T11:00:00+09:00",
+      "security_code": "4887",
+      "company_name": "サワイグループＨＤ",
+      "title": "譲渡制限付株式報酬及び業績連動型譲渡制限付株式報酬としての新株式の払込完了に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260724598841.pdf"
+    },
+    {
+      "id": "da244c5ea39103670364",
+      "published_at": "2026-07-24T11:00:00+09:00",
+      "security_code": "6333",
+      "company_name": "ＴＥＩＫＯＫＵ",
+      "title": "譲渡制限付株式報酬としての自己株式の処分の払込完了に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260723598253.pdf"
+    },
+    {
+      "id": "f84ff5cbff0a5fedaf37",
+      "published_at": "2026-07-24T11:00:00+09:00",
+      "security_code": "7040",
+      "company_name": "サン・ライフＨＤ",
+      "title": "譲渡制限付株式報酬としての自己株式の処分の割当完了に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260723598692.pdf"
+    },
     {
       "id": "9c2780116d8ac893ca9d",
       "published_at": "2026-07-24T10:50:00+09:00",
