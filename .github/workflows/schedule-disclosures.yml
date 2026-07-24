@@ -1,8 +1,13 @@
 name: 適時開示データ定期更新
-run-name: 開示データ更新（${{ github.event_name }}）
+run-name: 開示データ更新（${{ inputs.request_id || github.event_name }}）
 
 on:
   workflow_dispatch:
+    inputs:
+      request_id:
+        description: 中継APIが実行結果を識別するためのID
+        required: false
+        type: string
   schedule:
   - cron: "7 0 * * 1-5"
   - cron: "7 3 * * 1-5"

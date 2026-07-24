@@ -1,0 +1,12 @@
+{
+  "name": "kabu-daily-update-api",
+  "private": true,
+  "scripts": {
+    "check": "node --check src/index.js",
+    "deploy": "wrangler deploy",
+    "secret": "wrangler secret put GITHUB_TOKEN"
+  },
+  "devDependencies": {
+    "wrangler": "^4.26.0"
+  }
+}

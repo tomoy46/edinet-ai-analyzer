@@ -41,7 +41,22 @@ class StaticPwaTest(unittest.TestCase):
         self.assertNotIn("fetchedCount", self.javascript)
 
     def test_service_worker_cache_version_is_updated(self):
-        self.assertIn('const CACHE = "kabu-daily-pages-v4";', self.service_worker)
+        self.assertIn('const CACHE = "kabu-daily-pages-v6";', self.service_worker)
+
+    def test_update_button_waits_for_success_without_a_frontend_token(self):
+        self.assertIn('id="updateButton"', self.html)
+        self.assertIn('name="update-api-url" content="https://proud-wildflower-1a64.tomoya03212738.workers.dev/"', self.html)
+        self.assertIn('fetch(updateApiUrl, { method: "POST" })', self.javascript)
+        self.assertIn('showNotice("更新開始。', self.javascript)
+        self.assertIn('button.querySelector(".update-label").textContent = "更新中…"', self.javascript)
+        self.assertIn('run.conclusion !== "success"', self.javascript)
+        self.assertIn("window.location.reload()", self.javascript)
+        self.assertNotIn("GITHUB_TOKEN", self.html + self.javascript)
+
+    def test_update_button_has_mobile_touch_target_and_spinner(self):
+        self.assertIn(".update-button", self.styles)
+        self.assertIn("height:44px", self.styles)
+        self.assertIn("@keyframes update-spin", self.styles)
 
 
 if __name__ == "__main__":
