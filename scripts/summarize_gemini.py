@@ -7,11 +7,14 @@ import time
 from urllib.error import HTTPError, URLError
 from urllib.request import Request, urlopen
 
-GEMINI_MODEL = "gemini-2.5-flash-lite"
+GEMINI_MODEL = "gemini-2.5-flash"
 GEMINI_ENDPOINT = f"https://generativelanguage.googleapis.com/v1beta/models/{GEMINI_MODEL}:generateContent"
 GEMINI_TIMEOUT_SECONDS = 60
-GEMINI_MAX_ATTEMPTS = 3
-DEFAULT_SUMMARY_LIMIT = 8
+GEMINI_MAX_RETRIES = 3
+GEMINI_MAX_ATTEMPTS = GEMINI_MAX_RETRIES + 1
+GEMINI_RETRY_DELAYS = (30, 60, 120)
+GEMINI_DISCLOSURE_INTERVAL_SECONDS = 15
+DEFAULT_SUMMARY_LIMIT = 3
 SUMMARY_CATEGORIES = frozenset({"決算", "業績予想修正", "増配", "減配", "優待新設", "優待廃止", "自社株買い"})
 SUMMARY_SCHEMA = {
     "type": "object",
@@ -59,7 +62,15 @@ def _validate_summary(value: object) -> dict[str, object]:
     return {"summary": summary, "impact": impact, "key_points": points, "caution": caution.strip(), "model": GEMINI_MODEL}
 
 
-def generate_summary(item: dict[str, object], api_key: str) -> dict[str, object]:
+def _retry_after_seconds(error: HTTPError, fallback: int) -> float:
+    value = error.headers.get("Retry-After") if error.headers else None
+    try:
+        return max(0.0, float(value)) if value is not None else float(fallback)
+    except (TypeError, ValueError):
+        return float(fallback)
+
+
+def generate_summary(item: dict[str, object], api_key: str, on_rate_limit=None) -> dict[str, object]:
     pdf = _download_pdf(str(item["pdf_url"]))
     payload = {
         "contents": [{"parts": [
@@ -86,8 +97,14 @@ def generate_summary(item: dict[str, object], api_key: str) -> dict[str, object]
             text = result["candidates"][0]["content"]["parts"][0]["text"]
             return _validate_summary(json.loads(text))
         except HTTPError as error:
-            retryable = error.code == 429 or 500 <= error.code < 600
-            if not retryable or attempt + 1 == GEMINI_MAX_ATTEMPTS:
+            if error.code == 429:
+                if on_rate_limit:
+                    on_rate_limit()
+                if attempt + 1 == GEMINI_MAX_ATTEMPTS:
+                    raise
+                time.sleep(_retry_after_seconds(error, GEMINI_RETRY_DELAYS[attempt]))
+                continue
+            if not 500 <= error.code < 600 or attempt + 1 == GEMINI_MAX_ATTEMPTS:
                 raise
         except (URLError, TimeoutError):
             if attempt + 1 == GEMINI_MAX_ATTEMPTS:
@@ -100,15 +117,32 @@ def add_missing_summaries(items: list[dict[str, object]]) -> int:
     api_key = os.environ.get("GEMINI_API_KEY", "")
     limit = _summary_limit()
     if not api_key or limit == 0:
+        print("AI summary results: success=0 failed=0 rate_limited_429=0")
         return 0
     candidates = [item for item in items if should_summarize(item) and not item.get("ai_summary")][:limit]
     completed = 0
-    for item in candidates:
+    failed = 0
+    rate_limited = 0
+    for index, item in enumerate(candidates):
+        if index:
+            time.sleep(GEMINI_DISCLOSURE_INTERVAL_SECONDS)
+        hit_rate_limit = False
+
+        def record_rate_limit() -> None:
+            nonlocal hit_rate_limit
+            hit_rate_limit = True
+
         try:
-            item["ai_summary"] = generate_summary(item, api_key)
+            item["ai_summary"] = generate_summary(item, api_key, on_rate_limit=record_rate_limit)
             completed += 1
         except Exception as error:
+            failed += 1
+            if isinstance(error, HTTPError) and error.code == 429:
+                hit_rate_limit = True
             # APIキーやレスポンス本文は出力せず、通常のTDnet更新を継続します。
             status = f" HTTP {error.code}" if isinstance(error, HTTPError) else ""
             print(f"::warning::AI summary skipped for disclosure {item.get('id', 'unknown')} ({type(error).__name__}{status})")
+        if hit_rate_limit:
+            rate_limited += 1
+    print(f"AI summary results: success={completed} failed={failed} rate_limited_429={rate_limited}")
     return completed

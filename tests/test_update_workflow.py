@@ -46,7 +46,7 @@ class UpdateWorkflowTest(unittest.TestCase):
 
     def test_gemini_key_is_only_passed_as_a_secret(self):
         self.assertIn("GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}", self.workflow)
-        self.assertIn("GEMINI_SUMMARY_LIMIT: \"8\"", self.workflow)
+        self.assertIn("GEMINI_SUMMARY_LIMIT: \"3\"", self.workflow)
         self.assertIn("    secrets: inherit", self.schedule)
 
     def test_tdnet_fetch_runs_as_a_package_module(self):
