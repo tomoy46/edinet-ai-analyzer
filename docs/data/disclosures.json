@@ -1,7 +1,967 @@
 {
   "sample": false,
-  "last_success_at": "2026-07-24T13:29:42+09:00",
+  "last_success_at": "2026-07-24T17:47:03+09:00",
   "disclosures": [
+    {
+      "id": "5829e7230812fa75ae0e",
+      "published_at": "2026-07-24T17:40:00+09:00",
+      "security_code": "6837",
+      "company_name": "京写",
+      "title": "取締役に対する譲渡制限付株式としての自己株式処分の払込完了に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260724599542.pdf"
+    },
+    {
+      "id": "9af3571a24ddecfd17eb",
+      "published_at": "2026-07-24T17:30:00+09:00",
+      "security_code": "2130",
+      "company_name": "メンバーズ",
+      "title": "「コーポレート・ガバナンスに関する基本方針」一部改定に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260722597809.pdf"
+    },
+    {
+      "id": "ed4792032887e0a38774",
+      "published_at": "2026-07-24T17:30:00+09:00",
+      "security_code": "9308",
+      "company_name": "乾汽船",
+      "title": "当社役職員に対する譲渡制限付株式報酬としての自己株式の処分の払込完了に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260716595435.pdf"
+    },
+    {
+      "id": "6cd0a30f74ffe2596723",
+      "published_at": "2026-07-24T17:15:00+09:00",
+      "security_code": "6380",
+      "company_name": "オリチエン工業",
+      "title": "募集新株予約権（税制適格ストック・オプション）の発行内容確定及び一部失権に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260723598625.pdf"
+    },
+    {
+      "id": "21524e9141349cce0058",
+      "published_at": "2026-07-24T17:00:00+09:00",
+      "security_code": "1721",
+      "company_name": "コムシスＨＤ",
+      "title": "譲渡制限付株式報酬としての自己株式の処分の払込完了に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260716595400.pdf"
+    },
+    {
+      "id": "de3ca75a137f5afb0b3b",
+      "published_at": "2026-07-24T17:00:00+09:00",
+      "security_code": "1934",
+      "company_name": "ユアテック",
+      "title": "譲渡制限付株式報酬としての自己株式の処分の払込完了に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260623576530.pdf"
+    },
+    {
+      "id": "69a3207f74035308e567",
+      "published_at": "2026-07-24T17:00:00+09:00",
+      "security_code": "3282",
+      "company_name": "Ｒ－コンフォリア",
+      "title": "資金の借入れ及び既存借入金の返済に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260723598709.pdf"
+    },
+    {
+      "id": "783dc964d63532300b8f",
+      "published_at": "2026-07-24T17:00:00+09:00",
+      "security_code": "3375",
+      "company_name": "ＺＯＡ",
+      "title": "譲渡制限付株式報酬としての自己株式の処分の払込完了に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260724597934.pdf"
+    },
+    {
+      "id": "f4b95c22e6f2734fb536",
+      "published_at": "2026-07-24T17:00:00+09:00",
+      "security_code": "3823",
+      "company_name": "ＷＨＹ ＨＯＷ ＤＯ",
+      "title": "営業外費用（社債償還損）の計上及び（訂正・数値データ訂正）「2026年４月期 決算短信〔日本基準〕（連結）」の一部訂正に関するお知らせ",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260721596746.pdf"
+    },
+    {
+      "id": "cc4700f11484d6ccfbba",
+      "published_at": "2026-07-24T17:00:00+09:00",
+      "security_code": "4116",
+      "company_name": "大日精化",
+      "title": "譲渡制限付株式報酬としての自己株式の処分の払込完了に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260721596405.pdf"
+    },
+    {
+      "id": "d110e62cb591a70d1f88",
+      "published_at": "2026-07-24T17:00:00+09:00",
+      "security_code": "4192",
+      "company_name": "Ｇ－スパイダープラス",
+      "title": "従業員向け譲渡制限付株式報酬制度の導入に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260723598348.pdf"
+    },
+    {
+      "id": "b9e79dc991894789eab9",
+      "published_at": "2026-07-24T17:00:00+09:00",
+      "security_code": "4684",
+      "company_name": "オービック",
+      "title": "譲渡制限付株式報酬としての自己株式の処分の払込完了に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260716595421.pdf"
+    },
+    {
+      "id": "2882d7a2a7b5af019cda",
+      "published_at": "2026-07-24T17:00:00+09:00",
+      "security_code": "4829",
+      "company_name": "日本エンタープライズ",
+      "title": "剰余金の配当に関するお知らせ",
+      "category": "その他",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260724598974.pdf"
+    },
+    {
+      "id": "2aa9380759d7fdfbfbee",
+      "published_at": "2026-07-24T17:00:00+09:00",
+      "security_code": "4829",
+      "company_name": "日本エンタープライズ",
+      "title": "会社分割による持株会社体制移行に伴う吸収分割契約の締結および定款の一部変更（商号および事業目的等の一部変更）に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260724599395.pdf"
+    },
+    {
+      "id": "7277315c3151a2c196f8",
+      "published_at": "2026-07-24T17:00:00+09:00",
+      "security_code": "4829",
+      "company_name": "日本エンタープライズ",
+      "title": "新株予約権（ストック・オプション）の発行に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260724598987.pdf"
+    },
+    {
+      "id": "24b3cb4f830c8f99d8df",
+      "published_at": "2026-07-24T17:00:00+09:00",
+      "security_code": "4829",
+      "company_name": "日本エンタープライズ",
+      "title": "合弁会社（子会社）設立に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260724598976.pdf"
+    },
+    {
+      "id": "a8f8434f0017b5b1963d",
+      "published_at": "2026-07-24T17:00:00+09:00",
+      "security_code": "4958",
+      "company_name": "長谷川香",
+      "title": "役員の担当変更のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260716595145.pdf"
+    },
+    {
+      "id": "599aefdb165970c29172",
+      "published_at": "2026-07-24T17:00:00+09:00",
+      "security_code": "5408",
+      "company_name": "中山鋼",
+      "title": "取締役及び執行役員に対する譲渡制限付株式報酬としての自己株式の処分の払込完了に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260724599281.pdf"
+    },
+    {
+      "id": "e49fdd7f7b3d60ed5319",
+      "published_at": "2026-07-24T17:00:00+09:00",
+      "security_code": "6059",
+      "company_name": "ウチヤマＨＤ",
+      "title": "当社取締役等に対する譲渡制限付株式としての自己株式処分の払込完了に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260724599318.pdf"
+    },
+    {
+      "id": "c2ebafde06dc86f902f4",
+      "published_at": "2026-07-24T17:00:00+09:00",
+      "security_code": "6134",
+      "company_name": "ＦＵＪＩ",
+      "title": "譲渡制限付株式報酬としての自己株式の処分の払込完了に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260724598787.pdf"
+    },
+    {
+      "id": "262ea13ffe5c93b66978",
+      "published_at": "2026-07-24T17:00:00+09:00",
+      "security_code": "6490",
+      "company_name": "ＰＩＬＬＡＲ",
+      "title": "譲渡制限付株式報酬としての自己株式の処分の払込完了に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260724599434.pdf"
+    },
+    {
+      "id": "2e679e45b943765abb11",
+      "published_at": "2026-07-24T17:00:00+09:00",
+      "security_code": "6653",
+      "company_name": "正興電機製作所",
+      "title": "2026年12月期第２四半期（中間期）決算短信〔日本基準〕(連結)",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260724599132.pdf"
+    },
+    {
+      "id": "82edcd00ea4fcc71bee4",
+      "published_at": "2026-07-24T17:00:00+09:00",
+      "security_code": "6653",
+      "company_name": "正興電機製作所",
+      "title": "第２四半期連結業績予想値と実績値との差異、通期連結業績予想の修正、剰余金の配当（中間配当）並びに期末配当予想の修正に関するお知らせ",
+      "category": "業績予想修正",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260723598687.pdf"
+    },
+    {
+      "id": "913fe713de0e2a21ff4b",
+      "published_at": "2026-07-24T17:00:00+09:00",
+      "security_code": "6770",
+      "company_name": "アルプスアルパイン",
+      "title": "譲渡制限付株式報酬としての自己株式の処分の払込完了及び一部失権に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260724598996.pdf"
+    },
+    {
+      "id": "31164c52e40e9684d5d8",
+      "published_at": "2026-07-24T17:00:00+09:00",
+      "security_code": "7220",
+      "company_name": "武蔵精密",
+      "title": "譲渡制限付株式報酬としての新株式の払込完了に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260724599194.pdf"
+    },
+    {
+      "id": "c58106559a9492d2c64e",
+      "published_at": "2026-07-24T17:00:00+09:00",
+      "security_code": "7246",
+      "company_name": "プレス工",
+      "title": "譲渡制限付株式報酬としての自己株式の処分の払込完了に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260722597732.pdf"
+    },
+    {
+      "id": "84d73b45003702ea77e4",
+      "published_at": "2026-07-24T17:00:00+09:00",
+      "security_code": "7769",
+      "company_name": "リズム",
+      "title": "新設会社の株式取得に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260724598939.pdf"
+    },
+    {
+      "id": "c3ba60633ea5fb886d3a",
+      "published_at": "2026-07-24T17:00:00+09:00",
+      "security_code": "8700",
+      "company_name": "丸八証券",
+      "title": "2027年３月期 第１四半期決算速報値に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260723598268.pdf"
+    },
+    {
+      "id": "81919154acfd1891edb2",
+      "published_at": "2026-07-24T17:00:00+09:00",
+      "security_code": "9033",
+      "company_name": "広電鉄",
+      "title": "譲渡制限付株式報酬としての自己株式の処分の払込完了に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260708589450.pdf"
+    },
+    {
+      "id": "d677e586b196433ec037",
+      "published_at": "2026-07-24T16:45:00+09:00",
+      "security_code": "4664",
+      "company_name": "アールエスシー",
+      "title": "譲渡制限付株式報酬としての自己株式の処分の払込完了に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260724598941.pdf"
+    },
+    {
+      "id": "e9681202c88982d3d6d8",
+      "published_at": "2026-07-24T16:40:00+09:00",
+      "security_code": "2656",
+      "company_name": "ベクターＨＤ",
+      "title": "Blue Goatsグループとの高性能サーバーレンタル事業における戦略的パートナーシップに関する基本合意書締結のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260724599437.pdf"
+    },
+    {
+      "id": "42c0040eb332f249bf91",
+      "published_at": "2026-07-24T16:40:00+09:00",
+      "security_code": "6346",
+      "company_name": "キクカワ",
+      "title": "譲渡制限付株式報酬としての自己株式の処分の払込完了に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260724599273.pdf"
+    },
+    {
+      "id": "99c75a88ffd068964534",
+      "published_at": "2026-07-24T16:40:00+09:00",
+      "security_code": "6778",
+      "company_name": "アルチザ",
+      "title": "自己株式の取得状況及び取得終了に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260724599458.pdf"
+    },
+    {
+      "id": "cf2b845b8a7d744c8496",
+      "published_at": "2026-07-24T16:30:00+09:00",
+      "security_code": "1909",
+      "company_name": "日本ドライケミカル",
+      "title": "臨時株主総会の開催並びに株式併合、単元株式数の定めの廃止及び定款一部変更に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260723598637.pdf"
+    },
+    {
+      "id": "c6a44a0906902041edca",
+      "published_at": "2026-07-24T16:30:00+09:00",
+      "security_code": "1909",
+      "company_name": "日本ドライケミカル",
+      "title": "自己株式の消却に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260723598659.pdf"
+    },
+    {
+      "id": "ff0802601cd3c647cb5e",
+      "published_at": "2026-07-24T16:30:00+09:00",
+      "security_code": "1914",
+      "company_name": "日基礎",
+      "title": "譲渡制限付株式報酬としての自己株式の処分の払込完了に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260724599462.pdf"
+    },
+    {
+      "id": "2b68c703a533c4b71fe6",
+      "published_at": "2026-07-24T16:30:00+09:00",
+      "security_code": "1964",
+      "company_name": "中外炉",
+      "title": "2027年3月期 第1四半期決算短信〔日本基準〕（連結）",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260724599456.pdf"
+    },
+    {
+      "id": "01455da0ba2a9e5b0ddd",
+      "published_at": "2026-07-24T16:30:00+09:00",
+      "security_code": "2345",
+      "company_name": "ＨＯＤＬ１",
+      "title": "臨時株主総会の招集決定に関するお知らせ（付議議案：剰余金の処分の件）",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260724599474.pdf"
+    },
+    {
+      "id": "a60d5cbda7fcb64492d2",
+      "published_at": "2026-07-24T16:30:00+09:00",
+      "security_code": "2454",
+      "company_name": "オールアバウト",
+      "title": "譲渡制限付株式報酬としての自己株式処分の払込完了に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260723598514.pdf"
+    },
+    {
+      "id": "d153c75866716b538793",
+      "published_at": "2026-07-24T16:30:00+09:00",
+      "security_code": "2804",
+      "company_name": "ブルドックソース",
+      "title": "2027年３月期第１四半期決算短信〔日本基準〕(連結)",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260723598662.pdf"
+    },
+    {
+      "id": "0e14196127c3bd25cdf8",
+      "published_at": "2026-07-24T16:30:00+09:00",
+      "security_code": "2804",
+      "company_name": "ブルドックソース",
+      "title": "取締役向け業績連動型株式報酬制度の継続に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260723598675.pdf"
+    },
+    {
+      "id": "d5b0615f01aea6864e97",
+      "published_at": "2026-07-24T16:30:00+09:00",
+      "security_code": "2804",
+      "company_name": "ブルドックソース",
+      "title": "自己株式の取得枠拡大及び自己株式立会外買付取引（ToSTNeT-3）による自己株式の買付けに関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260724599483.pdf"
+    },
+    {
+      "id": "cb732a844712bebdb33c",
+      "published_at": "2026-07-24T16:30:00+09:00",
+      "security_code": "3199",
+      "company_name": "綿半ホールディングス",
+      "title": "譲渡制限付株式としての自己株式処分の払込完了に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260724598942.pdf"
+    },
+    {
+      "id": "d813a3f57c559ab68de0",
+      "published_at": "2026-07-24T16:30:00+09:00",
+      "security_code": "3448",
+      "company_name": "Ｐ－清鋼材",
+      "title": "自己株式の取得及び自己株式立会外買付取引（ToSTNeT-３）による自己株式の買付に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260724598805.pdf"
+    },
+    {
+      "id": "8896b41a822ab496002d",
+      "published_at": "2026-07-24T16:30:00+09:00",
+      "security_code": "3476",
+      "company_name": "Ｒ－投資法人みらい",
+      "title": "変動賃料物件（ホテル）の運用状況についてのお知らせ（2026年6月）",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260724599095.pdf"
+    },
+    {
+      "id": "d6db103a91314aa474b9",
+      "published_at": "2026-07-24T16:30:00+09:00",
+      "security_code": "4671",
+      "company_name": "ファルコＨＤ",
+      "title": "譲渡制限付株式報酬としての自己株式の処分の払込完了に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260724598927.pdf"
+    },
+    {
+      "id": "f90965095b035e708091",
+      "published_at": "2026-07-24T16:30:00+09:00",
+      "security_code": "5821",
+      "company_name": "平河ヒューテ",
+      "title": "譲渡制限付株式報酬としての自己株式の処分の払込完了に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260723598713.pdf"
+    },
+    {
+      "id": "fd550ee380c82df5cd91",
+      "published_at": "2026-07-24T16:30:00+09:00",
+      "security_code": "6993",
+      "company_name": "大黒屋",
+      "title": "支配株主等に関する事項について",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260724599289.pdf"
+    },
+    {
+      "id": "54dcaad0e9a117b3b2e8",
+      "published_at": "2026-07-24T16:30:00+09:00",
+      "security_code": "7722",
+      "company_name": "国際計測",
+      "title": "支配株主等に関する事項について",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260724598913.pdf"
+    },
+    {
+      "id": "373efd9752ab82e8d034",
+      "published_at": "2026-07-24T16:30:00+09:00",
+      "security_code": "7746",
+      "company_name": "岡本硝子",
+      "title": "行使価額修正条項付新株予約権の大量行使に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260724599383.pdf"
+    },
+    {
+      "id": "17e0cc263b7ceb297a9b",
+      "published_at": "2026-07-24T16:30:00+09:00",
+      "security_code": "7898",
+      "company_name": "ウッドワン",
+      "title": "ストック・オプション（新株予約権）の発行内容確定に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260724599481.pdf"
+    },
+    {
+      "id": "23b72387c7636a3beb8e",
+      "published_at": "2026-07-24T16:30:00+09:00",
+      "security_code": "8060",
+      "company_name": "キヤノンＭＪ",
+      "title": "自己株式の取得及び自己株式立会外買付取引（ToSTNeT-3）による自己株式の買付けに関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260721596930.pdf"
+    },
+    {
+      "id": "148307100b78708ae891",
+      "published_at": "2026-07-24T16:30:00+09:00",
+      "security_code": "8707",
+      "company_name": "岩井コスモ",
+      "title": "2027年3月期 第1四半期決算短信［日本基準］（連結）",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260723598646.pdf"
+    },
+    {
+      "id": "f3d0dd08d973ed57e596",
+      "published_at": "2026-07-24T16:30:00+09:00",
+      "security_code": "9241",
+      "company_name": "Ｇ－ＦＬＮ",
+      "title": "2026年8月期第3四半期決算説明会 書き起こし",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260724599453.pdf"
+    },
+    {
+      "id": "b0378127092a05802a40",
+      "published_at": "2026-07-24T16:25:00+09:00",
+      "security_code": "6282",
+      "company_name": "オイレス工",
+      "title": "主要株主及び主要株主である筆頭株主の異動に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260724599443.pdf"
+    },
+    {
+      "id": "489ffda0ce9e9210770d",
+      "published_at": "2026-07-24T16:15:00+09:00",
+      "security_code": "9425",
+      "company_name": "ＲｅＹｕｕＪａｐａｎ",
+      "title": "新株予約権付社債発行プログラム設定契約に基づく第三者割当による第３回無担保転換社債型新株予約権付社債の発行に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260723598737.pdf"
+    },
+    {
+      "id": "a9ada9faf11b0d801c2b",
+      "published_at": "2026-07-24T16:00:00+09:00",
+      "security_code": "1807",
+      "company_name": "佐藤渡辺",
+      "title": "譲渡制限付株式報酬としての自己株式の処分の払込完了に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260724599038.pdf"
+    },
+    {
+      "id": "322237fa8f59e1828a0a",
+      "published_at": "2026-07-24T16:00:00+09:00",
+      "security_code": "1867",
+      "company_name": "植木組",
+      "title": "譲渡制限付株式報酬としての自己株式の処分に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260724598925.pdf"
+    },
+    {
+      "id": "df99334c9dd696139f84",
+      "published_at": "2026-07-24T16:00:00+09:00",
+      "security_code": "1945",
+      "company_name": "東京エネシス",
+      "title": "譲渡制限付株式報酬としての自己株式の処分の払込完了に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260723597984.pdf"
+    },
+    {
+      "id": "3519e9ca0a4ba85a8fd2",
+      "published_at": "2026-07-24T16:00:00+09:00",
+      "security_code": "2158",
+      "company_name": "Ｇ－ＦＲＯＮＴＥＯ",
+      "title": "ライフサイエンスAI事業（AI創薬分野）の成長加速を目的とした、証書貸付契約及び当座貸越契約の締結について",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260722597813.pdf"
+    },
+    {
+      "id": "6df102812f5ae08972aa",
+      "published_at": "2026-07-24T16:00:00+09:00",
+      "security_code": "2428",
+      "company_name": "ウェルネット",
+      "title": "実質創業30周年に伴う株主優待制度のポイント倍増に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260724599087.pdf"
+    },
+    {
+      "id": "ba8e0402da7df00f0537",
+      "published_at": "2026-07-24T16:00:00+09:00",
+      "security_code": "2593",
+      "company_name": "伊藤園",
+      "title": "譲渡制限付株式報酬のための自己株式の処分に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260722597741.pdf"
+    },
+    {
+      "id": "33888d6de9c7ebf15045",
+      "published_at": "2026-07-24T16:00:00+09:00",
+      "security_code": "2593",
+      "company_name": "伊藤園",
+      "title": "従業員に対する譲渡制限付株式付与のための自己株式の処分に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260722597746.pdf"
+    },
+    {
+      "id": "d4df62f79b6af7b9fd59",
+      "published_at": "2026-07-24T16:00:00+09:00",
+      "security_code": "2593",
+      "company_name": "伊藤園",
+      "title": "当社子会社取締役等に対する譲渡制限付株式報酬のための自己株式の処分に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260722597749.pdf"
+    },
+    {
+      "id": "95c544c3bd6aea8abf91",
+      "published_at": "2026-07-24T16:00:00+09:00",
+      "security_code": "2654",
+      "company_name": "アスモ",
+      "title": "取締役に対する譲渡制限付株式報酬としての自己株式処分の払込完了に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260722597201.pdf"
+    },
+    {
+      "id": "73b8de8ce0537ac9af46",
+      "published_at": "2026-07-24T16:00:00+09:00",
+      "security_code": "2654",
+      "company_name": "アスモ",
+      "title": "従業員に対する譲渡制限付株式報酬としての自己株式処分の払込完了に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260722597214.pdf"
+    },
+    {
+      "id": "f2897854d0d4a137576e",
+      "published_at": "2026-07-24T16:00:00+09:00",
+      "security_code": "3080",
+      "company_name": "ジェーソン",
+      "title": "2027年２月期 第１四半期決算に関する質疑応答集",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260722597883.pdf"
+    },
+    {
+      "id": "c200af9a00b7ba44c6f9",
+      "published_at": "2026-07-24T16:00:00+09:00",
+      "security_code": "3121",
+      "company_name": "マーチャント",
+      "title": "販売用不動産の売却並びに借入金の期限前弁済及び営業外費用の計上に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260724599280.pdf"
+    },
+    {
+      "id": "52c8892ed453ee4b8244",
+      "published_at": "2026-07-24T16:00:00+09:00",
+      "security_code": "3402",
+      "company_name": "東レ",
+      "title": "譲渡制限付株式報酬としての自己株式の処分について",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260724599339.pdf"
+    },
+    {
+      "id": "951604a259b3a284f2cc",
+      "published_at": "2026-07-24T16:00:00+09:00",
+      "security_code": "3443",
+      "company_name": "川田ＴＥＣＨ",
+      "title": "譲渡制限付株式報酬としての自己株式の処分の払込完了に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260724598945.pdf"
+    },
+    {
+      "id": "bb635eeb79cf9c4428d3",
+      "published_at": "2026-07-24T16:00:00+09:00",
+      "security_code": "3445",
+      "company_name": "ＲＳＴＥＣＨ",
+      "title": "江西盛泰精密光学有限公司との資本提携に関する協議終了のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260724599323.pdf"
+    },
+    {
+      "id": "810db5e0b7d80a32f2d3",
+      "published_at": "2026-07-24T16:00:00+09:00",
+      "security_code": "3492",
+      "company_name": "Ｒ－ＭＩＲＡＲＴＨ",
+      "title": "資金の借入れに関するお知らせ（グリーンローンによる借換え）",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260724599315.pdf"
+    },
+    {
+      "id": "08c2617c3d44328c1ef9",
+      "published_at": "2026-07-24T16:00:00+09:00",
+      "security_code": "3647",
+      "company_name": "アスリナ",
+      "title": "（開示事項の経過）訴訟における一部被告との和解成立及び特別利益の発生に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260724599231.pdf"
+    },
+    {
+      "id": "b2374f761844fffaa555",
+      "published_at": "2026-07-24T16:00:00+09:00",
+      "security_code": "4182",
+      "company_name": "菱瓦斯化",
+      "title": "譲渡制限付株式報酬としての自己株式の処分の払込完了に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260721596942.pdf"
+    },
+    {
+      "id": "36cecb48024c5608b599",
+      "published_at": "2026-07-24T16:00:00+09:00",
+      "security_code": "4212",
+      "company_name": "積水樹脂",
+      "title": "譲渡制限付株式報酬としての自己株式の処分の払込完了に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260724598962.pdf"
+    },
+    {
+      "id": "7695106f2fc3e10b232b",
+      "published_at": "2026-07-24T16:00:00+09:00",
+      "security_code": "4360",
+      "company_name": "マナック・ケミカルＰ",
+      "title": "譲渡制限付株式報酬としての自己株式の処分に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260706588491.pdf"
+    },
+    {
+      "id": "d6d146d2b4c292993afc",
+      "published_at": "2026-07-24T16:00:00+09:00",
+      "security_code": "4519",
+      "company_name": "中外薬",
+      "title": "2026年12月期 第2四半期（中間期）決算短信〔ＩＦＲＳ〕（連結）",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260723598715.pdf"
+    },
+    {
+      "id": "1fdba2995499eabb8840",
+      "published_at": "2026-07-24T16:00:00+09:00",
+      "security_code": "4519",
+      "company_name": "中外薬",
+      "title": "2026年12月期第2四半期(中間期)連結決算〔IFRS〕補足資料",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260723598727.pdf"
+    },
+    {
+      "id": "c1ac11d9d9ee8c3010af",
+      "published_at": "2026-07-24T16:00:00+09:00",
+      "security_code": "4658",
+      "company_name": "日本空調",
+      "title": "譲渡制限付株式報酬としての自己株式の処分に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260724599276.pdf"
+    },
+    {
+      "id": "e3c4de778d7248a2afd7",
+      "published_at": "2026-07-24T16:00:00+09:00",
+      "security_code": "4681",
+      "company_name": "リゾートトラ",
+      "title": "譲渡制限付株式報酬としての自己株式処分の割当完了に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260723598716.pdf"
+    },
+    {
+      "id": "d4790a3728221295cf96",
+      "published_at": "2026-07-24T16:00:00+09:00",
+      "security_code": "5122",
+      "company_name": "オカモト",
+      "title": "譲渡制限付株式報酬としての自己株式の処分の払込完了に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260626582298.pdf"
+    },
+    {
+      "id": "3c205d7415b0ab883244",
+      "published_at": "2026-07-24T16:00:00+09:00",
+      "security_code": "5609",
+      "company_name": "日鋳造",
+      "title": "当社川崎工場内倉庫における火災発生に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260724599400.pdf"
+    },
+    {
+      "id": "f53bc2c96c048c627b51",
+      "published_at": "2026-07-24T16:00:00+09:00",
+      "security_code": "5928",
+      "company_name": "アルメタックス",
+      "title": "譲渡制限付株式報酬としての自己株式の処分の払込完了に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260724599138.pdf"
+    },
+    {
+      "id": "ea48077b0bdbefa8cb0c",
+      "published_at": "2026-07-24T16:00:00+09:00",
+      "security_code": "6195",
+      "company_name": "Ｇ－ホープ",
+      "title": "譲渡制限付株式報酬としての自己株式の処分の払込完了に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260723598570.pdf"
+    },
+    {
+      "id": "fd508adf260c7756476a",
+      "published_at": "2026-07-24T16:00:00+09:00",
+      "security_code": "6407",
+      "company_name": "ＣＫＤ",
+      "title": "取締役に対する譲渡制限付株式報酬としての自己株式の処分の払込完了に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260724599336.pdf"
+    },
+    {
+      "id": "0a16e6ad0dab1d075e0a",
+      "published_at": "2026-07-24T16:00:00+09:00",
+      "security_code": "6420",
+      "company_name": "ガリレイ",
+      "title": "譲渡制限付株式報酬としての自己株式の処分に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260723598746.pdf"
+    },
+    {
+      "id": "e4633fdcee347472dac1",
+      "published_at": "2026-07-24T16:00:00+09:00",
+      "security_code": "6420",
+      "company_name": "ガリレイ",
+      "title": "インドにおける合弁会社（連結子会社）設立に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260723598747.pdf"
+    },
+    {
+      "id": "63ca63634a534e73e660",
+      "published_at": "2026-07-24T16:00:00+09:00",
+      "security_code": "6629",
+      "company_name": "テクノホライゾン",
+      "title": "2027年３月期 第１四半期決算短信〔日本基準〕（連結）",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260716595094.pdf"
+    },
+    {
+      "id": "380a23dc87c6a19733df",
+      "published_at": "2026-07-24T16:00:00+09:00",
+      "security_code": "6629",
+      "company_name": "テクノホライゾン",
+      "title": "2027年３月期 第１四半期決算説明資料",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260721596678.pdf"
+    },
+    {
+      "id": "424aee38f0455fea5aaa",
+      "published_at": "2026-07-24T16:00:00+09:00",
+      "security_code": "6629",
+      "company_name": "テクノホライゾン",
+      "title": "Vital Vision Technology Pte. Ltd.及びEI3D Pte. Ltd.の株式取得（完全子会社化）に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260721596680.pdf"
+    },
+    {
+      "id": "a27dbb1e48887b739f2d",
+      "published_at": "2026-07-24T16:00:00+09:00",
+      "security_code": "6655",
+      "company_name": "洋電機",
+      "title": "譲渡制限付株式報酬としての自己株式の処分の払込完了に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260724598807.pdf"
+    },
+    {
+      "id": "5bea738d0c8808efd90c",
+      "published_at": "2026-07-24T16:00:00+09:00",
+      "security_code": "6804",
+      "company_name": "ホシデン",
+      "title": "取締役に対する譲渡制限付株式としての自己株式処分の払込完了に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260724599225.pdf"
+    },
+    {
+      "id": "1f287d701744406d8e9d",
+      "published_at": "2026-07-24T16:00:00+09:00",
+      "security_code": "6824",
+      "company_name": "新コスモス",
+      "title": "譲渡制限付株式報酬としての自己株式の処分の払込完了に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260723598571.pdf"
+    },
+    {
+      "id": "885309c9d4514402f3cf",
+      "published_at": "2026-07-24T16:00:00+09:00",
+      "security_code": "6875",
+      "company_name": "メガチップス",
+      "title": "譲渡制限付株式報酬としての自己株式の処分の払込完了に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260723598380.pdf"
+    },
+    {
+      "id": "ae055361b0c0231d6b5e",
+      "published_at": "2026-07-24T16:00:00+09:00",
+      "security_code": "7162",
+      "company_name": "アストマックス",
+      "title": "取締役に対する譲渡制限付株式報酬としての自己株式処分に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260724599068.pdf"
+    },
+    {
+      "id": "a7eba69e64027c48923c",
+      "published_at": "2026-07-24T16:00:00+09:00",
+      "security_code": "7224",
+      "company_name": "新明和工",
+      "title": "譲渡制限付株式報酬としての自己株式の処分の払込完了に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260724598950.pdf"
+    },
     {
       "id": "b33286d1ee2ce70febae",
       "published_at": "2026-07-24T13:00:00+09:00",
