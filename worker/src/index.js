@@ -82,7 +82,7 @@ export default {
       }
       if (request.method === "POST") return json(env, await startUpdate(env), 202);
       if (request.method === "GET") return getUpdate(env, url.searchParams.get("run_id"));
-      return json(env, { error: "Method not allowed" }, 405);
+      return json(env, { code: "method_not_allowed", error: "この操作は許可されていません。" }, 405);
     } catch (error) {
       console.error(error);
       return json(env, { error: "更新処理を開始または確認できませんでした。" }, 502);

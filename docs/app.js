@@ -3,6 +3,8 @@ const appUrl = new URL(document.currentScript.src, document.baseURI);
 const basePath = new URL("./", appUrl);
 const updateApiUrl = document.querySelector('meta[name="update-api-url"]')?.content.replace(/\/$/, "");
 const UPDATE_POLL_INTERVAL = 3000;
+const UPDATE_POLL_RETRY_LIMIT = 5;
+const RETRYABLE_POLL_STATUSES = new Set([403, 404, 500]);
 function loadFavorites() {
   try {
     const stored = localStorage.getItem("favoriteSecurities") || localStorage.getItem("savedSecurities") || "[]";
@@ -55,8 +57,46 @@ const wait = (milliseconds) => new Promise((resolve) => setTimeout(resolve, mill
 
 async function readApiResponse(response) {
   const body = await response.json().catch(() => ({}));
-  if (!response.ok) throw new Error(body.error || "更新APIとの通信に失敗しました。");
+  if (!response.ok) {
+    const error = new Error(body.error || "更新APIとの通信に失敗しました。");
+    error.status = response.status;
+    error.code = body.code || body.error_code;
+    throw error;
+  }
   return body;
+}
+
+function updateErrorMessage(error) {
+  if (error.code === "method_not_allowed" || error.status === 405) {
+    return "更新APIで許可されていない操作です。管理者へお問い合わせください。";
+  }
+  return error.message || "データ更新に失敗しました。しばらくしてから再度お試しください。";
+}
+
+async function pollUpdate(runId) {
+  let consecutiveFailures = 0;
+  while (true) {
+    await wait(UPDATE_POLL_INTERVAL);
+    try {
+      const response = await fetch(`${updateApiUrl}?run_id=${encodeURIComponent(runId)}`, { cache: "no-store" });
+      const run = await readApiResponse(response);
+      consecutiveFailures = 0;
+      if (run.status !== "completed") continue;
+      if (run.conclusion !== "success") {
+        const error = new Error(run.error || "データ更新に失敗しました。しばらくしてから再度お試しください。");
+        error.code = run.code || run.error_code;
+        throw error;
+      }
+      return;
+    } catch (error) {
+      if (!RETRYABLE_POLL_STATUSES.has(error.status)) throw error;
+      consecutiveFailures += 1;
+      if (consecutiveFailures >= UPDATE_POLL_RETRY_LIMIT) {
+        throw new Error("更新状況を確認できませんでした。時間をおいて、もう一度更新してください。");
+      }
+      showNotice(`更新状況を再確認しています（${consecutiveFailures}/${UPDATE_POLL_RETRY_LIMIT}）…`);
+    }
+  }
 }
 
 async function requestUpdate() {
@@ -67,23 +107,18 @@ async function requestUpdate() {
   }
 
   button.disabled = true;
-  button.classList.add("updating");
-  button.querySelector(".update-label").textContent = "更新中…";
-  showNotice("適時開示データを更新しています。この画面のままお待ちください。");
+  showNotice("更新処理を開始しています。この画面のままお待ちください。");
   try {
     const started = await readApiResponse(await fetch(updateApiUrl, { method: "POST" }));
+    if (!started.run_id) throw new Error("更新状況を確認するための情報を取得できませんでした。");
+    button.classList.add("updating");
+    button.querySelector(".update-label").textContent = "更新中…";
     showNotice("更新開始。GitHub Actionsの完了までこの画面のままお待ちください。");
-    while (true) {
-      await wait(UPDATE_POLL_INTERVAL);
-      const run = await readApiResponse(await fetch(`${updateApiUrl}?run_id=${encodeURIComponent(started.run_id)}`, { cache: "no-store" }));
-      if (run.status !== "completed") continue;
-      if (run.conclusion !== "success") throw new Error(run.error || "データ更新に失敗しました。しばらくしてから再度お試しください。");
-      showNotice("更新が完了しました。画面を再読み込みします。");
-      window.location.reload();
-      return;
-    }
+    await pollUpdate(started.run_id);
+    showNotice("更新が完了しました。画面を再読み込みします。");
+    window.location.reload();
   } catch (error) {
-    showNotice(error.message || "データ更新に失敗しました。", true);
+    showNotice(updateErrorMessage(error), true);
     button.disabled = false;
     button.classList.remove("updating");
     button.querySelector(".update-label").textContent = "更新";

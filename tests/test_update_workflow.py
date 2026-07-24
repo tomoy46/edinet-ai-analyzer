@@ -29,6 +29,7 @@ class UpdateWorkflowTest(unittest.TestCase):
         self.assertIn("run_id", worker)
         self.assertIn("env.GITHUB_REF", worker)
         self.assertIn('url.pathname === "/health"', worker)
+        self.assertIn('code: "method_not_allowed"', worker)
         self.assertIn("inputs.request_id", self.schedule)
 
     def test_scheduled_entry_point_logs_trigger_before_update(self):
