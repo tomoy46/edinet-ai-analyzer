@@ -22,6 +22,16 @@ const state = { disclosures: [], status: {}, sample: false, saved: loadFavorites
 const $ = (selector) => document.querySelector(selector);
 const escapeHtml = (value) => String(value ?? "").replace(/[&<>"']/g, (character) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" })[character]);
 const stars = (count) => "★".repeat(count) + "☆".repeat(5 - count);
+const impactClass = (impact) => ({ "プラス": "positive", "マイナス": "negative" })[impact] || "neutral";
+
+function renderAiSummary(ai) {
+  if (!ai || !Array.isArray(ai.summary)) return "";
+  const points = Array.isArray(ai.key_points) ? ai.key_points.slice(0, 3) : [];
+  return `<section class="ai-summary"><div class="ai-heading"><strong>AI要約</strong><span class="impact impact-${impactClass(ai.impact)}">株価への影響：${escapeHtml(ai.impact)}</span></div>
+    <ul>${ai.summary.slice(0, 3).map((line) => `<li>${escapeHtml(line)}</li>`).join("")}</ul>
+    ${points.length ? `<div class="key-points"><b>重要ポイント</b><ul>${points.map((point) => `<li>${escapeHtml(point)}</li>`).join("")}</ul></div>` : ""}
+    <p class="caution"><b>注意点：</b>${escapeHtml(ai.caution || "公式PDFをご確認ください。")}</p></section>`;
+}
 
 function saveCodes() {
   localStorage.setItem("favoriteSecurities", JSON.stringify([...state.saved]));
@@ -158,7 +168,7 @@ function render() {
     const read = state.read.has(item.id);
     return `<article class="disclosure${saved ? " saved" : ""}${read ? " read" : " unread"}">
       <div class="meta"><span class="read-state">${read ? "既読" : "未読"}</span><br><time>${formatDate(item.published_at)}</time><div class="company">${escapeHtml(item.security_code)} · ${escapeHtml(item.company_name)}</div></div>
-      <div><span class="badge category-${categoryClass(item.category)}">${escapeHtml(item.category)}</span><h3>${escapeHtml(item.title)}</h3><span class="stars importance-${item.importance}" aria-label="重要度${item.importance}">${stars(item.importance)}</span></div>
+      <div><span class="badge category-${categoryClass(item.category)}">${escapeHtml(item.category)}</span><h3>${escapeHtml(item.title)}</h3><span class="stars importance-${item.importance}" aria-label="重要度${item.importance}">${stars(item.importance)}</span>${renderAiSummary(item.ai_summary)}</div>
       <div class="actions"><a class="pdf-link" data-id="${escapeHtml(item.id)}" href="${encodeURI(item.pdf_url)}" target="_blank" rel="noopener noreferrer">TDnet PDF ↗</a><button class="star-button${saved ? " active" : ""}" data-code="${escapeHtml(item.security_code)}" aria-label="お気に入りを切替">${saved ? "★" : "☆"}</button></div>
     </article>`;
   }).join("");
