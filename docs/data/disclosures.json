@@ -1,7 +1,477 @@
 {
   "sample": false,
-  "last_success_at": "2026-07-29T01:15:37+09:00",
+  "last_success_at": "2026-07-29T12:32:40+09:00",
   "disclosures": [
+    {
+      "id": "02655e2e55f8c914bfed",
+      "published_at": "2026-07-29T12:30:00+09:00",
+      "security_code": "3245",
+      "company_name": "ディア・ライフ",
+      "title": "収益不動産の取得に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260729501596.pdf"
+    },
+    {
+      "id": "d1c6c4df5f5e2c6af7a9",
+      "published_at": "2026-07-29T12:30:00+09:00",
+      "security_code": "3245",
+      "company_name": "ディア・ライフ",
+      "title": "マンション開発用地の取得に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260729501625.pdf"
+    },
+    {
+      "id": "1be889b990811c013cbf",
+      "published_at": "2026-07-29T12:30:00+09:00",
+      "security_code": "8985",
+      "company_name": "Ｒ－ＪＨＲ",
+      "title": "地震の影響に関するお知らせ（令和８年熊本地震）",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260729501700.pdf"
+    },
+    {
+      "id": "1c50c20650f4935f2abb",
+      "published_at": "2026-07-29T12:25:00+09:00",
+      "security_code": "6890",
+      "company_name": "フェローテック",
+      "title": "熊本の地震による当社グループの被害状況について（第一報）",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260729500540.pdf"
+    },
+    {
+      "id": "7e137d93caf56ff2544f",
+      "published_at": "2026-07-29T12:15:00+09:00",
+      "security_code": "3841",
+      "company_name": "ジーダット",
+      "title": "令和８年熊本地震に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260729501746.pdf"
+    },
+    {
+      "id": "77ea2eb037e8a0d1ccb9",
+      "published_at": "2026-07-29T12:00:00+09:00",
+      "security_code": "5248",
+      "company_name": "Ｇ－テクノロジーズ",
+      "title": "リユーステクノロジー事業を展開する株式会社LUCEの株式取得（子会社化）及び財務上の特約が付された金銭消費貸借契約に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260729501704.pdf"
+    },
+    {
+      "id": "8497ec25f454c6c55193",
+      "published_at": "2026-07-29T12:00:00+09:00",
+      "security_code": "6627",
+      "company_name": "テラプローブ",
+      "title": "「令和８年熊本地震」における当社の状況について",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260729501619.pdf"
+    },
+    {
+      "id": "ac9bd3482acfb5bc8f0a",
+      "published_at": "2026-07-29T12:00:00+09:00",
+      "security_code": "8914",
+      "company_name": "エリアリンク",
+      "title": "業績予想及び配当予想の修正に関するお知らせ",
+      "category": "その他",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260728500974.pdf"
+    },
+    {
+      "id": "e70cf6d798e157da059b",
+      "published_at": "2026-07-29T12:00:00+09:00",
+      "security_code": "8914",
+      "company_name": "エリアリンク",
+      "title": "剰余金の配当（中間配当）に関するお知らせ",
+      "category": "その他",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260728500528.pdf"
+    },
+    {
+      "id": "249993d5d21f06b52444",
+      "published_at": "2026-07-29T12:00:00+09:00",
+      "security_code": "8914",
+      "company_name": "エリアリンク",
+      "title": "2026年12月期 第２四半期（中間期）決算短信〔日本基準〕(非連結)",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260728501098.pdf"
+    },
+    {
+      "id": "f8f8c4098ccc2b6baed7",
+      "published_at": "2026-07-29T12:00:00+09:00",
+      "security_code": "8914",
+      "company_name": "エリアリンク",
+      "title": "2026年12月期 第2四半期決算説明資料",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260728501117.pdf"
+    },
+    {
+      "id": "5df538e9a9571e85cdc4",
+      "published_at": "2026-07-29T12:00:00+09:00",
+      "security_code": "9235",
+      "company_name": "Ｇ－売れるネットＧ",
+      "title": "【補足説明資料】売れるネット広告社グループ、暗号資産決済インフラ『GANECCI』始動～“回収”から“決済”へ、Web3の中核領域を獲得～",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260729501343.pdf"
+    },
+    {
+      "id": "9f54a04ec8cdf6ecd49b",
+      "published_at": "2026-07-29T12:00:00+09:00",
+      "security_code": "9245",
+      "company_name": "Ｇ－リベロ",
+      "title": "連結子会社の解散及び清算に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260729501546.pdf"
+    },
+    {
+      "id": "bc39c8e6931c45eff453",
+      "published_at": "2026-07-29T11:55:00+09:00",
+      "security_code": "9235",
+      "company_name": "Ｇ－売れるネットＧ",
+      "title": "（開示事項の経過・変更）暗号資産決済事業会社『GANECCI』を設立！世界で5社目、非カストディ型では【世界初】の次世代決済インフラで約730兆円を狙う！",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260729501741.pdf"
+    },
+    {
+      "id": "7930f7356395adf7df89",
+      "published_at": "2026-07-29T11:40:00+09:00",
+      "security_code": "1557",
+      "company_name": "Ｅ－ＳＳＧＡＴＣ",
+      "title": "State Street SPDR S&P500 ETFに関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260729501646.pdf"
+    },
+    {
+      "id": "4bcd8b5de78c903eb09b",
+      "published_at": "2026-07-29T11:40:00+09:00",
+      "security_code": "5285",
+      "company_name": "ヤマックス",
+      "title": "令和８年熊本地震の影響に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260729501686.pdf"
+    },
+    {
+      "id": "a95a3e588f8dda13a456",
+      "published_at": "2026-07-29T11:35:00+09:00",
+      "security_code": "1326",
+      "company_name": "Ｅ－ワールド",
+      "title": "SPDRゴールド・シェアに関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260729501639.pdf"
+    },
+    {
+      "id": "bf9637fbf5c774689bfa",
+      "published_at": "2026-07-29T11:30:00+09:00",
+      "security_code": "1349",
+      "company_name": "Ｅ－ＳＳＧＡ－ＳＩＮ",
+      "title": "アジア国債・公債ＥＴＦ（正式名称：ＡＢＦ汎アジア債券インデックス・ファンド）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260729501614.pdf"
+    },
+    {
+      "id": "9ccefe8d41a92d662cd1",
+      "published_at": "2026-07-29T11:30:00+09:00",
+      "security_code": "2070",
+      "company_name": "Ｎ－三菱ＵＦＪ証ＨＤ",
+      "title": "上場ETN（発行者：三菱UFJ証券ホールディングス株式会社）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260729501543.pdf"
+    },
+    {
+      "id": "2944e50f5658c5110e8e",
+      "published_at": "2026-07-29T11:30:00+09:00",
+      "security_code": "4205",
+      "company_name": "日ゼオン",
+      "title": "2027年３月期 第１四半期決算短信〔日本基準〕（連結）",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260728501240.pdf"
+    },
+    {
+      "id": "4d45104c49188c0356bb",
+      "published_at": "2026-07-29T11:30:00+09:00",
+      "security_code": "5834",
+      "company_name": "Ｇ－ＳＢＩリーシング",
+      "title": "2027年３月期 第１四半期決算短信〔日本基準〕（連結）",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260728501146.pdf"
+    },
+    {
+      "id": "e591940b9a66720fa488",
+      "published_at": "2026-07-29T11:30:00+09:00",
+      "security_code": "5834",
+      "company_name": "Ｇ－ＳＢＩリーシング",
+      "title": "2027年３月期 第１四半期決算説明資料",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260728501153.pdf"
+    },
+    {
+      "id": "95f877584931941dfdb9",
+      "published_at": "2026-07-29T11:30:00+09:00",
+      "security_code": "7326",
+      "company_name": "Ｇ－ＳＢＩインシュ",
+      "title": "2027年３月期第１四半期連結累計期間の決算速報のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260728500943.pdf"
+    },
+    {
+      "id": "89a44607569bdae51c9b",
+      "published_at": "2026-07-29T11:30:00+09:00",
+      "security_code": "9348",
+      "company_name": "Ｇ－ｉｓｐａｃｅ",
+      "title": "三菱重工業株式会社とのミッション3に関する打上げ契約 （H3ロケット）締結に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260728501279.pdf"
+    },
+    {
+      "id": "3c10e210745a163864e4",
+      "published_at": "2026-07-29T11:25:00+09:00",
+      "security_code": "8706",
+      "company_name": "極東証券",
+      "title": "2027年３月期 第１四半期決算短信〔日本基準〕（連結）",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260728500897.pdf"
+    },
+    {
+      "id": "5217dae56cb36eb31f26",
+      "published_at": "2026-07-29T11:00:00+09:00",
+      "security_code": "2971",
+      "company_name": "Ｒ－エスコンジャパン",
+      "title": "熊本県熊本地方を震源とする地震による影響に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260729501627.pdf"
+    },
+    {
+      "id": "0b71788f3f6405887b15",
+      "published_at": "2026-07-29T11:00:00+09:00",
+      "security_code": "9284",
+      "company_name": "Ｉ－カナディアンソラ",
+      "title": "熊本県熊本地方を震源とする地震による運用資産への影響に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260729501541.pdf"
+    },
+    {
+      "id": "6f1eee57904ef1839fe3",
+      "published_at": "2026-07-29T11:00:00+09:00",
+      "security_code": "9932",
+      "company_name": "杉本商事",
+      "title": "2027年３月期第１四半期決算短信〔日本基準〕(連結)",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260728500767.pdf"
+    },
+    {
+      "id": "2118fc0e1d517f25be7f",
+      "published_at": "2026-07-29T10:30:00+09:00",
+      "security_code": "9984",
+      "company_name": "ソフトバンクグループ",
+      "title": "第68回及び第69回無担保普通社債の発行に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260729501484.pdf"
+    },
+    {
+      "id": "619cba05ccff9e34758a",
+      "published_at": "2026-07-29T10:05:00+09:00",
+      "security_code": "3733",
+      "company_name": "ソフトウェアＳ",
+      "title": "主要株主の異動（予定）に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260729501447.pdf"
+    },
+    {
+      "id": "d1a550c5752550df5f61",
+      "published_at": "2026-07-29T10:00:00+09:00",
+      "security_code": "1329",
+      "company_name": "Ｅ－ブラックロック",
+      "title": "上場ETF（管理会社：ブラックロック・ジャパン）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260729501428.pdf"
+    },
+    {
+      "id": "d7291312631430b9ba1b",
+      "published_at": "2026-07-29T10:00:00+09:00",
+      "security_code": "1671",
+      "company_name": "Ｅ－シンプレクス",
+      "title": "上場ＥＴＦ(管理会社：シンプレクス・アセット・マネジメント)に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260729501388.pdf"
+    },
+    {
+      "id": "70b216d08e91fcc44451",
+      "published_at": "2026-07-29T10:00:00+09:00",
+      "security_code": "3374",
+      "company_name": "内外テック",
+      "title": "熊本県熊本地方で発生した地震の当社グループへの影響に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260729501495.pdf"
+    },
+    {
+      "id": "6963bec06085d0016b9a",
+      "published_at": "2026-07-29T10:00:00+09:00",
+      "security_code": "3733",
+      "company_name": "ソフトウェアＳ",
+      "title": "主要株主である筆頭株主及び主要株主の異動に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260728501097.pdf"
+    },
+    {
+      "id": "29ce3b43f360df7a09fd",
+      "published_at": "2026-07-29T10:00:00+09:00",
+      "security_code": "5344",
+      "company_name": "ＭＡＲＵＷＡ",
+      "title": "2027年３月期 第１四半期決算短信〔日本基準〕（連結）",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260728501211.pdf"
+    },
+    {
+      "id": "2f5fd0c09cc7e14fccda",
+      "published_at": "2026-07-29T10:00:00+09:00",
+      "security_code": "5344",
+      "company_name": "ＭＡＲＵＷＡ",
+      "title": "業績予想の修正に関するお知らせ",
+      "category": "業績予想修正",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260728501216.pdf"
+    },
+    {
+      "id": "53b5beec3385189d6e99",
+      "published_at": "2026-07-29T10:00:00+09:00",
+      "security_code": "5905",
+      "company_name": "日缶",
+      "title": "主要株主の異動に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260729501386.pdf"
+    },
+    {
+      "id": "d0e091d38c81354091ae",
+      "published_at": "2026-07-29T09:37:00+09:00",
+      "security_code": "5845",
+      "company_name": "全保連",
+      "title": "第2四半期（中間期）及び通期業績予想の修正（上方修正）、並びに期末配当予想の修正（増配）に関するお知らせ",
+      "category": "増配",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260728501231.pdf"
+    },
+    {
+      "id": "7257130dcaf3aa104237",
+      "published_at": "2026-07-29T09:30:00+09:00",
+      "security_code": "3498",
+      "company_name": "霞ヶ関キャピタル",
+      "title": "地震の影響に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260729501375.pdf"
+    },
+    {
+      "id": "24db0e8f5984912f0a0d",
+      "published_at": "2026-07-29T09:30:00+09:00",
+      "security_code": "8273",
+      "company_name": "イズミ",
+      "title": "「令和８年熊本地震」の影響に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260729501351.pdf"
+    },
+    {
+      "id": "9bddd5f4f15fe5015808",
+      "published_at": "2026-07-29T09:00:00+09:00",
+      "security_code": "4043",
+      "company_name": "トクヤマ",
+      "title": "2027年3月期 第1四半期決算短信〔日本基準〕（連結）",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260703587638.pdf"
+    },
+    {
+      "id": "87dd99b31fd3a026ffdc",
+      "published_at": "2026-07-29T09:00:00+09:00",
+      "security_code": "4043",
+      "company_name": "トクヤマ",
+      "title": "2027年3月期 第1四半期決算説明資料",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260703587694.pdf"
+    },
+    {
+      "id": "88829a49e7057d7981aa",
+      "published_at": "2026-07-29T09:00:00+09:00",
+      "security_code": "4043",
+      "company_name": "トクヤマ",
+      "title": "2027年3月期 通期業績予想および配当予想に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260727500375.pdf"
+    },
+    {
+      "id": "1b9a18b9dd3bcc7a10a6",
+      "published_at": "2026-07-29T08:45:00+09:00",
+      "security_code": "1672",
+      "company_name": "Ｅ－ＷｉｓｄｏｍＴｒ",
+      "title": "上場ETF（管理会社：WisdomTree、外国投資法人：MSL）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260729501346.pdf"
+    },
+    {
+      "id": "d1ff2b4550dacc875d98",
+      "published_at": "2026-07-29T08:45:00+09:00",
+      "security_code": "1672",
+      "company_name": "Ｅ－ＷｉｓｄｏｍＴｒ",
+      "title": "上場ETF（管理会社：WisdomTree、外国投資法人：CSL）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260729501347.pdf"
+    },
+    {
+      "id": "644d1ec1a0c506e30b09",
+      "published_at": "2026-07-29T08:30:00+09:00",
+      "security_code": "2334",
+      "company_name": "Ｇ－イオレ",
+      "title": "（開示事項の経過）「Neo Crypto Bank構想」における新規デジタルアセットHyperliquid（HYPE）取得開始のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260727500114.pdf"
+    },
+    {
+      "id": "80fc40c634a501fd04e4",
+      "published_at": "2026-07-29T08:30:00+09:00",
+      "security_code": "5074",
+      "company_name": "テスホールディングス",
+      "title": "令和８年熊本地震の影響に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260728500535.pdf"
+    },
     {
       "id": "b624a0abec7f6676b76c",
       "published_at": "2026-07-28T18:30:00+09:00",
