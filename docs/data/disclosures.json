@@ -1,7 +1,17 @@
 {
   "sample": false,
-  "last_success_at": "2026-07-30T18:38:30+09:00",
+  "last_success_at": "2026-07-30T19:54:31+09:00",
   "disclosures": [
+    {
+      "id": "c4dfdd7bf6891decb906",
+      "published_at": "2026-07-30T19:00:00+09:00",
+      "security_code": "2667",
+      "company_name": "イメージワン",
+      "title": "有償ストック・オプション （「第15回新株予約権」）の発行に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260730504111.pdf"
+    },
     {
       "id": "85ed48f8ce7d7450edf8",
       "published_at": "2026-07-30T18:00:00+09:00",
