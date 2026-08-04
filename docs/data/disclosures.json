@@ -1,7 +1,17 @@
 {
   "sample": false,
-  "last_success_at": "2026-08-04T19:17:07+09:00",
+  "last_success_at": "2026-08-04T20:36:42+09:00",
   "disclosures": [
+    {
+      "id": "39a5252507173fa636dd",
+      "published_at": "2026-08-04T19:30:00+09:00",
+      "security_code": "7203",
+      "company_name": "トヨタ自",
+      "title": "2027年３月期 第１四半期決算 投資家向け決算説明会 質疑応答（要旨）",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260804507895.pdf"
+    },
     {
       "id": "5c6030a2c873225929c2",
       "published_at": "2026-08-04T19:00:00+09:00",
