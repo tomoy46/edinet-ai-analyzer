@@ -1,7 +1,57 @@
 {
   "sample": false,
-  "last_success_at": "2026-08-05T19:13:34+09:00",
+  "last_success_at": "2026-08-05T20:32:56+09:00",
   "disclosures": [
+    {
+      "id": "25645fbdbbb7027d55ec",
+      "published_at": "2026-08-05T20:00:00+09:00",
+      "security_code": "4320",
+      "company_name": "ＣＥＨＤ",
+      "title": "SK-03株式会社による株式会社ＣＥホールディングスの株式（証券コード4320） に対する公開買付けの開始に関するお知らせ",
+      "category": "TOB",
+      "importance": 5,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260805510843.pdf"
+    },
+    {
+      "id": "a7a0610a3b2b993cdc38",
+      "published_at": "2026-08-05T20:00:00+09:00",
+      "security_code": "4320",
+      "company_name": "ＣＥＨＤ",
+      "title": "SK-03株式会社による当社株式に対する公開買付けに関する賛同及び応募中立の意見表明に関するお知らせ",
+      "category": "TOB",
+      "importance": 5,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260805510436.pdf"
+    },
+    {
+      "id": "4da28ff38e28e4122b68",
+      "published_at": "2026-08-05T20:00:00+09:00",
+      "security_code": "4320",
+      "company_name": "ＣＥＨＤ",
+      "title": "自己株式の公開買付けの開始予定に関するお知らせ",
+      "category": "TOB",
+      "importance": 5,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260805510437.pdf"
+    },
+    {
+      "id": "dac70cf7eb1aeaecf227",
+      "published_at": "2026-08-05T20:00:00+09:00",
+      "security_code": "4320",
+      "company_name": "ＣＥＨＤ",
+      "title": "2026年９月期 第３四半期決算短信〔日本基準〕（連結）",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260805510461.pdf"
+    },
+    {
+      "id": "4b7d1161767928af049c",
+      "published_at": "2026-08-05T20:00:00+09:00",
+      "security_code": "4320",
+      "company_name": "ＣＥＨＤ",
+      "title": "2026年９月期の期末配当予想の修正（無配）に関するお知らせ",
+      "category": "減配",
+      "importance": 5,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260805510969.pdf"
+    },
     {
       "id": "dc033e2abc08041304b3",
       "published_at": "2026-08-05T19:00:00+09:00",
