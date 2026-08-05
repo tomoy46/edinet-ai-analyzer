@@ -1,7 +1,917 @@
 {
   "sample": false,
-  "last_success_at": "2026-08-05T01:25:18+09:00",
+  "last_success_at": "2026-08-05T13:17:59+09:00",
   "disclosures": [
+    {
+      "id": "9a678dccaf97bb5dba63",
+      "published_at": "2026-08-05T13:00:00+09:00",
+      "security_code": "1980",
+      "company_name": "ダイダン",
+      "title": "2027年３月期 第１四半期決算短信〔日本基準〕（連結）",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260804508639.pdf"
+    },
+    {
+      "id": "74373eddd77684ebacf0",
+      "published_at": "2026-08-05T13:00:00+09:00",
+      "security_code": "1980",
+      "company_name": "ダイダン",
+      "title": "2027年３月期 第１四半期決算説明",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260804508675.pdf"
+    },
+    {
+      "id": "80d9960846d60ff6de85",
+      "published_at": "2026-08-05T13:00:00+09:00",
+      "security_code": "2433",
+      "company_name": "博報堂ＤＹ",
+      "title": "2027年3月期 第1四半期 決算短信〔日本基準〕(連結)",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260803507324.pdf"
+    },
+    {
+      "id": "b99856148dbdd89443ce",
+      "published_at": "2026-08-05T13:00:00+09:00",
+      "security_code": "2433",
+      "company_name": "博報堂ＤＹ",
+      "title": "2027年3月期 第1四半期 決算説明会資料（決算パート）",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260803507593.pdf"
+    },
+    {
+      "id": "b56d32ec0c9adf347688",
+      "published_at": "2026-08-05T13:00:00+09:00",
+      "security_code": "3861",
+      "company_name": "王子ＨＤ",
+      "title": "2027年３月期 第１四半期決算短信〔日本基準〕(連結)",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260803507155.pdf"
+    },
+    {
+      "id": "6d85e651b1ad0ec7e4d8",
+      "published_at": "2026-08-05T13:00:00+09:00",
+      "security_code": "3861",
+      "company_name": "王子ＨＤ",
+      "title": "2027年３月期 第１四半期決算説明会資料",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260805509553.pdf"
+    },
+    {
+      "id": "045bb83f0ccc3cabe10f",
+      "published_at": "2026-08-05T13:00:00+09:00",
+      "security_code": "3941",
+      "company_name": "レンゴー",
+      "title": "2027年3月期 第1四半期決算短信〔日本基準〕(連結)",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260804509101.pdf"
+    },
+    {
+      "id": "a8547901084cb3efd93a",
+      "published_at": "2026-08-05T13:00:00+09:00",
+      "security_code": "4183",
+      "company_name": "三井化学",
+      "title": "2027年3月期 第１四半期決算短信［IFRS］（連結）",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260730502806.pdf"
+    },
+    {
+      "id": "eebf577399993862df94",
+      "published_at": "2026-08-05T13:00:00+09:00",
+      "security_code": "4183",
+      "company_name": "三井化学",
+      "title": "2026年度第1四半期決算の概要及び2026年度上期業績予想の概要",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260804508456.pdf"
+    },
+    {
+      "id": "7b09ee2c03d5a75f5cb7",
+      "published_at": "2026-08-05T13:00:00+09:00",
+      "security_code": "4624",
+      "company_name": "イサム塗料",
+      "title": "業績予想および配当予想に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260805509217.pdf"
+    },
+    {
+      "id": "31e05bd361d8be769b64",
+      "published_at": "2026-08-05T13:00:00+09:00",
+      "security_code": "4624",
+      "company_name": "イサム塗料",
+      "title": "2027年3月期 第1四半期決算短信〔日本基準〕（連結）",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260728501214.pdf"
+    },
+    {
+      "id": "26f1321286aea5e30644",
+      "published_at": "2026-08-05T13:00:00+09:00",
+      "security_code": "4687",
+      "company_name": "ＴＤＣソフト",
+      "title": "2027年３月期第１四半期決算短信〔日本基準〕（連結）",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260805509253.pdf"
+    },
+    {
+      "id": "3cbff62f985c687f8e37",
+      "published_at": "2026-08-05T13:00:00+09:00",
+      "security_code": "4687",
+      "company_name": "ＴＤＣソフト",
+      "title": "2027年３月期第１四半期決算短信〔日本基準〕（連結）補足資料",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260805509292.pdf"
+    },
+    {
+      "id": "b48ba9894a2e981f90a9",
+      "published_at": "2026-08-05T13:00:00+09:00",
+      "security_code": "5406",
+      "company_name": "神戸鋼",
+      "title": "2027年３月期 第１四半期決算短信〔日本基準〕（連結）",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260804509056.pdf"
+    },
+    {
+      "id": "135609a668b689a1a60f",
+      "published_at": "2026-08-05T13:00:00+09:00",
+      "security_code": "5406",
+      "company_name": "神戸鋼",
+      "title": "2026年度第1四半期 決算説明資料",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260805509676.pdf"
+    },
+    {
+      "id": "4496bc8553e37577a346",
+      "published_at": "2026-08-05T13:00:00+09:00",
+      "security_code": "5563",
+      "company_name": "新日本電工",
+      "title": "関係会社株式評価損の計上及び持分法による投資損失計上に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260805509630.pdf"
+    },
+    {
+      "id": "61f275a92cac612e68fa",
+      "published_at": "2026-08-05T13:00:00+09:00",
+      "security_code": "5563",
+      "company_name": "新日本電工",
+      "title": "自己株式の消却に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260805509639.pdf"
+    },
+    {
+      "id": "589de74ebe3c521f49ff",
+      "published_at": "2026-08-05T13:00:00+09:00",
+      "security_code": "5563",
+      "company_name": "新日本電工",
+      "title": "業績予想及び配当予想の修正に関するお知らせ",
+      "category": "その他",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260805509622.pdf"
+    },
+    {
+      "id": "ed07950e64d97be58750",
+      "published_at": "2026-08-05T13:00:00+09:00",
+      "security_code": "5563",
+      "company_name": "新日本電工",
+      "title": "2026年12月期 第２四半期（中間期）決算短信〔日本基準〕（連結）",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260805509563.pdf"
+    },
+    {
+      "id": "55f335996adff68a9e66",
+      "published_at": "2026-08-05T13:00:00+09:00",
+      "security_code": "5563",
+      "company_name": "新日本電工",
+      "title": "2026年12月期 第２四半期（中間期）決算説明資料",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260805509573.pdf"
+    },
+    {
+      "id": "3f2c6749a4eb40983d5e",
+      "published_at": "2026-08-05T13:00:00+09:00",
+      "security_code": "6768",
+      "company_name": "タムラ製",
+      "title": "2027年3月期 第1四半期決算短信〔日本基準〕（連結）",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260731505031.pdf"
+    },
+    {
+      "id": "232ec6636e1e74248374",
+      "published_at": "2026-08-05T13:00:00+09:00",
+      "security_code": "6768",
+      "company_name": "タムラ製",
+      "title": "2027年3月期 第1四半期決算概要説明資料",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260805509799.pdf"
+    },
+    {
+      "id": "12a5fc1f4e80f9e84921",
+      "published_at": "2026-08-05T13:00:00+09:00",
+      "security_code": "6994",
+      "company_name": "指月電",
+      "title": "2027年３月期 第１四半期決算短信〔日本基準〕（連結）",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260717596178.pdf"
+    },
+    {
+      "id": "01079a4bdb85f8a9a4bf",
+      "published_at": "2026-08-05T13:00:00+09:00",
+      "security_code": "6994",
+      "company_name": "指月電",
+      "title": "2027年3月期第2四半期（中間期）及び通期連結業績予想並びに配当予想の修正に関するお知らせ",
+      "category": "その他",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260730503043.pdf"
+    },
+    {
+      "id": "14bb56c338c517b2092d",
+      "published_at": "2026-08-05T13:00:00+09:00",
+      "security_code": "6994",
+      "company_name": "指月電",
+      "title": "2027年３月期（2026年度）第１四半期 決算説明資料",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260730503052.pdf"
+    },
+    {
+      "id": "0b6c7c458cb8452f3658",
+      "published_at": "2026-08-05T13:00:00+09:00",
+      "security_code": "7013",
+      "company_name": "ＩＨＩ",
+      "title": "2027年3月期 第1四半期決算短信〔IFRS〕（連結）",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260805509194.pdf"
+    },
+    {
+      "id": "f6a99c4804bf3f6738af",
+      "published_at": "2026-08-05T13:00:00+09:00",
+      "security_code": "7013",
+      "company_name": "ＩＨＩ",
+      "title": "2026年度（2027年3月期）第1四半期決算説明資料（IFRS）",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260805509351.pdf"
+    },
+    {
+      "id": "205df6c1d6e01b96ae3e",
+      "published_at": "2026-08-05T13:00:00+09:00",
+      "security_code": "7246",
+      "company_name": "プレス工",
+      "title": "2027年３月期第１四半期決算短信〔日本基準〕（連結）",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260709590459.pdf"
+    },
+    {
+      "id": "664e14732bded6a3ef7d",
+      "published_at": "2026-08-05T13:00:00+09:00",
+      "security_code": "7246",
+      "company_name": "プレス工",
+      "title": "2027年３月期第２四半期（累計）及び通期連結業績予想の修正に関するお知らせ",
+      "category": "業績予想修正",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260803507175.pdf"
+    },
+    {
+      "id": "e74007c84927375e65ee",
+      "published_at": "2026-08-05T13:00:00+09:00",
+      "security_code": "7246",
+      "company_name": "プレス工",
+      "title": "2027年３月期中間配当及び期末配当予想の修正（増配）に関するお知らせ",
+      "category": "増配",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260803507215.pdf"
+    },
+    {
+      "id": "bf6dd3fff63fa07ad4f5",
+      "published_at": "2026-08-05T13:00:00+09:00",
+      "security_code": "7270",
+      "company_name": "ＳＵＢＡＲＵ",
+      "title": "2027年３月期 第１四半期決算短信〔ＩＦＲＳ〕（連結）",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260804509070.pdf"
+    },
+    {
+      "id": "cde6331cd7c041526d50",
+      "published_at": "2026-08-05T13:00:00+09:00",
+      "security_code": "7270",
+      "company_name": "ＳＵＢＡＲＵ",
+      "title": "新たな事業の開始に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260805509528.pdf"
+    },
+    {
+      "id": "42729423d59a60068ea1",
+      "published_at": "2026-08-05T13:00:00+09:00",
+      "security_code": "7270",
+      "company_name": "ＳＵＢＡＲＵ",
+      "title": "2027年３月期 第１四半期決算 アナリスト向け説明会資料",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260804509077.pdf"
+    },
+    {
+      "id": "e2da2b2b6d2b67f8a383",
+      "published_at": "2026-08-05T13:00:00+09:00",
+      "security_code": "7280",
+      "company_name": "ミツバ",
+      "title": "2027年3月期 第1四半期決算短信〔日本基準〕（連結）",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260730502713.pdf"
+    },
+    {
+      "id": "61f76d1f70235b1ed11b",
+      "published_at": "2026-08-05T13:00:00+09:00",
+      "security_code": "7280",
+      "company_name": "ミツバ",
+      "title": "2027年3月期 第1四半期決算補足説明資料",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260728501033.pdf"
+    },
+    {
+      "id": "7f99769e917d54bc1f6e",
+      "published_at": "2026-08-05T13:00:00+09:00",
+      "security_code": "7966",
+      "company_name": "リンテック",
+      "title": "譲渡制限付株式報酬としての自己株式の処分の払込完了に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260805509492.pdf"
+    },
+    {
+      "id": "158dc9754f3ba24d45d9",
+      "published_at": "2026-08-05T13:00:00+09:00",
+      "security_code": "8166",
+      "company_name": "タカキュー",
+      "title": "月次売上高前年比情報（速報）のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260805509520.pdf"
+    },
+    {
+      "id": "0eabc742310d87bbbac2",
+      "published_at": "2026-08-05T13:00:00+09:00",
+      "security_code": "8630",
+      "company_name": "ＳＯＭＰＯＨＤ",
+      "title": "自己株式の取得状況に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260803507437.pdf"
+    },
+    {
+      "id": "409609bd0b3269554c79",
+      "published_at": "2026-08-05T13:00:00+09:00",
+      "security_code": "9027",
+      "company_name": "ロジネットＪ",
+      "title": "2027年３月期第１四半期決算短信〔日本基準〕（連結）",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260722597817.pdf"
+    },
+    {
+      "id": "eee41d1fe7d9f4dc8ff8",
+      "published_at": "2026-08-05T13:00:00+09:00",
+      "security_code": "9027",
+      "company_name": "ロジネットＪ",
+      "title": "2027年３月期 第１四半期決算説明資料",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260805509869.pdf"
+    },
+    {
+      "id": "2dd8eaf345ec55f01102",
+      "published_at": "2026-08-05T12:30:00+09:00",
+      "security_code": "2892",
+      "company_name": "日食化",
+      "title": "自己株式の取得状況に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260805509272.pdf"
+    },
+    {
+      "id": "5c9359b7c844265a5305",
+      "published_at": "2026-08-05T12:30:00+09:00",
+      "security_code": "2970",
+      "company_name": "ＧＬＣ ＧＲＯＵＰ",
+      "title": "2026年12月期月次概況（7月度速報）のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260805509359.pdf"
+    },
+    {
+      "id": "79c6344732f4a4ab6ebb",
+      "published_at": "2026-08-05T12:30:00+09:00",
+      "security_code": "3036",
+      "company_name": "アルコニックス",
+      "title": "2027年３月期 第１四半期決算短信〔日本基準〕（連結）",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260804507949.pdf"
+    },
+    {
+      "id": "d0d19a55efed773f31f4",
+      "published_at": "2026-08-05T12:30:00+09:00",
+      "security_code": "3036",
+      "company_name": "アルコニックス",
+      "title": "2027年3月期連結業績予想及び配当予想の修正に関するお知らせ",
+      "category": "その他",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260804507813.pdf"
+    },
+    {
+      "id": "a1b1beb844cc57b2758e",
+      "published_at": "2026-08-05T12:30:00+09:00",
+      "security_code": "3036",
+      "company_name": "アルコニックス",
+      "title": "2027 年３月期第１四半期末のその他有価証券評価差額金の増加に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260804507834.pdf"
+    },
+    {
+      "id": "2838512b509366b66af2",
+      "published_at": "2026-08-05T12:30:00+09:00",
+      "security_code": "3036",
+      "company_name": "アルコニックス",
+      "title": "譲渡制限付株式報酬としての新株式の発行の払込完了に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260804507760.pdf"
+    },
+    {
+      "id": "cfd00fd7cfb0d326e7b7",
+      "published_at": "2026-08-05T12:30:00+09:00",
+      "security_code": "4792",
+      "company_name": "山田コンサル",
+      "title": "2027年3月期 第1四半期決算短信〔日本基準〕（連結）",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260805509709.pdf"
+    },
+    {
+      "id": "aaa56ef0dac16a12bf66",
+      "published_at": "2026-08-05T12:10:00+09:00",
+      "security_code": "1329",
+      "company_name": "ｉＳ２２５",
+      "title": "ＥＴＦの収益分配金見込額のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260805509831.pdf"
+    },
+    {
+      "id": "07b074dc5905f50fb104",
+      "published_at": "2026-08-05T12:10:00+09:00",
+      "security_code": "1364",
+      "company_name": "ｉＳＪＰＸ日経４００",
+      "title": "ＥＴＦの収益分配金見込額のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260805509832.pdf"
+    },
+    {
+      "id": "cf71e1f42461d7ef784e",
+      "published_at": "2026-08-05T12:10:00+09:00",
+      "security_code": "1475",
+      "company_name": "ｉＳＴＯＰＩＸ",
+      "title": "ＥＴＦの収益分配金見込額のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260805509833.pdf"
+    },
+    {
+      "id": "ff76d3fbe51ab415577f",
+      "published_at": "2026-08-05T12:10:00+09:00",
+      "security_code": "1476",
+      "company_name": "ｉＳＪリート",
+      "title": "ＥＴＦの収益分配金見込額のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260805509834.pdf"
+    },
+    {
+      "id": "31602bfa56156725e14b",
+      "published_at": "2026-08-05T12:10:00+09:00",
+      "security_code": "1477",
+      "company_name": "ｉＳＭＳＣＩ最小分散",
+      "title": "ＥＴＦの収益分配金見込額のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260805509835.pdf"
+    },
+    {
+      "id": "6360ded0315d972982fa",
+      "published_at": "2026-08-05T12:10:00+09:00",
+      "security_code": "1478",
+      "company_name": "ｉＳＭＳＣＩ高配当",
+      "title": "ＥＴＦの収益分配金見込額のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260805509836.pdf"
+    },
+    {
+      "id": "13384c80b2b8ad51cc55",
+      "published_at": "2026-08-05T12:10:00+09:00",
+      "security_code": "1483",
+      "company_name": "ｉＳ設備人材",
+      "title": "ＥＴＦの収益分配金見込額のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260805509837.pdf"
+    },
+    {
+      "id": "db1e06267a6863d8f5ca",
+      "published_at": "2026-08-05T12:10:00+09:00",
+      "security_code": "1655",
+      "company_name": "ｉＳＳＰ５００米国株",
+      "title": "ＥＴＦの収益分配金見込額のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260805509838.pdf"
+    },
+    {
+      "id": "bad45f1cd7d729f5f3fa",
+      "published_at": "2026-08-05T12:10:00+09:00",
+      "security_code": "1657",
+      "company_name": "ｉＳＭＳＣＩ先進国株",
+      "title": "ＥＴＦの収益分配金見込額のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260805509839.pdf"
+    },
+    {
+      "id": "e1a63aee911992dbbe4e",
+      "published_at": "2026-08-05T12:10:00+09:00",
+      "security_code": "1658",
+      "company_name": "ｉＳＭＳＣＩ新興国株",
+      "title": "ＥＴＦの収益分配金見込額のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260805509840.pdf"
+    },
+    {
+      "id": "35b024fe688219ab84bf",
+      "published_at": "2026-08-05T12:10:00+09:00",
+      "security_code": "1659",
+      "company_name": "ｉＳ米国リート",
+      "title": "ＥＴＦの収益分配金見込額のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260805509841.pdf"
+    },
+    {
+      "id": "7ef20450ae91db900da8",
+      "published_at": "2026-08-05T12:10:00+09:00",
+      "security_code": "2013",
+      "company_name": "ｉＳ米国高配当株",
+      "title": "ＥＴＦの収益分配金見込額のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260805509842.pdf"
+    },
+    {
+      "id": "5c81ca1a88e49e1a4a5b",
+      "published_at": "2026-08-05T12:10:00+09:00",
+      "security_code": "2014",
+      "company_name": "ｉＳ米国連続増配株",
+      "title": "ＥＴＦの収益分配金見込額のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260805509843.pdf"
+    },
+    {
+      "id": "9f75f33966c5369fc680",
+      "published_at": "2026-08-05T12:10:00+09:00",
+      "security_code": "2250",
+      "company_name": "ｉＳＭＳＣＩ日株気候",
+      "title": "ＥＴＦの収益分配金見込額のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260805509845.pdf"
+    },
+    {
+      "id": "e0cda2d90d0568ae0145",
+      "published_at": "2026-08-05T12:10:00+09:00",
+      "security_code": "2522",
+      "company_name": "ｉＳロボット",
+      "title": "ＥＴＦの収益分配金見込額のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260805509846.pdf"
+    },
+    {
+      "id": "19f95383b9abcb1a461d",
+      "published_at": "2026-08-05T12:10:00+09:00",
+      "security_code": "2563",
+      "company_name": "ｉＳＳＰ５百米株ヘジ",
+      "title": "ＥＴＦの収益分配金見込額のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260805509847.pdf"
+    },
+    {
+      "id": "940741c7402f6b68e38d",
+      "published_at": "2026-08-05T12:10:00+09:00",
+      "security_code": "2851",
+      "company_name": "ｉＳＭＳＣＩＪＳＲＩ",
+      "title": "ＥＴＦの収益分配金見込額のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260805509848.pdf"
+    },
+    {
+      "id": "a4ce62eb3baafd281805",
+      "published_at": "2026-08-05T12:10:00+09:00",
+      "security_code": "2852",
+      "company_name": "ｉＳグリーンＪリート",
+      "title": "ＥＴＦの収益分配金見込額のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260805509849.pdf"
+    },
+    {
+      "id": "b9ce5ce88a8a60e2ee05",
+      "published_at": "2026-08-05T12:00:00+09:00",
+      "security_code": "1812",
+      "company_name": "鹿島",
+      "title": "2027年3月期 第1四半期決算短信〔日本基準〕(連結)",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260803506195.pdf"
+    },
+    {
+      "id": "1de178a2dc3f4ac5ac0f",
+      "published_at": "2026-08-05T12:00:00+09:00",
+      "security_code": "1812",
+      "company_name": "鹿島",
+      "title": "自己株式の消却に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260804507695.pdf"
+    },
+    {
+      "id": "632820cda88aad66598c",
+      "published_at": "2026-08-05T12:00:00+09:00",
+      "security_code": "2371",
+      "company_name": "カカクコム",
+      "title": "2027年3月期 第1四半期決算短信〔IFRS〕（連結）",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260731505132.pdf"
+    },
+    {
+      "id": "2c90fe6f0207b55bf87a",
+      "published_at": "2026-08-05T12:00:00+09:00",
+      "security_code": "4177",
+      "company_name": "Ｇ－ｉ－ｐｌｕｇ",
+      "title": "2026年７月度 主要ＫＰＩ（速報）の推移に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260805509542.pdf"
+    },
+    {
+      "id": "0925f8154c57b5c5aab4",
+      "published_at": "2026-08-05T12:00:00+09:00",
+      "security_code": "4588",
+      "company_name": "Ｇ－オンコリスバイオ",
+      "title": "腫瘍溶解ウイルス テロメライシン注の中医協における薬価案の審議結果に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260805509500.pdf"
+    },
+    {
+      "id": "5e3f38476060b071fc2d",
+      "published_at": "2026-08-05T12:00:00+09:00",
+      "security_code": "5015",
+      "company_name": "ＢＰカストロール",
+      "title": "2026年12月期 第２四半期（中間期）決算短信〔日本基準〕(非連結)",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260805509227.pdf"
+    },
+    {
+      "id": "1f58b779cbeda3ff6e12",
+      "published_at": "2026-08-05T12:00:00+09:00",
+      "security_code": "5015",
+      "company_name": "ＢＰカストロール",
+      "title": "2026年12月期第２四半期（中間期）個別業績予想と実績値との差異及び通期個別業績予想の修正に関するお知らせ",
+      "category": "業績予想修正",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260805509241.pdf"
+    },
+    {
+      "id": "4a21249da07d95f389ee",
+      "published_at": "2026-08-05T12:00:00+09:00",
+      "security_code": "5015",
+      "company_name": "ＢＰカストロール",
+      "title": "剰余金の配当（中間配当）及び期末配当予想の修正に関するお知らせ",
+      "category": "その他",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260805509317.pdf"
+    },
+    {
+      "id": "eba4466d91a27ea59f52",
+      "published_at": "2026-08-05T12:00:00+09:00",
+      "security_code": "6059",
+      "company_name": "ウチヤマＨＤ",
+      "title": "2027年３月期対前年比較月次速報",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260805509135.pdf"
+    },
+    {
+      "id": "81bed63e59d285210d91",
+      "published_at": "2026-08-05T12:00:00+09:00",
+      "security_code": "6522",
+      "company_name": "Ｇ－アスタリスク",
+      "title": "株主優待（設立20 周年記念株主優待）の実施に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260729502526.pdf"
+    },
+    {
+      "id": "53710ab20a380bbfc7ba",
+      "published_at": "2026-08-05T12:00:00+09:00",
+      "security_code": "7075",
+      "company_name": "Ｇ－ＱＬＳ",
+      "title": "2027年３月期 第１四半期決算短信〔日本基準〕（連結）",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260805509785.pdf"
+    },
+    {
+      "id": "838729f35c92682070e1",
+      "published_at": "2026-08-05T12:00:00+09:00",
+      "security_code": "7561",
+      "company_name": "ハークスレイＨＤ",
+      "title": "2027年３月期第１四半期決算短信〔日本基準〕（連結）",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260804507832.pdf"
+    },
+    {
+      "id": "17d1e8f67f71560899e5",
+      "published_at": "2026-08-05T12:00:00+09:00",
+      "security_code": "7561",
+      "company_name": "ハークスレイＨＤ",
+      "title": "業績予想の修正に関するお知らせ",
+      "category": "業績予想修正",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260804508067.pdf"
+    },
+    {
+      "id": "47cbb6481e34996387b0",
+      "published_at": "2026-08-05T12:00:00+09:00",
+      "security_code": "7561",
+      "company_name": "ハークスレイＨＤ",
+      "title": "2027年３月期第１四半期（FY27１Q）決算補足説明資料",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260804508074.pdf"
+    },
+    {
+      "id": "4ad920df8e43dea5adee",
+      "published_at": "2026-08-05T12:00:00+09:00",
+      "security_code": "9101",
+      "company_name": "郵船",
+      "title": "2027年3月期 第1四半期決算短信〔日本基準〕（連結）",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260804508407.pdf"
+    },
+    {
+      "id": "d92bfdf30d04fef32e57",
+      "published_at": "2026-08-05T12:00:00+09:00",
+      "security_code": "9101",
+      "company_name": "郵船",
+      "title": "2027年３月期 配当予想の修正に関するお知らせ",
+      "category": "その他",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260805509362.pdf"
+    },
+    {
+      "id": "16abbfa919254d63ec84",
+      "published_at": "2026-08-05T12:00:00+09:00",
+      "security_code": "9327",
+      "company_name": "イー・ロジット",
+      "title": "新株予約権の譲渡承認に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260805509205.pdf"
+    },
+    {
+      "id": "09a7a4e14fe13462e944",
+      "published_at": "2026-08-05T11:45:00+09:00",
+      "security_code": "1557",
+      "company_name": "Ｅ－ＳＳＧＡＴＣ",
+      "title": "State Street SPDR S&P500 ETFに関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260805509606.pdf"
+    },
+    {
+      "id": "448a513c17a8b6ab6f26",
+      "published_at": "2026-08-05T11:40:00+09:00",
+      "security_code": "1326",
+      "company_name": "Ｅ－ワールド",
+      "title": "SPDRゴールド・シェアに関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260805509601.pdf"
+    },
+    {
+      "id": "6432a487ceec812c84c6",
+      "published_at": "2026-08-05T11:35:00+09:00",
+      "security_code": "1349",
+      "company_name": "Ｅ－ＳＳＧＡ－ＳＩＮ",
+      "title": "アジア国債・公債ＥＴＦ（正式名称：ＡＢＦ汎アジア債券インデックス・ファンド）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260805509589.pdf"
+    },
+    {
+      "id": "0f6d6becfbb786f3a13e",
+      "published_at": "2026-08-05T11:30:00+09:00",
+      "security_code": "1969",
+      "company_name": "高砂熱",
+      "title": "2027年３月期 第１四半期決算短信 〔日本基準〕（連結）",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260804508626.pdf"
+    },
+    {
+      "id": "1a1dbc893afae289d5cd",
+      "published_at": "2026-08-05T11:30:00+09:00",
+      "security_code": "1969",
+      "company_name": "高砂熱",
+      "title": "2026年度第１四半期 決算説明資料",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260804508492.pdf"
+    },
+    {
+      "id": "de5138d8d21322ebbfb3",
+      "published_at": "2026-08-05T11:30:00+09:00",
+      "security_code": "2070",
+      "company_name": "Ｎ－三菱ＵＦＪ証ＨＤ",
+      "title": "上場ETN（発行者：三菱UFJ証券ホールディングス株式会社）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260805509413.pdf"
+    },
+    {
+      "id": "35e26e3057fdd1b9da47",
+      "published_at": "2026-08-05T11:30:00+09:00",
+      "security_code": "2395",
+      "company_name": "新日科学",
+      "title": "2027年３月期 第１四半期決算短信〔日本基準〕（連結）",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260804508568.pdf"
+    },
+    {
+      "id": "488dab375600a7ab1b93",
+      "published_at": "2026-08-05T11:30:00+09:00",
+      "security_code": "2395",
+      "company_name": "新日科学",
+      "title": "2027年３月期 第１四半期決算説明資料（決算説明会資料）",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260730503325.pdf"
+    },
+    {
+      "id": "bd933148f168eadaeab4",
+      "published_at": "2026-08-05T11:30:00+09:00",
+      "security_code": "2395",
+      "company_name": "新日科学",
+      "title": "2027年３月期第２四半期（中間期）連結業績予想の修正に関するお知らせ",
+      "category": "業績予想修正",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260730503340.pdf"
+    },
     {
       "id": "39a5252507173fa636dd",
       "published_at": "2026-08-04T19:30:00+09:00",
