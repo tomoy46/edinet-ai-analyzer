@@ -1,7 +1,77 @@
 {
   "sample": false,
-  "last_success_at": "2026-08-07T18:45:22+09:00",
+  "last_success_at": "2026-08-07T20:28:18+09:00",
   "disclosures": [
+    {
+      "id": "371a25c601fb6c30c7da",
+      "published_at": "2026-08-07T20:00:00+09:00",
+      "security_code": "4735",
+      "company_name": "京進",
+      "title": "株式会社京進 中長期経営方針（2035年のありたい姿）に関するQ&A",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260807515831.pdf"
+    },
+    {
+      "id": "e9b1268f93c69a8d4394",
+      "published_at": "2026-08-07T19:50:00+09:00",
+      "security_code": "7567",
+      "company_name": "栄電子",
+      "title": "2027年3月期第2四半期（中間期）および通期業績予想の修正に関するお知らせ",
+      "category": "業績予想修正",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260807515819.pdf"
+    },
+    {
+      "id": "3b6e16c3a6419965ad96",
+      "published_at": "2026-08-07T19:50:00+09:00",
+      "security_code": "7567",
+      "company_name": "栄電子",
+      "title": "2027年3月期 第1四半期 決算短信〔日本基準〕（連結）",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260807515828.pdf"
+    },
+    {
+      "id": "3212ca886466f7c785f9",
+      "published_at": "2026-08-07T19:50:00+09:00",
+      "security_code": "7567",
+      "company_name": "栄電子",
+      "title": "2027年3月期 第1四半期 決算補足説明資料",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260807515834.pdf"
+    },
+    {
+      "id": "7c16844560a8c7434eb3",
+      "published_at": "2026-08-07T19:50:00+09:00",
+      "security_code": "7567",
+      "company_name": "栄電子",
+      "title": "2027年3月期 第1四半期 決算補足説明資料（データシート）",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260807515839.pdf"
+    },
+    {
+      "id": "e8a3c87fe82ac812f9de",
+      "published_at": "2026-08-07T19:30:00+09:00",
+      "security_code": "3948",
+      "company_name": "光ビジネス",
+      "title": "（訂正）「2026年12月期 第２四半期決算短信〔日本基準〕（非連結）」の一部訂正について",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260807515845.pdf"
+    },
+    {
+      "id": "537acf96e6da28320de3",
+      "published_at": "2026-08-07T19:15:00+09:00",
+      "security_code": "4053",
+      "company_name": "サンアスタリスク",
+      "title": "2026年12月期半期報告書の提出期限延長に係る承認申請の検討に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260807515835.pdf"
+    },
     {
       "id": "6d27395bb6ef4ab65b65",
       "published_at": "2026-08-07T18:30:00+09:00",
