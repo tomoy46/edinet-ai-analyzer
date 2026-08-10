@@ -1,7 +1,197 @@
 {
   "sample": false,
-  "last_success_at": "2026-08-10T17:54:12+09:00",
+  "last_success_at": "2026-08-10T19:45:59+09:00",
   "disclosures": [
+    {
+      "id": "7f62f3ae9e6729b994cf",
+      "published_at": "2026-08-10T18:40:00+09:00",
+      "security_code": "2517",
+      "company_name": "ＭＸＳＪリートコア",
+      "title": "ＭＡＸＩＳ ＥＴＦの収益分配のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260810517339.pdf"
+    },
+    {
+      "id": "81ce696cab6ab08984bb",
+      "published_at": "2026-08-10T18:40:00+09:00",
+      "security_code": "2838",
+      "company_name": "ＭＸ米債７－１０ヘ無",
+      "title": "ＭＡＸＩＳ ＥＴＦの収益分配のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260810517340.pdf"
+    },
+    {
+      "id": "48f141a51b8b8cfbe9ec",
+      "published_at": "2026-08-10T18:40:00+09:00",
+      "security_code": "2839",
+      "company_name": "ＭＸ米債７－１０ヘ有",
+      "title": "ＭＡＸＩＳ ＥＴＦの収益分配のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260810517361.pdf"
+    },
+    {
+      "id": "db3e6060da29998b53e9",
+      "published_at": "2026-08-10T18:40:00+09:00",
+      "security_code": "4883",
+      "company_name": "Ｇ－モダリス",
+      "title": "（訂正）2026年12月期第２四半期決算説明資料の訂正に関するお知らせ",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260810517182.pdf"
+    },
+    {
+      "id": "eb6e8a6f484534182f89",
+      "published_at": "2026-08-10T18:35:00+09:00",
+      "security_code": "1677",
+      "company_name": "上場外債",
+      "title": "ＥＴＦの収益分配のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260810517327.pdf"
+    },
+    {
+      "id": "8944cdb913bdedc67e90",
+      "published_at": "2026-08-10T18:35:00+09:00",
+      "security_code": "2093",
+      "company_name": "上場Ｔｒ米債０２ラダ",
+      "title": "ＥＴＦの収益分配のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260810517328.pdf"
+    },
+    {
+      "id": "557afdee40909e174403",
+      "published_at": "2026-08-10T18:35:00+09:00",
+      "security_code": "2843",
+      "company_name": "上場豪債ヘッジあり",
+      "title": "ＥＴＦの収益分配のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260810517329.pdf"
+    },
+    {
+      "id": "da6b6606e5794a568466",
+      "published_at": "2026-08-10T18:35:00+09:00",
+      "security_code": "2844",
+      "company_name": "上場豪債ヘッジなし",
+      "title": "ＥＴＦの収益分配のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260810517330.pdf"
+    },
+    {
+      "id": "dff3d7716fbf6f6ccfc4",
+      "published_at": "2026-08-10T18:35:00+09:00",
+      "security_code": "2861",
+      "company_name": "上場フランス国債Ｈ無",
+      "title": "ＥＴＦの収益分配のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260810517331.pdf"
+    },
+    {
+      "id": "c78bffebb568a229e4cf",
+      "published_at": "2026-08-10T18:35:00+09:00",
+      "security_code": "2862",
+      "company_name": "上場フランス国債Ｈ有",
+      "title": "ＥＴＦの収益分配のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260810517332.pdf"
+    },
+    {
+      "id": "dd374237480f1f0c885d",
+      "published_at": "2026-08-10T18:25:00+09:00",
+      "security_code": "1651",
+      "company_name": "ｉＦ高配当４０",
+      "title": "iFreeETFの収益分配のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260810517297.pdf"
+    },
+    {
+      "id": "c76b1993e76e5e2c36a5",
+      "published_at": "2026-08-10T18:00:00+09:00",
+      "security_code": "2865",
+      "company_name": "ＧＸＮＤＸカバコ",
+      "title": "ETFの収益分配のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260810517077.pdf"
+    },
+    {
+      "id": "cfcbbf60397bdd753c38",
+      "published_at": "2026-08-10T18:00:00+09:00",
+      "security_code": "2866",
+      "company_name": "ＧＸ優先証券",
+      "title": "ETFの収益分配のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260810517078.pdf"
+    },
+    {
+      "id": "e32e4fc119cbe4f3f43e",
+      "published_at": "2026-08-10T18:00:00+09:00",
+      "security_code": "2868",
+      "company_name": "ＧＸＳＰＸカバコ",
+      "title": "ETFの収益分配のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260810517073.pdf"
+    },
+    {
+      "id": "69d792f60e1dd172596e",
+      "published_at": "2026-08-10T18:00:00+09:00",
+      "security_code": "2901",
+      "company_name": "ウェルディッシュ",
+      "title": "（開示の経過）株主による臨時株主総会招集請求の取り下げに関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260810517302.pdf"
+    },
+    {
+      "id": "699d5e9e4afcaba856f1",
+      "published_at": "2026-08-10T18:00:00+09:00",
+      "security_code": "3350",
+      "company_name": "メタプラネット",
+      "title": "「（開示事項の経過）臨時株主総会招集のための基準日の取消し及び新たな基準日設定に関するお知らせ」の一部訂正に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260810517268.pdf"
+    },
+    {
+      "id": "c16feea6596ce85f5618",
+      "published_at": "2026-08-10T18:00:00+09:00",
+      "security_code": "5255",
+      "company_name": "Ｇ－モンスターラボ",
+      "title": "連結子会社の異動（株式交換）及び持分法適用関連会社の異動並びに利益の計上見込みに関するお知らせ",
+      "category": "M&A",
+      "importance": 5,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260810517063.pdf"
+    },
+    {
+      "id": "cccabdb7a02a658713d6",
+      "published_at": "2026-08-10T18:00:00+09:00",
+      "security_code": "6071",
+      "company_name": "ＩＢＪ",
+      "title": "「JPX 日経中小型株指数」構成銘柄に継続選定のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260810517199.pdf"
+    },
+    {
+      "id": "d748c8ad6acf54ce7370",
+      "published_at": "2026-08-10T18:00:00+09:00",
+      "security_code": "7063",
+      "company_name": "Ｇ－Ｂｉｒｄｍａｎ",
+      "title": "販売用不動産（系統用蓄電池用地及び発電設備等への送電系統に係る権利）の売却に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260810517255.pdf"
+    },
     {
       "id": "132c1873e741f368100a",
       "published_at": "2026-08-10T17:35:00+09:00",
