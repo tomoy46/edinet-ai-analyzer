@@ -1,7 +1,307 @@
 {
   "sample": false,
-  "last_success_at": "2026-08-11T18:32:27+09:00",
+  "last_success_at": "2026-08-12T11:36:06+09:00",
   "disclosures": [
+    {
+      "id": "f35b6659c1bd5e69997b",
+      "published_at": "2026-08-12T11:30:00+09:00",
+      "security_code": "2070",
+      "company_name": "Ｎ－三菱ＵＦＪ証ＨＤ",
+      "title": "上場ETN（発行者：三菱UFJ証券ホールディングス株式会社）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260812517818.pdf"
+    },
+    {
+      "id": "55c5ae81da9d14d94f7c",
+      "published_at": "2026-08-12T11:30:00+09:00",
+      "security_code": "3040",
+      "company_name": "ソリトンシステムズ",
+      "title": "2026年12月期 第２四半期（中間期）決算短信〔日本基準〕（連結）",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260810517136.pdf"
+    },
+    {
+      "id": "3d93e03bc12bc84d188a",
+      "published_at": "2026-08-12T11:30:00+09:00",
+      "security_code": "3040",
+      "company_name": "ソリトンシステムズ",
+      "title": "2026年12月期連結業績予想および期末配当予想の修正(増配）に関するお知らせ",
+      "category": "増配",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260810517049.pdf"
+    },
+    {
+      "id": "5426b211608d645a12e9",
+      "published_at": "2026-08-12T11:30:00+09:00",
+      "security_code": "7089",
+      "company_name": "Ｇ－フォースタ",
+      "title": "主要株主の異動に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260812517793.pdf"
+    },
+    {
+      "id": "67262c56c185a5e62e14",
+      "published_at": "2026-08-12T11:30:00+09:00",
+      "security_code": "7183",
+      "company_name": "あんしん保証",
+      "title": "2027年３月期第１四半期決算短信〔日本基準〕(非連結)",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260807515758.pdf"
+    },
+    {
+      "id": "2ef1ea1cda8b890031f1",
+      "published_at": "2026-08-12T11:30:00+09:00",
+      "security_code": "9780",
+      "company_name": "ハリマビステム",
+      "title": "2027年3月期 第1四半期決算短信〔日本基準〕（連結）",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260722597555.pdf"
+    },
+    {
+      "id": "0fa571e26f5a66b79e03",
+      "published_at": "2026-08-12T11:30:00+09:00",
+      "security_code": "9780",
+      "company_name": "ハリマビステム",
+      "title": "譲渡制限付株式報酬としての自己株式の処分の払込完了に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260812517884.pdf"
+    },
+    {
+      "id": "23b81675d7296e057bcb",
+      "published_at": "2026-08-12T11:00:00+09:00",
+      "security_code": "1795",
+      "company_name": "マサル",
+      "title": "2026年9月期第3四半期決算短信〔日本基準〕（連結）",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260611568323.pdf"
+    },
+    {
+      "id": "7a9cb765af855a2eff5e",
+      "published_at": "2026-08-12T11:00:00+09:00",
+      "security_code": "6089",
+      "company_name": "ウィルグループ",
+      "title": "2027年３月期 第１四半期決算説明会資料",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260810517197.pdf"
+    },
+    {
+      "id": "e70885abcb397242125e",
+      "published_at": "2026-08-12T10:30:00+09:00",
+      "security_code": "3392",
+      "company_name": "デリカフーズＨＤ",
+      "title": "譲渡制限付株式報酬としての自己株式の処分の払込完了に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260812517534.pdf"
+    },
+    {
+      "id": "96cd6738373849b23a46",
+      "published_at": "2026-08-12T10:30:00+09:00",
+      "security_code": "8023",
+      "company_name": "ＤＡＩＫＯＸＴ",
+      "title": "自己株式立会外買付取引（ToSTNeT-3）による自己株式の取得結果及び取得終了に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260810516340.pdf"
+    },
+    {
+      "id": "41cb5f9230f74de84676",
+      "published_at": "2026-08-12T10:00:00+09:00",
+      "security_code": "1329",
+      "company_name": "Ｅ－ブラックロック",
+      "title": "上場ETF（管理会社：ブラックロック・ジャパン）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260812517634.pdf"
+    },
+    {
+      "id": "d340e684cd2351a8ba72",
+      "published_at": "2026-08-12T10:00:00+09:00",
+      "security_code": "1671",
+      "company_name": "Ｅ－シンプレクス",
+      "title": "上場ＥＴＦ(管理会社：シンプレクス・アセット・マネジメント)に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260812517661.pdf"
+    },
+    {
+      "id": "c5bff8525d33019d72bb",
+      "published_at": "2026-08-12T10:00:00+09:00",
+      "security_code": "2524",
+      "company_name": "ＮＺＡＭ ＴＰＸ",
+      "title": "ETFの収益分配金見込額のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260812517676.pdf"
+    },
+    {
+      "id": "6956e21922c7a4b17cbf",
+      "published_at": "2026-08-12T10:00:00+09:00",
+      "security_code": "2525",
+      "company_name": "ＮＺＡＭ ２２５",
+      "title": "ETFの収益分配金見込額のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260812517677.pdf"
+    },
+    {
+      "id": "a6e64779e5c9e2342017",
+      "published_at": "2026-08-12T10:00:00+09:00",
+      "security_code": "2526",
+      "company_name": "ＮＺＡＭ ４００",
+      "title": "ETFの収益分配金見込額のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260812517678.pdf"
+    },
+    {
+      "id": "a2dae8755abffd665c5b",
+      "published_at": "2026-08-12T10:00:00+09:00",
+      "security_code": "2567",
+      "company_name": "ＮＺＡＭ カーボン",
+      "title": "ETFの収益分配金見込額のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260812517679.pdf"
+    },
+    {
+      "id": "03a479a8ea5fc6ca7a99",
+      "published_at": "2026-08-12T10:00:00+09:00",
+      "security_code": "3417",
+      "company_name": "大木ヘルスケア",
+      "title": "自己株式立会外買付取引（ToSTNeT‐3）による自己株式の取得結果及び取得終了に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260812517552.pdf"
+    },
+    {
+      "id": "0fce957b51f4270292ff",
+      "published_at": "2026-08-12T10:00:00+09:00",
+      "security_code": "7593",
+      "company_name": "ＶＴＨＤ",
+      "title": "自己株式立会外買付取引（ＴｏＳＴＮｅＴ－３）による自己株式の取得結果及び取得終了に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260807514246.pdf"
+    },
+    {
+      "id": "8a5a630930216edd0ade",
+      "published_at": "2026-08-12T09:30:00+09:00",
+      "security_code": "1672",
+      "company_name": "Ｅ－ＷｉｓｄｏｍＴｒ",
+      "title": "上場ETF（管理会社：WisdomTree、外国投資法人：MSL）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260812517596.pdf"
+    },
+    {
+      "id": "a7c4d34148cf99cc9a9b",
+      "published_at": "2026-08-12T09:30:00+09:00",
+      "security_code": "1672",
+      "company_name": "Ｅ－ＷｉｓｄｏｍＴｒ",
+      "title": "上場ETF（管理会社：WisdomTree、外国投資法人：CSL）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260812517597.pdf"
+    },
+    {
+      "id": "a026ffc3f9754cd8b0ef",
+      "published_at": "2026-08-12T09:15:00+09:00",
+      "security_code": "4888",
+      "company_name": "Ｇ－ステラファーマ",
+      "title": "中国本土市場への展開に向けたCBSH社およびPengbo社との開発および販売提携に関する契約締結のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260810517168.pdf"
+    },
+    {
+      "id": "6a16a3e0f3bac0c23f8e",
+      "published_at": "2026-08-12T09:00:00+09:00",
+      "security_code": "2164",
+      "company_name": "地域新聞社",
+      "title": "当社新株予約権の（一部）取得に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260812517575.pdf"
+    },
+    {
+      "id": "6307a6df7f7eb56aedb0",
+      "published_at": "2026-08-12T09:00:00+09:00",
+      "security_code": "3241",
+      "company_name": "ウィル",
+      "title": "2026年12月期 第2四半期（中間期）決算短信〔日本基準〕（連結）",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260721596798.pdf"
+    },
+    {
+      "id": "e88f853647ee587f1389",
+      "published_at": "2026-08-12T08:45:00+09:00",
+      "security_code": "4588",
+      "company_name": "Ｇ－オンコリスバイオ",
+      "title": "腫瘍溶解ウイルス テロメライシン注の薬価基準収載並びに保険適用に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260810516384.pdf"
+    },
+    {
+      "id": "63bf3bc27424d54d3cc2",
+      "published_at": "2026-08-12T08:30:00+09:00",
+      "security_code": "4005",
+      "company_name": "住友化",
+      "title": "当社グループに関するレポートについて",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260807515417.pdf"
+    },
+    {
+      "id": "d0713299357beda3b19c",
+      "published_at": "2026-08-12T08:30:00+09:00",
+      "security_code": "4506",
+      "company_name": "住友ファーマ",
+      "title": "当社に関するレポートについて「Part II - CiRA, Dr. Yamanaka, and the undisclosed history of image duplication concerns」に対する当社の見解",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260810517390.pdf"
+    },
+    {
+      "id": "14092b799eb09c67e8a2",
+      "published_at": "2026-08-12T08:30:00+09:00",
+      "security_code": "4587",
+      "company_name": "ペプチドリーム",
+      "title": "Novartis社による第1相臨床試験開始によるマイルストーンフィー受領のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260812517520.pdf"
+    },
+    {
+      "id": "d19abbfe60c5fbff7e5a",
+      "published_at": "2026-08-12T08:00:00+09:00",
+      "security_code": "3556",
+      "company_name": "Ｇ－リネットジャパン",
+      "title": "2026年9月期 第3四半期決算短信〔日本基準〕（連結）",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260810516164.pdf"
+    },
+    {
+      "id": "280296cfbe7c035a0395",
+      "published_at": "2026-08-12T08:00:00+09:00",
+      "security_code": "3556",
+      "company_name": "Ｇ－リネットジャパン",
+      "title": "2026年9月期 第3四半期決算補足資料",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260810516180.pdf"
+    },
     {
       "id": "dba8427f2214ba9b0b8c",
       "published_at": "2026-08-11T18:30:00+09:00",
