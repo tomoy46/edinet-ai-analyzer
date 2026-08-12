@@ -1,7 +1,67 @@
 {
   "sample": false,
-  "last_success_at": "2026-08-12T17:01:00+09:00",
+  "last_success_at": "2026-08-12T18:42:01+09:00",
   "disclosures": [
+    {
+      "id": "0f15677e3abf633488b7",
+      "published_at": "2026-08-12T17:45:00+09:00",
+      "security_code": "8518",
+      "company_name": "アジア投資",
+      "title": "主要株主の異動についてのお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260812518495.pdf"
+    },
+    {
+      "id": "6eedd9c353b10fadccaa",
+      "published_at": "2026-08-12T17:30:00+09:00",
+      "security_code": "2122",
+      "company_name": "Ｉスペース",
+      "title": "2026年9月期 第3四半期決算説明会資料",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260812518464.pdf"
+    },
+    {
+      "id": "01c74c0368d633fb253d",
+      "published_at": "2026-08-12T17:30:00+09:00",
+      "security_code": "4258",
+      "company_name": "Ｇ－網屋",
+      "title": "（訂正）「自己株式の取得及び自己株式立会外買付取引（ToSTNeT-3）による 自己株式の買付けに関するお知らせ」の一部訂正について",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260812518497.pdf"
+    },
+    {
+      "id": "d7759b68654586b3a39e",
+      "published_at": "2026-08-12T17:15:00+09:00",
+      "security_code": "4417",
+      "company_name": "Ｇ－グローバルセキュ",
+      "title": "（開示事項の経過）株式会社網屋との資本業務提携に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260812518426.pdf"
+    },
+    {
+      "id": "2c58cde9583ac43095f3",
+      "published_at": "2026-08-12T17:10:00+09:00",
+      "security_code": "3719",
+      "company_name": "ＡＩストーム",
+      "title": "令和８年12月期第２四半期決算短信の開示延期及び第63期半期報告書の提出期限の延長申請検討に関するお知らせ",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260812518467.pdf"
+    },
+    {
+      "id": "c9ca0e2b1f860b612c48",
+      "published_at": "2026-08-12T17:10:00+09:00",
+      "security_code": "3856",
+      "company_name": "Ａｂａｌａｎｃｅ",
+      "title": "過年度の有価証券報告書等の訂正及び2026年３月期等の決算短信見通し並びに2027年３月期第１四半期決算短信の開示が四半期末後45日を超えることに関するお知らせ",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260812518468.pdf"
+    },
     {
       "id": "e8cd5785d18ef0989864",
       "published_at": "2026-08-12T17:00:00+09:00",
