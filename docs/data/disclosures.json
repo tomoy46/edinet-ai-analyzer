@@ -1,7 +1,107 @@
 {
   "sample": false,
-  "last_success_at": "2026-08-13T17:02:38+09:00",
+  "last_success_at": "2026-08-13T18:42:10+09:00",
   "disclosures": [
+    {
+      "id": "f5ae6b8c44c7c5f5a3c3",
+      "published_at": "2026-08-13T18:30:00+09:00",
+      "security_code": "6571",
+      "company_name": "キュービーネットＨＤ",
+      "title": "2026年６月期 決算短信〔ＩＦＲＳ〕(連結)",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260812518483.pdf"
+    },
+    {
+      "id": "42a178ce8b2db6487c6e",
+      "published_at": "2026-08-13T18:30:00+09:00",
+      "security_code": "6571",
+      "company_name": "キュービーネットＨＤ",
+      "title": "2026年6月期連結業績予想値と決算値との差異に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260812518492.pdf"
+    },
+    {
+      "id": "1e967828ad51f2a27890",
+      "published_at": "2026-08-13T18:30:00+09:00",
+      "security_code": "6571",
+      "company_name": "キュービーネットＨＤ",
+      "title": "2026年６月期 決算説明資料",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260812517941.pdf"
+    },
+    {
+      "id": "ff1bcfffd5a297b9950f",
+      "published_at": "2026-08-13T18:00:00+09:00",
+      "security_code": "8570",
+      "company_name": "イオンＦＳ",
+      "title": "主要株主の異動に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260813519882.pdf"
+    },
+    {
+      "id": "025d61ed8f5f3f8642de",
+      "published_at": "2026-08-13T18:00:00+09:00",
+      "security_code": "8798",
+      "company_name": "アドバンスクリエイト",
+      "title": "2026年9月期第3四半期決算短信の開示が四半期末後45日を超えることに関するお知らせ",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260813519928.pdf"
+    },
+    {
+      "id": "14c011057ace8028f465",
+      "published_at": "2026-08-13T17:45:00+09:00",
+      "security_code": "2371",
+      "company_name": "カカクコム",
+      "title": "Kamgras １株式会社による株式会社カカクコム（証券コード：2371）の株券等に対する公開買付けの買付条件等の変更に関するお知らせ",
+      "category": "TOB",
+      "importance": 5,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260813519733.pdf"
+    },
+    {
+      "id": "102916518e4e5188650a",
+      "published_at": "2026-08-13T17:30:00+09:00",
+      "security_code": "6579",
+      "company_name": "Ｇ－ログリー",
+      "title": "2027年３月期 第１四半期決算短信〔日本基準〕（連結）",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260813519078.pdf"
+    },
+    {
+      "id": "9efb67c7b50a854da3b2",
+      "published_at": "2026-08-13T17:30:00+09:00",
+      "security_code": "6579",
+      "company_name": "Ｇ－ログリー",
+      "title": "2027年３月期 第１四半期決算説明資料",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260803506818.pdf"
+    },
+    {
+      "id": "3df2ce12b18f8622f350",
+      "published_at": "2026-08-13T17:30:00+09:00",
+      "security_code": "7042",
+      "company_name": "アクセスグループ",
+      "title": "アスリート学生向け就職支援サービス「スポキャリ事業」に関する株式会社スポキャリとの業務提携契約についてのお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260813519250.pdf"
+    },
+    {
+      "id": "bf37f3db0387d22a2030",
+      "published_at": "2026-08-13T17:15:00+09:00",
+      "security_code": "3350",
+      "company_name": "メタプラネット",
+      "title": "2026年12期第２四半期決算説明資料",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260812518572.pdf"
+    },
     {
       "id": "c9ad948d3b6693c57ea5",
       "published_at": "2026-08-13T17:00:00+09:00",
