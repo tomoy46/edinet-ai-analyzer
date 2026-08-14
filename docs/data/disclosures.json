@@ -1,7 +1,67 @@
 {
   "sample": false,
-  "last_success_at": "2026-08-13T18:42:10+09:00",
+  "last_success_at": "2026-08-14T09:51:38+09:00",
   "disclosures": [
+    {
+      "id": "e89cba1dc2f2b3dbe335",
+      "published_at": "2026-08-14T09:30:00+09:00",
+      "security_code": "8066",
+      "company_name": "三谷商",
+      "title": "自己株式立会外買付取引（ＴｏＳＴＮｅＴ－３）による自己株式の取得結果および取得終了に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260814520247.pdf"
+    },
+    {
+      "id": "2b187dab2b2375fa8f7e",
+      "published_at": "2026-08-14T08:55:00+09:00",
+      "security_code": "3856",
+      "company_name": "Ａｂａｌａｎｃｅ",
+      "title": "自己株式の取得状況に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260813520009.pdf"
+    },
+    {
+      "id": "65cdd5949f0d4abe5d1c",
+      "published_at": "2026-08-14T08:30:00+09:00",
+      "security_code": "1672",
+      "company_name": "Ｅ－ＷｉｓｄｏｍＴｒ",
+      "title": "上場ETF（管理会社：WisdomTree、外国投資法人：MSL）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260814520189.pdf"
+    },
+    {
+      "id": "3f17a60230e8ce8be821",
+      "published_at": "2026-08-14T08:30:00+09:00",
+      "security_code": "1672",
+      "company_name": "Ｅ－ＷｉｓｄｏｍＴｒ",
+      "title": "上場ETF（管理会社：WisdomTree、外国投資法人：CSL）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260814520191.pdf"
+    },
+    {
+      "id": "26fda6f1e3a722bdbb4d",
+      "published_at": "2026-08-14T08:30:00+09:00",
+      "security_code": "2371",
+      "company_name": "カカクコム",
+      "title": "（変更）「Kamgras １株式会社による当社株券等に対する公開買付けに関する賛同の意見表明及び応募推奨のお知らせ」の一部変更に関するお知らせ",
+      "category": "TOB",
+      "importance": 5,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260813520123.pdf"
+    },
+    {
+      "id": "2623f940e24339103a11",
+      "published_at": "2026-08-14T08:00:00+09:00",
+      "security_code": "4875",
+      "company_name": "メディシノバ",
+      "title": "2026年12月期 第2四半期（中間期）決算短信〔米国基準〕（連結）",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260813519351.pdf"
+    },
     {
       "id": "f5ae6b8c44c7c5f5a3c3",
       "published_at": "2026-08-13T18:30:00+09:00",
