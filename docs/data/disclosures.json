@@ -1,7 +1,177 @@
 {
   "sample": false,
-  "last_success_at": "2026-08-17T16:35:11+09:00",
+  "last_success_at": "2026-08-17T18:11:04+09:00",
   "disclosures": [
+    {
+      "id": "7c6188fe80af1bb15bc5",
+      "published_at": "2026-08-17T17:55:00+09:00",
+      "security_code": "4582",
+      "company_name": "Ｇ－シンバイオ製薬",
+      "title": "第２回普通社債の発行、第三者割当による第70回及び第71回新株予約権（行使価額修正条項付）の発行並びに新株予約権の取得及び消却に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260817522004.pdf"
+    },
+    {
+      "id": "2c3e83ad0a00d2ff6b39",
+      "published_at": "2026-08-17T17:40:00+09:00",
+      "security_code": "3202",
+      "company_name": "ダイトウボウ",
+      "title": "ストックオプション（新株予約権）の発行内容確定に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260817521556.pdf"
+    },
+    {
+      "id": "439243d238e03f16710e",
+      "published_at": "2026-08-17T17:40:00+09:00",
+      "security_code": "8979",
+      "company_name": "Ｒ－スターツＰＲ",
+      "title": "千葉県内の豪雨による運用資産への影響に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260817522034.pdf"
+    },
+    {
+      "id": "313b8702118f5006af8d",
+      "published_at": "2026-08-17T17:30:00+09:00",
+      "security_code": "7870",
+      "company_name": "福島印",
+      "title": "役員の異動及び事業執行体制に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260817522031.pdf"
+    },
+    {
+      "id": "36acfabbb3b82f38d84e",
+      "published_at": "2026-08-17T17:15:00+09:00",
+      "security_code": "3175",
+      "company_name": "ＡＰＨＤ",
+      "title": "（訂正）「譲渡制限付株式報酬としての自己株式処分に関するお知らせ」の一部訂正について",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260817522011.pdf"
+    },
+    {
+      "id": "3652dbf53f2b49699887",
+      "published_at": "2026-08-17T17:10:00+09:00",
+      "security_code": "4424",
+      "company_name": "Ｇ－Ａｍａｚｉａ",
+      "title": "出資先「株式会社Skyfall」の上場承認に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260817521715.pdf"
+    },
+    {
+      "id": "eec2c15e6c26cd9ad034",
+      "published_at": "2026-08-17T17:01:00+09:00",
+      "security_code": "7035",
+      "company_name": "ａｎｆａｃ",
+      "title": "当社投資先の東京証券取引所からの上場承認及び特別利益の計上見込みに関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260817521794.pdf"
+    },
+    {
+      "id": "5c2e0d104f29287f2c12",
+      "published_at": "2026-08-17T17:00:00+09:00",
+      "security_code": "2590",
+      "company_name": "ＤｙＤｏ",
+      "title": "取締役の委嘱業務変更および執行役員人事に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260817521910.pdf"
+    },
+    {
+      "id": "3fda56537ca3fb351dd5",
+      "published_at": "2026-08-17T17:00:00+09:00",
+      "security_code": "4019",
+      "company_name": "Ｇ－スタメン",
+      "title": "2026年12月期 第2四半期決算説明会書き起こし",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260817522017.pdf"
+    },
+    {
+      "id": "20aeb532df4d07445780",
+      "published_at": "2026-08-17T17:00:00+09:00",
+      "security_code": "4428",
+      "company_name": "Ｇ－シノプス",
+      "title": "自己株式の取得状況および取得完了に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260817521986.pdf"
+    },
+    {
+      "id": "83a2541aaa866c8da5f7",
+      "published_at": "2026-08-17T17:00:00+09:00",
+      "security_code": "5534",
+      "company_name": "Ｐ－エンゼルグループ",
+      "title": "通期連結業績予想の修正に関するお知らせ",
+      "category": "業績予想修正",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260817521941.pdf"
+    },
+    {
+      "id": "403916852a2513fed68a",
+      "published_at": "2026-08-17T17:00:00+09:00",
+      "security_code": "6036",
+      "company_name": "ＫｅｅＰｅｒ技研",
+      "title": "（訂正）「2026年6月期第2四半期 決算説明会資料」の一部訂正について",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260817521996.pdf"
+    },
+    {
+      "id": "8b4e24fb216377551caa",
+      "published_at": "2026-08-17T17:00:00+09:00",
+      "security_code": "7044",
+      "company_name": "ピアラ",
+      "title": "（訂正）「2026年12月期第２四半期（中間期）決算補足資料」の一部訂正について",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260817521821.pdf"
+    },
+    {
+      "id": "85029cb3611723903f9c",
+      "published_at": "2026-08-17T17:00:00+09:00",
+      "security_code": "7815",
+      "company_name": "東京ボード工業",
+      "title": "当座貸越契約の締結に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260817522029.pdf"
+    },
+    {
+      "id": "c94873a13f24400e1236",
+      "published_at": "2026-08-17T17:00:00+09:00",
+      "security_code": "8613",
+      "company_name": "丸三証",
+      "title": "ストックオプション（新株予約権）の発行内容確定に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260817521989.pdf"
+    },
+    {
+      "id": "0b7191a05121c1d6f1c3",
+      "published_at": "2026-08-17T17:00:00+09:00",
+      "security_code": "9170",
+      "company_name": "成友興業",
+      "title": "株式の立会外分売に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260817521974.pdf"
+    },
+    {
+      "id": "fcf4d677b131f2d6f82f",
+      "published_at": "2026-08-17T16:45:00+09:00",
+      "security_code": "3306",
+      "company_name": "日製麻",
+      "title": "主要株主及び主要株主である筆頭株主の異動に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260817521954.pdf"
+    },
     {
       "id": "404f9130e5150d1aac74",
       "published_at": "2026-08-17T16:30:00+09:00",
