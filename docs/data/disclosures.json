@@ -1,7 +1,27 @@
 {
   "sample": false,
-  "last_success_at": "2026-08-17T12:57:31+09:00",
+  "last_success_at": "2026-08-17T13:15:09+09:00",
   "disclosures": [
+    {
+      "id": "213f4c61e94b093165b5",
+      "published_at": "2026-08-17T13:00:00+09:00",
+      "security_code": "2937",
+      "company_name": "Ｇ－サンクゼール",
+      "title": "連結子会社による事業の譲り受けに関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260814521039.pdf"
+    },
+    {
+      "id": "4d23bf745d0111d9b5aa",
+      "published_at": "2026-08-17T13:00:00+09:00",
+      "security_code": "3905",
+      "company_name": "Ｇ－データセクション",
+      "title": "主要株主及び主要株主である筆頭株主の異動に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260817521760.pdf"
+    },
     {
       "id": "2f5f33f00b920612eeb7",
       "published_at": "2026-08-17T12:00:00+09:00",
