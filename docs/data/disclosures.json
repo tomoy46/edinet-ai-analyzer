@@ -1,7 +1,157 @@
 {
   "sample": false,
-  "last_success_at": "2026-08-17T10:50:09+09:00",
+  "last_success_at": "2026-08-17T12:57:31+09:00",
   "disclosures": [
+    {
+      "id": "2f5f33f00b920612eeb7",
+      "published_at": "2026-08-17T12:00:00+09:00",
+      "security_code": "3825",
+      "company_name": "ＲＥＭＩＸ",
+      "title": "株式会社ナピルとの業務提携に関するお知らせ（EMSを中核としたエネルギープラットフォーム構築に向けた提携）",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260814520753.pdf"
+    },
+    {
+      "id": "452ed54cb93d6f21bcb3",
+      "published_at": "2026-08-17T12:00:00+09:00",
+      "security_code": "3825",
+      "company_name": "ＲＥＭＩＸ",
+      "title": "株式会社REXEV（レクシヴ）との業務提携に関するお知らせ（エネルギープラットフォーム構築に向けた提携）",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260814520820.pdf"
+    },
+    {
+      "id": "e8627bf954e79bd39b99",
+      "published_at": "2026-08-17T12:00:00+09:00",
+      "security_code": "3825",
+      "company_name": "ＲＥＭＩＸ",
+      "title": "蓄電池事業における業務提携に関する補足説明資料",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260814521206.pdf"
+    },
+    {
+      "id": "07ed1a9b2895709ec37d",
+      "published_at": "2026-08-17T12:00:00+09:00",
+      "security_code": "4574",
+      "company_name": "大幸薬品",
+      "title": "2026年12月期(FY2026)第２四半期(中間期)連結決算報告",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260810516704.pdf"
+    },
+    {
+      "id": "18d05a063a9b72bfb70b",
+      "published_at": "2026-08-17T12:00:00+09:00",
+      "security_code": "6803",
+      "company_name": "ティアック",
+      "title": "株主優待制度の一部変更（拡充）に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260817521578.pdf"
+    },
+    {
+      "id": "db0d71b0f228ec40eeba",
+      "published_at": "2026-08-17T11:50:00+09:00",
+      "security_code": "1557",
+      "company_name": "Ｅ－ＳＳＧＡＴＣ",
+      "title": "State Street SPDR S&P500 ETFに関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260817521703.pdf"
+    },
+    {
+      "id": "b271f39a6444d604260e",
+      "published_at": "2026-08-17T11:45:00+09:00",
+      "security_code": "1326",
+      "company_name": "Ｅ－ワールド",
+      "title": "SPDRゴールド・シェアに関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260817521698.pdf"
+    },
+    {
+      "id": "394f11da68e8abc27f79",
+      "published_at": "2026-08-17T11:40:00+09:00",
+      "security_code": "1349",
+      "company_name": "Ｅ－ＳＳＧＡ－ＳＩＮ",
+      "title": "アジア国債・公債ＥＴＦ（正式名称：ＡＢＦ汎アジア債券インデックス・ファンド）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260817521675.pdf"
+    },
+    {
+      "id": "978245913dd30d4175af",
+      "published_at": "2026-08-17T11:40:00+09:00",
+      "security_code": "4018",
+      "company_name": "Ｑ－ジオロケ",
+      "title": "（訂正）「2026年6月期 決算短信〔日本基準〕（非連結）」の一部訂正に関するお知らせ",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260817521707.pdf"
+    },
+    {
+      "id": "943a331db7f41dd27438",
+      "published_at": "2026-08-17T11:30:00+09:00",
+      "security_code": "2070",
+      "company_name": "Ｎ－三菱ＵＦＪ証ＨＤ",
+      "title": "上場ETN（発行者：三菱UFJ証券ホールディングス株式会社）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260817521643.pdf"
+    },
+    {
+      "id": "9ad1ea29532152a0acf5",
+      "published_at": "2026-08-17T11:30:00+09:00",
+      "security_code": "8705",
+      "company_name": "日産証券グループ",
+      "title": "2026年７月の月次業績等（速報）に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260806512627.pdf"
+    },
+    {
+      "id": "8d9b6909ac91e7ea0e5e",
+      "published_at": "2026-08-17T11:30:00+09:00",
+      "security_code": "8798",
+      "company_name": "アドバンスクリエイト",
+      "title": "（訂正・数値データ訂正）「2025年9月期 第1四半期決算短信〔日本基準〕（連結）」の一部訂正について",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260817521640.pdf"
+    },
+    {
+      "id": "e588bb08361ee6608e30",
+      "published_at": "2026-08-17T11:00:00+09:00",
+      "security_code": "4183",
+      "company_name": "三井化学",
+      "title": "（開示事項の経過）米国Ultradent社買収手続完了に関するお知らせ",
+      "category": "M&A",
+      "importance": 5,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260817521605.pdf"
+    },
+    {
+      "id": "19e49b0e3321e0abf8ed",
+      "published_at": "2026-08-17T11:00:00+09:00",
+      "security_code": "9166",
+      "company_name": "Ｇ－ＧＥＮＤＡ",
+      "title": "株主優待制度の拡充に関するお知らせ",
+      "category": "優待拡充",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260817521688.pdf"
+    },
+    {
+      "id": "286baa73ced7c32b0546",
+      "published_at": "2026-08-17T11:00:00+09:00",
+      "security_code": "9563",
+      "company_name": "Ｇ－Ａｔｌａｓ",
+      "title": "自己株式立会外買付取引（ToSTNeT-3）による自己株式の取得結果および自己株式の取得終了ならびに自己株式の消却に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260817521589.pdf"
+    },
     {
       "id": "bf2ef5960b689e40237f",
       "published_at": "2026-08-17T10:30:00+09:00",
