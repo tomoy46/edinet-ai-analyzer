@@ -1,7 +1,117 @@
 {
   "sample": false,
-  "last_success_at": "2026-08-14T18:37:15+09:00",
+  "last_success_at": "2026-08-17T10:50:09+09:00",
   "disclosures": [
+    {
+      "id": "bf2ef5960b689e40237f",
+      "published_at": "2026-08-17T10:30:00+09:00",
+      "security_code": "3652",
+      "company_name": "Ｇ－ＤＭＰ",
+      "title": "組織変更および人事異動に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260817521519.pdf"
+    },
+    {
+      "id": "fe0c6a6b9fe54f919207",
+      "published_at": "2026-08-17T10:00:00+09:00",
+      "security_code": "1329",
+      "company_name": "Ｅ－ブラックロック",
+      "title": "上場ETF（管理会社：ブラックロック・ジャパン）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260817521553.pdf"
+    },
+    {
+      "id": "0521dd2b0e1a5f47835a",
+      "published_at": "2026-08-17T10:00:00+09:00",
+      "security_code": "1671",
+      "company_name": "Ｅ－シンプレクス",
+      "title": "上場ＥＴＦ(管理会社：シンプレクス・アセット・マネジメント)に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260817521573.pdf"
+    },
+    {
+      "id": "732111b6d3c6db17c5e4",
+      "published_at": "2026-08-17T10:00:00+09:00",
+      "security_code": "2926",
+      "company_name": "篠崎屋",
+      "title": "福岡証券取引所本則市場への重複上場に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260813519947.pdf"
+    },
+    {
+      "id": "6e703472634d0dfad457",
+      "published_at": "2026-08-17T10:00:00+09:00",
+      "security_code": "7059",
+      "company_name": "コプロＨＤ",
+      "title": "2026年7月度 在籍技術者数、稼働技術者数・稼働率の月次開示に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260812518628.pdf"
+    },
+    {
+      "id": "b4cbc0064bc083097818",
+      "published_at": "2026-08-17T09:40:00+09:00",
+      "security_code": "4011",
+      "company_name": "Ｇ－ヘッドウォーター",
+      "title": "第22期（2026年12月期）半期報告書の提出完了に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260816521536.pdf"
+    },
+    {
+      "id": "76a8532642bf9547aecb",
+      "published_at": "2026-08-17T09:00:00+09:00",
+      "security_code": "9162",
+      "company_name": "Ｇ－ブリーチ",
+      "title": "（訂正）「2026年６月期 通期連結決算説明資料」の一部訂正について",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260814521481.pdf"
+    },
+    {
+      "id": "30314978b08704f42d77",
+      "published_at": "2026-08-17T08:55:00+09:00",
+      "security_code": "3445",
+      "company_name": "ＲＳＴＥＣＨ",
+      "title": "2026年12月期第２四半期 決算説明会 書き起こし公開のお知らせ",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260817521546.pdf"
+    },
+    {
+      "id": "c55c82f257a077263b3b",
+      "published_at": "2026-08-17T08:50:00+09:00",
+      "security_code": "1319",
+      "company_name": "ＮＦ日経３００",
+      "title": "「NEXT FUNDS 日経300株価指数連動型上場投信」基準価額と市場価格の重要な乖離に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260817521561.pdf"
+    },
+    {
+      "id": "fe60a8927244bf86b5c8",
+      "published_at": "2026-08-17T08:30:00+09:00",
+      "security_code": "1672",
+      "company_name": "Ｅ－ＷｉｓｄｏｍＴｒ",
+      "title": "上場ETF（管理会社：WisdomTree、外国投資法人：MSL）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260817521515.pdf"
+    },
+    {
+      "id": "8a385dd939dda43225e8",
+      "published_at": "2026-08-17T08:30:00+09:00",
+      "security_code": "1672",
+      "company_name": "Ｅ－ＷｉｓｄｏｍＴｒ",
+      "title": "上場ETF（管理会社：WisdomTree、外国投資法人：CSL）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260817521516.pdf"
+    },
     {
       "id": "1dff0a513e064b23ae98",
       "published_at": "2026-08-14T18:10:00+09:00",
