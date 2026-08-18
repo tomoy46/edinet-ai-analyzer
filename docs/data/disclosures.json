@@ -1,7 +1,107 @@
 {
   "sample": false,
-  "last_success_at": "2026-08-18T10:44:48+09:00",
+  "last_success_at": "2026-08-18T12:52:16+09:00",
   "disclosures": [
+    {
+      "id": "6e5b814e431704283d95",
+      "published_at": "2026-08-18T12:30:00+09:00",
+      "security_code": "2681",
+      "company_name": "ゲオＨＤ",
+      "title": "(訂正）「2027年３月期 第１四半期決算説明資料」の一部訂正について",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260817522059.pdf"
+    },
+    {
+      "id": "2fcd8ce3169c98ec35fb",
+      "published_at": "2026-08-18T12:00:00+09:00",
+      "security_code": "1557",
+      "company_name": "Ｅ－ＳＳＧＡＴＣ",
+      "title": "State Street SPDR S&P500 ETFに関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260818522312.pdf"
+    },
+    {
+      "id": "7df84aa7462ae1da4418",
+      "published_at": "2026-08-18T12:00:00+09:00",
+      "security_code": "9941",
+      "company_name": "太洋物産",
+      "title": "2026年９月期 ７月度 月次業績（売上高）速報",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260818522172.pdf"
+    },
+    {
+      "id": "8e7a1d9fd6d289027b22",
+      "published_at": "2026-08-18T11:55:00+09:00",
+      "security_code": "1326",
+      "company_name": "Ｅ－ワールド",
+      "title": "SPDRゴールド・シェアに関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260818522303.pdf"
+    },
+    {
+      "id": "4ac3c5b55a924985d5eb",
+      "published_at": "2026-08-18T11:50:00+09:00",
+      "security_code": "1349",
+      "company_name": "Ｅ－ＳＳＧＡ－ＳＩＮ",
+      "title": "アジア国債・公債ＥＴＦ（正式名称：ＡＢＦ汎アジア債券インデックス・ファンド）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260818522284.pdf"
+    },
+    {
+      "id": "fd86c81709beb3ee98f9",
+      "published_at": "2026-08-18T11:40:00+09:00",
+      "security_code": "4320",
+      "company_name": "ＣＥＨＤ",
+      "title": "（訂正）「2026年９月期第３四半期決算短信〔日本基準〕（連結）」の一部訂正について",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260818522280.pdf"
+    },
+    {
+      "id": "e388e0461c60f2d18e70",
+      "published_at": "2026-08-18T11:30:00+09:00",
+      "security_code": "2070",
+      "company_name": "Ｎ－三菱ＵＦＪ証ＨＤ",
+      "title": "上場ETN（発行者：三菱UFJ証券ホールディングス株式会社）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260818522220.pdf"
+    },
+    {
+      "id": "58cf4bb746405602db91",
+      "published_at": "2026-08-18T11:30:00+09:00",
+      "security_code": "4766",
+      "company_name": "ピーエイ",
+      "title": "「福島県浜通り地域等における来訪者による地域課題解決を通じた交流人口 ・関係人口拡大事業」への参画に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260818522217.pdf"
+    },
+    {
+      "id": "d4eace7a51c5755617c2",
+      "published_at": "2026-08-18T11:30:00+09:00",
+      "security_code": "6171",
+      "company_name": "土木管理総合試験所",
+      "title": "（開示事項の中止）株式会社土木管理総合試験所（証券コード 6171）に対する公開買付けに準ずる行為として政令で定める買集め行為に関するお知らせ",
+      "category": "TOB",
+      "importance": 5,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260818522246.pdf"
+    },
+    {
+      "id": "29d89341e831eabcc473",
+      "published_at": "2026-08-18T11:30:00+09:00",
+      "security_code": "8304",
+      "company_name": "あおぞら",
+      "title": "2027年3月期 第1四半期 自己資本比率について",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260818522231.pdf"
+    },
     {
       "id": "8c2455cdf86f103f12ee",
       "published_at": "2026-08-18T10:30:00+09:00",
