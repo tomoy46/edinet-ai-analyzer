@@ -1,7 +1,17 @@
 {
   "sample": false,
-  "last_success_at": "2026-08-18T16:12:08+09:00",
+  "last_success_at": "2026-08-18T16:21:14+09:00",
   "disclosures": [
+    {
+      "id": "4778b3b44449c64ca84a",
+      "published_at": "2026-08-18T16:20:00+09:00",
+      "security_code": "2221",
+      "company_name": "岩塚製菓",
+      "title": "自己株式の取得及び自己株式立会外買付取引（ToSTNeT-3）による自己株式の買付けに関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260818522527.pdf"
+    },
     {
       "id": "e9284cbac6d748d44b62",
       "published_at": "2026-08-18T16:10:00+09:00",
