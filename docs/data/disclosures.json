@@ -1,7 +1,127 @@
 {
   "sample": false,
-  "last_success_at": "2026-08-17T18:11:04+09:00",
+  "last_success_at": "2026-08-18T10:44:48+09:00",
   "disclosures": [
+    {
+      "id": "8c2455cdf86f103f12ee",
+      "published_at": "2026-08-18T10:30:00+09:00",
+      "security_code": "6191",
+      "company_name": "エアトリ",
+      "title": "自己株式立会外買付取引（ToSTNeT-３）による自己株式の取得結果に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260818522170.pdf"
+    },
+    {
+      "id": "1dca5c22d102da2ec4f6",
+      "published_at": "2026-08-18T10:30:00+09:00",
+      "security_code": "7716",
+      "company_name": "ナカニシ",
+      "title": "自己株式立会外買付（ToSTNeT-3）による自己株式の取得結果および取得終了に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260818522110.pdf"
+    },
+    {
+      "id": "56ed3bdd27b10690a576",
+      "published_at": "2026-08-18T10:00:00+09:00",
+      "security_code": "1329",
+      "company_name": "Ｅ－ブラックロック",
+      "title": "上場ETF（管理会社：ブラックロック・ジャパン）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260818522153.pdf"
+    },
+    {
+      "id": "8e843da9bbf8d42d5c7d",
+      "published_at": "2026-08-18T10:00:00+09:00",
+      "security_code": "1469",
+      "company_name": "４００ベア２倍",
+      "title": "ＥＴＦの収益分配金見込額のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260818522130.pdf"
+    },
+    {
+      "id": "fa262728e2553f7a5633",
+      "published_at": "2026-08-18T10:00:00+09:00",
+      "security_code": "1671",
+      "company_name": "Ｅ－シンプレクス",
+      "title": "上場ＥＴＦ(管理会社：シンプレクス・アセット・マネジメント)に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260818522163.pdf"
+    },
+    {
+      "id": "2802d2e39518e0eae735",
+      "published_at": "2026-08-18T10:00:00+09:00",
+      "security_code": "4769",
+      "company_name": "ＩＣ",
+      "title": "自己株式立会外買付取引（ToSTNeT-3）による自己株式の取得結果及び自己株式取得終了に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260818522177.pdf"
+    },
+    {
+      "id": "1d9f364175fd707440ac",
+      "published_at": "2026-08-18T10:00:00+09:00",
+      "security_code": "6035",
+      "company_name": "ＩＲＪａｐａｎ ＨＤ",
+      "title": "（開示事項の経過）株式会社ＳＭＢＣ信託銀行との証券代行業務に係る業務提携の解消に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260817521976.pdf"
+    },
+    {
+      "id": "dfe77421bd7572577eef",
+      "published_at": "2026-08-18T08:45:00+09:00",
+      "security_code": "1672",
+      "company_name": "Ｅ－ＷｉｓｄｏｍＴｒ",
+      "title": "上場ETF（管理会社：WisdomTree、外国投資法人：MSL）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260818522132.pdf"
+    },
+    {
+      "id": "5526bb165b1bdb0ebadf",
+      "published_at": "2026-08-18T08:45:00+09:00",
+      "security_code": "1672",
+      "company_name": "Ｅ－ＷｉｓｄｏｍＴｒ",
+      "title": "上場ETF（管理会社：WisdomTree、外国投資法人：CSL）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260818522134.pdf"
+    },
+    {
+      "id": "30af4f32a833aa89da7f",
+      "published_at": "2026-08-18T08:30:00+09:00",
+      "security_code": "3281",
+      "company_name": "Ｒ－ＧＬＰ",
+      "title": "優先交渉権の取得に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260817521646.pdf"
+    },
+    {
+      "id": "167da6ef97e99b06e246",
+      "published_at": "2026-08-18T08:30:00+09:00",
+      "security_code": "8951",
+      "company_name": "Ｒ－ビルＦ",
+      "title": "2026年６月期（第50期）決算説明会資料",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260817521860.pdf"
+    },
+    {
+      "id": "e272d21372bc30e9fa78",
+      "published_at": "2026-08-18T08:00:00+09:00",
+      "security_code": "3660",
+      "company_name": "アイスタイル",
+      "title": "2026年６月期通期 決算説明会における質疑応答",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260818522105.pdf"
+    },
     {
       "id": "7c6188fe80af1bb15bc5",
       "published_at": "2026-08-17T17:55:00+09:00",
