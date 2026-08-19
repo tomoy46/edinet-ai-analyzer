@@ -1,7 +1,207 @@
 {
   "sample": false,
-  "last_success_at": "2026-08-19T10:46:57+09:00",
+  "last_success_at": "2026-08-19T12:53:40+09:00",
   "disclosures": [
+    {
+      "id": "7603cd109e33bbf3bbdc",
+      "published_at": "2026-08-19T12:30:00+09:00",
+      "security_code": "3856",
+      "company_name": "Ａｂａｌａｎｃｅ",
+      "title": "2026年３月期第３四半期決算短信〔日本基準〕(連結)",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260819522969.pdf"
+    },
+    {
+      "id": "3f8a2c2ac9c1d05dccaf",
+      "published_at": "2026-08-19T12:30:00+09:00",
+      "security_code": "3856",
+      "company_name": "Ａｂａｌａｎｃｅ",
+      "title": "2026年３月期決算短信〔日本基準〕(連結)",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260819522973.pdf"
+    },
+    {
+      "id": "0f17de04d3421437af52",
+      "published_at": "2026-08-19T12:30:00+09:00",
+      "security_code": "3856",
+      "company_name": "Ａｂａｌａｎｃｅ",
+      "title": "2026年３月期第３四半期四半期連結財務諸表に対する期中レビュー報告書結論の不表明に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260819523003.pdf"
+    },
+    {
+      "id": "658679b9fdfe0527f646",
+      "published_at": "2026-08-19T12:30:00+09:00",
+      "security_code": "3856",
+      "company_name": "Ａｂａｌａｎｃｅ",
+      "title": "2026年３月期有価証券報告書に係る監査報告書の意見不表明及び内部統制監査報告書の意見不表明に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260819523004.pdf"
+    },
+    {
+      "id": "f7c73d84cb4feae54ae9",
+      "published_at": "2026-08-19T12:30:00+09:00",
+      "security_code": "3856",
+      "company_name": "Ａｂａｌａｎｃｅ",
+      "title": "（開示事項の経過）米国向け太陽光パネル輸出に関する一部貨物に係る費用の計上について",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260819523008.pdf"
+    },
+    {
+      "id": "a5b37637c4c84cf13b57",
+      "published_at": "2026-08-19T12:00:00+09:00",
+      "security_code": "3179",
+      "company_name": "シュッピン",
+      "title": "戦略検討会の設置について",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260819522873.pdf"
+    },
+    {
+      "id": "ab54d57fc08995138013",
+      "published_at": "2026-08-19T12:00:00+09:00",
+      "security_code": "3825",
+      "company_name": "ＲＥＭＩＸ",
+      "title": "系統用蓄電所（熊本県玉名市）の需給調整市場参入に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260805509513.pdf"
+    },
+    {
+      "id": "bb0d85887d9ffb8aa6ae",
+      "published_at": "2026-08-19T11:45:00+09:00",
+      "security_code": "1557",
+      "company_name": "Ｅ－ＳＳＧＡＴＣ",
+      "title": "State Street SPDR S&P500 ETFに関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260819522941.pdf"
+    },
+    {
+      "id": "0acf1eff00cdbde78d01",
+      "published_at": "2026-08-19T11:40:00+09:00",
+      "security_code": "1326",
+      "company_name": "Ｅ－ワールド",
+      "title": "SPDRゴールド・シェアに関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260819522919.pdf"
+    },
+    {
+      "id": "c6f65e5bbcdba24f8d8c",
+      "published_at": "2026-08-19T11:40:00+09:00",
+      "security_code": "4596",
+      "company_name": "Ｇ－窪田製薬ＨＤ",
+      "title": "2026年12月期 第2四半期決算説明資料",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260819522963.pdf"
+    },
+    {
+      "id": "f7beeed927e669bfb6d0",
+      "published_at": "2026-08-19T11:35:00+09:00",
+      "security_code": "1349",
+      "company_name": "Ｅ－ＳＳＧＡ－ＳＩＮ",
+      "title": "アジア国債・公債ＥＴＦ（正式名称：ＡＢＦ汎アジア債券インデックス・ファンド）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260819522929.pdf"
+    },
+    {
+      "id": "b865bb6c1398ee12e2f3",
+      "published_at": "2026-08-19T11:30:00+09:00",
+      "security_code": "2070",
+      "company_name": "Ｎ－三菱ＵＦＪ証ＨＤ",
+      "title": "上場ETN（発行者：三菱UFJ証券ホールディングス株式会社）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260819522867.pdf"
+    },
+    {
+      "id": "e7c0ac18112fa58b14f9",
+      "published_at": "2026-08-19T11:30:00+09:00",
+      "security_code": "8601",
+      "company_name": "大和証Ｇ",
+      "title": "ストック・オプション（新株予約権）行使価額等確定のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260819522800.pdf"
+    },
+    {
+      "id": "e67312fc511b7072ae7f",
+      "published_at": "2026-08-19T11:20:00+09:00",
+      "security_code": "3856",
+      "company_name": "Ａｂａｌａｎｃｅ",
+      "title": "(訂正・数値データ訂正)「2025年６月期第１四半期決算短信〔日本基準〕（連結）」の一部訂正について",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260819522804.pdf"
+    },
+    {
+      "id": "a8c888eab63c807c2ed7",
+      "published_at": "2026-08-19T11:20:00+09:00",
+      "security_code": "3856",
+      "company_name": "Ａｂａｌａｎｃｅ",
+      "title": "(訂正・数値データ訂正)「2025年３月期決算短信〔日本基準〕（連結）」の一部訂正について",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260819522865.pdf"
+    },
+    {
+      "id": "7fb8e9cb606761444aa8",
+      "published_at": "2026-08-19T11:20:00+09:00",
+      "security_code": "3856",
+      "company_name": "Ａｂａｌａｎｃｅ",
+      "title": "(訂正・数値データ訂正)「2026年３月期第１四半期決算短信〔日本基準〕（連結）」の一部訂正について",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260819522868.pdf"
+    },
+    {
+      "id": "4a386457241b03bf2876",
+      "published_at": "2026-08-19T11:20:00+09:00",
+      "security_code": "3856",
+      "company_name": "Ａｂａｌａｎｃｅ",
+      "title": "(訂正・数値データ訂正)「2026年３月期第２四半期（中間期）決算短信〔日本基準〕（連結）」の一部訂正について",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260819522872.pdf"
+    },
+    {
+      "id": "47403d820da9c4f4a4da",
+      "published_at": "2026-08-19T11:20:00+09:00",
+      "security_code": "3856",
+      "company_name": "Ａｂａｌａｎｃｅ",
+      "title": "過年度の有価証券報告書に係る監査報告書及び四半期レビュー報告書並びに期中レビュー報告書の意見不表明（結論不表明）に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260819522935.pdf"
+    },
+    {
+      "id": "5ab62298d376b63a3b74",
+      "published_at": "2026-08-19T11:05:00+09:00",
+      "security_code": "6822",
+      "company_name": "大井電気",
+      "title": "主要株主及び主要株主である筆頭株主の異動に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260819522836.pdf"
+    },
+    {
+      "id": "9f8097156910305d7259",
+      "published_at": "2026-08-19T11:00:00+09:00",
+      "security_code": "5038",
+      "company_name": "Ｇ－ｅＷｅＬＬ",
+      "title": "2026年12月期第２四半期決算説明会 質疑応答（要旨）書き起こし",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260819522857.pdf"
+    },
     {
       "id": "e5de98e662b58dca811c",
       "published_at": "2026-08-19T10:31:00+09:00",
