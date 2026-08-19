@@ -1,7 +1,237 @@
 {
   "sample": false,
-  "last_success_at": "2026-08-18T18:04:53+09:00",
+  "last_success_at": "2026-08-19T10:46:57+09:00",
   "disclosures": [
+    {
+      "id": "e5de98e662b58dca811c",
+      "published_at": "2026-08-19T10:31:00+09:00",
+      "security_code": "3695",
+      "company_name": "Ｇ－ＧＭＯ－ＰＰ",
+      "title": "株式の立会外分売終了に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260818522563.pdf"
+    },
+    {
+      "id": "b3188be2afc9f9d7fcb1",
+      "published_at": "2026-08-19T10:30:00+09:00",
+      "security_code": "8560",
+      "company_name": "宮崎太銀",
+      "title": "自己株式立会外買付取引による自己株式の取得結果及び自己株式の取得終了に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260819522835.pdf"
+    },
+    {
+      "id": "433507dda1d61d610eb3",
+      "published_at": "2026-08-19T10:15:00+09:00",
+      "security_code": "1329",
+      "company_name": "Ｅ－ブラックロック",
+      "title": "上場ETF（管理会社：ブラックロック・ジャパン）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260819522794.pdf"
+    },
+    {
+      "id": "342fe6a0459c30644c04",
+      "published_at": "2026-08-19T10:00:00+09:00",
+      "security_code": "1346",
+      "company_name": "ＭＸＳ２２５",
+      "title": "ＭＡＸＩＳ 日経２２５上場投信 決算短信（2026年7月期）",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260819522756.pdf"
+    },
+    {
+      "id": "2e88c12a16c837299cd9",
+      "published_at": "2026-08-19T10:00:00+09:00",
+      "security_code": "1348",
+      "company_name": "ＭＸＳトピクス",
+      "title": "ＭＡＸＩＳ トピックス上場投信 決算短信（2026年7月期）",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260819522752.pdf"
+    },
+    {
+      "id": "db544419c9871ff7fe6f",
+      "published_at": "2026-08-19T10:00:00+09:00",
+      "security_code": "1379",
+      "company_name": "ホクト",
+      "title": "2027年3月期第1四半期 決算説明資料",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260819522727.pdf"
+    },
+    {
+      "id": "04e756a33334e84e9c41",
+      "published_at": "2026-08-19T10:00:00+09:00",
+      "security_code": "1485",
+      "company_name": "ＭＸＳ Ｊ積極投資",
+      "title": "ＭＡＸＩＳ ＪＡＰＡＮ 設備・人材積極投資企業２００上場投信 決算短信（2026年7月期）",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260819522747.pdf"
+    },
+    {
+      "id": "c93e489e5ec5e4692453",
+      "published_at": "2026-08-19T10:00:00+09:00",
+      "security_code": "1553",
+      "company_name": "ＭＸＳ東海",
+      "title": "ＭＡＸＩＳ Ｓ＆Ｐ東海上場投信 決算短信（2026年7月期）",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260819522776.pdf"
+    },
+    {
+      "id": "f9a91cd04c222b1fbb7e",
+      "published_at": "2026-08-19T10:00:00+09:00",
+      "security_code": "1593",
+      "company_name": "ＭＸＳ４００",
+      "title": "ＭＡＸＩＳ ＪＰＸ日経インデックス４００上場投信 決算短信（2026年7月期）",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260819522773.pdf"
+    },
+    {
+      "id": "afe1ee810fb089ba0ea3",
+      "published_at": "2026-08-19T10:00:00+09:00",
+      "security_code": "1671",
+      "company_name": "Ｅ－シンプレクス",
+      "title": "上場ＥＴＦ(管理会社：シンプレクス・アセット・マネジメント)に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260819522742.pdf"
+    },
+    {
+      "id": "4821a0a5aa1755f30bae",
+      "published_at": "2026-08-19T10:00:00+09:00",
+      "security_code": "2085",
+      "company_name": "ＭＸ高配日株ア",
+      "title": "ＭＡＸＩＳ高配当日本株アクティブ上場投信 決算短信（2026年7月期）",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260819522763.pdf"
+    },
+    {
+      "id": "4d456d5ea44ac9f65860",
+      "published_at": "2026-08-19T10:00:00+09:00",
+      "security_code": "2523",
+      "company_name": "ＭＸＳトピ除く金融",
+      "title": "ＭＡＸＩＳ トピックス（除く金融）上場投信 決算短信（2026年7月期）",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260819522769.pdf"
+    },
+    {
+      "id": "3acb7cfa3a8493532b39",
+      "published_at": "2026-08-19T10:00:00+09:00",
+      "security_code": "6822",
+      "company_name": "大井電気",
+      "title": "自己株式立会外買付取引（ToSTNeT-3）による自己株式の取得結果および自己株式の取得終了に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260819522803.pdf"
+    },
+    {
+      "id": "c7b6f53b70ebe495a516",
+      "published_at": "2026-08-19T10:00:00+09:00",
+      "security_code": "7083",
+      "company_name": "Ｇ－ＡＨＣグループ",
+      "title": "自己株式立会外買付取引(ToSTNeT-3)による自己株式の取得結果に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260819522785.pdf"
+    },
+    {
+      "id": "3b2a8a7457338d7b7372",
+      "published_at": "2026-08-19T09:50:00+09:00",
+      "security_code": "2221",
+      "company_name": "岩塚製菓",
+      "title": "自己株式立会外買付取引（ToSTNeT-3）による自己株式の取得結果及び自己株式取得終了に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260819522784.pdf"
+    },
+    {
+      "id": "4dccbcc6e5e48f507943",
+      "published_at": "2026-08-19T09:30:00+09:00",
+      "security_code": "2642",
+      "company_name": "ＳＭＴ低炭素日本株",
+      "title": "2026年7月期 決算短信（2026年1月12日～2026年7月11日）",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260819522710.pdf"
+    },
+    {
+      "id": "b92b85b1901c281d7c72",
+      "published_at": "2026-08-19T09:10:00+09:00",
+      "security_code": "1672",
+      "company_name": "Ｅ－ＷｉｓｄｏｍＴｒ",
+      "title": "上場ETF（管理会社：WisdomTree、外国投資法人：MSL）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260819522706.pdf"
+    },
+    {
+      "id": "beb365743edd9539a390",
+      "published_at": "2026-08-19T09:10:00+09:00",
+      "security_code": "1672",
+      "company_name": "Ｅ－ＷｉｓｄｏｍＴｒ",
+      "title": "上場ETF（管理会社：WisdomTree、外国投資法人：CSL）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260819522708.pdf"
+    },
+    {
+      "id": "0fe4bec144a347641507",
+      "published_at": "2026-08-19T08:30:00+09:00",
+      "security_code": "6305",
+      "company_name": "日立建機",
+      "title": "主要株主の異動の予定に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260818522694.pdf"
+    },
+    {
+      "id": "e030428147eaa4ecb6ed",
+      "published_at": "2026-08-19T08:30:00+09:00",
+      "security_code": "6305",
+      "company_name": "日立建機",
+      "title": "自己株式取得に係る事項の決定に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260818522695.pdf"
+    },
+    {
+      "id": "6d4ee10e88be6c2dc6c5",
+      "published_at": "2026-08-19T08:00:00+09:00",
+      "security_code": "4413",
+      "company_name": "ボードルア",
+      "title": "MBOの実施及び応募の推奨に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260817521803.pdf"
+    },
+    {
+      "id": "fed17d8cde00a2485318",
+      "published_at": "2026-08-19T08:00:00+09:00",
+      "security_code": "4413",
+      "company_name": "ボードルア",
+      "title": "ビーシーピーイー ネオン ケイマン エルピーによる株式会社ボードルア（証券コード：4413）に対する公開買付けの開始に関するお知らせ",
+      "category": "TOB",
+      "importance": 5,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260818522642.pdf"
+    },
+    {
+      "id": "8c211daa08aec1a2fa39",
+      "published_at": "2026-08-19T08:00:00+09:00",
+      "security_code": "4413",
+      "company_name": "ボードルア",
+      "title": "2027年２月期 期末配当予想の修正(無配)のお知らせ",
+      "category": "減配",
+      "importance": 5,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260818522655.pdf"
+    },
     {
       "id": "1ea2c069d53c4cf706ce",
       "published_at": "2026-08-18T18:00:00+09:00",
