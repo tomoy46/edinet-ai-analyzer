@@ -1,7 +1,187 @@
 {
   "sample": false,
-  "last_success_at": "2026-08-20T10:45:33+09:00",
+  "last_success_at": "2026-08-20T12:53:30+09:00",
   "disclosures": [
+    {
+      "id": "deee6e573e77f5306ec4",
+      "published_at": "2026-08-20T12:00:00+09:00",
+      "security_code": "2477",
+      "company_name": "手間いらず",
+      "title": "2026年6月期（第23期）決算説明資料",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260820523559.pdf"
+    },
+    {
+      "id": "6a705c4a632c59879bf4",
+      "published_at": "2026-08-20T12:00:00+09:00",
+      "security_code": "2553",
+      "company_name": "Ｏｎｅ・ＣＳＩ５００",
+      "title": "2026年7月期（2025年7月9日～2026年7月8日)決算短信",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260820523588.pdf"
+    },
+    {
+      "id": "b43bb8a739aff3d18668",
+      "published_at": "2026-08-20T12:00:00+09:00",
+      "security_code": "2556",
+      "company_name": "Ｏｎｅ・Ｊリート",
+      "title": "2026年7月期（2026年1月9日～2026年7月8日)決算短信",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260820523597.pdf"
+    },
+    {
+      "id": "4242a6ad8a71499dabb4",
+      "published_at": "2026-08-20T11:40:00+09:00",
+      "security_code": "1557",
+      "company_name": "Ｅ－ＳＳＧＡＴＣ",
+      "title": "State Street SPDR S&P500 ETFに関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260820523540.pdf"
+    },
+    {
+      "id": "bdb9d1eed6912a35f566",
+      "published_at": "2026-08-20T11:35:00+09:00",
+      "security_code": "1326",
+      "company_name": "Ｅ－ワールド",
+      "title": "SPDRゴールド・シェアに関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260820523532.pdf"
+    },
+    {
+      "id": "19e221c5711427f4df62",
+      "published_at": "2026-08-20T11:30:00+09:00",
+      "security_code": "1349",
+      "company_name": "Ｅ－ＳＳＧＡ－ＳＩＮ",
+      "title": "アジア国債・公債ＥＴＦ（正式名称：ＡＢＦ汎アジア債券インデックス・ファンド）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260820523530.pdf"
+    },
+    {
+      "id": "8d4643d9b5725c885b2c",
+      "published_at": "2026-08-20T11:30:00+09:00",
+      "security_code": "1474",
+      "company_name": "Ｏｎｅ・ＪＰＸ４００",
+      "title": "2026年7月期（2026年1月9日～2026年7月8日)決算短信",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260820523536.pdf"
+    },
+    {
+      "id": "2ae2e04cadd37d651068",
+      "published_at": "2026-08-20T11:30:00+09:00",
+      "security_code": "1484",
+      "company_name": "Ｏｎｅ・設備人材投資",
+      "title": "2026年7月期（2026年1月9日～2026年7月8日)決算短信",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260820523545.pdf"
+    },
+    {
+      "id": "f4be09c6051521201d08",
+      "published_at": "2026-08-20T11:30:00+09:00",
+      "security_code": "1493",
+      "company_name": "Ｏｎｅ・中小型",
+      "title": "2026年7月期（2026年1月9日～2026年7月8日)決算短信",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260820523554.pdf"
+    },
+    {
+      "id": "2b5de9cece487ad9aafc",
+      "published_at": "2026-08-20T11:30:00+09:00",
+      "security_code": "1498",
+      "company_name": "Ｏｎｅ・ＥＳＧ",
+      "title": "2026年7月期（2026年1月9日～2026年7月8日)決算短信",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260820523563.pdf"
+    },
+    {
+      "id": "bb57a6c8d571cf03c9d4",
+      "published_at": "2026-08-20T11:30:00+09:00",
+      "security_code": "2070",
+      "company_name": "Ｎ－三菱ＵＦＪ証ＨＤ",
+      "title": "上場ETN（発行者：三菱UFJ証券ホールディングス株式会社）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260820523494.pdf"
+    },
+    {
+      "id": "8818bc3d6243d2f6ec19",
+      "published_at": "2026-08-20T11:30:00+09:00",
+      "security_code": "6561",
+      "company_name": "Ｇ－ＨＡＮＡＴＯＵＲ",
+      "title": "月次業績速報 2026年7月",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260819522780.pdf"
+    },
+    {
+      "id": "9a90ec39182547eddb30",
+      "published_at": "2026-08-20T11:15:00+09:00",
+      "security_code": "4178",
+      "company_name": "Ｇ－Ｓイノベーション",
+      "title": "2026年12月期 第2四半期決算説明動画と書き起こし公開のお知らせ",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260819522720.pdf"
+    },
+    {
+      "id": "98b6ad5408e2774edaa9",
+      "published_at": "2026-08-20T11:00:00+09:00",
+      "security_code": "1369",
+      "company_name": "Ｏｎｅ・日経２２５",
+      "title": "2026年7月期（2026年1月9日～2026年7月8日)決算短信",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260820523516.pdf"
+    },
+    {
+      "id": "acb2e587c8481b43ca97",
+      "published_at": "2026-08-20T11:00:00+09:00",
+      "security_code": "1473",
+      "company_name": "Ｏｎｅ・トピックス",
+      "title": "2026年7月期（2026年1月9日～2026年7月8日)決算短信",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260820523526.pdf"
+    },
+    {
+      "id": "0ceffec235ca8e85e676",
+      "published_at": "2026-08-20T11:00:00+09:00",
+      "security_code": "2780",
+      "company_name": "コメ兵ＨＤ",
+      "title": "ブランド・ファッション事業の2027年３月期７月度月次に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260820523518.pdf"
+    },
+    {
+      "id": "84151f1b03ca93bd747f",
+      "published_at": "2026-08-20T11:00:00+09:00",
+      "security_code": "4027",
+      "company_name": "テイカ",
+      "title": "譲渡制限付株式報酬としての自己株式の処分の払込完了に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260812517815.pdf"
+    },
+    {
+      "id": "6ba1f08d65c71c21ca50",
+      "published_at": "2026-08-20T11:00:00+09:00",
+      "security_code": "7751",
+      "company_name": "キヤノン",
+      "title": "自己株式立会外買付取引（ToSTNeT-3）による自己株式の取得結果に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260820523481.pdf"
+    },
     {
       "id": "871ea5e354816eb693b9",
       "published_at": "2026-08-20T10:30:00+09:00",
