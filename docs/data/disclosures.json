@@ -1,7 +1,227 @@
 {
   "sample": false,
-  "last_success_at": "2026-08-20T18:07:11+09:00",
+  "last_success_at": "2026-08-21T10:51:25+09:00",
   "disclosures": [
+    {
+      "id": "6422bee4ddb70237d895",
+      "published_at": "2026-08-21T10:40:00+09:00",
+      "security_code": "6625",
+      "company_name": "ＪＡＬＣＯ ＨＤ",
+      "title": "第14回無担保普通社債の発行に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260820523955.pdf"
+    },
+    {
+      "id": "7eba47eba410aa16dd72",
+      "published_at": "2026-08-21T10:30:00+09:00",
+      "security_code": "4951",
+      "company_name": "エステー",
+      "title": "自己株式立会外買付取引（ToSTNeT-3）による自己株式の取得結果及び取得終了に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260821524050.pdf"
+    },
+    {
+      "id": "29e294f1011afea96876",
+      "published_at": "2026-08-21T10:30:00+09:00",
+      "security_code": "5868",
+      "company_name": "ロココ",
+      "title": "2026年12月期 第２四半期決算に関する質疑応答集",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260821524183.pdf"
+    },
+    {
+      "id": "021480f8d9cda2bf180f",
+      "published_at": "2026-08-21T10:10:00+09:00",
+      "security_code": "4168",
+      "company_name": "Ｇ－ヤプリ",
+      "title": "自己株式立会外買付取引（ToSTNeT-３）による自己株式の取得結果及び取得終了に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260821524112.pdf"
+    },
+    {
+      "id": "87858c34f3f9df7adb6e",
+      "published_at": "2026-08-21T10:00:00+09:00",
+      "security_code": "1329",
+      "company_name": "Ｅ－ブラックロック",
+      "title": "上場ETF（管理会社：ブラックロック・ジャパン）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260821524117.pdf"
+    },
+    {
+      "id": "7cd74d7573f90ad4fb80",
+      "published_at": "2026-08-21T10:00:00+09:00",
+      "security_code": "1596",
+      "company_name": "ＮＺＡＭ Ｅｘ―Ｆ",
+      "title": "2026年７月期 決算短信（2026年１月16日～2026年７月15日）",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260821524031.pdf"
+    },
+    {
+      "id": "5aeaaccc6c3da6eccd66",
+      "published_at": "2026-08-21T10:00:00+09:00",
+      "security_code": "1671",
+      "company_name": "Ｅ－シンプレクス",
+      "title": "上場ＥＴＦ(管理会社：シンプレクス・アセット・マネジメント)に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260821524079.pdf"
+    },
+    {
+      "id": "dabe741e8cd7979f8c5e",
+      "published_at": "2026-08-21T10:00:00+09:00",
+      "security_code": "2527",
+      "company_name": "ＮＺＡＭＪリートコア",
+      "title": "2026年７月期 決算短信（2026年１月16日～2026年７月15日）",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260821524152.pdf"
+    },
+    {
+      "id": "2fc85d3fe215b0e9b1eb",
+      "published_at": "2026-08-21T10:00:00+09:00",
+      "security_code": "2669",
+      "company_name": "カネ美食品",
+      "title": "自己株式立会外買付取引（ＴｏＳＴＮｅＴ－３）による自己株式の取得結果および自己株式の取得終了に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260820523846.pdf"
+    },
+    {
+      "id": "59ce29e3971e3bcde89c",
+      "published_at": "2026-08-21T10:00:00+09:00",
+      "security_code": "2815",
+      "company_name": "アリアケ",
+      "title": "自己株式立会外買付取引（ＴｏＳＴＮｅＴ－３）による自己株式の取得結果に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260820523998.pdf"
+    },
+    {
+      "id": "440fc4ae3a2a01c63c1a",
+      "published_at": "2026-08-21T10:00:00+09:00",
+      "security_code": "3066",
+      "company_name": "ＪＢイレブン",
+      "title": "自己株式立会外買付取引（Ｎ－ＮＥＴ３）による自己株式の取得結果および取得終了に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260820523570.pdf"
+    },
+    {
+      "id": "5656552bf130a97f30c9",
+      "published_at": "2026-08-21T10:00:00+09:00",
+      "security_code": "3641",
+      "company_name": "パピレス",
+      "title": "自己株式立会外買付（ToSTNeT-3）による自己株式の取得結果及び主要株主の異動に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260820523918.pdf"
+    },
+    {
+      "id": "ad51916dc29e453919cc",
+      "published_at": "2026-08-21T10:00:00+09:00",
+      "security_code": "7414",
+      "company_name": "小野建",
+      "title": "2027年3月期第1四半期 決算説明資料",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260821524105.pdf"
+    },
+    {
+      "id": "1f720de9ff30ed721171",
+      "published_at": "2026-08-21T09:00:00+09:00",
+      "security_code": "1431",
+      "company_name": "Ｇ－リブワーク",
+      "title": "中期経営計画「Lib Earth Shot 2029」策定のお知らせ（2026/7～2029/6）",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260820523657.pdf"
+    },
+    {
+      "id": "b3a8204d88a65d5c4f18",
+      "published_at": "2026-08-21T09:00:00+09:00",
+      "security_code": "1431",
+      "company_name": "Ｇ－リブワーク",
+      "title": "Lib Earth Shot 2029中期経営計画",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260820523660.pdf"
+    },
+    {
+      "id": "5db3c0effcfec8c57144",
+      "published_at": "2026-08-21T09:00:00+09:00",
+      "security_code": "8331",
+      "company_name": "千葉銀",
+      "title": "海外市場における米ドル建て無担保債の発行条件決定について",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260810517194.pdf"
+    },
+    {
+      "id": "bc55fd5f1dba8016c479",
+      "published_at": "2026-08-21T08:50:00+09:00",
+      "security_code": "2015",
+      "company_name": "ｉＦ米国債７１０Ｈ無",
+      "title": "iFreeETFの収益分配金見込額のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260820523994.pdf"
+    },
+    {
+      "id": "0b0830f411588be0773c",
+      "published_at": "2026-08-21T08:50:00+09:00",
+      "security_code": "2016",
+      "company_name": "ｉＦ米国債７１０Ｈ有",
+      "title": "iFreeETFの収益分配金見込額のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260820523995.pdf"
+    },
+    {
+      "id": "673e083e2991fd163fa5",
+      "published_at": "2026-08-21T08:30:00+09:00",
+      "security_code": "1672",
+      "company_name": "Ｅ－ＷｉｓｄｏｍＴｒ",
+      "title": "上場ETF（管理会社：WisdomTree、外国投資法人：MSL）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260821524043.pdf"
+    },
+    {
+      "id": "fead2c894ec1976ae355",
+      "published_at": "2026-08-21T08:30:00+09:00",
+      "security_code": "1672",
+      "company_name": "Ｅ－ＷｉｓｄｏｍＴｒ",
+      "title": "上場ETF（管理会社：WisdomTree、外国投資法人：CSL）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260821524044.pdf"
+    },
+    {
+      "id": "5169d935e9d9c99e4342",
+      "published_at": "2026-08-21T08:00:00+09:00",
+      "security_code": "9171",
+      "company_name": "栗林船",
+      "title": "譲渡制限付株式報酬としての自己株式の処分の払込完了に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260820523950.pdf"
+    },
+    {
+      "id": "37aca3664bf58ebfd834",
+      "published_at": "2026-08-21T07:45:00+09:00",
+      "security_code": "4588",
+      "company_name": "Ｇ－オンコリスバイオ",
+      "title": "腫瘍溶解ウイルス テロメライシン注の販売開始のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260819523068.pdf"
+    },
     {
       "id": "b6426de6537d9b6f8440",
       "published_at": "2026-08-20T18:00:00+09:00",
