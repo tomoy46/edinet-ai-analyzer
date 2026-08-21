@@ -1,7 +1,327 @@
 {
   "sample": false,
-  "last_success_at": "2026-08-21T10:51:25+09:00",
+  "last_success_at": "2026-08-21T12:56:33+09:00",
   "disclosures": [
+    {
+      "id": "414e9c6b0a59f3eb833a",
+      "published_at": "2026-08-21T12:30:00+09:00",
+      "security_code": "4966",
+      "company_name": "上村工業",
+      "title": "自己株式の取得結果および取得終了に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260820523705.pdf"
+    },
+    {
+      "id": "fca15dc6fc5d40c6b031",
+      "published_at": "2026-08-21T12:30:00+09:00",
+      "security_code": "6592",
+      "company_name": "マブチモーター",
+      "title": "（訃報）当社創業者・名誉会長 馬渕 隆一逝去のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260821524138.pdf"
+    },
+    {
+      "id": "f51eb4f29511584dcc42",
+      "published_at": "2026-08-21T12:30:00+09:00",
+      "security_code": "7065",
+      "company_name": "ユーピーアール",
+      "title": "組織変更及び人事異動等に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260820523946.pdf"
+    },
+    {
+      "id": "35f2d1b1dae47999451e",
+      "published_at": "2026-08-21T12:15:00+09:00",
+      "security_code": "3739",
+      "company_name": "コムシード",
+      "title": "連結子会社の解散及び債権の放棄に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260821524320.pdf"
+    },
+    {
+      "id": "ff4ec83ba3a2b4862ba0",
+      "published_at": "2026-08-21T12:05:00+09:00",
+      "security_code": "1557",
+      "company_name": "Ｅ－ＳＳＧＡＴＣ",
+      "title": "State Street SPDR S&P500 ETFに関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260821524296.pdf"
+    },
+    {
+      "id": "92db90dc63a1d32f157f",
+      "published_at": "2026-08-21T12:00:00+09:00",
+      "security_code": "1326",
+      "company_name": "Ｅ－ワールド",
+      "title": "SPDRゴールド・シェアに関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260821524292.pdf"
+    },
+    {
+      "id": "4fce48c7c47a59933433",
+      "published_at": "2026-08-21T11:55:00+09:00",
+      "security_code": "1349",
+      "company_name": "Ｅ－ＳＳＧＡ－ＳＩＮ",
+      "title": "アジア国債・公債ＥＴＦ（正式名称：ＡＢＦ汎アジア債券インデックス・ファンド）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260821524281.pdf"
+    },
+    {
+      "id": "afc44dbb07675100c037",
+      "published_at": "2026-08-21T11:30:00+09:00",
+      "security_code": "2070",
+      "company_name": "Ｎ－三菱ＵＦＪ証ＨＤ",
+      "title": "上場ETN（発行者：三菱UFJ証券ホールディングス株式会社）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260821524217.pdf"
+    },
+    {
+      "id": "a71dc0ec005d0a7c5bc8",
+      "published_at": "2026-08-21T11:30:00+09:00",
+      "security_code": "2962",
+      "company_name": "テクニスコ",
+      "title": "役員報酬の減額解除に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260821524274.pdf"
+    },
+    {
+      "id": "2631a8d2aa3d1185f629",
+      "published_at": "2026-08-21T11:30:00+09:00",
+      "security_code": "8167",
+      "company_name": "リテールパートナーズ",
+      "title": "自己株式の取得状況及び取得終了に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260817522021.pdf"
+    },
+    {
+      "id": "e384175bd7c35709447c",
+      "published_at": "2026-08-21T11:00:00+09:00",
+      "security_code": "1482",
+      "company_name": "ｉＳ米国債七十円へジ",
+      "title": "2026年7月期 決算短信（2026年1月12日～2026年7月11日）",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260821524122.pdf"
+    },
+    {
+      "id": "59f41f9e0b49ecc06075",
+      "published_at": "2026-08-21T11:00:00+09:00",
+      "security_code": "1496",
+      "company_name": "ｉＳ米＄ＩＧ社債ヘジ",
+      "title": "2026年7月期 決算短信（2026年1月12日～2026年7月11日）",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260821524084.pdf"
+    },
+    {
+      "id": "03b2e95acfd01dbb1c99",
+      "published_at": "2026-08-21T11:00:00+09:00",
+      "security_code": "1497",
+      "company_name": "ｉＳ米＄ＨＹ社債ヘジ",
+      "title": "2026年7月期 決算短信（2026年1月12日～2026年7月11日）",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260821524087.pdf"
+    },
+    {
+      "id": "cc30352d9251cf96a941",
+      "published_at": "2026-08-21T11:00:00+09:00",
+      "security_code": "1656",
+      "company_name": "ｉＳ米国債七十",
+      "title": "2026年7月期 決算短信（2026年1月12日～2026年7月11日）",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260821524125.pdf"
+    },
+    {
+      "id": "659f0512c0cd7bb7f197",
+      "published_at": "2026-08-21T11:00:00+09:00",
+      "security_code": "1662",
+      "company_name": "石油資源",
+      "title": "（開示事項の経過）特別利益（投資有価証券売却益）の計上に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260821524224.pdf"
+    },
+    {
+      "id": "796253b7287e59ce254d",
+      "published_at": "2026-08-21T11:00:00+09:00",
+      "security_code": "2012",
+      "company_name": "ｉＳ米国債０３月",
+      "title": "2026年7月期 決算短信（2026年1月12日～2026年7月11日）",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260821524109.pdf"
+    },
+    {
+      "id": "c57c186cee444e7782e0",
+      "published_at": "2026-08-21T11:00:00+09:00",
+      "security_code": "2255",
+      "company_name": "ｉＳ米国債二十",
+      "title": "2026年7月期 決算短信（2026年1月12日～2026年7月11日）",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260821524156.pdf"
+    },
+    {
+      "id": "ccadd2b38e59124a6753",
+      "published_at": "2026-08-21T11:00:00+09:00",
+      "security_code": "2256",
+      "company_name": "ｉＳ米国総合債券",
+      "title": "2026年7月期 決算短信（2026年1月12日～2026年7月11日）",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260821524163.pdf"
+    },
+    {
+      "id": "3fd5b2485e28168dd422",
+      "published_at": "2026-08-21T11:00:00+09:00",
+      "security_code": "2257",
+      "company_name": "ｉＳ＄ＩＧ社債",
+      "title": "2026年7月期 決算短信（2026年1月12日～2026年7月11日）",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260821524150.pdf"
+    },
+    {
+      "id": "a80aac2b7585f64195a0",
+      "published_at": "2026-08-21T11:00:00+09:00",
+      "security_code": "2258",
+      "company_name": "ｉＳ＄ＨＹ社債",
+      "title": "2026年7月期 決算短信（2026年1月12日～2026年7月11日）",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260821524144.pdf"
+    },
+    {
+      "id": "40c200b4073fb2fcbb09",
+      "published_at": "2026-08-21T11:00:00+09:00",
+      "security_code": "2259",
+      "company_name": "ｉＳフランス国債ヘジ",
+      "title": "2026年7月期 決算短信（2026年1月12日～2026年7月11日）",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260821524167.pdf"
+    },
+    {
+      "id": "72777c925197a9382d0e",
+      "published_at": "2026-08-21T11:00:00+09:00",
+      "security_code": "2561",
+      "company_name": "ｉＳ日本国債",
+      "title": "2026年7月期 決算短信（2026年1月12日～2026年7月11日）",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260821524090.pdf"
+    },
+    {
+      "id": "d5eae95e17d59cf3928c",
+      "published_at": "2026-08-21T11:00:00+09:00",
+      "security_code": "2620",
+      "company_name": "ｉＳ米国債一三",
+      "title": "2026年7月期 決算短信（2026年1月12日～2026年7月11日）",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260821524129.pdf"
+    },
+    {
+      "id": "493d0e3496cfe46e3a19",
+      "published_at": "2026-08-21T11:00:00+09:00",
+      "security_code": "2621",
+      "company_name": "ｉＳ米国債二十へジ",
+      "title": "2026年7月期 決算短信（2026年1月12日～2026年7月11日）",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260821524134.pdf"
+    },
+    {
+      "id": "a289beb4d93ad47a1ba6",
+      "published_at": "2026-08-21T11:00:00+09:00",
+      "security_code": "2622",
+      "company_name": "ｉＳ新興国債券へジ",
+      "title": "2026年7月期 決算短信（2026年1月12日～2026年7月11日）",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260821524095.pdf"
+    },
+    {
+      "id": "62cfbac4a5cc70b93e1b",
+      "published_at": "2026-08-21T11:00:00+09:00",
+      "security_code": "2649",
+      "company_name": "ｉＳＧＮＭＡ債ヘジ",
+      "title": "2026年7月期 決算短信（2026年1月12日～2026年7月11日）",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260821524100.pdf"
+    },
+    {
+      "id": "fa1386cc106a47b31158",
+      "published_at": "2026-08-21T11:00:00+09:00",
+      "security_code": "2853",
+      "company_name": "ｉＳ気候外国債券ヘジ",
+      "title": "2026年7月期 決算短信（2026年1月12日～2026年7月11日）",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260821524107.pdf"
+    },
+    {
+      "id": "3a1fa776aa70fa083dc8",
+      "published_at": "2026-08-21T11:00:00+09:00",
+      "security_code": "2856",
+      "company_name": "ｉＳ米国債三七ヘジ",
+      "title": "2026年7月期 決算短信（2026年1月12日～2026年7月11日）",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260821524029.pdf"
+    },
+    {
+      "id": "f28100717288883c943c",
+      "published_at": "2026-08-21T11:00:00+09:00",
+      "security_code": "2857",
+      "company_name": "ｉＳドイツ国債ヘジ",
+      "title": "2026年7月期 決算短信（2026年1月12日～2026年7月11日）",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260821524141.pdf"
+    },
+    {
+      "id": "56fa833e37606060773e",
+      "published_at": "2026-08-21T11:00:00+09:00",
+      "security_code": "4202",
+      "company_name": "ダイセル",
+      "title": "従業員持株会向け譲渡制限付株式インセンティブとしての自己株式の処分の払込完了及び一部失権に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260821524140.pdf"
+    },
+    {
+      "id": "9802fdb83675732486b5",
+      "published_at": "2026-08-21T11:00:00+09:00",
+      "security_code": "8138",
+      "company_name": "三京化成",
+      "title": "譲渡制限付株式報酬としての自己株式処分の割当完了に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260821524086.pdf"
+    },
+    {
+      "id": "ed65ea5eaa421b1fd869",
+      "published_at": "2026-08-21T11:00:00+09:00",
+      "security_code": "9027",
+      "company_name": "ロジネットＪ",
+      "title": "立会外自己株式取得取引による自己株式の取得結果に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260821524170.pdf"
+    },
     {
       "id": "6422bee4ddb70237d895",
       "published_at": "2026-08-21T10:40:00+09:00",
