@@ -1,7 +1,337 @@
 {
   "sample": false,
-  "last_success_at": "2026-08-24T10:51:30+09:00",
+  "last_success_at": "2026-08-24T13:01:27+09:00",
   "disclosures": [
+    {
+      "id": "c553aebd6910e1dc61b0",
+      "published_at": "2026-08-24T13:00:00+09:00",
+      "security_code": "1397",
+      "company_name": "ＳＭＤＡＭ ２２５",
+      "title": "ＥＴＦの名称変更にかかる約款変更のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260824525031.pdf"
+    },
+    {
+      "id": "00a9451cb191288b5119",
+      "published_at": "2026-08-24T13:00:00+09:00",
+      "security_code": "1398",
+      "company_name": "ＳＭＤＡＭ Ｊリート",
+      "title": "ＥＴＦの名称変更にかかる約款変更のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260824525032.pdf"
+    },
+    {
+      "id": "f0ab122d9e295f8e19cf",
+      "published_at": "2026-08-24T13:00:00+09:00",
+      "security_code": "2011",
+      "company_name": "ＳＭＤＡＭ日本高配当",
+      "title": "ＥＴＦの名称変更にかかる約款変更のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260824525033.pdf"
+    },
+    {
+      "id": "7b4c1ae9356e9e6aa12c",
+      "published_at": "2026-08-24T13:00:00+09:00",
+      "security_code": "2557",
+      "company_name": "ＳＭＤＡＭトピックス",
+      "title": "ＥＴＦの名称変更にかかる約款変更のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260824525034.pdf"
+    },
+    {
+      "id": "83a3c1bc61c228ca7a3d",
+      "published_at": "2026-08-24T12:30:00+09:00",
+      "security_code": "4591",
+      "company_name": "Ｇ－リボミック",
+      "title": "軟骨無形成症治療薬（umedaptanib pegol）の国内第III相臨床試験：実施医療機関拡充完了（計画施設数到達）のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260824524874.pdf"
+    },
+    {
+      "id": "4335113ae57a3db43d69",
+      "published_at": "2026-08-24T12:30:00+09:00",
+      "security_code": "6574",
+      "company_name": "Ｇ－コンヴァノ",
+      "title": "株式併合及び定款の一部変更に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260821524642.pdf"
+    },
+    {
+      "id": "e188d33543fb620fa077",
+      "published_at": "2026-08-24T12:30:00+09:00",
+      "security_code": "6574",
+      "company_name": "Ｇ－コンヴァノ",
+      "title": "自己株式の取得に係る事項の決定に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260821524659.pdf"
+    },
+    {
+      "id": "fc2d5bcc11b5b18ee1bb",
+      "published_at": "2026-08-24T12:30:00+09:00",
+      "security_code": "6574",
+      "company_name": "Ｇ－コンヴァノ",
+      "title": "特定の株主からの自己株式の取得に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260821524658.pdf"
+    },
+    {
+      "id": "76b5681b65dee274a723",
+      "published_at": "2026-08-24T12:30:00+09:00",
+      "security_code": "6574",
+      "company_name": "Ｇ－コンヴァノ",
+      "title": "剰余金の処分（欠損填補）に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260821524662.pdf"
+    },
+    {
+      "id": "20288ad7c65736378f18",
+      "published_at": "2026-08-24T12:30:00+09:00",
+      "security_code": "6574",
+      "company_name": "Ｇ－コンヴァノ",
+      "title": "第４回普通社債の繰上償還に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260821524661.pdf"
+    },
+    {
+      "id": "a59ff1836ce33c76ea3d",
+      "published_at": "2026-08-24T12:00:00+09:00",
+      "security_code": "1305",
+      "company_name": "ｉＦＴＰＸ年１",
+      "title": "2026年7月期（2025年7月11日～2026年7月10日）決算短信",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260824524945.pdf"
+    },
+    {
+      "id": "1e1af7cc6489d8c34d1e",
+      "published_at": "2026-08-24T12:00:00+09:00",
+      "security_code": "1320",
+      "company_name": "ｉＦ２２５年１",
+      "title": "2026年7月期（2025年7月11日～2026年7月10日）決算短信",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260824524919.pdf"
+    },
+    {
+      "id": "e8cf1ec512a2990fc99a",
+      "published_at": "2026-08-24T12:00:00+09:00",
+      "security_code": "1365",
+      "company_name": "ｉＦ２２５ダブル",
+      "title": "2027年1月期 中間決算短信（2026年1月11日～2026年7月10日）",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260824524976.pdf"
+    },
+    {
+      "id": "268df91cf4360bf1ece5",
+      "published_at": "2026-08-24T12:00:00+09:00",
+      "security_code": "1366",
+      "company_name": "ｉＦ２２５Ｗベア",
+      "title": "2027年1月期 中間決算短信（2026年1月11日～2026年7月10日）",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260824524979.pdf"
+    },
+    {
+      "id": "fc21c1c90808715eaffa",
+      "published_at": "2026-08-24T12:00:00+09:00",
+      "security_code": "1367",
+      "company_name": "ｉＦＴＰＸダブル",
+      "title": "2027年1月期 中間決算短信（2026年1月11日～2026年7月10日）",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260824524983.pdf"
+    },
+    {
+      "id": "36b6465b5b3b9481fd79",
+      "published_at": "2026-08-24T12:00:00+09:00",
+      "security_code": "1368",
+      "company_name": "ｉＦＴＰＸＷベア",
+      "title": "2027年1月期 中間決算短信（2026年1月11日～2026年7月10日）",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260824524989.pdf"
+    },
+    {
+      "id": "2ba259001d62af82e0b8",
+      "published_at": "2026-08-24T12:00:00+09:00",
+      "security_code": "1456",
+      "company_name": "ｉＦ２２５ベア",
+      "title": "2027年1月期 中間決算短信（2026年1月11日～2026年7月10日）",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260824524992.pdf"
+    },
+    {
+      "id": "bc5b918cf4765c450de3",
+      "published_at": "2026-08-24T12:00:00+09:00",
+      "security_code": "1457",
+      "company_name": "ｉＦＴＰＸベア",
+      "title": "2027年1月期 中間決算短信（2026年1月11日～2026年7月10日）",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260824524997.pdf"
+    },
+    {
+      "id": "42badb6625a04384259e",
+      "published_at": "2026-08-24T12:00:00+09:00",
+      "security_code": "1466",
+      "company_name": "ｉＦＪ４００Ｗベア",
+      "title": "2027年1月期 中間決算短信（2026年1月11日～2026年7月10日）",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260824525021.pdf"
+    },
+    {
+      "id": "1bde9f45f12759630734",
+      "published_at": "2026-08-24T12:00:00+09:00",
+      "security_code": "1479",
+      "company_name": "ｉＦＭＳＣＩ人材設備",
+      "title": "2026年7月期（2026年1月11日～2026年7月10日）決算短信",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260824524954.pdf"
+    },
+    {
+      "id": "cf44e6cef8ccfa08cdf1",
+      "published_at": "2026-08-24T12:00:00+09:00",
+      "security_code": "1585",
+      "company_name": "ｉＦＥＸ－Ｆ",
+      "title": "2026年7月期（2026年1月11日～2026年7月10日）決算短信",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260824524948.pdf"
+    },
+    {
+      "id": "4afaacae86514d353872",
+      "published_at": "2026-08-24T12:00:00+09:00",
+      "security_code": "1599",
+      "company_name": "ｉＦＪＰＸ日経４００",
+      "title": "2026年7月期（2026年1月11日～2026年7月10日）決算短信",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260824524951.pdf"
+    },
+    {
+      "id": "42b129df2d0e76ecb228",
+      "published_at": "2026-08-24T12:00:00+09:00",
+      "security_code": "1652",
+      "company_name": "ｉＦ女性活躍ＷＩＮ",
+      "title": "2026年7月期（2026年1月11日～2026年7月10日）決算短信",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260824524967.pdf"
+    },
+    {
+      "id": "8b93a2ad672db43f4c94",
+      "published_at": "2026-08-24T12:00:00+09:00",
+      "security_code": "1653",
+      "company_name": "ｉＦＥＳＧセレクト",
+      "title": "2026年7月期（2026年1月11日～2026年7月10日）決算短信",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260824524964.pdf"
+    },
+    {
+      "id": "0c779e282482e45ec69e",
+      "published_at": "2026-08-24T12:00:00+09:00",
+      "security_code": "1654",
+      "company_name": "ｉＦブロッサム",
+      "title": "2026年7月期（2026年1月11日～2026年7月10日）決算短信",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260824524961.pdf"
+    },
+    {
+      "id": "0978e6c8bd0cc85eec76",
+      "published_at": "2026-08-24T12:00:00+09:00",
+      "security_code": "3696",
+      "company_name": "セレス",
+      "title": "今期（2026年12月期）の株主優待の実施に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260824524888.pdf"
+    },
+    {
+      "id": "682a346a59c075d346c6",
+      "published_at": "2026-08-24T12:00:00+09:00",
+      "security_code": "8518",
+      "company_name": "アジア投資",
+      "title": "子会社の商号の変更に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260824524896.pdf"
+    },
+    {
+      "id": "0dc3e05ba24e9feecbae",
+      "published_at": "2026-08-24T11:55:00+09:00",
+      "security_code": "1557",
+      "company_name": "Ｅ－ＳＳＧＡＴＣ",
+      "title": "State Street SPDR S&P500 ETFに関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260824525023.pdf"
+    },
+    {
+      "id": "bafe4b6bdc773d206835",
+      "published_at": "2026-08-24T11:50:00+09:00",
+      "security_code": "1326",
+      "company_name": "Ｅ－ワールド",
+      "title": "SPDRゴールド・シェアに関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260824525001.pdf"
+    },
+    {
+      "id": "a2a287abf6dc96a88e91",
+      "published_at": "2026-08-24T11:45:00+09:00",
+      "security_code": "1349",
+      "company_name": "Ｅ－ＳＳＧＡ－ＳＩＮ",
+      "title": "アジア国債・公債ＥＴＦ（正式名称：ＡＢＦ汎アジア債券インデックス・ファンド）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260824524972.pdf"
+    },
+    {
+      "id": "2d5a7d5fce3c13277bef",
+      "published_at": "2026-08-24T11:30:00+09:00",
+      "security_code": "2070",
+      "company_name": "Ｎ－三菱ＵＦＪ証ＨＤ",
+      "title": "上場ETN（発行者：三菱UFJ証券ホールディングス株式会社）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260824524900.pdf"
+    },
+    {
+      "id": "bbc4ff112a0fc9a4b6a2",
+      "published_at": "2026-08-24T11:00:00+09:00",
+      "security_code": "5618",
+      "company_name": "Ｇ－ナイル",
+      "title": "2026年 第2四半期 決算説明会 書き起こし",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260821524584.pdf"
+    },
+    {
+      "id": "c101fc8366df5b852c0c",
+      "published_at": "2026-08-24T11:00:00+09:00",
+      "security_code": "9501",
+      "company_name": "東電力ＨＤ",
+      "title": "原子力損害賠償・廃炉等支援機構からの資金の交付について",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260820524002.pdf"
+    },
     {
       "id": "74ddb7bef5cff6b23d0c",
       "published_at": "2026-08-24T10:50:00+09:00",
