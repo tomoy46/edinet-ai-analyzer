@@ -1,7 +1,167 @@
 {
   "sample": false,
-  "last_success_at": "2026-08-21T18:09:10+09:00",
+  "last_success_at": "2026-08-24T10:51:30+09:00",
   "disclosures": [
+    {
+      "id": "74ddb7bef5cff6b23d0c",
+      "published_at": "2026-08-24T10:50:00+09:00",
+      "security_code": "7966",
+      "company_name": "リンテック",
+      "title": "自己株式立会外買付取引(ToSTNeT-3)による自己株式の取得結果及び取得終了に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260824524789.pdf"
+    },
+    {
+      "id": "1f8ca7742daaf5d82764",
+      "published_at": "2026-08-24T10:30:00+09:00",
+      "security_code": "2108",
+      "company_name": "甜菜糖",
+      "title": "自己株式立会外買付取引（ToSTNeT-3）による自己株式の取得結果及び自己株式取得終了並びに自己株式の消却に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260821524660.pdf"
+    },
+    {
+      "id": "1090a12502991a5d42d5",
+      "published_at": "2026-08-24T10:30:00+09:00",
+      "security_code": "2108",
+      "company_name": "甜菜糖",
+      "title": "（開示事項の変更）株式分割により増加する株式等の変更に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260824524813.pdf"
+    },
+    {
+      "id": "fd82cf4c9072a5e3a2b9",
+      "published_at": "2026-08-24T10:15:00+09:00",
+      "security_code": "2796",
+      "company_name": "ファーマライズＨＤ",
+      "title": "支配株主等に関する事項について",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260821524253.pdf"
+    },
+    {
+      "id": "8139d8bf72edd09162d0",
+      "published_at": "2026-08-24T10:00:00+09:00",
+      "security_code": "1329",
+      "company_name": "Ｅ－ブラックロック",
+      "title": "上場ETF（管理会社：ブラックロック・ジャパン）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260824524830.pdf"
+    },
+    {
+      "id": "9476459cdc143b11dd38",
+      "published_at": "2026-08-24T10:00:00+09:00",
+      "security_code": "1671",
+      "company_name": "Ｅ－シンプレクス",
+      "title": "上場ＥＴＦ(管理会社：シンプレクス・アセット・マネジメント)に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260824524820.pdf"
+    },
+    {
+      "id": "fbda86fdcde9b953a503",
+      "published_at": "2026-08-24T10:00:00+09:00",
+      "security_code": "4073",
+      "company_name": "Ｇ－ジィ・シィ企画",
+      "title": "株式の立会外分売終了および主要株主の異動に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260824524831.pdf"
+    },
+    {
+      "id": "4419ce910a5bd0cceee9",
+      "published_at": "2026-08-24T10:00:00+09:00",
+      "security_code": "9166",
+      "company_name": "Ｇ－ＧＥＮＤＡ",
+      "title": "株式会社サンリオとの業務提携契約締結に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260824524838.pdf"
+    },
+    {
+      "id": "f3a68097e816d9ee8cbc",
+      "published_at": "2026-08-24T10:00:00+09:00",
+      "security_code": "9279",
+      "company_name": "ギフトＨＤ",
+      "title": "連結業績予想の修正に関するお知らせ",
+      "category": "業績予想修正",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260821524680.pdf"
+    },
+    {
+      "id": "5afca44044339299bb44",
+      "published_at": "2026-08-24T09:30:00+09:00",
+      "security_code": "1479",
+      "company_name": "ｉＦＭＳＣＩ人材設備",
+      "title": "「iFreeETF MSCI日本株人材設備投資指数」基準価額と市場価格の重要な乖離に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260824524800.pdf"
+    },
+    {
+      "id": "eeec43838f846cb63fc8",
+      "published_at": "2026-08-24T09:30:00+09:00",
+      "security_code": "9984",
+      "company_name": "ソフトバンクグループ",
+      "title": "第70回無担保普通社債の発行に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260824524817.pdf"
+    },
+    {
+      "id": "462983e94e063e6fc404",
+      "published_at": "2026-08-24T09:15:00+09:00",
+      "security_code": "3189",
+      "company_name": "ＡＮＡＰ",
+      "title": "第９回新株予約権の取得及び消却、第三者割当による新株式、 第11回新株予約権、第12回新株予約権及びＡ種種類株式の発行並びに定款の一部変更",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260823524764.pdf"
+    },
+    {
+      "id": "f55d41332e1ceb524456",
+      "published_at": "2026-08-24T09:15:00+09:00",
+      "security_code": "3189",
+      "company_name": "ＡＮＡＰ",
+      "title": "株主優待制度の一部内容の変更に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260823524767.pdf"
+    },
+    {
+      "id": "a9143e65a58b7384afdd",
+      "published_at": "2026-08-24T08:30:00+09:00",
+      "security_code": "1672",
+      "company_name": "Ｅ－ＷｉｓｄｏｍＴｒ",
+      "title": "上場ETF（管理会社：WisdomTree、外国投資法人：MSL）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260823524773.pdf"
+    },
+    {
+      "id": "f34eccc48063796671cb",
+      "published_at": "2026-08-24T08:30:00+09:00",
+      "security_code": "1672",
+      "company_name": "Ｅ－ＷｉｓｄｏｍＴｒ",
+      "title": "上場ETF（管理会社：WisdomTree、外国投資法人：CSL）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260824524774.pdf"
+    },
+    {
+      "id": "315e96e68a477884c473",
+      "published_at": "2026-08-24T08:30:00+09:00",
+      "security_code": "2160",
+      "company_name": "Ｇ－ＧＮＩ",
+      "title": "主要株主の異動に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260824524759.pdf"
+    },
     {
       "id": "d90bcf80bd9d3d9b38e8",
       "published_at": "2026-08-21T18:00:00+09:00",
