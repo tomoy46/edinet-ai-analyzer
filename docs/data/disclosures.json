@@ -1,7 +1,247 @@
 {
   "sample": false,
-  "last_success_at": "2026-08-24T16:40:24+09:00",
+  "last_success_at": "2026-08-24T18:25:04+09:00",
   "disclosures": [
+    {
+      "id": "8c5cab42c6757e94099d",
+      "published_at": "2026-08-24T18:00:00+09:00",
+      "security_code": "2018",
+      "company_name": "ＧＸＵＳリート２０",
+      "title": "ETFの収益分配のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260824525220.pdf"
+    },
+    {
+      "id": "fa0f2ce49fca98da599b",
+      "published_at": "2026-08-24T18:00:00+09:00",
+      "security_code": "2096",
+      "company_name": "ＧＸオフィスＪリート",
+      "title": "ETFの収益分配のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260824525221.pdf"
+    },
+    {
+      "id": "74e30c591c497cde459e",
+      "published_at": "2026-08-24T18:00:00+09:00",
+      "security_code": "2097",
+      "company_name": "ＧＸ住宅Ｊリート",
+      "title": "ETFの収益分配のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260824525222.pdf"
+    },
+    {
+      "id": "314855f9599b6d76c492",
+      "published_at": "2026-08-24T18:00:00+09:00",
+      "security_code": "2098",
+      "company_name": "ＧＸホテリテＪリート",
+      "title": "ETFの収益分配のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260824525223.pdf"
+    },
+    {
+      "id": "8efce9deed218b272331",
+      "published_at": "2026-08-24T18:00:00+09:00",
+      "security_code": "2565",
+      "company_name": "ＧＸロジＪリート",
+      "title": "ETFの収益分配のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260824525208.pdf"
+    },
+    {
+      "id": "02cec6e8d4a826a12f5c",
+      "published_at": "2026-08-24T18:00:00+09:00",
+      "security_code": "2855",
+      "company_name": "ＧＸグリＪリート",
+      "title": "ETFの収益分配のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260824525213.pdf"
+    },
+    {
+      "id": "2e966b7e7cae095d1b0a",
+      "published_at": "2026-08-24T18:00:00+09:00",
+      "security_code": "2864",
+      "company_name": "ＧＸロジリート",
+      "title": "ETFの収益分配のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260824525226.pdf"
+    },
+    {
+      "id": "10a4fe8d5e605f4e8676",
+      "published_at": "2026-08-24T18:00:00+09:00",
+      "security_code": "8572",
+      "company_name": "アコム",
+      "title": "（訂正・数値データ訂正） 「2027年３月期 第１四半期決算短信〔日本基準〕（連結）」の一部訂正について",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260824525325.pdf"
+    },
+    {
+      "id": "4c1831a9c61f7832ab32",
+      "published_at": "2026-08-24T18:00:00+09:00",
+      "security_code": "8572",
+      "company_name": "アコム",
+      "title": "（訂正・数値データ訂正）「2026年３月期 決算短信〔日本基準〕（連結）」の一部訂正について",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260824525328.pdf"
+    },
+    {
+      "id": "46ed7a54c84bbc8394eb",
+      "published_at": "2026-08-24T17:30:00+09:00",
+      "security_code": "7063",
+      "company_name": "Ｇ－Ｂｉｒｄｍａｎ",
+      "title": "（訂正）「第14回定時株主総会の付議議案の決定に関するお知らせ」の一部訂正に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260824525280.pdf"
+    },
+    {
+      "id": "239db8e14568980bdc15",
+      "published_at": "2026-08-24T17:00:00+09:00",
+      "security_code": "2323",
+      "company_name": "ｆｏｎｆｕｎ",
+      "title": "連結子会社（株式会社YNP）によるインサイドグロース株式会社のカスタマー派遣事業譲受に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260824525263.pdf"
+    },
+    {
+      "id": "d5b646e0a4b4e2001cdf",
+      "published_at": "2026-08-24T17:00:00+09:00",
+      "security_code": "2323",
+      "company_name": "ｆｏｎｆｕｎ",
+      "title": "連結子会社（株式会社YNP）によるインサイドグロース株式会社のカスタマー派遣事業譲受に関する補足説明資料",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260824525266.pdf"
+    },
+    {
+      "id": "83304880b194f8f495b5",
+      "published_at": "2026-08-24T17:00:00+09:00",
+      "security_code": "3282",
+      "company_name": "Ｒ－コンフォリア",
+      "title": "資金の借入れ及び既存借入金の返済に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260824524911.pdf"
+    },
+    {
+      "id": "c21fe9b1a53714085ef5",
+      "published_at": "2026-08-24T17:00:00+09:00",
+      "security_code": "4068",
+      "company_name": "Ｇ－ベイシス",
+      "title": "定款一部変更に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260824525212.pdf"
+    },
+    {
+      "id": "bcd127e2e721225977ee",
+      "published_at": "2026-08-24T17:00:00+09:00",
+      "security_code": "5983",
+      "company_name": "イワブチ",
+      "title": "自己株式立会外買付取引(ToSTNeT-3)による自己株式の買付に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260820523373.pdf"
+    },
+    {
+      "id": "620ef9fcaf191f8c8c83",
+      "published_at": "2026-08-24T17:00:00+09:00",
+      "security_code": "6232",
+      "company_name": "Ｇ－ＡＣＳＬ",
+      "title": "海外募集による新株式発行に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260824525271.pdf"
+    },
+    {
+      "id": "37d322194bbc8aa10e9b",
+      "published_at": "2026-08-24T17:00:00+09:00",
+      "security_code": "6232",
+      "company_name": "Ｇ－ＡＣＳＬ",
+      "title": "海外募集による新株式発行に関する補足説明資料",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260824525276.pdf"
+    },
+    {
+      "id": "1e63bcd8c4b0c06032f3",
+      "published_at": "2026-08-24T17:00:00+09:00",
+      "security_code": "6239",
+      "company_name": "ナガオカ",
+      "title": "支配株主等に関する事項について",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260824525211.pdf"
+    },
+    {
+      "id": "b1a700a5799656424f9f",
+      "published_at": "2026-08-24T17:00:00+09:00",
+      "security_code": "6239",
+      "company_name": "ナガオカ",
+      "title": "非上場の親会社等の決算に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260824525230.pdf"
+    },
+    {
+      "id": "4817c54430d3637ede91",
+      "published_at": "2026-08-24T17:00:00+09:00",
+      "security_code": "6239",
+      "company_name": "ナガオカ",
+      "title": "中期経営計画の策定に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260824525232.pdf"
+    },
+    {
+      "id": "d2ba438496e8a28103ea",
+      "published_at": "2026-08-24T17:00:00+09:00",
+      "security_code": "7098",
+      "company_name": "Ｐ－エージェント",
+      "title": "「TOKYO PRO Marketへの上場目的の開示」に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260824525146.pdf"
+    },
+    {
+      "id": "87e0803dcb188743e4ad",
+      "published_at": "2026-08-24T17:00:00+09:00",
+      "security_code": "8518",
+      "company_name": "アジア投資",
+      "title": "連結子会社における固定資産の譲渡及び特別損失発生に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260824525089.pdf"
+    },
+    {
+      "id": "11cdbec9e9d47d06361e",
+      "published_at": "2026-08-24T17:00:00+09:00",
+      "security_code": "9908",
+      "company_name": "日本電計",
+      "title": "第５回ストック・オプション（新株予約権）発行内容確定のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260824524884.pdf"
+    },
+    {
+      "id": "4655cd394f6e21befe64",
+      "published_at": "2026-08-24T16:45:00+09:00",
+      "security_code": "3856",
+      "company_name": "Ａｂａｌａｎｃｅ",
+      "title": "第27期定時株主総会の継続会開催取りやめに関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260824525267.pdf"
+    },
     {
       "id": "c86851c32fc7db17c4e7",
       "published_at": "2026-08-24T16:30:00+09:00",
