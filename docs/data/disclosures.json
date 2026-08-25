@@ -1,7 +1,87 @@
 {
   "sample": false,
-  "last_success_at": "2026-08-24T18:25:04+09:00",
+  "last_success_at": "2026-08-25T10:46:23+09:00",
   "disclosures": [
+    {
+      "id": "e95cc1a9a491005ff12e",
+      "published_at": "2026-08-25T10:15:00+09:00",
+      "security_code": "5983",
+      "company_name": "イワブチ",
+      "title": "自己株式立会外買付取引(ToSTNeT-3)による自己株式の取得結果に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260825525469.pdf"
+    },
+    {
+      "id": "24035583b9f761870212",
+      "published_at": "2026-08-25T10:00:00+09:00",
+      "security_code": "1329",
+      "company_name": "Ｅ－ブラックロック",
+      "title": "上場ETF（管理会社：ブラックロック・ジャパン）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260825525467.pdf"
+    },
+    {
+      "id": "06e221b38027f7d50880",
+      "published_at": "2026-08-25T10:00:00+09:00",
+      "security_code": "1671",
+      "company_name": "Ｅ－シンプレクス",
+      "title": "上場ＥＴＦ(管理会社：シンプレクス・アセット・マネジメント)に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260825525459.pdf"
+    },
+    {
+      "id": "eebba3df530523898836",
+      "published_at": "2026-08-25T10:00:00+09:00",
+      "security_code": "7619",
+      "company_name": "田中商事",
+      "title": "取締役に対する譲渡制限付株式報酬としての自己株式処分の払込完了に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260824525363.pdf"
+    },
+    {
+      "id": "1ba3bdeb1f780c110cd7",
+      "published_at": "2026-08-25T09:50:00+09:00",
+      "security_code": "8252",
+      "company_name": "丸井Ｇ",
+      "title": "自己株式立会外買付取引（ToSTNeT-３）による自己株式の取得結果に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260824525359.pdf"
+    },
+    {
+      "id": "5d418aab5f3b5b0eb44f",
+      "published_at": "2026-08-25T08:30:00+09:00",
+      "security_code": "1672",
+      "company_name": "Ｅ－ＷｉｓｄｏｍＴｒ",
+      "title": "上場ETF（管理会社：WisdomTree、外国投資法人：MSL）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260825525410.pdf"
+    },
+    {
+      "id": "12808bbf6ada022bf5c1",
+      "published_at": "2026-08-25T08:30:00+09:00",
+      "security_code": "1672",
+      "company_name": "Ｅ－ＷｉｓｄｏｍＴｒ",
+      "title": "上場ETF（管理会社：WisdomTree、外国投資法人：CSL）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260825525412.pdf"
+    },
+    {
+      "id": "375aca92ffc92ae4abc3",
+      "published_at": "2026-08-25T08:30:00+09:00",
+      "security_code": "7138",
+      "company_name": "Ｇ－ＴＯＲＩＣＯ",
+      "title": "イーサリアム（ETH）の追加取得に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260825525408.pdf"
+    },
     {
       "id": "8c5cab42c6757e94099d",
       "published_at": "2026-08-24T18:00:00+09:00",
