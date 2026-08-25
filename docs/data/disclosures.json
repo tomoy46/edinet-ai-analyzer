@@ -1,7 +1,137 @@
 {
   "sample": false,
-  "last_success_at": "2026-08-25T10:46:23+09:00",
+  "last_success_at": "2026-08-25T12:55:16+09:00",
   "disclosures": [
+    {
+      "id": "add4f1bc0887a755d722",
+      "published_at": "2026-08-25T12:30:00+09:00",
+      "security_code": "9170",
+      "company_name": "成友興業",
+      "title": "株式の立会外分売終了に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260825525700.pdf"
+    },
+    {
+      "id": "fd0f65c692e3d4ec2d9f",
+      "published_at": "2026-08-25T12:01:00+09:00",
+      "security_code": "9424",
+      "company_name": "日本通信",
+      "title": "代表取締役社長兼CEO福田尚久による当社株式の取得および当該株式取得に伴う資金の貸付けに関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260824525340.pdf"
+    },
+    {
+      "id": "497b5ca8948449367f48",
+      "published_at": "2026-08-25T12:00:00+09:00",
+      "security_code": "3777",
+      "company_name": "Ｇ－環境フレンドリー",
+      "title": "第21回新株予約権の行使完了ならびに資本金の増加に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260825525667.pdf"
+    },
+    {
+      "id": "1e0541dc0084572bf8d5",
+      "published_at": "2026-08-25T12:00:00+09:00",
+      "security_code": "9687",
+      "company_name": "ＫＳＫ",
+      "title": "自己株式の消却に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260825525414.pdf"
+    },
+    {
+      "id": "c4eafca904549ce19dfa",
+      "published_at": "2026-08-25T12:00:00+09:00",
+      "security_code": "9687",
+      "company_name": "ＫＳＫ",
+      "title": "株式分割、株式分割に伴う定款の一部変更及び配当予想の修正に関するお知らせ",
+      "category": "その他",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260825525622.pdf"
+    },
+    {
+      "id": "378d1f170754f45ec8e2",
+      "published_at": "2026-08-25T11:55:00+09:00",
+      "security_code": "1557",
+      "company_name": "Ｅ－ＳＳＧＡＴＣ",
+      "title": "State Street SPDR S&P500 ETFに関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260825525620.pdf"
+    },
+    {
+      "id": "e72737cebfd67be703b6",
+      "published_at": "2026-08-25T11:50:00+09:00",
+      "security_code": "1326",
+      "company_name": "Ｅ－ワールド",
+      "title": "SPDRゴールド・シェアに関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260825525616.pdf"
+    },
+    {
+      "id": "2bc70a26f229a598b630",
+      "published_at": "2026-08-25T11:45:00+09:00",
+      "security_code": "1349",
+      "company_name": "Ｅ－ＳＳＧＡ－ＳＩＮ",
+      "title": "アジア国債・公債ＥＴＦ（正式名称：ＡＢＦ汎アジア債券インデックス・ファンド）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260825525609.pdf"
+    },
+    {
+      "id": "e387a30d00fa21709dcb",
+      "published_at": "2026-08-25T11:30:00+09:00",
+      "security_code": "1822",
+      "company_name": "大豊建",
+      "title": "株式会社UNICONホールディングス(証券コード：407A)の株式取得及び資本業務提携契約の締結に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260821524483.pdf"
+    },
+    {
+      "id": "aa1d54706f0322a7aa5c",
+      "published_at": "2026-08-25T11:30:00+09:00",
+      "security_code": "2070",
+      "company_name": "Ｎ－三菱ＵＦＪ証ＨＤ",
+      "title": "上場ETN（発行者：三菱UFJ証券ホールディングス株式会社）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260825525547.pdf"
+    },
+    {
+      "id": "8d51879a2ef86330ea98",
+      "published_at": "2026-08-25T11:30:00+09:00",
+      "security_code": "4385",
+      "company_name": "メルカリ",
+      "title": "自己株式の取得結果及び取得終了並びに自己株式の消却に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260825525600.pdf"
+    },
+    {
+      "id": "7c71eac8fc89f28d68c1",
+      "published_at": "2026-08-25T11:00:00+09:00",
+      "security_code": "3607",
+      "company_name": "クラウディアＨＤ",
+      "title": "連結子会社の事業廃止に伴う事業整理損（連結決算）の計上、及び連結子会社への増資に伴う子会社支援損失引当金繰入額（個別決算）の計上に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260821524605.pdf"
+    },
+    {
+      "id": "7b3e71a22e8abe0399a1",
+      "published_at": "2026-08-25T11:00:00+09:00",
+      "security_code": "8012",
+      "company_name": "長瀬産",
+      "title": "自己株式の取得状況および取得終了に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260825525523.pdf"
+    },
     {
       "id": "e95cc1a9a491005ff12e",
       "published_at": "2026-08-25T10:15:00+09:00",
