@@ -1,7 +1,97 @@
 {
   "sample": false,
-  "last_success_at": "2026-08-26T10:51:38+09:00",
+  "last_success_at": "2026-08-26T12:59:19+09:00",
   "disclosures": [
+    {
+      "id": "caa8e6d9ac189f75e8cb",
+      "published_at": "2026-08-26T12:00:00+09:00",
+      "security_code": "1329",
+      "company_name": "Ｅ－ブラックロック",
+      "title": "上場ETF（管理会社：ブラックロック・ジャパン）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260826526135.pdf"
+    },
+    {
+      "id": "f051c22fe09039d3ccb0",
+      "published_at": "2026-08-26T12:00:00+09:00",
+      "security_code": "2992",
+      "company_name": "Ｐ－アーバンライク",
+      "title": "私募債の発行に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260826526175.pdf"
+    },
+    {
+      "id": "a657af75c5876f839372",
+      "published_at": "2026-08-26T11:45:00+09:00",
+      "security_code": "1557",
+      "company_name": "Ｅ－ＳＳＧＡＴＣ",
+      "title": "State Street SPDR S&P500 ETFに関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260826526274.pdf"
+    },
+    {
+      "id": "e3de1db1e135a5001f0c",
+      "published_at": "2026-08-26T11:40:00+09:00",
+      "security_code": "1326",
+      "company_name": "Ｅ－ワールド",
+      "title": "SPDRゴールド・シェアに関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260826526285.pdf"
+    },
+    {
+      "id": "a277d1e6dba347dbac1a",
+      "published_at": "2026-08-26T11:35:00+09:00",
+      "security_code": "1349",
+      "company_name": "Ｅ－ＳＳＧＡ－ＳＩＮ",
+      "title": "アジア国債・公債ＥＴＦ（正式名称：ＡＢＦ汎アジア債券インデックス・ファンド）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260826526272.pdf"
+    },
+    {
+      "id": "bba8b6b6613d849ffe76",
+      "published_at": "2026-08-26T11:30:00+09:00",
+      "security_code": "2070",
+      "company_name": "Ｎ－三菱ＵＦＪ証ＨＤ",
+      "title": "上場ETN（発行者：三菱UFJ証券ホールディングス株式会社）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260826526208.pdf"
+    },
+    {
+      "id": "3ccd111a2543a74d5de5",
+      "published_at": "2026-08-26T11:30:00+09:00",
+      "security_code": "3309",
+      "company_name": "Ｒ－積水ハウスリート",
+      "title": "資金の借入れに関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260826526174.pdf"
+    },
+    {
+      "id": "16c6e242626f8e265ec8",
+      "published_at": "2026-08-26T11:30:00+09:00",
+      "security_code": "7875",
+      "company_name": "竹田ｉＰ",
+      "title": "自己株式の取得結果及び取得終了に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260824524898.pdf"
+    },
+    {
+      "id": "24780875db6e2699d898",
+      "published_at": "2026-08-26T11:00:00+09:00",
+      "security_code": "7170",
+      "company_name": "Ｐ－中央グループ",
+      "title": "令和8年12月期 中間決算短信〔日本基準〕(連結)",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260826526139.pdf"
+    },
     {
       "id": "fdc1b5617f01c2927a91",
       "published_at": "2026-08-26T10:30:00+09:00",
