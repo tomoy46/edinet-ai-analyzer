@@ -1,7 +1,37 @@
 {
   "sample": false,
-  "last_success_at": "2026-08-27T18:27:21+09:00",
+  "last_success_at": "2026-08-27T23:04:34+09:00",
   "disclosures": [
+    {
+      "id": "ef19680aad4d1aa28f22",
+      "published_at": "2026-08-27T19:00:00+09:00",
+      "security_code": "4813",
+      "company_name": "ＡＣＣＥＳＳ",
+      "title": "内部管理体制の整備及び運用状況等に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260827527406.pdf"
+    },
+    {
+      "id": "1cdf674560414e75a9e8",
+      "published_at": "2026-08-27T18:30:00+09:00",
+      "security_code": "1431",
+      "company_name": "Ｇ－リブワーク",
+      "title": "定款の一部変更に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260827527023.pdf"
+    },
+    {
+      "id": "a8ec89d4426878764538",
+      "published_at": "2026-08-27T18:30:00+09:00",
+      "security_code": "1431",
+      "company_name": "Ｇ－リブワーク",
+      "title": "取締役及び監査役の選任に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260827526995.pdf"
+    },
     {
       "id": "03e40b065bece4b010db",
       "published_at": "2026-08-27T18:00:00+09:00",
