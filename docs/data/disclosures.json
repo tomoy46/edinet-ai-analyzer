@@ -1,7 +1,917 @@
 {
   "sample": false,
-  "last_success_at": "2026-09-01T13:55:24+09:00",
+  "last_success_at": "2026-09-01T17:33:26+09:00",
   "disclosures": [
+    {
+      "id": "15d75e521a50df587e8e",
+      "published_at": "2026-09-01T17:32:00+09:00",
+      "security_code": "9867",
+      "company_name": "ソレキア",
+      "title": "（訂正）「監査役の辞任に関するお知らせ」の一部訂正について",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260901530236.pdf"
+    },
+    {
+      "id": "131278ef8aa585754c1d",
+      "published_at": "2026-09-01T17:30:00+09:00",
+      "security_code": "3569",
+      "company_name": "セーレン",
+      "title": "自己株式取得状況に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260901530235.pdf"
+    },
+    {
+      "id": "a754c68b17d82c848ec6",
+      "published_at": "2026-09-01T17:30:00+09:00",
+      "security_code": "9556",
+      "company_name": "Ｇ－ＩＮＴＬＯＯＰ",
+      "title": "自己株式の取得状況に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260831529059.pdf"
+    },
+    {
+      "id": "9a1e7c13f0bd0163f487",
+      "published_at": "2026-09-01T17:25:00+09:00",
+      "security_code": "5129",
+      "company_name": "Ｇ－ＦＩＸＥＲ",
+      "title": "2026年8月期 通期連結業績予想の修正に関するお知らせ",
+      "category": "業績予想修正",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260901530119.pdf"
+    },
+    {
+      "id": "97a1ad805c4dd865b152",
+      "published_at": "2026-09-01T17:15:00+09:00",
+      "security_code": "5726",
+      "company_name": "大阪チタ",
+      "title": "発行価格及び売出価格等の決定に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260827527443.pdf"
+    },
+    {
+      "id": "2c0e67f880850827012c",
+      "published_at": "2026-09-01T17:01:00+09:00",
+      "security_code": "3863",
+      "company_name": "日本紙",
+      "title": "保有株式の売却に関するお知らせ（経過報告2）",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260901529710.pdf"
+    },
+    {
+      "id": "37b13be5b25847d4e861",
+      "published_at": "2026-09-01T17:00:00+09:00",
+      "security_code": "1672",
+      "company_name": "金ＥＴＦ",
+      "title": "令和8年12月期 中間決算短信（令和8年1月1日～令和8年6月30日)",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260901529244.pdf"
+    },
+    {
+      "id": "3a3d8f49584f2f0b4a24",
+      "published_at": "2026-09-01T17:00:00+09:00",
+      "security_code": "1673",
+      "company_name": "銀ＥＴＦ",
+      "title": "令和8年12月期 中間決算短信（令和8年1月1日～令和8年6月30日)",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260901529245.pdf"
+    },
+    {
+      "id": "a8cc85b524f297d1e575",
+      "published_at": "2026-09-01T17:00:00+09:00",
+      "security_code": "1674",
+      "company_name": "プラチナＥＴＦ",
+      "title": "令和8年12月期 中間決算短信（令和8年1月1日～令和8年6月30日)",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260901529246.pdf"
+    },
+    {
+      "id": "1418db2b63c7b8c387a4",
+      "published_at": "2026-09-01T17:00:00+09:00",
+      "security_code": "1675",
+      "company_name": "パラジＥＴＦ",
+      "title": "令和8年12月期 中間決算短信（令和8年1月1日～令和8年6月30日)",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260901529247.pdf"
+    },
+    {
+      "id": "6fef018fb209f5d3e910",
+      "published_at": "2026-09-01T17:00:00+09:00",
+      "security_code": "1676",
+      "company_name": "キンゾクＥＴＦ",
+      "title": "令和8年12月期 中間決算短信（令和8年1月1日～令和8年6月30日)",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260901529248.pdf"
+    },
+    {
+      "id": "33b436634e28b7b24bf8",
+      "published_at": "2026-09-01T17:00:00+09:00",
+      "security_code": "1684",
+      "company_name": "商品ＥＴＦ",
+      "title": "令和8年12月期 中間決算短信（令和8年1月1日～令和8年6月30日)",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260901529251.pdf"
+    },
+    {
+      "id": "a72ef3671c7429eae189",
+      "published_at": "2026-09-01T17:00:00+09:00",
+      "security_code": "1685",
+      "company_name": "エナジーＥＴＦ",
+      "title": "令和8年12月期 中間決算短信（令和8年1月1日～令和8年6月30日)",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260901529252.pdf"
+    },
+    {
+      "id": "7792a4b4f1260a889137",
+      "published_at": "2026-09-01T17:00:00+09:00",
+      "security_code": "1686",
+      "company_name": "メタルＥＴＦ",
+      "title": "令和8年12月期 中間決算短信（令和8年1月1日～令和8年6月30日)",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260901529253.pdf"
+    },
+    {
+      "id": "680ea082cb58be4bf13f",
+      "published_at": "2026-09-01T17:00:00+09:00",
+      "security_code": "1687",
+      "company_name": "アグリＥＴＦ",
+      "title": "令和8年12月期 中間決算短信（令和8年1月1日～令和8年6月30日)",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260901529254.pdf"
+    },
+    {
+      "id": "099c799aa2b16375bd9c",
+      "published_at": "2026-09-01T17:00:00+09:00",
+      "security_code": "1688",
+      "company_name": "穀物ＥＴＦ",
+      "title": "令和8年12月期 中間決算短信（令和8年1月1日～令和8年6月30日)",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260901529255.pdf"
+    },
+    {
+      "id": "d2131054ac679a1cc6ca",
+      "published_at": "2026-09-01T17:00:00+09:00",
+      "security_code": "1689",
+      "company_name": "ガスＥＴＦ",
+      "title": "令和8年12月期 中間決算短信（令和8年1月1日～令和8年6月30日)",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260901529256.pdf"
+    },
+    {
+      "id": "9ae26450c2940a7b2cc6",
+      "published_at": "2026-09-01T17:00:00+09:00",
+      "security_code": "1690",
+      "company_name": "原油ＥＴＦ",
+      "title": "令和8年12月期 中間決算短信（令和8年1月1日～令和8年6月30日)",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260901529257.pdf"
+    },
+    {
+      "id": "9b81de17c59720e63031",
+      "published_at": "2026-09-01T17:00:00+09:00",
+      "security_code": "1691",
+      "company_name": "ガソリンＥＴＦ",
+      "title": "令和8年12月期 中間決算短信（令和8年1月1日～令和8年6月30日)",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260901529258.pdf"
+    },
+    {
+      "id": "d3ab24c620816284c696",
+      "published_at": "2026-09-01T17:00:00+09:00",
+      "security_code": "1692",
+      "company_name": "アルミＥＴＦ",
+      "title": "令和8年12月期 中間決算短信（令和8年1月1日～令和8年6月30日)",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260901529259.pdf"
+    },
+    {
+      "id": "6946369551bb6227eb2e",
+      "published_at": "2026-09-01T17:00:00+09:00",
+      "security_code": "1693",
+      "company_name": "銅ＥＴＦ",
+      "title": "令和8年12月期 中間決算短信（令和8年1月1日～令和8年6月30日)",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260901529260.pdf"
+    },
+    {
+      "id": "88c2eae367e270e70c97",
+      "published_at": "2026-09-01T17:00:00+09:00",
+      "security_code": "1694",
+      "company_name": "ニッケルＥＴＦ",
+      "title": "令和8年12月期 中間決算短信（令和8年1月1日～令和8年6月30日)",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260901529261.pdf"
+    },
+    {
+      "id": "0d70a47a88dbe7d04a6f",
+      "published_at": "2026-09-01T17:00:00+09:00",
+      "security_code": "1695",
+      "company_name": "小麦ＥＴＦ",
+      "title": "令和8年12月期 中間決算短信（令和8年1月1日～令和8年6月30日)",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260901529262.pdf"
+    },
+    {
+      "id": "c8ee52ed49057a602477",
+      "published_at": "2026-09-01T17:00:00+09:00",
+      "security_code": "1696",
+      "company_name": "コーンＥＴＦ",
+      "title": "令和8年12月期 中間決算短信（令和8年1月1日～令和8年6月30日)",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260901529263.pdf"
+    },
+    {
+      "id": "aabda0200adc68754aed",
+      "published_at": "2026-09-01T17:00:00+09:00",
+      "security_code": "1697",
+      "company_name": "大豆ＥＴＦ",
+      "title": "令和8年12月期 中間決算短信（令和8年1月1日～令和8年6月30日)",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260901529264.pdf"
+    },
+    {
+      "id": "078b73bbf60f576c3b9e",
+      "published_at": "2026-09-01T17:00:00+09:00",
+      "security_code": "3101",
+      "company_name": "東洋紡",
+      "title": "エルサルバドル子会社の固定資産の譲渡および特別利益の計上に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260901529320.pdf"
+    },
+    {
+      "id": "aff71914819807df241c",
+      "published_at": "2026-09-01T17:00:00+09:00",
+      "security_code": "3104",
+      "company_name": "富士紡ＨＤ",
+      "title": "当社株式の所属業種変更のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260831528949.pdf"
+    },
+    {
+      "id": "214f95e1db21c189d560",
+      "published_at": "2026-09-01T17:00:00+09:00",
+      "security_code": "3719",
+      "company_name": "ＡＩストーム",
+      "title": "特別調査委員会の調査報告書受領に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260901530191.pdf"
+    },
+    {
+      "id": "09a0776bcf7acec41101",
+      "published_at": "2026-09-01T17:00:00+09:00",
+      "security_code": "3836",
+      "company_name": "アバントグループ",
+      "title": "取締役に対する株式報酬制度の一部変更に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260901529827.pdf"
+    },
+    {
+      "id": "2d94818a991446c79176",
+      "published_at": "2026-09-01T17:00:00+09:00",
+      "security_code": "4078",
+      "company_name": "堺化学",
+      "title": "自己株式の取得状況に関するお知らせ（会社法第459条第1項の規定による定款の定めに基づく自己株式の取得）",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260901530225.pdf"
+    },
+    {
+      "id": "c7ded1fc038a40c3413b",
+      "published_at": "2026-09-01T17:00:00+09:00",
+      "security_code": "4275",
+      "company_name": "カーリット",
+      "title": "自己株式の取得状況に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260901530199.pdf"
+    },
+    {
+      "id": "50714c962cccb4ff1e52",
+      "published_at": "2026-09-01T17:00:00+09:00",
+      "security_code": "4323",
+      "company_name": "日本システム技術",
+      "title": "自己株式の取得状況に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260901529932.pdf"
+    },
+    {
+      "id": "4f5dc50571eacaf71983",
+      "published_at": "2026-09-01T17:00:00+09:00",
+      "security_code": "6059",
+      "company_name": "ウチヤマＨＤ",
+      "title": "2027年３月期対前年比較月次速報",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260901530161.pdf"
+    },
+    {
+      "id": "9fe472041ad8cd3e5d04",
+      "published_at": "2026-09-01T17:00:00+09:00",
+      "security_code": "6059",
+      "company_name": "ウチヤマＨＤ",
+      "title": "第三者割当による第２回及び第３回新株予約権（行使価額修正型新株予約権への転換権付）の月間行使状況に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260901530164.pdf"
+    },
+    {
+      "id": "3d7c25b06228b0ca5c68",
+      "published_at": "2026-09-01T17:00:00+09:00",
+      "security_code": "7318",
+      "company_name": "Ｇ－セレンディップ",
+      "title": "自己株式の取得状況に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260901530185.pdf"
+    },
+    {
+      "id": "6aca0c9cff5a3f3bb6f5",
+      "published_at": "2026-09-01T17:00:00+09:00",
+      "security_code": "7966",
+      "company_name": "リンテック",
+      "title": "売出価格等の決定に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260831528884.pdf"
+    },
+    {
+      "id": "7ba85ea607a47f2e6ceb",
+      "published_at": "2026-09-01T17:00:00+09:00",
+      "security_code": "8628",
+      "company_name": "松井証",
+      "title": "2026年8月の月間売買実績・取引口座数等（速報値）のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260901529806.pdf"
+    },
+    {
+      "id": "44f7dbc73235a1121453",
+      "published_at": "2026-09-01T17:00:00+09:00",
+      "security_code": "9274",
+      "company_name": "ＫＰＰグループＨＤ",
+      "title": "自己株式の取得状況に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260901530200.pdf"
+    },
+    {
+      "id": "604b998f7d9df28502ac",
+      "published_at": "2026-09-01T17:00:00+09:00",
+      "security_code": "9684",
+      "company_name": "スクエニＨＤ",
+      "title": "本日の一部報道について",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260901529904.pdf"
+    },
+    {
+      "id": "1d80c11ee0509769ed72",
+      "published_at": "2026-09-01T17:00:00+09:00",
+      "security_code": "9889",
+      "company_name": "ＪＢＣＣ ＨＤ",
+      "title": "自己株式の取得状況及び取得終了に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260901529809.pdf"
+    },
+    {
+      "id": "ca550563413e4e57d431",
+      "published_at": "2026-09-01T16:40:00+09:00",
+      "security_code": "7643",
+      "company_name": "ダイイチ",
+      "title": "2026年９月期８月度の売上高前年比に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260901529676.pdf"
+    },
+    {
+      "id": "d5d36f6c9907b31a64cb",
+      "published_at": "2026-09-01T16:30:00+09:00",
+      "security_code": "2721",
+      "company_name": "ＪＨＤ",
+      "title": "第三者割当により発行された第10回新株予約権（行使価額修正条項付）の月間行使状況に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260803507496.pdf"
+    },
+    {
+      "id": "b6734119709cf10ff5ea",
+      "published_at": "2026-09-01T16:30:00+09:00",
+      "security_code": "3103",
+      "company_name": "ユニチカ",
+      "title": "当社株式の所属業種変更のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260901530004.pdf"
+    },
+    {
+      "id": "e7ff6b5e87c9f45e726e",
+      "published_at": "2026-09-01T16:30:00+09:00",
+      "security_code": "3300",
+      "company_name": "Ｇ－アンビションＤＸ",
+      "title": "特別損失の計上並びに決算短信等の一部訂正について",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260901529994.pdf"
+    },
+    {
+      "id": "2648bb6dad8b94861594",
+      "published_at": "2026-09-01T16:30:00+09:00",
+      "security_code": "3300",
+      "company_name": "Ｇ－アンビションＤＸ",
+      "title": "（訂正）「2026年６月期通期連結業績予想と実績値との差異に関するお知らせ」の一部訂正に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260901530177.pdf"
+    },
+    {
+      "id": "a6ce80458eacd8952d06",
+      "published_at": "2026-09-01T16:30:00+09:00",
+      "security_code": "3300",
+      "company_name": "Ｇ－アンビションＤＸ",
+      "title": "（訂正・数値データ訂正）「2026年６月期 決算短信〔日本基準〕(連結)」の一部訂正について",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260901530081.pdf"
+    },
+    {
+      "id": "f4da782d72ef563b1306",
+      "published_at": "2026-09-01T16:30:00+09:00",
+      "security_code": "3300",
+      "company_name": "Ｇ－アンビションＤＸ",
+      "title": "（訂正）「2026年６月期 決算説明資料」の一部訂正に関するお知らせ",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260901530130.pdf"
+    },
+    {
+      "id": "4a655cff205588e5df5d",
+      "published_at": "2026-09-01T16:30:00+09:00",
+      "security_code": "4095",
+      "company_name": "日パーカライ",
+      "title": "自己株式の取得状況に関するお知らせ （会社法第165条第２項の規定による定款の定めに基づく自己株式の取得）",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260901530153.pdf"
+    },
+    {
+      "id": "4c3889380587c8a2be78",
+      "published_at": "2026-09-01T16:30:00+09:00",
+      "security_code": "6615",
+      "company_name": "ＵＭＣエレ",
+      "title": "スタンダード市場への市場区分の変更承認及びプライム市場の上場維持基準への適合に向けた計画の取り下げに関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260831528364.pdf"
+    },
+    {
+      "id": "e16a5658da580672f18a",
+      "published_at": "2026-09-01T16:30:00+09:00",
+      "security_code": "7578",
+      "company_name": "ニチリョク",
+      "title": "第４回新株予約権（行使価額修正条項付）の月間行使状況に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260901529711.pdf"
+    },
+    {
+      "id": "573a8f9eba2e25d15b76",
+      "published_at": "2026-09-01T16:30:00+09:00",
+      "security_code": "7578",
+      "company_name": "ニチリョク",
+      "title": "代表取締役の職務兼務の変更及び取締役の辞任に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260901530095.pdf"
+    },
+    {
+      "id": "5249b6e62e02d360ec04",
+      "published_at": "2026-09-01T16:30:00+09:00",
+      "security_code": "8783",
+      "company_name": "ａｂｃ",
+      "title": "暗号資産ディーリング事業の撤退に伴う保有暗号資産の売却完了に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260901530183.pdf"
+    },
+    {
+      "id": "6dfa156037396bbca0b7",
+      "published_at": "2026-09-01T16:30:00+09:00",
+      "security_code": "8912",
+      "company_name": "エリアクエスト",
+      "title": "自己株式の取得及び自己株式立会外買付取引（ToSTNeT-3）による自己株式の買付けに関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260828527979.pdf"
+    },
+    {
+      "id": "d53d5470fc01a14cedb9",
+      "published_at": "2026-09-01T16:30:00+09:00",
+      "security_code": "9223",
+      "company_name": "Ｇ－ＡＳＮＯＶＡ",
+      "title": "株式会社ASNOVA Companiesの新規上場承認に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260831529048.pdf"
+    },
+    {
+      "id": "e1701647e0b8f34230da",
+      "published_at": "2026-09-01T16:30:00+09:00",
+      "security_code": "9310",
+      "company_name": "トランスシティ",
+      "title": "自己株式の取得状況に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260901530068.pdf"
+    },
+    {
+      "id": "2860693f4419c0068376",
+      "published_at": "2026-09-01T16:30:00+09:00",
+      "security_code": "9401",
+      "company_name": "ＴＢＳＨＤ",
+      "title": "自己株式の取得状況に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260901529731.pdf"
+    },
+    {
+      "id": "c8e5a4e6e6175cdab1ca",
+      "published_at": "2026-09-01T16:20:00+09:00",
+      "security_code": "4246",
+      "company_name": "ＤＮＣ",
+      "title": "自己株式の取得状況に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260828527616.pdf"
+    },
+    {
+      "id": "37e4074b40209229e4e4",
+      "published_at": "2026-09-01T16:20:00+09:00",
+      "security_code": "4246",
+      "company_name": "ＤＮＣ",
+      "title": "（訂正）「社員持株会向け譲渡制限付株式インセンティブとしての自己株式の処分に関するお知らせ」の一部訂正について",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260831528256.pdf"
+    },
+    {
+      "id": "b7d608b02dda997f95e2",
+      "published_at": "2026-09-01T16:20:00+09:00",
+      "security_code": "9508",
+      "company_name": "九州電力",
+      "title": "キューデンホールディングス株式会社の新規上場承認に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260901529996.pdf"
+    },
+    {
+      "id": "e9282cbea3b2b15c8a11",
+      "published_at": "2026-09-01T16:15:00+09:00",
+      "security_code": "4919",
+      "company_name": "ミルボン",
+      "title": "自己株式の取得状況に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260901530160.pdf"
+    },
+    {
+      "id": "e5611de90353d45ac266",
+      "published_at": "2026-09-01T16:10:00+09:00",
+      "security_code": "3647",
+      "company_name": "アスリナ",
+      "title": "主要株主の異動に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260901530158.pdf"
+    },
+    {
+      "id": "b81182005153438873bf",
+      "published_at": "2026-09-01T16:00:00+09:00",
+      "security_code": "2170",
+      "company_name": "ＬＩＮＫ＆Ｍ",
+      "title": "自己株式の取得結果及び取得終了に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260901530080.pdf"
+    },
+    {
+      "id": "f376af8a4edee9342134",
+      "published_at": "2026-09-01T16:00:00+09:00",
+      "security_code": "2338",
+      "company_name": "クオンタムＳ",
+      "title": "第三者割当による第13回新株予約権（行使価額修正条項付）の月間行使状況に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260831528532.pdf"
+    },
+    {
+      "id": "f3891ffa26aeccd27dd7",
+      "published_at": "2026-09-01T16:00:00+09:00",
+      "security_code": "2338",
+      "company_name": "クオンタムＳ",
+      "title": "連結子会社における暗号資産（ETH及びBTC）の売却並びに売却益の計上に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260901529520.pdf"
+    },
+    {
+      "id": "136df8feca8431603e13",
+      "published_at": "2026-09-01T16:00:00+09:00",
+      "security_code": "2586",
+      "company_name": "Ｇ－フルッタフルッタ",
+      "title": "第三者割当による第14回新株予約権（行使価額修正条項付）の月間行使状況に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260831529149.pdf"
+    },
+    {
+      "id": "d3534236ca1a564f1e2e",
+      "published_at": "2026-09-01T16:00:00+09:00",
+      "security_code": "3121",
+      "company_name": "マーチャント",
+      "title": "自己株式取得に係る事項の進捗状況に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260901529758.pdf"
+    },
+    {
+      "id": "1670141a06aa1fc44549",
+      "published_at": "2026-09-01T16:00:00+09:00",
+      "security_code": "3189",
+      "company_name": "ＡＮＡＰ",
+      "title": "第三者割当により発行された第９回新株予約権（行使価額修正条項付）の月間行使状況に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260901530136.pdf"
+    },
+    {
+      "id": "c38d1582669f87633139",
+      "published_at": "2026-09-01T16:00:00+09:00",
+      "security_code": "3443",
+      "company_name": "川田ＴＥＣＨ",
+      "title": "自己株式の取得状況及び取得終了に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260901529567.pdf"
+    },
+    {
+      "id": "5e8e7b7ea2eeaa0a4676",
+      "published_at": "2026-09-01T16:00:00+09:00",
+      "security_code": "3667",
+      "company_name": "ｅｎｉｓｈ",
+      "title": "第三者割当により発行された第22回新株予約権（行使価額修正条項付）の月間行使状況に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260901529859.pdf"
+    },
+    {
+      "id": "6bb3071b57538434b129",
+      "published_at": "2026-09-01T16:00:00+09:00",
+      "security_code": "3772",
+      "company_name": "ウェルス",
+      "title": "不動産STOの組成にともなう不動産信託受益権の譲渡ならびにAM契約に関するお知らせ（開示事項の経過）",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260827527226.pdf"
+    },
+    {
+      "id": "6f8a4583e6c0cfabe2fd",
+      "published_at": "2026-09-01T16:00:00+09:00",
+      "security_code": "3775",
+      "company_name": "ガイアックス",
+      "title": "自己株式の取得状況に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260901529744.pdf"
+    },
+    {
+      "id": "99f0c04514ae80d00867",
+      "published_at": "2026-09-01T16:00:00+09:00",
+      "security_code": "3823",
+      "company_name": "ＷＨＹ ＨＯＷ ＤＯ",
+      "title": "第三者割当による第16回新株予約権（行使価額修正条項付）の月間行使状況に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260831528681.pdf"
+    },
+    {
+      "id": "d94d343995978d2fc659",
+      "published_at": "2026-09-01T16:00:00+09:00",
+      "security_code": "3901",
+      "company_name": "マークラインズ",
+      "title": "自己株式の取得状況に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260901530141.pdf"
+    },
+    {
+      "id": "b5f851c62f1200d5e831",
+      "published_at": "2026-09-01T16:00:00+09:00",
+      "security_code": "3979",
+      "company_name": "Ｇ－うるる",
+      "title": "自己株式の取得状況に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260901529606.pdf"
+    },
+    {
+      "id": "528c068b176280cf93d6",
+      "published_at": "2026-09-01T16:00:00+09:00",
+      "security_code": "3993",
+      "company_name": "ＰＫＳＨＡ",
+      "title": "自己株式の取得状況に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260901529928.pdf"
+    },
+    {
+      "id": "17efdc501afa1764b347",
+      "published_at": "2026-09-01T16:00:00+09:00",
+      "security_code": "4046",
+      "company_name": "大阪ソーダ",
+      "title": "自己株式の取得状況に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260901529426.pdf"
+    },
+    {
+      "id": "de681b0e86c462ec3bb9",
+      "published_at": "2026-09-01T16:00:00+09:00",
+      "security_code": "4074",
+      "company_name": "Ｇ－ラキール",
+      "title": "自己株式の取得状況に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260901530110.pdf"
+    },
+    {
+      "id": "d9d07cddb4af262e1a36",
+      "published_at": "2026-09-01T16:00:00+09:00",
+      "security_code": "4222",
+      "company_name": "児玉化",
+      "title": "自己株式の取得状況に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260901530103.pdf"
+    },
+    {
+      "id": "e4fd5aa567f189fa760b",
+      "published_at": "2026-09-01T16:00:00+09:00",
+      "security_code": "4404",
+      "company_name": "ミヨシ油脂",
+      "title": "自己株式の取得状況に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260831528390.pdf"
+    },
+    {
+      "id": "a1239ac22dce0a776294",
+      "published_at": "2026-09-01T16:00:00+09:00",
+      "security_code": "4413",
+      "company_name": "ボードルア",
+      "title": "（訂正）「ＭＢＯの実施及び応募の推奨に関するお知らせ」の一部訂正に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260901530083.pdf"
+    },
+    {
+      "id": "f03a54a1289295fb6bb3",
+      "published_at": "2026-09-01T16:00:00+09:00",
+      "security_code": "4432",
+      "company_name": "ウイングアーク",
+      "title": "自己株式の取得状況に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260826526479.pdf"
+    },
+    {
+      "id": "420f0904ad5ff17d3ae6",
+      "published_at": "2026-09-01T16:00:00+09:00",
+      "security_code": "4526",
+      "company_name": "理研ビタミン",
+      "title": "自己株式の取得状況に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260901529378.pdf"
+    },
+    {
+      "id": "a21a0dd140b2e4498fa8",
+      "published_at": "2026-09-01T16:00:00+09:00",
+      "security_code": "4563",
+      "company_name": "Ｇ－アンジェス",
+      "title": "行使価額修正条項付新株予約権の月間行使状況に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260831529152.pdf"
+    },
+    {
+      "id": "86182f410f63f35e455c",
+      "published_at": "2026-09-01T16:00:00+09:00",
+      "security_code": "4563",
+      "company_name": "Ｇ－アンジェス",
+      "title": "第２回無担保社債（私募債）の償還完了に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260831529155.pdf"
+    },
+    {
+      "id": "e15ccd81b770a4082864",
+      "published_at": "2026-09-01T16:00:00+09:00",
+      "security_code": "4674",
+      "company_name": "クレスコ",
+      "title": "自己株式の取得状況に関するお知らせ（会社法第459条第1項の規定による当社定款の定めに基づく自己株式の取得）",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260901529524.pdf"
+    },
+    {
+      "id": "b13ab76c5814da7fc58c",
+      "published_at": "2026-09-01T16:00:00+09:00",
+      "security_code": "5341",
+      "company_name": "ＡＳＡＨＩ ＥＩＴＯ",
+      "title": "第三者割当により発行された第12回新株予約権（行使価額修正条項付）の月間行使状況に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260901529615.pdf"
+    },
+    {
+      "id": "a55f65b12268eba0bb33",
+      "published_at": "2026-09-01T16:00:00+09:00",
+      "security_code": "5589",
+      "company_name": "オートサーバー",
+      "title": "2026年12月期8月度 ASNET取引台数実績（速報値）",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260901529653.pdf"
+    },
+    {
+      "id": "8d89d4da42f4dab4633b",
+      "published_at": "2026-09-01T16:00:00+09:00",
+      "security_code": "5901",
+      "company_name": "洋缶ＨＤ",
+      "title": "自己株式の取得状況に関するお知らせ（会社法第165条第2項の規定による定款の定めに基づく自己株式の取得）",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260901529289.pdf"
+    },
+    {
+      "id": "457a4dec76e57ac6215d",
+      "published_at": "2026-09-01T16:00:00+09:00",
+      "security_code": "6268",
+      "company_name": "ナブテスコ",
+      "title": "自己株式の取得状況に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260901529740.pdf"
+    },
+    {
+      "id": "76dd40aabedbff4347fc",
+      "published_at": "2026-09-01T16:00:00+09:00",
+      "security_code": "6419",
+      "company_name": "マースグループＨＤ",
+      "title": "自己株式の取得状況に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260901529909.pdf"
+    },
+    {
+      "id": "b0e99b05ede306677077",
+      "published_at": "2026-09-01T16:00:00+09:00",
+      "security_code": "6737",
+      "company_name": "ＥＩＺＯ",
+      "title": "自己株式の取得状況に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260901529229.pdf"
+    },
     {
       "id": "f0d25c53678051718b18",
       "published_at": "2026-09-01T13:30:00+09:00",
