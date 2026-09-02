@@ -1,7 +1,137 @@
 {
   "sample": false,
-  "last_success_at": "2026-09-02T16:50:38+09:00",
+  "last_success_at": "2026-09-02T20:39:21+09:00",
   "disclosures": [
+    {
+      "id": "085702a27bea8c48ea47",
+      "published_at": "2026-09-02T19:00:00+09:00",
+      "security_code": "7459",
+      "company_name": "メディパル",
+      "title": "株主による臨時株主総会の招集請求に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260902530878.pdf"
+    },
+    {
+      "id": "d28136992f30e8d21101",
+      "published_at": "2026-09-02T18:30:00+09:00",
+      "security_code": "6191",
+      "company_name": "エアトリ",
+      "title": "自己株式立会外買付取引（ToSTNeT-3）による自己株式の買付けに係る事項の決定に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260902530843.pdf"
+    },
+    {
+      "id": "86d202918b529b26d04b",
+      "published_at": "2026-09-02T18:00:00+09:00",
+      "security_code": "4960",
+      "company_name": "ケミプロ化成",
+      "title": "主要株主、主要株主である筆頭株主ならびにその他の関係会社の異動に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260902530834.pdf"
+    },
+    {
+      "id": "ce0003a0224f1cdbb7d3",
+      "published_at": "2026-09-02T18:00:00+09:00",
+      "security_code": "8439",
+      "company_name": "東京センチュリー",
+      "title": "（開示事項の経過）連結子会社の異動（株式譲渡）に関する株式譲渡契約締結のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260827527459.pdf"
+    },
+    {
+      "id": "f33748dd55b80e6ad3bf",
+      "published_at": "2026-09-02T17:40:00+09:00",
+      "security_code": "9399",
+      "company_name": "ビート",
+      "title": "ビットコインETFの月次報告に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260902530759.pdf"
+    },
+    {
+      "id": "e91477ecb8ded7fa7386",
+      "published_at": "2026-09-02T17:00:00+09:00",
+      "security_code": "2928",
+      "company_name": "Ａ－ＲＩＺＡＰ Ｇ",
+      "title": "自己株式の取得状況に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260901530234.pdf"
+    },
+    {
+      "id": "2660188281ee98d666db",
+      "published_at": "2026-09-02T17:00:00+09:00",
+      "security_code": "4264",
+      "company_name": "Ｇ－セキュア",
+      "title": "株式報酬型ストック・オプション（新株予約権）の発行内容確定に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260902530555.pdf"
+    },
+    {
+      "id": "4412991a8e62b4e1f133",
+      "published_at": "2026-09-02T17:00:00+09:00",
+      "security_code": "4264",
+      "company_name": "Ｇ－セキュア",
+      "title": "業績目標コミットメント型ストック・オプション（有償ストック・オプション）の発行内容確定に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260902530554.pdf"
+    },
+    {
+      "id": "dd783e8a4c71fe5ef57a",
+      "published_at": "2026-09-02T17:00:00+09:00",
+      "security_code": "6523",
+      "company_name": "ＰＨＣＨＤ",
+      "title": "主要株主の異動に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260821524633.pdf"
+    },
+    {
+      "id": "652eb94da86b5d6e58cd",
+      "published_at": "2026-09-02T17:00:00+09:00",
+      "security_code": "8018",
+      "company_name": "三共生興",
+      "title": "自己株式の取得状況に関するお知らせ（会社法165条第２項の規定による定款の定めに基づく自己株式の取得）",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260902530446.pdf"
+    },
+    {
+      "id": "a7a8d96f6c093d769106",
+      "published_at": "2026-09-02T17:00:00+09:00",
+      "security_code": "9706",
+      "company_name": "日空ビル",
+      "title": "売出価格等の決定に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260831529202.pdf"
+    },
+    {
+      "id": "cab4e825709a4766a974",
+      "published_at": "2026-09-02T17:00:00+09:00",
+      "security_code": "9987",
+      "company_name": "スズケン",
+      "title": "自己株式立会外買付取引（ToSTNeT-3）による自己株式の買付けに関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260831528724.pdf"
+    },
+    {
+      "id": "8d56e63fab4147fc841e",
+      "published_at": "2026-09-02T16:55:00+09:00",
+      "security_code": "7501",
+      "company_name": "ティムコ",
+      "title": "(開示事項の経過)中国子会社の設立に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260902530786.pdf"
+    },
     {
       "id": "c35b4f1d11c4778646f6",
       "published_at": "2026-09-02T16:45:00+09:00",
