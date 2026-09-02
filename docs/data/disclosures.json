@@ -1,7 +1,287 @@
 {
   "sample": false,
-  "last_success_at": "2026-09-01T22:38:38+09:00",
+  "last_success_at": "2026-09-02T13:17:54+09:00",
   "disclosures": [
+    {
+      "id": "de61cd1dd9e9f613513d",
+      "published_at": "2026-09-02T13:00:00+09:00",
+      "security_code": "3083",
+      "company_name": "スターシーズ",
+      "title": "継続的な株主優待制度の導入に関するお知らせ",
+      "category": "優待新設",
+      "importance": 5,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260902530547.pdf"
+    },
+    {
+      "id": "1f8cdf3b004dba6e5ee9",
+      "published_at": "2026-09-02T13:00:00+09:00",
+      "security_code": "3093",
+      "company_name": "トレファク",
+      "title": "当社連結子会社における不正アクセスによる個人情報漏えいに関する専用お問い合わせ窓口開設のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260902530578.pdf"
+    },
+    {
+      "id": "24eb7346c2e3a5490485",
+      "published_at": "2026-09-02T13:00:00+09:00",
+      "security_code": "6101",
+      "company_name": "ツガミ",
+      "title": "自己株式の取得状況に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260901530269.pdf"
+    },
+    {
+      "id": "37ea14cc77e4fc8a5b42",
+      "published_at": "2026-09-02T12:40:00+09:00",
+      "security_code": "1326",
+      "company_name": "Ｅ－ワールド",
+      "title": "SPDRゴールド・シェアに関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260902530569.pdf"
+    },
+    {
+      "id": "7d6ab46b2e4f5b0a13fe",
+      "published_at": "2026-09-02T12:30:00+09:00",
+      "security_code": "1349",
+      "company_name": "Ｅ－ＳＳＧＡ－ＳＩＮ",
+      "title": "アジア国債・公債ＥＴＦ（正式名称：ＡＢＦ汎アジア債券インデックス・ファンド）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260902530568.pdf"
+    },
+    {
+      "id": "93f1627504b3c6a27568",
+      "published_at": "2026-09-02T12:30:00+09:00",
+      "security_code": "4591",
+      "company_name": "Ｇ－リボミック",
+      "title": "軟骨無形成症治療薬（umedaptanib pegol）の国内第III相臨床試験（WAKABA試験）における被験者登録の進展に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260901530209.pdf"
+    },
+    {
+      "id": "9ff970eac2682c34171a",
+      "published_at": "2026-09-02T11:30:00+09:00",
+      "security_code": "2070",
+      "company_name": "Ｎ－三菱ＵＦＪ証ＨＤ",
+      "title": "上場ETN（発行者：三菱UFJ証券ホールディングス株式会社）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260902530462.pdf"
+    },
+    {
+      "id": "a581b6c3da07df1d3249",
+      "published_at": "2026-09-02T11:30:00+09:00",
+      "security_code": "4170",
+      "company_name": "Ｇ－ＫａｉｚｅｎＰＦ",
+      "title": "主要株主の異動に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260902530467.pdf"
+    },
+    {
+      "id": "26ec50bd4b77c7089481",
+      "published_at": "2026-09-02T11:30:00+09:00",
+      "security_code": "6905",
+      "company_name": "コーセル",
+      "title": "（開示事項の経過）連結子会社の異動（株式譲渡）に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260901530154.pdf"
+    },
+    {
+      "id": "df8dd89935b619e9d91a",
+      "published_at": "2026-09-02T11:10:00+09:00",
+      "security_code": "6574",
+      "company_name": "Ｇ－コンヴァノ",
+      "title": "（訂正）「有償ストック・オプション（新株予約権）の発行に関するお知らせ」の一部訂正について",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260901530305.pdf"
+    },
+    {
+      "id": "945c189145b71f990ca9",
+      "published_at": "2026-09-02T11:00:00+09:00",
+      "security_code": "2659",
+      "company_name": "サンエー",
+      "title": "自己株式の取得状況に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260902530441.pdf"
+    },
+    {
+      "id": "c264d964b957e79fdb29",
+      "published_at": "2026-09-02T11:00:00+09:00",
+      "security_code": "3825",
+      "company_name": "ＲＥＭＩＸ",
+      "title": "（開示事項の経過）暗号資産の運用実績およびアルトコインの売却に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260901530316.pdf"
+    },
+    {
+      "id": "44ceec0b2929f6a22bf8",
+      "published_at": "2026-09-02T11:00:00+09:00",
+      "security_code": "4112",
+      "company_name": "保土谷化",
+      "title": "子会社の設立に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260902530463.pdf"
+    },
+    {
+      "id": "368c8d20c53a9202a10d",
+      "published_at": "2026-09-02T10:30:00+09:00",
+      "security_code": "2185",
+      "company_name": "シイエム・シイ",
+      "title": "自己株式の取得状況に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260901529983.pdf"
+    },
+    {
+      "id": "ccfa7f51512b24180d4b",
+      "published_at": "2026-09-02T10:30:00+09:00",
+      "security_code": "2664",
+      "company_name": "カワチ薬品",
+      "title": "自己株式の取得結果および取得終了に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260828528108.pdf"
+    },
+    {
+      "id": "d225763bd100e2319d7e",
+      "published_at": "2026-09-02T10:15:00+09:00",
+      "security_code": "1329",
+      "company_name": "Ｅ－ブラックロック",
+      "title": "上場ETF（管理会社：ブラックロック・ジャパン）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260902530418.pdf"
+    },
+    {
+      "id": "9f8d88bd35ee78df401f",
+      "published_at": "2026-09-02T10:00:00+09:00",
+      "security_code": "1671",
+      "company_name": "Ｅ－シンプレクス",
+      "title": "上場ＥＴＦ(管理会社：シンプレクス・アセット・マネジメント)に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260902530371.pdf"
+    },
+    {
+      "id": "6ea517d2208fba0939ff",
+      "published_at": "2026-09-02T10:00:00+09:00",
+      "security_code": "3675",
+      "company_name": "クロスマーケティング",
+      "title": "自己株式の取得状況に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260902530358.pdf"
+    },
+    {
+      "id": "6d8cd9377ed995b731d8",
+      "published_at": "2026-09-02T10:00:00+09:00",
+      "security_code": "4631",
+      "company_name": "ＤＩＣ",
+      "title": "自己株式の取得状況に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260901530263.pdf"
+    },
+    {
+      "id": "9b77b424d8140e21398c",
+      "published_at": "2026-09-02T10:00:00+09:00",
+      "security_code": "8912",
+      "company_name": "エリアクエスト",
+      "title": "自己株式立会外買付取引（ToSTNeT-3）による自己株式の取得結果及び取得終了に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260828527987.pdf"
+    },
+    {
+      "id": "27920e46282bf18ae516",
+      "published_at": "2026-09-02T09:50:00+09:00",
+      "security_code": "8746",
+      "company_name": "ｕｎｂａｎｋｅｄ",
+      "title": "(開示事項の経過）当社銀行口座の出金停止の解除および事業の再開に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260902530364.pdf"
+    },
+    {
+      "id": "b609796080074049728e",
+      "published_at": "2026-09-02T09:20:00+09:00",
+      "security_code": "1479",
+      "company_name": "ｉＦＭＳＣＩ人材設備",
+      "title": "「iFreeETF MSCI日本株人材設備投資指数」基準価額と市場価格の重要な乖離に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260902530347.pdf"
+    },
+    {
+      "id": "9ee0032657313411ccd9",
+      "published_at": "2026-09-02T09:00:00+09:00",
+      "security_code": "1672",
+      "company_name": "Ｅ－ＷｉｓｄｏｍＴｒ",
+      "title": "上場ETF（管理会社：WisdomTree、外国投資法人：MSL）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260902530341.pdf"
+    },
+    {
+      "id": "e61e7ac67ca34733b1eb",
+      "published_at": "2026-09-02T09:00:00+09:00",
+      "security_code": "1672",
+      "company_name": "Ｅ－ＷｉｓｄｏｍＴｒ",
+      "title": "上場ETF（管理会社：WisdomTree、外国投資法人：CSL）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260902530342.pdf"
+    },
+    {
+      "id": "c60c434b142aab6154a4",
+      "published_at": "2026-09-02T08:50:00+09:00",
+      "security_code": "1488",
+      "company_name": "ｉＦＪリート",
+      "title": "iFreeETFの収益分配金見込額のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260901530276.pdf"
+    },
+    {
+      "id": "fa9d6b07ae3e74d865ca",
+      "published_at": "2026-09-02T08:50:00+09:00",
+      "security_code": "7287",
+      "company_name": "日本精機",
+      "title": "連結子会社における一部事業譲渡に関するお知らせ",
+      "category": "M&A",
+      "importance": 5,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260901529444.pdf"
+    },
+    {
+      "id": "40853938f7aaab5e82f2",
+      "published_at": "2026-09-02T08:30:00+09:00",
+      "security_code": "7138",
+      "company_name": "Ｇ－ＴＯＲＩＣＯ",
+      "title": "イーサリアム（ETH）の追加取得及び月次保有状況に関するお知らせ（2026年８月末時点）",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260901530294.pdf"
+    },
+    {
+      "id": "346596b9e82fb484f588",
+      "published_at": "2026-09-02T08:30:00+09:00",
+      "security_code": "8001",
+      "company_name": "伊藤忠",
+      "title": "自己株式の公開買付けの結果並びに市場買付の開始に関するお知らせ",
+      "category": "TOB",
+      "importance": 5,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260902529238.pdf"
+    },
     {
       "id": "5f58819580f79b6b775e",
       "published_at": "2026-09-01T20:45:00+09:00",
