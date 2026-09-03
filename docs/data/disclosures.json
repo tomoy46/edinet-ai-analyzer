@@ -1,7 +1,87 @@
 {
   "sample": false,
-  "last_success_at": "2026-09-03T16:58:24+09:00",
+  "last_success_at": "2026-09-03T20:37:59+09:00",
   "disclosures": [
+    {
+      "id": "67edbf3c67ce9d6715fb",
+      "published_at": "2026-09-03T19:00:00+09:00",
+      "security_code": "9251",
+      "company_name": "Ｇ－ＡＢ＆Ｃ",
+      "title": "国内店舗月次営業速報（2026年８月）のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260903531096.pdf"
+    },
+    {
+      "id": "bd528779b79cf77ed19f",
+      "published_at": "2026-09-03T18:00:00+09:00",
+      "security_code": "4777",
+      "company_name": "ガーラ",
+      "title": "（追加・訂正）「親会社、その他の関係会社、主要株主及び主要株主である筆頭株主の異動に関するお知らせ」の一部追加・訂正について",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260903531418.pdf"
+    },
+    {
+      "id": "359717faefbd0bf5c642",
+      "published_at": "2026-09-03T17:30:00+09:00",
+      "security_code": "3645",
+      "company_name": "Ｇ－メディカルネット",
+      "title": "東京証券取引所スタンダード市場への上場市場区分変更承認及び当社株式の監理銘柄(審査中)指定解除に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260903531360.pdf"
+    },
+    {
+      "id": "f694c372baf94af932d7",
+      "published_at": "2026-09-03T17:30:00+09:00",
+      "security_code": "4413",
+      "company_name": "ボードルア",
+      "title": "（訂正）「株式会社ボードルアの株券等に対する公開買付けの開始に関するお知らせ」及び公開買付開始公告の訂正に関するお知らせ",
+      "category": "TOB",
+      "importance": 5,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260903531411.pdf"
+    },
+    {
+      "id": "c36de6ff5c0fed7416cf",
+      "published_at": "2026-09-03T17:30:00+09:00",
+      "security_code": "6392",
+      "company_name": "ヤマダコーポ",
+      "title": "主要株主である筆頭株主の異動に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260903531410.pdf"
+    },
+    {
+      "id": "ce08c6079b07d625a92c",
+      "published_at": "2026-09-03T17:00:00+09:00",
+      "security_code": "3686",
+      "company_name": "ＤＬＥ",
+      "title": "第１回無担保転換社債型新株予約権付社債（転換価額修正条項付）の 転換価額の修正に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260903531319.pdf"
+    },
+    {
+      "id": "57fb510d7f1c0848c618",
+      "published_at": "2026-09-03T17:00:00+09:00",
+      "security_code": "3808",
+      "company_name": "オーケーウェブ",
+      "title": "資金使途の変更に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260902530743.pdf"
+    },
+    {
+      "id": "dde48fd855a64a11a452",
+      "published_at": "2026-09-03T17:00:00+09:00",
+      "security_code": "5658",
+      "company_name": "日亜鋼",
+      "title": "自己株式の取得状況に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260903531388.pdf"
+    },
     {
       "id": "3d08e26bb00f7cb391a5",
       "published_at": "2026-09-03T16:45:00+09:00",
