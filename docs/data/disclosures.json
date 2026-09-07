@@ -1,7 +1,187 @@
 {
   "sample": false,
-  "last_success_at": "2026-09-07T17:11:44+09:00",
+  "last_success_at": "2026-09-07T21:57:44+09:00",
   "disclosures": [
+    {
+      "id": "bb373f556a176b8db82b",
+      "published_at": "2026-09-07T18:30:00+09:00",
+      "security_code": "4272",
+      "company_name": "日化薬",
+      "title": "三光化学工業株式会社の完全子会社化に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260907532718.pdf"
+    },
+    {
+      "id": "78f601b1b21f816e48ad",
+      "published_at": "2026-09-07T18:15:00+09:00",
+      "security_code": "2245",
+      "company_name": "独債７－１０ヘッジ有",
+      "title": "ETFの収益分配のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260907532723.pdf"
+    },
+    {
+      "id": "e059d09a531b33eeef17",
+      "published_at": "2026-09-07T18:15:00+09:00",
+      "security_code": "2510",
+      "company_name": "ＮＦ国内債券",
+      "title": "ETFの収益分配のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260907532724.pdf"
+    },
+    {
+      "id": "0c61def91f6bff0d392f",
+      "published_at": "2026-09-07T18:15:00+09:00",
+      "security_code": "2511",
+      "company_name": "ＮＦ外債ヘッジ無",
+      "title": "ETFの収益分配のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260907532725.pdf"
+    },
+    {
+      "id": "22d3fcfd500a756b7adb",
+      "published_at": "2026-09-07T18:15:00+09:00",
+      "security_code": "2512",
+      "company_name": "ＮＦ外債ヘッジ有",
+      "title": "ETFの収益分配のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260907532726.pdf"
+    },
+    {
+      "id": "b1b04cd733fc370c7d97",
+      "published_at": "2026-09-07T18:15:00+09:00",
+      "security_code": "2513",
+      "company_name": "ＮＦ外株ヘッジ無",
+      "title": "ETFの収益分配のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260907532727.pdf"
+    },
+    {
+      "id": "a98e750843b28e864efd",
+      "published_at": "2026-09-07T18:15:00+09:00",
+      "security_code": "2514",
+      "company_name": "ＮＦ外株ヘッジ有",
+      "title": "ETFの収益分配のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260907532728.pdf"
+    },
+    {
+      "id": "95d3484dbae0e0163682",
+      "published_at": "2026-09-07T18:15:00+09:00",
+      "security_code": "2515",
+      "company_name": "ＮＦ外ＲＥＩＴヘ無",
+      "title": "ETFの収益分配のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260907532729.pdf"
+    },
+    {
+      "id": "8ca2f078a1b60c43b29b",
+      "published_at": "2026-09-07T18:15:00+09:00",
+      "security_code": "2519",
+      "company_name": "ＮＦ新興国債券ヘ無",
+      "title": "ETFの収益分配のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260907532730.pdf"
+    },
+    {
+      "id": "b73c38bc3b6187a8607a",
+      "published_at": "2026-09-07T18:15:00+09:00",
+      "security_code": "2520",
+      "company_name": "ＮＦ新興国株式ヘ無",
+      "title": "ETFの収益分配のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260907532731.pdf"
+    },
+    {
+      "id": "994b07a95cedb78b407f",
+      "published_at": "2026-09-07T18:15:00+09:00",
+      "security_code": "2554",
+      "company_name": "ＮＦ米社債ヘ有",
+      "title": "ETFの収益分配のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260907532732.pdf"
+    },
+    {
+      "id": "db7ca733bd4caf61c5f6",
+      "published_at": "2026-09-07T18:15:00+09:00",
+      "security_code": "2647",
+      "company_name": "米債７－１０ヘッジ無",
+      "title": "ETFの収益分配のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260907532733.pdf"
+    },
+    {
+      "id": "26b249fd0b7af2e2b199",
+      "published_at": "2026-09-07T18:15:00+09:00",
+      "security_code": "2648",
+      "company_name": "米債７－１０ヘッジ有",
+      "title": "ETFの収益分配のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260907532734.pdf"
+    },
+    {
+      "id": "6b7fbaa40ad010074a54",
+      "published_at": "2026-09-07T17:30:00+09:00",
+      "security_code": "2338",
+      "company_name": "クオンタムＳ",
+      "title": "完全子会社における資金の借入れ及びその中止に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260907532619.pdf"
+    },
+    {
+      "id": "1e196cf3975dfeb41846",
+      "published_at": "2026-09-07T17:30:00+09:00",
+      "security_code": "2338",
+      "company_name": "クオンタムＳ",
+      "title": "AIDC事業の本格展開に向けた第一弾となる最新世代・高密度GPUコンピューティング基盤への設備投資（固定資産の取得）に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260907532635.pdf"
+    },
+    {
+      "id": "68066d8791d9ec017602",
+      "published_at": "2026-09-07T17:30:00+09:00",
+      "security_code": "3086",
+      "company_name": "Ｊフロント",
+      "title": "主要株主の異動に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260907532655.pdf"
+    },
+    {
+      "id": "d5e354d329913381bec0",
+      "published_at": "2026-09-07T17:30:00+09:00",
+      "security_code": "3138",
+      "company_name": "富士山マガジン",
+      "title": "連結子会社による事業の譲受に関する契約書締結のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260906532180.pdf"
+    },
+    {
+      "id": "411d2341cd0ce8e9bc97",
+      "published_at": "2026-09-07T17:30:00+09:00",
+      "security_code": "8117",
+      "company_name": "中央自動車工業",
+      "title": "売出価格等の決定に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260907532664.pdf"
+    },
     {
       "id": "8451d6c8ccc131be0eda",
       "published_at": "2026-09-07T17:00:00+09:00",
