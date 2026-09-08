@@ -1,7 +1,157 @@
 {
   "sample": false,
-  "last_success_at": "2026-09-08T16:59:59+09:00",
+  "last_success_at": "2026-09-08T20:39:41+09:00",
   "disclosures": [
+    {
+      "id": "66039b5e479ef077db16",
+      "published_at": "2026-09-08T19:00:00+09:00",
+      "security_code": "4891",
+      "company_name": "Ｇ－ティムス",
+      "title": "第10回新株予約権（行使価額修正条項付）の大量行使、行使完了及び月間行使状況に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260908533236.pdf"
+    },
+    {
+      "id": "d0a63e36a23815ec5030",
+      "published_at": "2026-09-08T18:35:00+09:00",
+      "security_code": "1345",
+      "company_name": "上場Ｊリート",
+      "title": "ＥＴＦの収益分配のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260908533266.pdf"
+    },
+    {
+      "id": "c7cd6286251340d3ce66",
+      "published_at": "2026-09-08T18:20:00+09:00",
+      "security_code": "1597",
+      "company_name": "ＭＸＳ Ｊリート",
+      "title": "ＭＡＸＩＳ ＥＴＦの収益分配のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260908533259.pdf"
+    },
+    {
+      "id": "21be97e7541d3ad9ca7a",
+      "published_at": "2026-09-08T18:00:00+09:00",
+      "security_code": "4418",
+      "company_name": "Ｇ－ＪＤＳＣ",
+      "title": "監査役の逝去及び退任に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260908533226.pdf"
+    },
+    {
+      "id": "f29e2ef1933dbbf8d3f9",
+      "published_at": "2026-09-08T17:15:00+09:00",
+      "security_code": "7475",
+      "company_name": "アルビス",
+      "title": "2027年３月期第２四半期（中間期）及び通期連結業績予想の修正に関するお知らせ",
+      "category": "業績予想修正",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260907532503.pdf"
+    },
+    {
+      "id": "c5bd0a2fe0acc32da552",
+      "published_at": "2026-09-08T17:15:00+09:00",
+      "security_code": "7475",
+      "company_name": "アルビス",
+      "title": "株式会社ライフコーポレーションによる当社株式に対する 公開買付けに関する賛同の意見表明及び応募推奨のお知らせ",
+      "category": "TOB",
+      "importance": 5,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260908533017.pdf"
+    },
+    {
+      "id": "fe8d12470abb88cbb6e0",
+      "published_at": "2026-09-08T17:15:00+09:00",
+      "security_code": "7475",
+      "company_name": "アルビス",
+      "title": "2027年３月期配当予想の修正（無配）及び株主優待制度の廃止に関するお知らせ",
+      "category": "優待廃止",
+      "importance": 5,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260907532597.pdf"
+    },
+    {
+      "id": "8aada53df95bc2db798e",
+      "published_at": "2026-09-08T17:15:00+09:00",
+      "security_code": "8194",
+      "company_name": "ライフコーポ",
+      "title": "アルビス株式会社（証券コード：7475）に対する公開買付けの開始に関するお知らせ",
+      "category": "TOB",
+      "importance": 5,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260905532133.pdf"
+    },
+    {
+      "id": "ee1499e7f06e11761e95",
+      "published_at": "2026-09-08T17:00:00+09:00",
+      "security_code": "3416",
+      "company_name": "ピクスタ",
+      "title": "投資有価証券売却による特別利益計上についてのお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260908533174.pdf"
+    },
+    {
+      "id": "014f1343612b42061096",
+      "published_at": "2026-09-08T17:00:00+09:00",
+      "security_code": "3662",
+      "company_name": "エイチームＨＤ",
+      "title": "2026年7月期 通期決算説明会 書き起こし",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260908533206.pdf"
+    },
+    {
+      "id": "3058b06a124c87eb957c",
+      "published_at": "2026-09-08T17:00:00+09:00",
+      "security_code": "4069",
+      "company_name": "Ｇ－ＢｌｕｅＭｅｍｅ",
+      "title": "特別調査委員会の調査報告書の公表及び当社の対応に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260908533107.pdf"
+    },
+    {
+      "id": "4fa41b127f2c96aa3066",
+      "published_at": "2026-09-08T17:00:00+09:00",
+      "security_code": "4829",
+      "company_name": "日本エンタープライズ",
+      "title": "社外監査役の逝去及び退任に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260908533137.pdf"
+    },
+    {
+      "id": "cf4c3195e8dad6700a5c",
+      "published_at": "2026-09-08T17:00:00+09:00",
+      "security_code": "5130",
+      "company_name": "Ｐ－ヒロＨＤ",
+      "title": "TOKYO PRO Marketへの上場目的の開示について",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260908533102.pdf"
+    },
+    {
+      "id": "a8869a84cb157001f4aa",
+      "published_at": "2026-09-08T17:00:00+09:00",
+      "security_code": "7318",
+      "company_name": "Ｇ－セレンディップ",
+      "title": "自己株式の取得状況及び取得終了に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260908533189.pdf"
+    },
+    {
+      "id": "aa6d2b1bd767c52d890b",
+      "published_at": "2026-09-08T17:00:00+09:00",
+      "security_code": "9284",
+      "company_name": "Ｉ－カナディアンソラ",
+      "title": "当社投資口の貸借銘柄選定に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260908532878.pdf"
+    },
     {
       "id": "afea7313df0ec0d5f6fa",
       "published_at": "2026-09-08T16:30:00+09:00",
