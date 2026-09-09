@@ -1,7 +1,27 @@
 {
   "sample": false,
-  "last_success_at": "2026-09-09T20:45:51+09:00",
+  "last_success_at": "2026-09-09T22:06:22+09:00",
   "disclosures": [
+    {
+      "id": "57b45f78f1c1b369d38d",
+      "published_at": "2026-09-09T21:00:00+09:00",
+      "security_code": "9444",
+      "company_name": "トーシンＨＤ",
+      "title": "「株式会社トーシンホールディングス 再建計画」の更新及び株式会社東京証券取引所への提出について",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260909533851.pdf"
+    },
+    {
+      "id": "60b1d0c301c96556655d",
+      "published_at": "2026-09-09T21:00:00+09:00",
+      "security_code": "9444",
+      "company_name": "トーシンＨＤ",
+      "title": "会社更生手続における更生計画案の提出のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260909533850.pdf"
+    },
     {
       "id": "14026d33d829b847bb60",
       "published_at": "2026-09-09T20:00:00+09:00",
