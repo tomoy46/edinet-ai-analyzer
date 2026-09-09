@@ -1,7 +1,157 @@
 {
   "sample": false,
-  "last_success_at": "2026-09-08T22:01:08+09:00",
+  "last_success_at": "2026-09-09T13:28:35+09:00",
   "disclosures": [
+    {
+      "id": "d91e870652a93bbd99a9",
+      "published_at": "2026-09-09T12:00:00+09:00",
+      "security_code": "4395",
+      "company_name": "Ｇ－アクリート",
+      "title": "（開示事項の変更）一時会計監査人の選任に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260909533394.pdf"
+    },
+    {
+      "id": "53e0ae2f1f116287507c",
+      "published_at": "2026-09-09T11:50:00+09:00",
+      "security_code": "1557",
+      "company_name": "Ｅ－ＳＳＧＡＴＣ",
+      "title": "State Street SPDR S&P500 ETFに関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260909533413.pdf"
+    },
+    {
+      "id": "01601768eb66503b0c9f",
+      "published_at": "2026-09-09T11:45:00+09:00",
+      "security_code": "1326",
+      "company_name": "Ｅ－ワールド",
+      "title": "SPDRゴールド・シェアに関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260909533411.pdf"
+    },
+    {
+      "id": "8092f9792da1a482146c",
+      "published_at": "2026-09-09T11:40:00+09:00",
+      "security_code": "1349",
+      "company_name": "Ｅ－ＳＳＧＡ－ＳＩＮ",
+      "title": "アジア国債・公債ＥＴＦ（正式名称：ＡＢＦ汎アジア債券インデックス・ファンド）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260909533408.pdf"
+    },
+    {
+      "id": "31dd99dbd4b2c1159390",
+      "published_at": "2026-09-09T11:30:00+09:00",
+      "security_code": "2070",
+      "company_name": "Ｎ－三菱ＵＦＪ証ＨＤ",
+      "title": "上場ETN（発行者：三菱UFJ証券ホールディングス株式会社）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260909533373.pdf"
+    },
+    {
+      "id": "73462ace57c5219d9df3",
+      "published_at": "2026-09-09T11:00:00+09:00",
+      "security_code": "2929",
+      "company_name": "ファーマフーズ",
+      "title": "2026年７月期 通期業績予想の修正に関するお知らせ",
+      "category": "業績予想修正",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260825525973.pdf"
+    },
+    {
+      "id": "78118eb75c58d8125b0a",
+      "published_at": "2026-09-09T11:00:00+09:00",
+      "security_code": "2929",
+      "company_name": "ファーマフーズ",
+      "title": "関係会社株式の減損処理による特別損失計上（個別）に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260908533281.pdf"
+    },
+    {
+      "id": "ecbacb34515e4a662af7",
+      "published_at": "2026-09-09T11:00:00+09:00",
+      "security_code": "3921",
+      "company_name": "ネオジャパン",
+      "title": "（訂正）「2027年１月期第１四半期決算説明資料」の一部訂正について",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260908532690.pdf"
+    },
+    {
+      "id": "852d251446df16b65fe8",
+      "published_at": "2026-09-09T11:00:00+09:00",
+      "security_code": "7170",
+      "company_name": "Ｐ－中央グループ",
+      "title": "株主割当による新株式発行に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260908533073.pdf"
+    },
+    {
+      "id": "e0a7baa6f47a6f623012",
+      "published_at": "2026-09-09T10:00:00+09:00",
+      "security_code": "1329",
+      "company_name": "Ｅ－ブラックロック",
+      "title": "上場ETF（管理会社：ブラックロック・ジャパン）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260909533336.pdf"
+    },
+    {
+      "id": "5db2bec1a6e00b15bba2",
+      "published_at": "2026-09-09T10:00:00+09:00",
+      "security_code": "1671",
+      "company_name": "Ｅ－シンプレクス",
+      "title": "上場ＥＴＦ(管理会社：シンプレクス・アセット・マネジメント)に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260909533326.pdf"
+    },
+    {
+      "id": "e58f5b8c0a1fdbf7ba62",
+      "published_at": "2026-09-09T09:40:00+09:00",
+      "security_code": "1447",
+      "company_name": "Ｇ－ＳＡＡＦＨＤ",
+      "title": "（差替）「大規模買付等に関する対応策（買収への対応方針）に関する共同協調行為の追加認定について」のファイル差替について",
+      "category": "M&A",
+      "importance": 5,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260909533335.pdf"
+    },
+    {
+      "id": "5ccd05db06ed54192bad",
+      "published_at": "2026-09-09T09:00:00+09:00",
+      "security_code": "6306",
+      "company_name": "日工",
+      "title": "2027年3月期 第1四半期 決算決算説明会資料",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260909533160.pdf"
+    },
+    {
+      "id": "977b7a1e4df90ae80f01",
+      "published_at": "2026-09-09T08:30:00+09:00",
+      "security_code": "1672",
+      "company_name": "Ｅ－ＷｉｓｄｏｍＴｒ",
+      "title": "上場ETF（管理会社：WisdomTree、外国投資法人：MSL）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260909533148.pdf"
+    },
+    {
+      "id": "c3ee874f5981c6655dbc",
+      "published_at": "2026-09-09T08:30:00+09:00",
+      "security_code": "1672",
+      "company_name": "Ｅ－ＷｉｓｄｏｍＴｒ",
+      "title": "上場ETF（管理会社：WisdomTree、外国投資法人：CSL）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260909533149.pdf"
+    },
     {
       "id": "66039b5e479ef077db16",
       "published_at": "2026-09-08T19:00:00+09:00",
