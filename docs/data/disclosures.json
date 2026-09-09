@@ -1,7 +1,87 @@
 {
   "sample": false,
-  "last_success_at": "2026-09-09T17:03:43+09:00",
+  "last_success_at": "2026-09-09T20:45:51+09:00",
   "disclosures": [
+    {
+      "id": "14026d33d829b847bb60",
+      "published_at": "2026-09-09T20:00:00+09:00",
+      "security_code": "3989",
+      "company_name": "Ｇ－シェアリングＴ",
+      "title": "2026年9月期配当予想の修正（無配）に関するお知らせ",
+      "category": "減配",
+      "importance": 5,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260909533159.pdf"
+    },
+    {
+      "id": "e786a71009fbc7f84039",
+      "published_at": "2026-09-09T20:00:00+09:00",
+      "security_code": "3989",
+      "company_name": "Ｇ－シェアリングＴ",
+      "title": "MP-2606株式会社による当社株券等に対する公開買付けに関する賛同及び応募推奨の意見表明のお知らせ",
+      "category": "TOB",
+      "importance": 5,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260909533309.pdf"
+    },
+    {
+      "id": "d10588ce84cf80d51403",
+      "published_at": "2026-09-09T20:00:00+09:00",
+      "security_code": "3989",
+      "company_name": "Ｇ－シェアリングＴ",
+      "title": "MP-2606株式会社によるシェアリングテクノロジー株式会社（証券コード：3989）に対する公開買付けの開始に関するお知らせ",
+      "category": "TOB",
+      "importance": 5,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260909533311.pdf"
+    },
+    {
+      "id": "064d33abe6c0a1680098",
+      "published_at": "2026-09-09T18:00:00+09:00",
+      "security_code": "9348",
+      "company_name": "Ｇ－ｉｓｐａｃｅ",
+      "title": "財務上の特約がある資金の借入に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260908533048.pdf"
+    },
+    {
+      "id": "6c5799bd7ed67ed980eb",
+      "published_at": "2026-09-09T17:45:00+09:00",
+      "security_code": "4626",
+      "company_name": "太陽ＨＤ",
+      "title": "投資有価証券売却益（特別利益）の計上に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260909533419.pdf"
+    },
+    {
+      "id": "cf39084cfb5d05e558c7",
+      "published_at": "2026-09-09T17:30:00+09:00",
+      "security_code": "3105",
+      "company_name": "日清紡ＨＤ",
+      "title": "投資有価証券売却益（特別利益）の計上に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260909533705.pdf"
+    },
+    {
+      "id": "d1184fddc3d24f91d520",
+      "published_at": "2026-09-09T17:30:00+09:00",
+      "security_code": "3105",
+      "company_name": "日清紡ＨＤ",
+      "title": "業績予想の修正に関するお知らせ",
+      "category": "業績予想修正",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260909533712.pdf"
+    },
+    {
+      "id": "a5cee38f41271671d96d",
+      "published_at": "2026-09-09T17:17:00+09:00",
+      "security_code": "3989",
+      "company_name": "Ｇ－シェアリングＴ",
+      "title": "本日の一部報道について",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260909533747.pdf"
+    },
     {
       "id": "5190f892056237ecba43",
       "published_at": "2026-09-09T17:00:00+09:00",
