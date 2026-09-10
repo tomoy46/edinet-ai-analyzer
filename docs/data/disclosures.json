@@ -1,7 +1,327 @@
 {
   "sample": false,
-  "last_success_at": "2026-09-10T17:03:09+09:00",
+  "last_success_at": "2026-09-10T20:43:35+09:00",
   "disclosures": [
+    {
+      "id": "579f6d2d69c6e264b1a8",
+      "published_at": "2026-09-10T19:00:00+09:00",
+      "security_code": "9765",
+      "company_name": "オオバ",
+      "title": "ストックオプション（新株予約権）の発行内容確定に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260909533537.pdf"
+    },
+    {
+      "id": "608395680c676f7ca56b",
+      "published_at": "2026-09-10T18:40:00+09:00",
+      "security_code": "2237",
+      "company_name": "ｉＦＳＰ５００ダブル",
+      "title": "iFreeETFの収益分配のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260910534540.pdf"
+    },
+    {
+      "id": "b7bf18efc36be1e34945",
+      "published_at": "2026-09-10T18:40:00+09:00",
+      "security_code": "2238",
+      "company_name": "ｉＦＳＰ５００ベア",
+      "title": "iFreeETFの収益分配のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260910534541.pdf"
+    },
+    {
+      "id": "30228a613166d941a073",
+      "published_at": "2026-09-10T18:40:00+09:00",
+      "security_code": "2247",
+      "company_name": "ｉＦＳＰ５００Ｈ無",
+      "title": "iFreeETFの収益分配のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260910534542.pdf"
+    },
+    {
+      "id": "91f07219b683299ce4fc",
+      "published_at": "2026-09-10T18:40:00+09:00",
+      "security_code": "2248",
+      "company_name": "ｉＦＳＰ５００Ｈ有",
+      "title": "iFreeETFの収益分配のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260910534543.pdf"
+    },
+    {
+      "id": "30b903ba3bdb3f22cbcb",
+      "published_at": "2026-09-10T18:40:00+09:00",
+      "security_code": "2249",
+      "company_name": "ｉＦＳＰ５００Ｗベア",
+      "title": "iFreeETFの収益分配のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260910534544.pdf"
+    },
+    {
+      "id": "325a526bce59b86dcf91",
+      "published_at": "2026-09-10T18:40:00+09:00",
+      "security_code": "2528",
+      "company_name": "ｉＦＪリートコア",
+      "title": "iFreeETFの収益分配のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260910534545.pdf"
+    },
+    {
+      "id": "07db8c11bcae5c0c22e6",
+      "published_at": "2026-09-10T18:40:00+09:00",
+      "security_code": "2840",
+      "company_name": "ｉＦナス１００Ｈ無",
+      "title": "iFreeETFの収益分配のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260910534546.pdf"
+    },
+    {
+      "id": "faead60481980459a4f1",
+      "published_at": "2026-09-10T18:40:00+09:00",
+      "security_code": "2841",
+      "company_name": "ｉＦナス１００Ｈ有",
+      "title": "iFreeETFの収益分配のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260910534547.pdf"
+    },
+    {
+      "id": "efbed070b01ac4d37090",
+      "published_at": "2026-09-10T18:40:00+09:00",
+      "security_code": "2842",
+      "company_name": "ｉＦナス１００ベア",
+      "title": "iFreeETFの収益分配のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260910534548.pdf"
+    },
+    {
+      "id": "26a929ea95a0d993f702",
+      "published_at": "2026-09-10T18:40:00+09:00",
+      "security_code": "2869",
+      "company_name": "ｉＦナス１００ダブル",
+      "title": "iFreeETFの収益分配のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260910534549.pdf"
+    },
+    {
+      "id": "62f8ccd65ccab5a036e4",
+      "published_at": "2026-09-10T18:40:00+09:00",
+      "security_code": "2870",
+      "company_name": "ｉＦナス１００Ｗベア",
+      "title": "iFreeETFの収益分配のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260910534550.pdf"
+    },
+    {
+      "id": "4b74b93f3925880a0b9b",
+      "published_at": "2026-09-10T18:35:00+09:00",
+      "security_code": "1555",
+      "company_name": "上場Ａリート",
+      "title": "ＥＴＦの収益分配のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260910534535.pdf"
+    },
+    {
+      "id": "6786ab614fb36b2e5073",
+      "published_at": "2026-09-10T18:35:00+09:00",
+      "security_code": "1566",
+      "company_name": "上場ＥＭ債",
+      "title": "ＥＴＦの収益分配のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260910534536.pdf"
+    },
+    {
+      "id": "f76ef3c8fa8a2eb2d97d",
+      "published_at": "2026-09-10T18:35:00+09:00",
+      "security_code": "1677",
+      "company_name": "上場外債",
+      "title": "ＥＴＦの収益分配のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260910534537.pdf"
+    },
+    {
+      "id": "5b436cbf40169ab0799a",
+      "published_at": "2026-09-10T18:20:00+09:00",
+      "security_code": "2080",
+      "company_name": "ＰＢＲ１倍割れ解消",
+      "title": "ＥＴＦの収益分配金のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260910534516.pdf"
+    },
+    {
+      "id": "00c27227f35c3f38b3c3",
+      "published_at": "2026-09-10T18:20:00+09:00",
+      "security_code": "2081",
+      "company_name": "政策保有解消",
+      "title": "ＥＴＦの収益分配金のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260910534517.pdf"
+    },
+    {
+      "id": "a9d1ead622ddf4e58500",
+      "published_at": "2026-09-10T18:20:00+09:00",
+      "security_code": "2082",
+      "company_name": "投資家経営者一心同体",
+      "title": "ＥＴＦの収益分配金のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260910534518.pdf"
+    },
+    {
+      "id": "8bbce49ffb5adeb5f975",
+      "published_at": "2026-09-10T18:15:00+09:00",
+      "security_code": "6273",
+      "company_name": "ＳＭＣ",
+      "title": "自己株式の取得状況及び取得終了に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260910534502.pdf"
+    },
+    {
+      "id": "5b39c3d83141a15f5b7b",
+      "published_at": "2026-09-10T18:00:00+09:00",
+      "security_code": "2865",
+      "company_name": "ＧＸＮＤＸカバコ",
+      "title": "ETFの収益分配のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260910534431.pdf"
+    },
+    {
+      "id": "b06e47be70cb4de23d02",
+      "published_at": "2026-09-10T18:00:00+09:00",
+      "security_code": "2866",
+      "company_name": "ＧＸ優先証券",
+      "title": "ETFの収益分配のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260910534432.pdf"
+    },
+    {
+      "id": "565c58e6c550d22c2cf1",
+      "published_at": "2026-09-10T18:00:00+09:00",
+      "security_code": "2868",
+      "company_name": "ＧＸＳＰＸカバコ",
+      "title": "ETFの収益分配のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260910534439.pdf"
+    },
+    {
+      "id": "18e730bb4d1d93f35f0a",
+      "published_at": "2026-09-10T18:00:00+09:00",
+      "security_code": "3698",
+      "company_name": "ＣＲＩ・ＭＷ",
+      "title": "代表取締役の役職変更および役員人事に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260910534401.pdf"
+    },
+    {
+      "id": "0738151fc103c7235b9e",
+      "published_at": "2026-09-10T18:00:00+09:00",
+      "security_code": "7199",
+      "company_name": "プレミアグループ",
+      "title": "当社連結子会社における訴訟（反訴）の提起に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260910534292.pdf"
+    },
+    {
+      "id": "83f717311832f688aa55",
+      "published_at": "2026-09-10T17:40:00+09:00",
+      "security_code": "7970",
+      "company_name": "信越ポリマ",
+      "title": "取締役に対するストックオプション（新株予約権）の行使価額等確定のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260909533866.pdf"
+    },
+    {
+      "id": "5cf4567ac4d85f306737",
+      "published_at": "2026-09-10T17:40:00+09:00",
+      "security_code": "7970",
+      "company_name": "信越ポリマ",
+      "title": "当社執行役員及び当社従業員に対するストックオプション（新株予約権）の行使価額確定のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260909533862.pdf"
+    },
+    {
+      "id": "0e7c56d892d9c51f6966",
+      "published_at": "2026-09-10T17:30:00+09:00",
+      "security_code": "3070",
+      "company_name": "Ｇ－ジェリービーンズ",
+      "title": "2027年１月期 第２四半期（中間期）決算短信〔日本基準〕(連結)",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260904531787.pdf"
+    },
+    {
+      "id": "b2d1aceb9f2e2fda97cc",
+      "published_at": "2026-09-10T17:30:00+09:00",
+      "security_code": "3070",
+      "company_name": "Ｇ－ジェリービーンズ",
+      "title": "2027年１月期 第２四半期（中間期）決算短信〔日本基準〕(連結) 補足説明資料",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260909533738.pdf"
+    },
+    {
+      "id": "2ff613db82ca57b4698b",
+      "published_at": "2026-09-10T17:30:00+09:00",
+      "security_code": "3070",
+      "company_name": "Ｇ－ジェリービーンズ",
+      "title": "特別損失の発生のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260909533715.pdf"
+    },
+    {
+      "id": "1fe05d538c551ca89ddd",
+      "published_at": "2026-09-10T17:15:00+09:00",
+      "security_code": "2633",
+      "company_name": "Ｓ＆Ｐ５００ヘッジ無",
+      "title": "ETFの収益分配のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260910534470.pdf"
+    },
+    {
+      "id": "936e1db5a685b0139e25",
+      "published_at": "2026-09-10T17:15:00+09:00",
+      "security_code": "2634",
+      "company_name": "Ｓ＆Ｐ５００ヘッジ有",
+      "title": "ETFの収益分配のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260910534471.pdf"
+    },
+    {
+      "id": "df4f460886c752fd264c",
+      "published_at": "2026-09-10T17:05:00+09:00",
+      "security_code": "7196",
+      "company_name": "Ｃａｓａ",
+      "title": "社外取締役の辞任に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260908533216.pdf"
+    },
     {
       "id": "fd4c3303e709ab89659c",
       "published_at": "2026-09-10T17:01:00+09:00",
