@@ -1,7 +1,47 @@
 {
   "sample": false,
-  "last_success_at": "2026-09-11T20:44:04+09:00",
+  "last_success_at": "2026-09-11T21:58:30+09:00",
   "disclosures": [
+    {
+      "id": "293b34020fafda5ebc18",
+      "published_at": "2026-09-11T20:45:00+09:00",
+      "security_code": "3350",
+      "company_name": "メタプラネット",
+      "title": "執行役の異動に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260911535177.pdf"
+    },
+    {
+      "id": "63804812c6d8d070ab57",
+      "published_at": "2026-09-11T20:45:00+09:00",
+      "security_code": "3350",
+      "company_name": "メタプラネット",
+      "title": "第10回新株予約権（有償ストック・オプション）の発行要項の再変更（潜在株式数の削減）及び長期役職員インセンティブ・プランの白紙撤回に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260911535287.pdf"
+    },
+    {
+      "id": "d769e179b8f7abcbf78b",
+      "published_at": "2026-09-11T20:45:00+09:00",
+      "security_code": "3350",
+      "company_name": "メタプラネット",
+      "title": "香港子会社「Metaplanet Asset Management Asia Limited」設立に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260911535204.pdf"
+    },
+    {
+      "id": "da4fbbfe480cd46f39d3",
+      "published_at": "2026-09-11T20:45:00+09:00",
+      "security_code": "3350",
+      "company_name": "メタプラネット",
+      "title": "臨時株主総会の開催並びに資本金、資本準備金の額の減少及び剰余金の処分に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260911535286.pdf"
+    },
     {
       "id": "fe51c38370c7a1aa476e",
       "published_at": "2026-09-11T19:00:00+09:00",
