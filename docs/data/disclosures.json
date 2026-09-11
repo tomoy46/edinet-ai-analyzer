@@ -1,7 +1,127 @@
 {
   "sample": false,
-  "last_success_at": "2026-09-11T16:58:37+09:00",
+  "last_success_at": "2026-09-11T20:44:04+09:00",
   "disclosures": [
+    {
+      "id": "fe51c38370c7a1aa476e",
+      "published_at": "2026-09-11T19:00:00+09:00",
+      "security_code": "4891",
+      "company_name": "Ｇ－ティムス",
+      "title": "TMS-008の国内前期第ll相臨床試験に関するPMDAとの対面助言終了のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260904532005.pdf"
+    },
+    {
+      "id": "f79905e9f3b16559645c",
+      "published_at": "2026-09-11T18:00:00+09:00",
+      "security_code": "3445",
+      "company_name": "ＲＳＴＥＣＨ",
+      "title": "連結子会社（プライムウェーハ事業）の組織再編に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260911535293.pdf"
+    },
+    {
+      "id": "5298127df385745d4ba6",
+      "published_at": "2026-09-11T18:00:00+09:00",
+      "security_code": "5074",
+      "company_name": "テスホールディングス",
+      "title": "（訂正）「従業員に対する譲渡制限付株式としての新株式発行に関するお知らせ」の一部訂正について",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260911535291.pdf"
+    },
+    {
+      "id": "ec05df9e4b98d265c280",
+      "published_at": "2026-09-11T18:00:00+09:00",
+      "security_code": "5074",
+      "company_name": "テスホールディングス",
+      "title": "（訂正）「従業員に対する譲渡制限付株式としての新株式発行の払込完了に関するお知らせ」の一部訂正について",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260911535292.pdf"
+    },
+    {
+      "id": "6ee7f052e5715d607d9e",
+      "published_at": "2026-09-11T18:00:00+09:00",
+      "security_code": "6224",
+      "company_name": "Ｇ－ＪＲＣ",
+      "title": "資金の借入に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260910534098.pdf"
+    },
+    {
+      "id": "dd60d8847277886ad3df",
+      "published_at": "2026-09-11T17:00:00+09:00",
+      "security_code": "3221",
+      "company_name": "ヨシックスＨＤ",
+      "title": "2027年３月期 ８月度 店舗数の状況及び月次売上高前年対比のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260911534994.pdf"
+    },
+    {
+      "id": "697efb76534f85aeb25a",
+      "published_at": "2026-09-11T17:00:00+09:00",
+      "security_code": "3483",
+      "company_name": "Ｐ－翔栄",
+      "title": "2026年７月期 決算短信〔日本基準〕（非連結）",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260911535248.pdf"
+    },
+    {
+      "id": "e38f697818cde2865306",
+      "published_at": "2026-09-11T17:00:00+09:00",
+      "security_code": "4463",
+      "company_name": "日華化学",
+      "title": "当社株式の貸借銘柄選定に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260911534837.pdf"
+    },
+    {
+      "id": "4145ed7f00322e037861",
+      "published_at": "2026-09-11T17:00:00+09:00",
+      "security_code": "8795",
+      "company_name": "Ｔ＆ＤＨＤ",
+      "title": "自己株式の取得状況および取得終了に関するお知らせ（会社法第459条第１項の規定による定款の定めに基づく自己株式の取得）",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260904531809.pdf"
+    },
+    {
+      "id": "491cc8a0e914c4bf23e7",
+      "published_at": "2026-09-11T17:00:00+09:00",
+      "security_code": "9503",
+      "company_name": "関西電力",
+      "title": "関西電力送配電株式会社における託送供給等約款の変更届出について（託送料金単価の改定）",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260911534903.pdf"
+    },
+    {
+      "id": "aaa73710b723ad86b86f",
+      "published_at": "2026-09-11T17:00:00+09:00",
+      "security_code": "9507",
+      "company_name": "四国電力",
+      "title": "当社子会社の四国電力送配電(株)による託送供給等約款の変更届出について",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260911535266.pdf"
+    },
+    {
+      "id": "4deb36865a9e04500185",
+      "published_at": "2026-09-11T17:00:00+09:00",
+      "security_code": "9682",
+      "company_name": "ＤＴＳ",
+      "title": "当社による訴訟提起に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260911535215.pdf"
+    },
     {
       "id": "7c8378d3b599e3550c74",
       "published_at": "2026-09-11T16:30:00+09:00",
