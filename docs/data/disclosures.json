@@ -1,7 +1,87 @@
 {
   "sample": false,
-  "last_success_at": "2026-09-14T17:48:40+09:00",
+  "last_success_at": "2026-09-14T22:15:09+09:00",
   "disclosures": [
+    {
+      "id": "b0f450821b30d67765ad",
+      "published_at": "2026-09-14T20:00:00+09:00",
+      "security_code": "8848",
+      "company_name": "レオパレス２１",
+      "title": "株式会社K891による当社株券等に対する公開買付けに関する賛同の意見表明及び応募推奨並びに特定子会社の異動を伴う株式譲渡に関するお知らせ",
+      "category": "TOB",
+      "importance": 5,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260914536142.pdf"
+    },
+    {
+      "id": "b2ba09e95506e854a2f3",
+      "published_at": "2026-09-14T20:00:00+09:00",
+      "security_code": "8848",
+      "company_name": "レオパレス２１",
+      "title": "2027年３月期の中間配当及び期末配当予想の修正（無配）に関するお知らせ",
+      "category": "減配",
+      "importance": 5,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260914536086.pdf"
+    },
+    {
+      "id": "6d1357d02c3844072da7",
+      "published_at": "2026-09-14T20:00:00+09:00",
+      "security_code": "8848",
+      "company_name": "レオパレス２１",
+      "title": "シルバー事業の譲渡（特定子会社の異動を伴う株式譲渡）に関する基本合意書の締結並びに特別損失の計上及び業績予想の修正に関するお知らせ",
+      "category": "業績予想修正",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260914536068.pdf"
+    },
+    {
+      "id": "96e59067697b1f33d830",
+      "published_at": "2026-09-14T19:45:00+09:00",
+      "security_code": "9435",
+      "company_name": "光通信",
+      "title": "公開買付け開始時点では子会社である株式会社K891における株式会社レオパレス21（証券コード：8848）の株券等に対する公開買付けの開始及び子会社の異動（関連",
+      "category": "TOB",
+      "importance": 5,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260914536244.pdf"
+    },
+    {
+      "id": "d30de504c329cc2ddb19",
+      "published_at": "2026-09-14T18:00:00+09:00",
+      "security_code": "2303",
+      "company_name": "ドーン",
+      "title": "譲渡制限付株式報酬としての自己株式の処分に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260911535341.pdf"
+    },
+    {
+      "id": "d9cb324565eb6eadfaca",
+      "published_at": "2026-09-14T18:00:00+09:00",
+      "security_code": "3193",
+      "company_name": "エターナルホスピＧ",
+      "title": "貸倒引当金繰入額及び関係会社株式評価損の発生（個別）に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260914536201.pdf"
+    },
+    {
+      "id": "b23e3874f3858ae92d62",
+      "published_at": "2026-09-14T18:00:00+09:00",
+      "security_code": "4378",
+      "company_name": "Ｇ－ＣＩＮＣ",
+      "title": "連結子会社の吸収合併（簡易合併・略式合併）及び連結子会社への債権放棄、並びに連結決算から単体決算への移行に関するお知らせ",
+      "category": "M&A",
+      "importance": 5,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260914536117.pdf"
+    },
+    {
+      "id": "566d381a9f29639e3dfa",
+      "published_at": "2026-09-14T18:00:00+09:00",
+      "security_code": "4380",
+      "company_name": "Ｇ－Ｍマート",
+      "title": "2027年1月期第2四半期（中間期）決算短信〔日本基準〕（非連結）",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260914536149.pdf"
+    },
     {
       "id": "7826664f9bcc829a25d5",
       "published_at": "2026-09-14T17:30:00+09:00",
