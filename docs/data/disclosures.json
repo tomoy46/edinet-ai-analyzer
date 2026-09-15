@@ -1,7 +1,237 @@
 {
   "sample": false,
-  "last_success_at": "2026-09-15T00:11:37+09:00",
+  "last_success_at": "2026-09-15T13:43:37+09:00",
   "disclosures": [
+    {
+      "id": "47178cdb9a8ff53cad29",
+      "published_at": "2026-09-15T13:30:00+09:00",
+      "security_code": "5410",
+      "company_name": "合同鉄",
+      "title": "自己株式の取得状況及び取得終了に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260915536403.pdf"
+    },
+    {
+      "id": "972d0d36835e9c8da500",
+      "published_at": "2026-09-15T13:00:00+09:00",
+      "security_code": "1430",
+      "company_name": "ファーストコーポ",
+      "title": "株主優待制度の拡充に関するお知らせ",
+      "category": "優待拡充",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260914536176.pdf"
+    },
+    {
+      "id": "ea8d7347fc7b0f0ad7b3",
+      "published_at": "2026-09-15T13:00:00+09:00",
+      "security_code": "1430",
+      "company_name": "ファーストコーポ",
+      "title": "従業員向け株式給付信託の終了に伴う自己株式の無償取得及び消却に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260914536169.pdf"
+    },
+    {
+      "id": "bd507f0c92e4f8806bb1",
+      "published_at": "2026-09-15T13:00:00+09:00",
+      "security_code": "2388",
+      "company_name": "Ｇ－ウェッジＨＤ",
+      "title": "代表取締役の異動（辞任）に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260915536462.pdf"
+    },
+    {
+      "id": "63b0e38ad3a3a874c719",
+      "published_at": "2026-09-15T13:00:00+09:00",
+      "security_code": "3276",
+      "company_name": "ＪＰＭＣ",
+      "title": "株式会社Amsterdam1及び株式会社Amsterdam2による株式会社ＪＰＭＣ（証券コード：3276）の 普通株式に対する公開買付けの買付条件等の変更に関するお知らせ",
+      "category": "TOB",
+      "importance": 5,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260914536050.pdf"
+    },
+    {
+      "id": "bd1854d32167d4fd3151",
+      "published_at": "2026-09-15T13:00:00+09:00",
+      "security_code": "3276",
+      "company_name": "ＪＰＭＣ",
+      "title": "（変更）「ＭＢＯの実施及び応募の推奨に関するお知らせ」の一部変更に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260914536060.pdf"
+    },
+    {
+      "id": "82f2af7b604900cad515",
+      "published_at": "2026-09-15T11:40:00+09:00",
+      "security_code": "1557",
+      "company_name": "Ｅ－ＳＳＧＡＴＣ",
+      "title": "State Street SPDR S&P500 ETFに関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260915536448.pdf"
+    },
+    {
+      "id": "104893a02c5577c68652",
+      "published_at": "2026-09-15T11:35:00+09:00",
+      "security_code": "1326",
+      "company_name": "Ｅ－ワールド",
+      "title": "SPDRゴールド・シェアに関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260915536447.pdf"
+    },
+    {
+      "id": "25de79306f776c3d4f78",
+      "published_at": "2026-09-15T11:30:00+09:00",
+      "security_code": "1349",
+      "company_name": "Ｅ－ＳＳＧＡ－ＳＩＮ",
+      "title": "アジア国債・公債ＥＴＦ（正式名称：ＡＢＦ汎アジア債券インデックス・ファンド）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260915536397.pdf"
+    },
+    {
+      "id": "2294c7d09ea2d9468964",
+      "published_at": "2026-09-15T11:30:00+09:00",
+      "security_code": "2070",
+      "company_name": "Ｎ－三菱ＵＦＪ証ＨＤ",
+      "title": "上場ETN（発行者：三菱UFJ証券ホールディングス株式会社）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260915536376.pdf"
+    },
+    {
+      "id": "3af24fbf0f554695fb65",
+      "published_at": "2026-09-15T11:30:00+09:00",
+      "security_code": "2433",
+      "company_name": "博報堂ＤＹ",
+      "title": "2027年3月期 第 1 四半期 連結決算説明会 質疑応答要旨",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260915536454.pdf"
+    },
+    {
+      "id": "5183b197f24947951175",
+      "published_at": "2026-09-15T11:30:00+09:00",
+      "security_code": "2440",
+      "company_name": "ぐるなび",
+      "title": "2027年3月期第1四半期決算に関する主な質疑応答（要旨）",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260915536291.pdf"
+    },
+    {
+      "id": "3500c5f5813574ecd0f6",
+      "published_at": "2026-09-15T11:30:00+09:00",
+      "security_code": "4058",
+      "company_name": "Ｇ－トヨクモ",
+      "title": "2026年8月度 月次売上速報に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260914536032.pdf"
+    },
+    {
+      "id": "dfe5192d7c1c61ede279",
+      "published_at": "2026-09-15T11:30:00+09:00",
+      "security_code": "6081",
+      "company_name": "Ｇ－アライドアーキ",
+      "title": "（開示事項の経過）第22回新株予約権及び第23回新株予約権の取得及び消却の完了に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260915536487.pdf"
+    },
+    {
+      "id": "bf2bc95fe6ac840d21d7",
+      "published_at": "2026-09-15T11:00:00+09:00",
+      "security_code": "7674",
+      "company_name": "Ｇ－ＮＡＴＴＹＨＤ",
+      "title": "株主優待制度に関する補足説明のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260915536445.pdf"
+    },
+    {
+      "id": "48f6d844dc2f9cf4773d",
+      "published_at": "2026-09-15T10:30:00+09:00",
+      "security_code": "1329",
+      "company_name": "Ｅ－ブラックロック",
+      "title": "上場ETF（管理会社：ブラックロック・ジャパン）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260915536336.pdf"
+    },
+    {
+      "id": "5ee55ce54eceb11e82be",
+      "published_at": "2026-09-15T10:30:00+09:00",
+      "security_code": "7874",
+      "company_name": "レック",
+      "title": "自己株式の取得状況に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260914536258.pdf"
+    },
+    {
+      "id": "edda0e31117b537237ad",
+      "published_at": "2026-09-15T10:00:00+09:00",
+      "security_code": "1671",
+      "company_name": "Ｅ－シンプレクス",
+      "title": "上場ＥＴＦ(管理会社：シンプレクス・アセット・マネジメント)に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260915536307.pdf"
+    },
+    {
+      "id": "812a19a9beb9c1a5c098",
+      "published_at": "2026-09-15T10:00:00+09:00",
+      "security_code": "2217",
+      "company_name": "モロゾフ",
+      "title": "自己株式立会外買付取引（ToSTNeT-3）による自己株式取得結果および取得終了に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260914536152.pdf"
+    },
+    {
+      "id": "38807c51f66379ddafc6",
+      "published_at": "2026-09-15T10:00:00+09:00",
+      "security_code": "7059",
+      "company_name": "コプロＨＤ",
+      "title": "2026年8月度 在籍技術者数、稼働技術者数・稼働率の月次開示に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260914536276.pdf"
+    },
+    {
+      "id": "61d9a64da4b22d0147f9",
+      "published_at": "2026-09-15T09:30:00+09:00",
+      "security_code": "1798",
+      "company_name": "守谷商会",
+      "title": "従業員持株会向け譲渡制限付株式インセンティブとしての自己株式の処分の払込完了及び一部失権に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260914536070.pdf"
+    },
+    {
+      "id": "f45030743bbf44c44896",
+      "published_at": "2026-09-15T08:30:00+09:00",
+      "security_code": "1672",
+      "company_name": "Ｅ－ＷｉｓｄｏｍＴｒ",
+      "title": "上場ETF（管理会社：WisdomTree、外国投資法人：MSL）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260915536287.pdf"
+    },
+    {
+      "id": "5c62fd43ecaf951aa440",
+      "published_at": "2026-09-15T08:30:00+09:00",
+      "security_code": "1672",
+      "company_name": "Ｅ－ＷｉｓｄｏｍＴｒ",
+      "title": "上場ETF（管理会社：WisdomTree、外国投資法人：CSL）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260915536288.pdf"
+    },
     {
       "id": "b0f450821b30d67765ad",
       "published_at": "2026-09-14T20:00:00+09:00",
