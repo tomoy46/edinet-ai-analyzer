@@ -1,7 +1,77 @@
 {
   "sample": false,
-  "last_success_at": "2026-09-15T17:35:31+09:00",
+  "last_success_at": "2026-09-15T21:01:23+09:00",
   "disclosures": [
+    {
+      "id": "1d844c87479caf2855eb",
+      "published_at": "2026-09-15T18:30:00+09:00",
+      "security_code": "8086",
+      "company_name": "ニプロ",
+      "title": "2026年満期ユーロ円建転換社債型新株予約権付社債の転換結果および償還に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260915536854.pdf"
+    },
+    {
+      "id": "33e258177afa90053ac6",
+      "published_at": "2026-09-15T18:00:00+09:00",
+      "security_code": "1445",
+      "company_name": "Ｐ－ひかりＨＤ",
+      "title": "業績予想の修正に関するお知らせ",
+      "category": "業績予想修正",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260915536483.pdf"
+    },
+    {
+      "id": "2661e1ac46f27420d51b",
+      "published_at": "2026-09-15T18:00:00+09:00",
+      "security_code": "1445",
+      "company_name": "Ｐ－ひかりＨＤ",
+      "title": "臨時株主総会開催日時、開催場所及び付議議案の決定に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260915536484.pdf"
+    },
+    {
+      "id": "a0c6303034c22a79486d",
+      "published_at": "2026-09-15T18:00:00+09:00",
+      "security_code": "1812",
+      "company_name": "鹿島",
+      "title": "独占禁止法違反事件における決定（上告審）について",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260915536813.pdf"
+    },
+    {
+      "id": "e4f202eb7a22133332cb",
+      "published_at": "2026-09-15T18:00:00+09:00",
+      "security_code": "4069",
+      "company_name": "Ｇ－ＢｌｕｅＭｅｍｅ",
+      "title": "会社分割（吸収分割）の効力発生日の変更に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260915536828.pdf"
+    },
+    {
+      "id": "661aecd8639a29983c8e",
+      "published_at": "2026-09-15T18:00:00+09:00",
+      "security_code": "9278",
+      "company_name": "ブックオフＧＨＤ",
+      "title": "譲渡制限付株式報酬としての自己株式の処分に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260915536782.pdf"
+    },
+    {
+      "id": "626de82dbd5897935a73",
+      "published_at": "2026-09-15T17:45:00+09:00",
+      "security_code": "8281",
+      "company_name": "ゼビオＨＤ",
+      "title": "取締役に対する株式報酬型ストックオプションの内容確定に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260915536650.pdf"
+    },
     {
       "id": "ec5c0f8ba48acbbc5918",
       "published_at": "2026-09-15T17:30:00+09:00",
