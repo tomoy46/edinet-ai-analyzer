@@ -1,7 +1,297 @@
 {
   "sample": false,
-  "last_success_at": "2026-09-15T22:48:43+09:00",
+  "last_success_at": "2026-09-16T13:39:50+09:00",
   "disclosures": [
+    {
+      "id": "c786b4a03898f7e897b2",
+      "published_at": "2026-09-16T13:00:00+09:00",
+      "security_code": "1343",
+      "company_name": "ＮＦＪ－ＲＥＩＴ",
+      "title": "NEXT FUNDS 東証REIT指数連動型上場投信 決算短信",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260916537060.pdf"
+    },
+    {
+      "id": "7391252085b2b991c96d",
+      "published_at": "2026-09-16T13:00:00+09:00",
+      "security_code": "1545",
+      "company_name": "ナスダックヘッジ無",
+      "title": "NEXT FUNDS NASDAQ－１００（Ｒ）（為替ヘッジなし）連動型上場投信 決算短信",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260916537083.pdf"
+    },
+    {
+      "id": "89a91cee75d287df202e",
+      "published_at": "2026-09-16T13:00:00+09:00",
+      "security_code": "1546",
+      "company_name": "ダウヘッジ無",
+      "title": "NEXT FUNDS ダウ・ジョーンズ工業株３０種平均株価（為替ヘッジなし）連動型上場投信 決算短信",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260916537085.pdf"
+    },
+    {
+      "id": "a8c2203085032cd0b281",
+      "published_at": "2026-09-16T13:00:00+09:00",
+      "security_code": "1559",
+      "company_name": "ＮＦタイ株",
+      "title": "NEXT FUNDS タイ株式SET50指数連動型上場投信 決算短信",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260916537071.pdf"
+    },
+    {
+      "id": "bfbbba3a4726146a238f",
+      "published_at": "2026-09-16T13:00:00+09:00",
+      "security_code": "1560",
+      "company_name": "ＮＦマレーシア株",
+      "title": "NEXT FUNDS FTSEブルサ・マレーシアKLCI連動型上場投信 決算短信",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260916537088.pdf"
+    },
+    {
+      "id": "f3d4264a45e20773c6f1",
+      "published_at": "2026-09-16T13:00:00+09:00",
+      "security_code": "1678",
+      "company_name": "ＮＦインド株",
+      "title": "NEXT FUNDS インド株式指数・Nifty 50連動型上場投信 決算短信",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260916537090.pdf"
+    },
+    {
+      "id": "fa2bccd5ac5cb1d280be",
+      "published_at": "2026-09-16T13:00:00+09:00",
+      "security_code": "1699",
+      "company_name": "ＮＦ原油先物",
+      "title": "NEXT FUNDS NOMURA原油インデックス連動型上場投信 中間決算短信",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260916537068.pdf"
+    },
+    {
+      "id": "3e0d64bb0e1d713c2239",
+      "published_at": "2026-09-16T13:00:00+09:00",
+      "security_code": "2845",
+      "company_name": "ナスダックヘッジ有",
+      "title": "NEXT FUNDS NASDAQ－１００（Ｒ）（為替ヘッジあり）連動型上場投信 決算短信",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260916537092.pdf"
+    },
+    {
+      "id": "e1710aff86953a2bdf02",
+      "published_at": "2026-09-16T13:00:00+09:00",
+      "security_code": "2846",
+      "company_name": "ダウヘッジ有",
+      "title": "NEXT FUNDS ダウ・ジョーンズ工業株３０種平均株価（為替ヘッジあり）連動型上場投信 決算短信",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260916537094.pdf"
+    },
+    {
+      "id": "edc2e0a804c1f00c6c99",
+      "published_at": "2026-09-16T13:00:00+09:00",
+      "security_code": "9644",
+      "company_name": "タナベコンサルＧ",
+      "title": "従業員向け株式付与ＥＳＯＰ信託の導入に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260916537074.pdf"
+    },
+    {
+      "id": "c6086cb0f40e4c85f565",
+      "published_at": "2026-09-16T13:00:00+09:00",
+      "security_code": "9644",
+      "company_name": "タナベコンサルＧ",
+      "title": "従業員向け株式付与ＥＳＯＰ信託の導入に伴う第三者割当による自己株式の処分に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260916537106.pdf"
+    },
+    {
+      "id": "7571973a854752bffe3c",
+      "published_at": "2026-09-16T12:30:00+09:00",
+      "security_code": "6625",
+      "company_name": "ＪＡＬＣＯ ＨＤ",
+      "title": "連結子会社における販売用不動産の売却に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260916537168.pdf"
+    },
+    {
+      "id": "5e95e1918d520d86b6b1",
+      "published_at": "2026-09-16T12:20:00+09:00",
+      "security_code": "1557",
+      "company_name": "Ｅ－ＳＳＧＡＴＣ",
+      "title": "State Street SPDR S&P500 ETFに関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260916537139.pdf"
+    },
+    {
+      "id": "27b99d9db68e2df15cce",
+      "published_at": "2026-09-16T12:15:00+09:00",
+      "security_code": "1326",
+      "company_name": "Ｅ－ワールド",
+      "title": "SPDRゴールド・シェアに関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260916537137.pdf"
+    },
+    {
+      "id": "5352e188e78bf29fcc81",
+      "published_at": "2026-09-16T12:10:00+09:00",
+      "security_code": "1349",
+      "company_name": "Ｅ－ＳＳＧＡ－ＳＩＮ",
+      "title": "アジア国債・公債ＥＴＦ（正式名称：ＡＢＦ汎アジア債券インデックス・ファンド）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260916537135.pdf"
+    },
+    {
+      "id": "98fd7e0b0e9e114ccb85",
+      "published_at": "2026-09-16T12:00:00+09:00",
+      "security_code": "8624",
+      "company_name": "いちよし",
+      "title": "2027年３月期の中間配当予定について",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260915536801.pdf"
+    },
+    {
+      "id": "cd00c0f738f3b16365c9",
+      "published_at": "2026-09-16T12:00:00+09:00",
+      "security_code": "8705",
+      "company_name": "日産証券グループ",
+      "title": "2027年３月期配当予想に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260907532376.pdf"
+    },
+    {
+      "id": "ef1e8933e5356daca169",
+      "published_at": "2026-09-16T11:45:00+09:00",
+      "security_code": "5304",
+      "company_name": "ＳＥＣカーボン",
+      "title": "自己株式の取得状況及び取得終了に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260916537112.pdf"
+    },
+    {
+      "id": "5d6f7f085c4609db3daa",
+      "published_at": "2026-09-16T11:30:00+09:00",
+      "security_code": "2070",
+      "company_name": "Ｎ－三菱ＵＦＪ証ＨＤ",
+      "title": "上場ETN（発行者：三菱UFJ証券ホールディングス株式会社）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260916537018.pdf"
+    },
+    {
+      "id": "f4d1de99b74135e4d0f0",
+      "published_at": "2026-09-16T11:30:00+09:00",
+      "security_code": "2164",
+      "company_name": "地域新聞社",
+      "title": "第11回新株予約権（行使価額修正条項付）の取得に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260916537077.pdf"
+    },
+    {
+      "id": "97dfe783d50de6dbcb37",
+      "published_at": "2026-09-16T11:00:00+09:00",
+      "security_code": "3512",
+      "company_name": "日フエルト",
+      "title": "自己株式立会外買付取引（ＴｏＳＴＮｅＴ－３）による自己株式の取得結果に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260916537012.pdf"
+    },
+    {
+      "id": "fd771322d1e1423a0eea",
+      "published_at": "2026-09-16T11:00:00+09:00",
+      "security_code": "4116",
+      "company_name": "大日精化",
+      "title": "自己株式立会外買付取引（ToSTNeT-３）による自己株式の取得結果及び自己株式の取得終了に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260915536793.pdf"
+    },
+    {
+      "id": "a772a074f0bae166146c",
+      "published_at": "2026-09-16T10:30:00+09:00",
+      "security_code": "1329",
+      "company_name": "Ｅ－ブラックロック",
+      "title": "上場ETF（管理会社：ブラックロック・ジャパン）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260916536933.pdf"
+    },
+    {
+      "id": "23186bfa5b6fe3098c0a",
+      "published_at": "2026-09-16T10:00:00+09:00",
+      "security_code": "1671",
+      "company_name": "Ｅ－シンプレクス",
+      "title": "上場ＥＴＦ(管理会社：シンプレクス・アセット・マネジメント)に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260916536954.pdf"
+    },
+    {
+      "id": "a5d9ce9ac50e577291fb",
+      "published_at": "2026-09-16T08:55:00+09:00",
+      "security_code": "5842",
+      "company_name": "Ｇ－インテグラル",
+      "title": "株式会社オリバーの株式上場に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260916536914.pdf"
+    },
+    {
+      "id": "a332b797065a9e589561",
+      "published_at": "2026-09-16T08:30:00+09:00",
+      "security_code": "1672",
+      "company_name": "Ｅ－ＷｉｓｄｏｍＴｒ",
+      "title": "上場ETF（管理会社：WisdomTree、外国投資法人：MSL）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260916536908.pdf"
+    },
+    {
+      "id": "ed9a975277bdad8eb131",
+      "published_at": "2026-09-16T08:30:00+09:00",
+      "security_code": "1672",
+      "company_name": "Ｅ－ＷｉｓｄｏｍＴｒ",
+      "title": "上場ETF（管理会社：WisdomTree、外国投資法人：CSL）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260916536909.pdf"
+    },
+    {
+      "id": "36c6a74cbfbce91802fc",
+      "published_at": "2026-09-16T08:30:00+09:00",
+      "security_code": "9602",
+      "company_name": "東宝",
+      "title": "投資有価証券売却益（特別利益）計上に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260907532443.pdf"
+    },
+    {
+      "id": "dc35c9270a75d4844f23",
+      "published_at": "2026-09-16T01:15:00+09:00",
+      "security_code": "3260",
+      "company_name": "エスポア",
+      "title": "第三者委員会の調査報告書の受領に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260916536907.pdf"
+    },
     {
       "id": "1d844c87479caf2855eb",
       "published_at": "2026-09-15T18:30:00+09:00",
