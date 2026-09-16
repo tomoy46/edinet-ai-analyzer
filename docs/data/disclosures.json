@@ -1,7 +1,37 @@
 {
   "sample": false,
-  "last_success_at": "2026-09-16T17:29:34+09:00",
+  "last_success_at": "2026-09-16T20:57:49+09:00",
   "disclosures": [
+    {
+      "id": "ab81abcdb8c4a988749f",
+      "published_at": "2026-09-16T19:00:00+09:00",
+      "security_code": "4689",
+      "company_name": "ＬＩＮＥヤフー",
+      "title": "（経過開示）BCPE Blitz Cayman, L.P.による株式会社カカクコム（証券コード：2371）に対する公開買付けの開始予定に係る一部変更に関するお知らせ",
+      "category": "TOB",
+      "importance": 5,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260915536688.pdf"
+    },
+    {
+      "id": "bbad313f0afd7404d35c",
+      "published_at": "2026-09-16T17:30:00+09:00",
+      "security_code": "4884",
+      "company_name": "Ｇ－クリングル",
+      "title": "声帯瘢痕治療薬の日本における独占的販売許諾等に関する契約書の締結に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260916537121.pdf"
+    },
+    {
+      "id": "041ed5fc813569f12ec1",
+      "published_at": "2026-09-16T17:30:00+09:00",
+      "security_code": "4884",
+      "company_name": "Ｇ－クリングル",
+      "title": "2026年９月期業績予想の修正に関するお知らせ",
+      "category": "業績予想修正",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260915536765.pdf"
+    },
     {
       "id": "4773bebc112a5049bf43",
       "published_at": "2026-09-16T17:10:00+09:00",
