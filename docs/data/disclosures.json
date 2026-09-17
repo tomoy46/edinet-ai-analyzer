@@ -1,7 +1,307 @@
 {
   "sample": false,
-  "last_success_at": "2026-09-16T22:40:48+09:00",
+  "last_success_at": "2026-09-17T13:43:30+09:00",
   "disclosures": [
+    {
+      "id": "972c7bc0be6ea3a020e5",
+      "published_at": "2026-09-17T13:00:00+09:00",
+      "security_code": "9273",
+      "company_name": "コーア商事ＨＤ",
+      "title": "資本コストや株価を意識した経営の実現に向けた対応について（アップデート）",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260916537315.pdf"
+    },
+    {
+      "id": "657002c6792a1d9960e6",
+      "published_at": "2026-09-17T12:15:00+09:00",
+      "security_code": "1860",
+      "company_name": "戸田建",
+      "title": "（訂正）一括取得型自己株式取得（ASR）における事後調整完了のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260917537787.pdf"
+    },
+    {
+      "id": "bda103dee8c5a5ad4546",
+      "published_at": "2026-09-17T12:00:00+09:00",
+      "security_code": "1557",
+      "company_name": "Ｅ－ＳＳＧＡＴＣ",
+      "title": "State Street SPDR S&P500 ETFに関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260917537777.pdf"
+    },
+    {
+      "id": "e7fd734af39c6fbadb01",
+      "published_at": "2026-09-17T11:55:00+09:00",
+      "security_code": "1326",
+      "company_name": "Ｅ－ワールド",
+      "title": "SPDRゴールド・シェアに関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260917537773.pdf"
+    },
+    {
+      "id": "ba2a6e7510af5f1a7b9b",
+      "published_at": "2026-09-17T11:50:00+09:00",
+      "security_code": "1349",
+      "company_name": "Ｅ－ＳＳＧＡ－ＳＩＮ",
+      "title": "アジア国債・公債ＥＴＦ（正式名称：ＡＢＦ汎アジア債券インデックス・ファンド）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260917537765.pdf"
+    },
+    {
+      "id": "1abb2c80f2ec95308533",
+      "published_at": "2026-09-17T11:30:00+09:00",
+      "security_code": "2070",
+      "company_name": "Ｎ－三菱ＵＦＪ証ＨＤ",
+      "title": "上場ETN（発行者：三菱UFJ証券ホールディングス株式会社）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260917537661.pdf"
+    },
+    {
+      "id": "aa5ecf0417246470a5a2",
+      "published_at": "2026-09-17T11:30:00+09:00",
+      "security_code": "3634",
+      "company_name": "ソケッツ",
+      "title": "福岡証券取引所本則市場への重複上場承認に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260910534236.pdf"
+    },
+    {
+      "id": "f03108fe736aac6cd1b2",
+      "published_at": "2026-09-17T11:00:00+09:00",
+      "security_code": "7487",
+      "company_name": "小津産業",
+      "title": "取締役および委任型執行役員に対する譲渡制限付株式報酬としての自己株式の処分に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260907532370.pdf"
+    },
+    {
+      "id": "e17643ddc2226aa1a84a",
+      "published_at": "2026-09-17T10:30:00+09:00",
+      "security_code": "1329",
+      "company_name": "Ｅ－ブラックロック",
+      "title": "上場ETF（管理会社：ブラックロック・ジャパン）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260917537625.pdf"
+    },
+    {
+      "id": "f447a8392d2a5369c886",
+      "published_at": "2026-09-17T10:15:00+09:00",
+      "security_code": "7523",
+      "company_name": "アールビバン",
+      "title": "株式併合並びに単元株式数の定めの廃止及び定款の一部変更に関する 臨時株主総会開催のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260917537621.pdf"
+    },
+    {
+      "id": "9c65f706a4f250ef7038",
+      "published_at": "2026-09-17T10:15:00+09:00",
+      "security_code": "7523",
+      "company_name": "アールビバン",
+      "title": "自己株式の消却に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260917537629.pdf"
+    },
+    {
+      "id": "696639b0236bdeb834f0",
+      "published_at": "2026-09-17T10:10:00+09:00",
+      "security_code": "3856",
+      "company_name": "Ａｂａｌａｎｃｅ",
+      "title": "自己株式立会外買付取引（ToSTNeT-3）による自己株式の取得結果に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260917537633.pdf"
+    },
+    {
+      "id": "75dd35c3d12cd271cb25",
+      "published_at": "2026-09-17T10:00:00+09:00",
+      "security_code": "1671",
+      "company_name": "Ｅ－シンプレクス",
+      "title": "上場ＥＴＦ(管理会社：シンプレクス・アセット・マネジメント)に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260917537600.pdf"
+    },
+    {
+      "id": "823da784e5cabc027e86",
+      "published_at": "2026-09-17T10:00:00+09:00",
+      "security_code": "6033",
+      "company_name": "Ｇ－エクストリーム",
+      "title": "（開示事項の経過）福岡オフィス開設に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260917537602.pdf"
+    },
+    {
+      "id": "3dbe3c73b8102234fe3a",
+      "published_at": "2026-09-17T09:30:00+09:00",
+      "security_code": "1672",
+      "company_name": "Ｅ－ＷｉｓｄｏｍＴｒ",
+      "title": "上場ETF（管理会社：WisdomTree、外国投資法人：MSL）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260917537580.pdf"
+    },
+    {
+      "id": "d74b9388c37352b4e128",
+      "published_at": "2026-09-17T09:30:00+09:00",
+      "security_code": "1672",
+      "company_name": "Ｅ－ＷｉｓｄｏｍＴｒ",
+      "title": "上場ETF（管理会社：WisdomTree、外国投資法人：CSL）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260917537582.pdf"
+    },
+    {
+      "id": "d6fb79281dcaa99316e7",
+      "published_at": "2026-09-17T09:30:00+09:00",
+      "security_code": "4935",
+      "company_name": "リベルタ",
+      "title": "役員報酬の減額に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260916537532.pdf"
+    },
+    {
+      "id": "10d69af1181ceeb16049",
+      "published_at": "2026-09-17T08:50:00+09:00",
+      "security_code": "2019",
+      "company_name": "ＧＸ優先証券隔月",
+      "title": "ETFの収益分配金見込額のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260916537482.pdf"
+    },
+    {
+      "id": "c96bb953176e4942e6fc",
+      "published_at": "2026-09-17T08:50:00+09:00",
+      "security_code": "2095",
+      "company_name": "ＧＸＵＳ配当貴族ヘ",
+      "title": "ETFの収益分配金見込額のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260916537483.pdf"
+    },
+    {
+      "id": "d557f089098b7267bfcb",
+      "published_at": "2026-09-17T08:50:00+09:00",
+      "security_code": "2236",
+      "company_name": "ＧＸＵＳ配当貴族",
+      "title": "ETFの収益分配金見込額のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260916537484.pdf"
+    },
+    {
+      "id": "8dce73b8956dbdc16de8",
+      "published_at": "2026-09-17T08:50:00+09:00",
+      "security_code": "2243",
+      "company_name": "ＧＸ半導体",
+      "title": "ETFの収益分配金見込額のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260916537485.pdf"
+    },
+    {
+      "id": "40db9a8b1ad5a8f7cea6",
+      "published_at": "2026-09-17T08:50:00+09:00",
+      "security_code": "2244",
+      "company_name": "ＧＸＵＳテック２０",
+      "title": "ETFの収益分配金見込額のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260916537486.pdf"
+    },
+    {
+      "id": "081355351e57cfdc2987",
+      "published_at": "2026-09-17T08:50:00+09:00",
+      "security_code": "2252",
+      "company_name": "ＧＸＵＳ中小モート",
+      "title": "ETFの収益分配金見込額のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260916537487.pdf"
+    },
+    {
+      "id": "4b80cb044c869ebec201",
+      "published_at": "2026-09-17T08:50:00+09:00",
+      "security_code": "2253",
+      "company_name": "ＧＸＵＳスーパーＤ",
+      "title": "ETFの収益分配金見込額のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260916537488.pdf"
+    },
+    {
+      "id": "fff5b90f6aeae352b3bc",
+      "published_at": "2026-09-17T08:50:00+09:00",
+      "security_code": "2254",
+      "company_name": "ＧＸ中国ＥＶバッテリ",
+      "title": "ETFの収益分配金見込額のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260916537489.pdf"
+    },
+    {
+      "id": "64eb91c8ee31a2581680",
+      "published_at": "2026-09-17T08:50:00+09:00",
+      "security_code": "2636",
+      "company_name": "ＧＸガバナンス日株",
+      "title": "ETFの収益分配金見込額のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260916537490.pdf"
+    },
+    {
+      "id": "f948f97d10f059ca1197",
+      "published_at": "2026-09-17T08:50:00+09:00",
+      "security_code": "2637",
+      "company_name": "ＧＸクリーン日株",
+      "title": "ETFの収益分配金見込額のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260916537491.pdf"
+    },
+    {
+      "id": "45c2a0e85d204738cb7c",
+      "published_at": "2026-09-17T08:50:00+09:00",
+      "security_code": "2867",
+      "company_name": "ＧＸ自動ＥＶ",
+      "title": "ETFの収益分配金見込額のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260916537492.pdf"
+    },
+    {
+      "id": "6baaedc78c8452dc4dc3",
+      "published_at": "2026-09-17T08:45:00+09:00",
+      "security_code": "8105",
+      "company_name": "ＢｉｔｃｏｉｎＪＰＮ",
+      "title": "（開示事項の経過）新規事業（フィジカルAI事業）の開始及び資金使途の充当順位変更に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260916537351.pdf"
+    },
+    {
+      "id": "b54341126340ae9d5d77",
+      "published_at": "2026-09-17T08:00:00+09:00",
+      "security_code": "6574",
+      "company_name": "Ｇ－コンヴァノ",
+      "title": "募集新株予約権（有償ストック・オプション）の発行内容確定に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260915536841.pdf"
+    },
     {
       "id": "ab81abcdb8c4a988749f",
       "published_at": "2026-09-16T19:00:00+09:00",
