@@ -1,7 +1,37 @@
 {
   "sample": false,
-  "last_success_at": "2026-09-17T17:34:34+09:00",
+  "last_success_at": "2026-09-17T20:59:23+09:00",
   "disclosures": [
+    {
+      "id": "467cfe640c04dabac28f",
+      "published_at": "2026-09-17T19:00:00+09:00",
+      "security_code": "4169",
+      "company_name": "Ｇ－エネチェンジ",
+      "title": "金融庁による課徴金納付命令の決定についてのお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260917538115.pdf"
+    },
+    {
+      "id": "e3f27a1a0c4a43931a4f",
+      "published_at": "2026-09-17T18:30:00+09:00",
+      "security_code": "7148",
+      "company_name": "ＦＰＧ",
+      "title": "コミットメントライン契約の締結に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260916537282.pdf"
+    },
+    {
+      "id": "454d30bc770b585d9d2d",
+      "published_at": "2026-09-17T18:20:00+09:00",
+      "security_code": "9242",
+      "company_name": "Ｇ－メディア総研",
+      "title": "剰余金の配当に関するお知らせ",
+      "category": "その他",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260914536077.pdf"
+    },
     {
       "id": "828a2568ac8a685a79d8",
       "published_at": "2026-09-17T17:30:00+09:00",
