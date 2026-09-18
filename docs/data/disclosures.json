@@ -1,7 +1,107 @@
 {
   "sample": false,
-  "last_success_at": "2026-09-18T17:10:06+09:00",
+  "last_success_at": "2026-09-18T20:41:16+09:00",
   "disclosures": [
+    {
+      "id": "93139eeaf2a6c0c67b13",
+      "published_at": "2026-09-18T19:30:00+09:00",
+      "security_code": "3905",
+      "company_name": "Ｇ－データセクション",
+      "title": "大口受注（予定）に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260918538994.pdf"
+    },
+    {
+      "id": "5cfc3bf01c53061c96b1",
+      "published_at": "2026-09-18T19:00:00+09:00",
+      "security_code": "8129",
+      "company_name": "東邦ＨＤ",
+      "title": "（開示事項の経過）株主による新株予約権無償割当て差止めの仮処分の申立ての結果に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260918538940.pdf"
+    },
+    {
+      "id": "2460aa8d744ace871191",
+      "published_at": "2026-09-18T19:00:00+09:00",
+      "security_code": "9107",
+      "company_name": "川崎船",
+      "title": "自己株式の取得状況及び取得終了のお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260915536375.pdf"
+    },
+    {
+      "id": "57e183c5e0e879206cc3",
+      "published_at": "2026-09-18T18:00:00+09:00",
+      "security_code": "5423",
+      "company_name": "東製鉄",
+      "title": "自己株式の取得状況及び取得終了に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260918538918.pdf"
+    },
+    {
+      "id": "bb747fc2bbe4780faf68",
+      "published_at": "2026-09-18T18:00:00+09:00",
+      "security_code": "7383",
+      "company_name": "ネットプロＨＤ",
+      "title": "財務上の特約が付された金銭消費貸借契約の期限延長に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260918538960.pdf"
+    },
+    {
+      "id": "1035cbeeefc5fa578827",
+      "published_at": "2026-09-18T18:00:00+09:00",
+      "security_code": "7590",
+      "company_name": "タカショー",
+      "title": "連結子会社株式会社タカショーデジテックの増資および事業基盤強化に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260918538986.pdf"
+    },
+    {
+      "id": "d2d906ba0dcbe3d85ad5",
+      "published_at": "2026-09-18T17:45:00+09:00",
+      "security_code": "2338",
+      "company_name": "クオンタムＳ",
+      "title": "最新世代・高密度GPUコンピューティング基盤に係る売買契約の合意解除及び初回支払金の返還合意に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260918538966.pdf"
+    },
+    {
+      "id": "332380d97bc5530c41ee",
+      "published_at": "2026-09-18T17:30:00+09:00",
+      "security_code": "4445",
+      "company_name": "Ｇ－リビンＴ",
+      "title": "自己株式の取得状況および取得終了に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260918538949.pdf"
+    },
+    {
+      "id": "f38622592eb17823e26e",
+      "published_at": "2026-09-18T17:30:00+09:00",
+      "security_code": "9533",
+      "company_name": "東邦瓦斯",
+      "title": "自己株式の取得状況および取得終了に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260918538489.pdf"
+    },
+    {
+      "id": "9475220c863bd567c48f",
+      "published_at": "2026-09-18T17:30:00+09:00",
+      "security_code": "9760",
+      "company_name": "進学会ＨＤ",
+      "title": "販売用不動産の売却に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260918538651.pdf"
+    },
     {
       "id": "1e00e39577b2f0847453",
       "published_at": "2026-09-18T17:10:00+09:00",
