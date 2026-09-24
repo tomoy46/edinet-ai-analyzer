@@ -1,7 +1,27 @@
 {
   "sample": false,
-  "last_success_at": "2026-09-24T21:07:28+09:00",
+  "last_success_at": "2026-09-24T22:43:29+09:00",
   "disclosures": [
+    {
+      "id": "8d71279ad1e96daca5d2",
+      "published_at": "2026-09-24T21:30:00+09:00",
+      "security_code": "7477",
+      "company_name": "ムラキ",
+      "title": "当社株式の大量買付行為への対応方針に関する株式会社イクヨおよびBlue Goats Capital株式会社による共同協調行為等の認定についてのお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260924539804.pdf"
+    },
+    {
+      "id": "c7ae9a2e083407ecca58",
+      "published_at": "2026-09-24T21:30:00+09:00",
+      "security_code": "7477",
+      "company_name": "ムラキ",
+      "title": "臨時株主総会招集のための基準日設定に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260924539590.pdf"
+    },
     {
       "id": "b4ad2e42998139dd90c3",
       "published_at": "2026-09-24T19:00:00+09:00",
