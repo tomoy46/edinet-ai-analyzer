@@ -1,7 +1,157 @@
 {
   "sample": false,
-  "last_success_at": "2026-09-24T17:21:48+09:00",
+  "last_success_at": "2026-09-24T21:07:28+09:00",
   "disclosures": [
+    {
+      "id": "b4ad2e42998139dd90c3",
+      "published_at": "2026-09-24T19:00:00+09:00",
+      "security_code": "4875",
+      "company_name": "メディシノバ",
+      "title": "MN-166（イブジラスト）の筋萎縮性側索硬化症（ALS）を対象とするフェーズ2b/3臨床試験の二重盲検治療期間における最終患者最終来院完了に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260918538942.pdf"
+    },
+    {
+      "id": "02bd6de65a30cf371f9c",
+      "published_at": "2026-09-24T18:31:00+09:00",
+      "security_code": "9449",
+      "company_name": "ＧＭＯ",
+      "title": "当社孫会社（タイにおけるデジタルアセット事業）の異動（株式譲渡）に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260924539658.pdf"
+    },
+    {
+      "id": "3d7236238735d98199a4",
+      "published_at": "2026-09-24T18:00:00+09:00",
+      "security_code": "2019",
+      "company_name": "ＧＸ優先証券隔月",
+      "title": "ETFの収益分配のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260924539724.pdf"
+    },
+    {
+      "id": "ac55a0fb39a7709471a0",
+      "published_at": "2026-09-24T18:00:00+09:00",
+      "security_code": "2095",
+      "company_name": "ＧＸＵＳ配当貴族ヘ",
+      "title": "ETFの収益分配のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260924539725.pdf"
+    },
+    {
+      "id": "222190ad47d587a9a46e",
+      "published_at": "2026-09-24T18:00:00+09:00",
+      "security_code": "2236",
+      "company_name": "ＧＸＵＳ配当貴族",
+      "title": "ETFの収益分配のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260924539726.pdf"
+    },
+    {
+      "id": "736fc8a91afb9665682a",
+      "published_at": "2026-09-24T18:00:00+09:00",
+      "security_code": "2243",
+      "company_name": "ＧＸ半導体",
+      "title": "ETFの収益分配のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260924539727.pdf"
+    },
+    {
+      "id": "d26f110600a0b240d89b",
+      "published_at": "2026-09-24T18:00:00+09:00",
+      "security_code": "2244",
+      "company_name": "ＧＸＵＳテック２０",
+      "title": "ETFの収益分配のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260924539728.pdf"
+    },
+    {
+      "id": "d326346ade6a220febce",
+      "published_at": "2026-09-24T18:00:00+09:00",
+      "security_code": "2252",
+      "company_name": "ＧＸＵＳ中小モート",
+      "title": "ETFの収益分配のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260924539729.pdf"
+    },
+    {
+      "id": "04fa7321eb8e0cb91203",
+      "published_at": "2026-09-24T18:00:00+09:00",
+      "security_code": "2253",
+      "company_name": "ＧＸＵＳスーパーＤ",
+      "title": "ETFの収益分配のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260924539730.pdf"
+    },
+    {
+      "id": "d14fca8cd2baf2778a49",
+      "published_at": "2026-09-24T18:00:00+09:00",
+      "security_code": "2254",
+      "company_name": "ＧＸ中国ＥＶバッテリ",
+      "title": "ETFの収益分配のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260924539731.pdf"
+    },
+    {
+      "id": "5a232dcc8c651e0fa490",
+      "published_at": "2026-09-24T18:00:00+09:00",
+      "security_code": "2636",
+      "company_name": "ＧＸガバナンス日株",
+      "title": "ETFの収益分配のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260924539697.pdf"
+    },
+    {
+      "id": "b3f290da8a22dccc6bf3",
+      "published_at": "2026-09-24T18:00:00+09:00",
+      "security_code": "2637",
+      "company_name": "ＧＸクリーン日株",
+      "title": "ETFの収益分配のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260924539734.pdf"
+    },
+    {
+      "id": "e782505797e846f51a7f",
+      "published_at": "2026-09-24T18:00:00+09:00",
+      "security_code": "2867",
+      "company_name": "ＧＸ自動ＥＶ",
+      "title": "ETFの収益分配のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260924539732.pdf"
+    },
+    {
+      "id": "4e0a7fb7cf014ac6627b",
+      "published_at": "2026-09-24T18:00:00+09:00",
+      "security_code": "9107",
+      "company_name": "川崎船",
+      "title": "取締役の辞任に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260916537393.pdf"
+    },
+    {
+      "id": "eca1ffdb51fb05a974ba",
+      "published_at": "2026-09-24T17:30:00+09:00",
+      "security_code": "9335",
+      "company_name": "Ｐ－テクノＣ",
+      "title": "当座貸越契約の極度額増額及び資金の借入れに関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260924539678.pdf"
+    },
     {
       "id": "aca57e6d62e1b37f3e32",
       "published_at": "2026-09-24T17:15:00+09:00",
