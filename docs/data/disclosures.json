@@ -1,7 +1,47 @@
 {
   "sample": false,
-  "last_success_at": "2026-09-25T17:44:04+09:00",
+  "last_success_at": "2026-09-25T21:06:54+09:00",
   "disclosures": [
+    {
+      "id": "ce36e1fd5baecd8343c9",
+      "published_at": "2026-09-25T18:30:00+09:00",
+      "security_code": "9470",
+      "company_name": "学研ＨＤ",
+      "title": "代表取締役の異動（追加選任）に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260925540526.pdf"
+    },
+    {
+      "id": "e6e3f40562e24146657d",
+      "published_at": "2026-09-25T18:15:00+09:00",
+      "security_code": "6533",
+      "company_name": "オーケストラＨＤ",
+      "title": "株主優待制度の拡充及び配当予想の修正（増配）に関するお知らせ",
+      "category": "優待拡充",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260925540527.pdf"
+    },
+    {
+      "id": "b4615d9c93d24e91f2e5",
+      "published_at": "2026-09-25T18:00:00+09:00",
+      "security_code": "1997",
+      "company_name": "暁飯島",
+      "title": "役員に対する業績連動型株式報酬制度の導入に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260925539938.pdf"
+    },
+    {
+      "id": "5cfdf29f1ecac6b2e795",
+      "published_at": "2026-09-25T17:55:00+09:00",
+      "security_code": "6085",
+      "company_name": "Ｇ－アーキテクツＳＪ",
+      "title": "主要株主の異動に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260925540532.pdf"
+    },
     {
       "id": "e0bf3a95e30b865db4d9",
       "published_at": "2026-09-25T17:30:00+09:00",
