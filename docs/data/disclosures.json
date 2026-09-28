@@ -1,7 +1,37 @@
 {
   "sample": false,
-  "last_success_at": "2026-09-28T18:38:56+09:00",
+  "last_success_at": "2026-09-28T23:22:42+09:00",
   "disclosures": [
+    {
+      "id": "669d9b17f1d1d6f2b8b3",
+      "published_at": "2026-09-28T19:00:00+09:00",
+      "security_code": "3645",
+      "company_name": "メディカルネット",
+      "title": "連結子会社の異動を伴う子会社による株式取得（孫会社化）に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260928541141.pdf"
+    },
+    {
+      "id": "676a5a79de0a22180b33",
+      "published_at": "2026-09-28T19:00:00+09:00",
+      "security_code": "4875",
+      "company_name": "メディシノバ",
+      "title": "MN-001（タイペルカスト）の2型糖尿病に起因する高中性脂肪血症及び脂肪肝疾患に関するフェーズ2臨床試験のトップライン結果に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260928540902.pdf"
+    },
+    {
+      "id": "994855c248bda75a9538",
+      "published_at": "2026-09-28T18:45:00+09:00",
+      "security_code": "8228",
+      "company_name": "マルイチ産商",
+      "title": "従業員に対する譲渡制限付株式としての自己株式処分の払込完了及び一部失権に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260928541482.pdf"
+    },
     {
       "id": "9ddc66045f84d3f3d70a",
       "published_at": "2026-09-28T18:30:00+09:00",
