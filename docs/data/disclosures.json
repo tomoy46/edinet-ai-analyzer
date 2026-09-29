@@ -1,7 +1,47 @@
 {
   "sample": false,
-  "last_success_at": "2026-09-29T18:43:10+09:00",
+  "last_success_at": "2026-09-29T22:15:42+09:00",
   "disclosures": [
+    {
+      "id": "72ff8c71ec7b7a3fc9e3",
+      "published_at": "2026-09-29T19:00:00+09:00",
+      "security_code": "6863",
+      "company_name": "ニレコ",
+      "title": "新中期経営計画「NIRECO-VISION 100」の策定および2027年３月期通期業績予想の修正に関するお知らせ",
+      "category": "業績予想修正",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260928541317.pdf"
+    },
+    {
+      "id": "fbc6038e42599fc893ff",
+      "published_at": "2026-09-29T19:00:00+09:00",
+      "security_code": "9439",
+      "company_name": "ＭＨグループ",
+      "title": "役員人事に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260929542153.pdf"
+    },
+    {
+      "id": "f8bec391046a6f7ccc6e",
+      "published_at": "2026-09-29T19:00:00+09:00",
+      "security_code": "9439",
+      "company_name": "ＭＨグループ",
+      "title": "支配株主等に関する事項について",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260929542154.pdf"
+    },
+    {
+      "id": "5b9970f9b24f09a6a94e",
+      "published_at": "2026-09-29T19:00:00+09:00",
+      "security_code": "9439",
+      "company_name": "ＭＨグループ",
+      "title": "新規事業の開始に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260929542394.pdf"
+    },
     {
       "id": "e311774ee2de2d335de5",
       "published_at": "2026-09-29T18:30:00+09:00",
