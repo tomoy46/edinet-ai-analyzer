@@ -1,7 +1,557 @@
 {
   "sample": false,
-  "last_success_at": "2026-09-30T00:03:34+09:00",
+  "last_success_at": "2026-09-30T14:22:58+09:00",
   "disclosures": [
+    {
+      "id": "5d065f9d52271f4b2941",
+      "published_at": "2026-09-30T14:00:00+09:00",
+      "security_code": "3461",
+      "company_name": "パルマ",
+      "title": "セルフストレージ施設の売却に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260930542968.pdf"
+    },
+    {
+      "id": "f32ab245121b2b760ad7",
+      "published_at": "2026-09-30T14:00:00+09:00",
+      "security_code": "3624",
+      "company_name": "Ｇ－アクセルＭ",
+      "title": "棚卸資産の廃棄処分に伴う特別損失の計上及び追加的な損失の発生可能性に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260930543053.pdf"
+    },
+    {
+      "id": "cc04ad187958361c835f",
+      "published_at": "2026-09-30T14:00:00+09:00",
+      "security_code": "3664",
+      "company_name": "Ｇ－ＷＩＺＥ",
+      "title": "東京証券取引所スタンダード市場への市場区分変更申請に向けた準備に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260930543102.pdf"
+    },
+    {
+      "id": "476b41ab2b219d376485",
+      "published_at": "2026-09-30T14:00:00+09:00",
+      "security_code": "7601",
+      "company_name": "ポプラ",
+      "title": "2027年２月期第２四半期（中間期）連結業績予想の修正に関するお知らせ",
+      "category": "業績予想修正",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260929542085.pdf"
+    },
+    {
+      "id": "d1435f356d772e84f2fb",
+      "published_at": "2026-09-30T14:00:00+09:00",
+      "security_code": "8051",
+      "company_name": "山善",
+      "title": "取締役の辞任に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260928541057.pdf"
+    },
+    {
+      "id": "5eff7ce9123ff1dc9bf9",
+      "published_at": "2026-09-30T14:00:00+09:00",
+      "security_code": "8544",
+      "company_name": "京葉銀",
+      "title": "連結子会社の株式の追加取得による完全子会社化に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260929541928.pdf"
+    },
+    {
+      "id": "57312f37d2b3c5c51eb9",
+      "published_at": "2026-09-30T14:00:00+09:00",
+      "security_code": "8860",
+      "company_name": "フジ住宅",
+      "title": "代表取締役の異動(退任)及び名誉会長就任に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260925540465.pdf"
+    },
+    {
+      "id": "0f3a8eb8fee96a38a179",
+      "published_at": "2026-09-30T14:00:00+09:00",
+      "security_code": "8860",
+      "company_name": "フジ住宅",
+      "title": "役員定年制度の見直しに関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260925540473.pdf"
+    },
+    {
+      "id": "5f77cb6e073817beace8",
+      "published_at": "2026-09-30T13:30:00+09:00",
+      "security_code": "3355",
+      "company_name": "クリヤマＨＤ",
+      "title": "従業員持株会に対する譲渡制限付株式としての自己株式処分の払込完了及び一部失権に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260929541690.pdf"
+    },
+    {
+      "id": "f68129b038d257db808a",
+      "published_at": "2026-09-30T13:30:00+09:00",
+      "security_code": "8979",
+      "company_name": "Ｒ－スターツＰＲ",
+      "title": "国内不動産信託受益権の譲渡の完了に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260930543081.pdf"
+    },
+    {
+      "id": "50a7afc5389f994987d6",
+      "published_at": "2026-09-30T13:00:00+09:00",
+      "security_code": "2722",
+      "company_name": "ＩＫホールディングス",
+      "title": "譲渡制限付株式報酬としての自己株式処分の払込完了に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260930542936.pdf"
+    },
+    {
+      "id": "3ec4acc302c42976c023",
+      "published_at": "2026-09-30T13:00:00+09:00",
+      "security_code": "4388",
+      "company_name": "エーアイ",
+      "title": "（開示事項の経過）連結子会社の異動（株式譲渡）の完了および特別利益の計上に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260929541735.pdf"
+    },
+    {
+      "id": "6cb060f24f84cde4d2a4",
+      "published_at": "2026-09-30T12:45:00+09:00",
+      "security_code": "9441",
+      "company_name": "ベルパーク",
+      "title": "従業員向け株式交付制度の導入に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260930542943.pdf"
+    },
+    {
+      "id": "ac95aa986db52db3f6f8",
+      "published_at": "2026-09-30T12:45:00+09:00",
+      "security_code": "9441",
+      "company_name": "ベルパーク",
+      "title": "株式交付制度としての第三者割当による新株式発行に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260930542939.pdf"
+    },
+    {
+      "id": "fee9ce42908ed049dbc6",
+      "published_at": "2026-09-30T12:30:00+09:00",
+      "security_code": "5386",
+      "company_name": "鶴弥",
+      "title": "衣浦工場（第１ライン）火災事故についてのお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260930542966.pdf"
+    },
+    {
+      "id": "20a54e14bd5a8fad2763",
+      "published_at": "2026-09-30T12:30:00+09:00",
+      "security_code": "8713",
+      "company_name": "フィデアＨＤ",
+      "title": "当社完全子会社である荘内銀行及び北都銀行の合併契約の締結に関するお知らせ",
+      "category": "M&A",
+      "importance": 5,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260929542062.pdf"
+    },
+    {
+      "id": "3c70be61127d5f4bfe96",
+      "published_at": "2026-09-30T12:20:00+09:00",
+      "security_code": "1557",
+      "company_name": "Ｅ－ＳＳＧＡＴＣ",
+      "title": "State Street SPDR S&P500 ETFに関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260930542879.pdf"
+    },
+    {
+      "id": "09a59f52d560fad93a4d",
+      "published_at": "2026-09-30T12:15:00+09:00",
+      "security_code": "1326",
+      "company_name": "Ｅ－ワールド",
+      "title": "SPDRゴールド・シェアに関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260930542877.pdf"
+    },
+    {
+      "id": "c129450ce5d8012cd53b",
+      "published_at": "2026-09-30T12:10:00+09:00",
+      "security_code": "1349",
+      "company_name": "Ｅ－ＳＳＧＡ－ＳＩＮ",
+      "title": "アジア国債・公債ＥＴＦ（正式名称：ＡＢＦ汎アジア債券インデックス・ファンド）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260930542886.pdf"
+    },
+    {
+      "id": "8e582672fbf44a030a57",
+      "published_at": "2026-09-30T12:00:00+09:00",
+      "security_code": "6803",
+      "company_name": "ティアック",
+      "title": "財務上の特約が付されたシンジケートローン契約のコミットメント期限延長に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260930542576.pdf"
+    },
+    {
+      "id": "d85fd47d3c9ba302182f",
+      "published_at": "2026-09-30T12:00:00+09:00",
+      "security_code": "9564",
+      "company_name": "ＦＣＥ",
+      "title": "会社分割（簡易吸収分割）に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260930542692.pdf"
+    },
+    {
+      "id": "e8c15f435a6a59e754d3",
+      "published_at": "2026-09-30T12:00:00+09:00",
+      "security_code": "9816",
+      "company_name": "ストライダーズ",
+      "title": "簡易株式交換による株式会社block partyの完全子会社化に関するお知らせ",
+      "category": "M&A",
+      "importance": 5,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260929542276.pdf"
+    },
+    {
+      "id": "b2d1f3d9ed7d8c1ae234",
+      "published_at": "2026-09-30T11:30:00+09:00",
+      "security_code": "1431",
+      "company_name": "Ｇ－リブワーク",
+      "title": "支配株主等に関する事項について",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260930542784.pdf"
+    },
+    {
+      "id": "502431b2d4fd9da2977c",
+      "published_at": "2026-09-30T11:30:00+09:00",
+      "security_code": "2070",
+      "company_name": "Ｎ－三菱ＵＦＪ証ＨＤ",
+      "title": "上場ETN（発行者：三菱UFJ証券ホールディングス株式会社）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260930542716.pdf"
+    },
+    {
+      "id": "bfbdf49159b343c75f57",
+      "published_at": "2026-09-30T11:30:00+09:00",
+      "security_code": "2164",
+      "company_name": "地域新聞社",
+      "title": "当社株式の買付等に関する意向表明書の受領に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260930542767.pdf"
+    },
+    {
+      "id": "b3cff1a159e4acb5dad3",
+      "published_at": "2026-09-30T11:30:00+09:00",
+      "security_code": "5992",
+      "company_name": "中央発条",
+      "title": "有価証券報告書の訂正報告書の提出に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260930542635.pdf"
+    },
+    {
+      "id": "a531be51ddbefd771d21",
+      "published_at": "2026-09-30T11:30:00+09:00",
+      "security_code": "7371",
+      "company_name": "Ｇ－Ｚｅｎｋｅｎ",
+      "title": "事業計画及び成長可能性に関する事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260928540904.pdf"
+    },
+    {
+      "id": "1a66294be459af518bcd",
+      "published_at": "2026-09-30T11:30:00+09:00",
+      "security_code": "7485",
+      "company_name": "岡谷鋼機",
+      "title": "令和9年2月期 第2四半期（中間期）決算短信〔日本基準〕(連結)",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260925540585.pdf"
+    },
+    {
+      "id": "e1757d00d8c2a4d769d2",
+      "published_at": "2026-09-30T11:30:00+09:00",
+      "security_code": "7485",
+      "company_name": "岡谷鋼機",
+      "title": "令和9年2月期 第2四半期（中間期）決算説明資料",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260925540583.pdf"
+    },
+    {
+      "id": "dae9dd63f08970603a04",
+      "published_at": "2026-09-30T11:30:00+09:00",
+      "security_code": "7485",
+      "company_name": "岡谷鋼機",
+      "title": "通期業績予想の修正並びに剰余金の配当（中間配当）及び期末配当予想の修正に関するお知らせ",
+      "category": "業績予想修正",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260930542621.pdf"
+    },
+    {
+      "id": "103f4e972882cd320c0e",
+      "published_at": "2026-09-30T11:30:00+09:00",
+      "security_code": "7485",
+      "company_name": "岡谷鋼機",
+      "title": "新中期計画「Global Innovation Change 2030 (GIC 30)」について",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260925540586.pdf"
+    },
+    {
+      "id": "c757ee88f740b6919725",
+      "published_at": "2026-09-30T11:10:00+09:00",
+      "security_code": "3038",
+      "company_name": "神戸物産",
+      "title": "自己株式立会外買付取引（ToSTNeT-３）による自己株式の取得結果に関するお知らせ（会社法第459条第１項第１号の規定による定款の定めに基づく自己株式の取得）",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260930542821.pdf"
+    },
+    {
+      "id": "5be828e3ab2bc8a87145",
+      "published_at": "2026-09-30T11:00:00+09:00",
+      "security_code": "2345",
+      "company_name": "ＨＯＤＬ１",
+      "title": "JNグループによる保全異議の申立てに関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260930542764.pdf"
+    },
+    {
+      "id": "327391fe461488d982d2",
+      "published_at": "2026-09-30T10:30:00+09:00",
+      "security_code": "1329",
+      "company_name": "Ｅ－ブラックロック",
+      "title": "上場ETF（管理会社：ブラックロック・ジャパン）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260930542686.pdf"
+    },
+    {
+      "id": "b1af03d2ca021bfb08e9",
+      "published_at": "2026-09-30T10:30:00+09:00",
+      "security_code": "1551",
+      "company_name": "スタンダドＴＯＰ２０",
+      "title": "ETFの約款変更に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260930542672.pdf"
+    },
+    {
+      "id": "f89f5e1713683ced27fd",
+      "published_at": "2026-09-30T10:30:00+09:00",
+      "security_code": "1563",
+      "company_name": "東証グロース・コア",
+      "title": "ETFの約款変更に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260930542673.pdf"
+    },
+    {
+      "id": "91fc0204aa7420e51630",
+      "published_at": "2026-09-30T10:30:00+09:00",
+      "security_code": "2516",
+      "company_name": "東証グロース２５０",
+      "title": "ETFの約款変更に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260930542674.pdf"
+    },
+    {
+      "id": "20ad0b2ad2ffe3f45a12",
+      "published_at": "2026-09-30T10:00:00+09:00",
+      "security_code": "1671",
+      "company_name": "Ｅ－シンプレクス",
+      "title": "上場ＥＴＦ(管理会社：シンプレクス・アセット・マネジメント)に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260930542603.pdf"
+    },
+    {
+      "id": "d1cc8f8c54489441b188",
+      "published_at": "2026-09-30T10:00:00+09:00",
+      "security_code": "5986",
+      "company_name": "モリテック",
+      "title": "（開示事項の経過）特別利益（投資有価証券売却益）の計上に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260924539795.pdf"
+    },
+    {
+      "id": "7065bc2f256d6f1c5167",
+      "published_at": "2026-09-30T10:00:00+09:00",
+      "security_code": "6874",
+      "company_name": "協立電機",
+      "title": "支配株主等に関する事項について",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260722597376.pdf"
+    },
+    {
+      "id": "56bf3931a0172ce6bc34",
+      "published_at": "2026-09-30T10:00:00+09:00",
+      "security_code": "7226",
+      "company_name": "極東開",
+      "title": "当社グループ会社におけるシステム障害復旧のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260930542549.pdf"
+    },
+    {
+      "id": "dd39bd9cd4365099a87c",
+      "published_at": "2026-09-30T10:00:00+09:00",
+      "security_code": "7494",
+      "company_name": "コナカ",
+      "title": "当社連結子会社による孫会社に対する債権放棄に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260929542131.pdf"
+    },
+    {
+      "id": "009608a01b68572c6f6c",
+      "published_at": "2026-09-30T10:00:00+09:00",
+      "security_code": "8228",
+      "company_name": "マルイチ産商",
+      "title": "自己株式立会外買付取引（N-NET3）による自己株式の取得結果及び終了並びに当社の主要株主及び主要株主である筆頭株主の異動に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260930542605.pdf"
+    },
+    {
+      "id": "24990df4919e0ca73655",
+      "published_at": "2026-09-30T09:00:00+09:00",
+      "security_code": "1672",
+      "company_name": "Ｅ－ＷｉｓｄｏｍＴｒ",
+      "title": "上場ETF（管理会社：WisdomTree、外国投資法人：MSL）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260930542511.pdf"
+    },
+    {
+      "id": "0910ed856e855829fd0f",
+      "published_at": "2026-09-30T09:00:00+09:00",
+      "security_code": "1672",
+      "company_name": "Ｅ－ＷｉｓｄｏｍＴｒ",
+      "title": "上場ETF（管理会社：WisdomTree、外国投資法人：CSL）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260930542513.pdf"
+    },
+    {
+      "id": "ecc03f9478b3aaa7aa6a",
+      "published_at": "2026-09-30T09:00:00+09:00",
+      "security_code": "7273",
+      "company_name": "イクヨ",
+      "title": "当選方式による株主優待（ビットコイン活用型）の実施結果に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260930542521.pdf"
+    },
+    {
+      "id": "5a72c2118d98167e4049",
+      "published_at": "2026-09-30T09:00:00+09:00",
+      "security_code": "8473",
+      "company_name": "ＳＢＩ",
+      "title": "当社子会社のＳＢＩグローバルアセットマネジメント株式会社とＳＢＩインシュアランスグループ株式会社の吸収合併による経営統合に関する基本合意書締結",
+      "category": "M&A",
+      "importance": 5,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260930542525.pdf"
+    },
+    {
+      "id": "b27f4dc13a283f53cc86",
+      "published_at": "2026-09-30T08:50:00+09:00",
+      "security_code": "9340",
+      "company_name": "アソインター",
+      "title": "（訂正・数値データ訂正）「2026年６月期決算短信〔日本基準〕（連結）」の一部訂正について",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260929542200.pdf"
+    },
+    {
+      "id": "623e60a70497006b71be",
+      "published_at": "2026-09-30T08:50:00+09:00",
+      "security_code": "9340",
+      "company_name": "アソインター",
+      "title": "支配株主等に関する事項について",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260929542233.pdf"
+    },
+    {
+      "id": "88a5afab4750b98ea3a7",
+      "published_at": "2026-09-30T08:45:00+09:00",
+      "security_code": "6594",
+      "company_name": "ニデック",
+      "title": "当社に関する一部報道について",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260930542538.pdf"
+    },
+    {
+      "id": "0678fb3ba14fa646bd41",
+      "published_at": "2026-09-30T08:45:00+09:00",
+      "security_code": "8105",
+      "company_name": "ＢｉｔｃｏｉｎＪＰＮ",
+      "title": "当社グループにおける既存事業の収益改善に向けた構造改革（人員削減等の合理化を含む）の実施及び特別損失計上見込みに関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260929542253.pdf"
+    },
+    {
+      "id": "3088977a02ae52dd4084",
+      "published_at": "2026-09-30T08:30:00+09:00",
+      "security_code": "2371",
+      "company_name": "カカクコム",
+      "title": "（変更）「Kamgras １株式会社による当社株券等に対する公開買付けに関する賛同の意見表明及び応募推奨のお知らせ」の一部変更に関するお知らせ",
+      "category": "TOB",
+      "importance": 5,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260929542370.pdf"
+    },
+    {
+      "id": "33a7ff50507596f07197",
+      "published_at": "2026-09-30T08:30:00+09:00",
+      "security_code": "3374",
+      "company_name": "内外テック",
+      "title": "半導体領域への投資に特化したＶＣファンド「Taravine Partners１号投資事業有限責任組合」への出資に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260929542345.pdf"
+    },
+    {
+      "id": "4b9017ccb8121c4a8fc0",
+      "published_at": "2026-09-30T08:30:00+09:00",
+      "security_code": "4765",
+      "company_name": "ＳＢＩＧアセットＭ",
+      "title": "SBIグローバルアセットマネジメント株式会社とSBIインシュアランスグループ株式会社の吸収合併による経営統合に関する基本合意締結のお知らせ",
+      "category": "M&A",
+      "importance": 5,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260929541595.pdf"
+    },
+    {
+      "id": "b0123db673bfe86d588f",
+      "published_at": "2026-09-30T08:30:00+09:00",
+      "security_code": "7326",
+      "company_name": "Ｇ－ＳＢＩインシュ",
+      "title": "ＳＢＩグローバルアセットマネジメント株式会社とＳＢＩインシュアランスグループ株式会社の吸収合併による経営統合に関する基本合意書締結のお知らせ",
+      "category": "M&A",
+      "importance": 5,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260929542247.pdf"
+    },
     {
       "id": "72ff8c71ec7b7a3fc9e3",
       "published_at": "2026-09-29T19:00:00+09:00",
