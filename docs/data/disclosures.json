@@ -1,7 +1,17 @@
 {
   "sample": false,
-  "last_success_at": "2026-10-01T19:01:10+09:00",
+  "last_success_at": "2026-10-01T22:48:53+09:00",
   "disclosures": [
+    {
+      "id": "86c892f87a9522608652",
+      "published_at": "2026-10-01T21:30:00+09:00",
+      "security_code": "4179",
+      "company_name": "Ｇ－ジーネクスト",
+      "title": "第三者割当による新株式及び第８回新株予約権の発行の中止等に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260918538849.pdf"
+    },
     {
       "id": "d6b15c3248f76ea66fe5",
       "published_at": "2026-10-01T18:55:00+09:00",
