@@ -1,7 +1,587 @@
 {
   "sample": false,
-  "last_success_at": "2026-10-07T00:23:57+09:00",
+  "last_success_at": "2026-10-07T14:44:08+09:00",
   "disclosures": [
+    {
+      "id": "54317ecaa6b8b8ba17f0",
+      "published_at": "2026-10-07T14:30:00+09:00",
+      "security_code": "3181",
+      "company_name": "買取王国",
+      "title": "２０２６年９月 月次売上概況",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261007547121.pdf"
+    },
+    {
+      "id": "0e74166ea14b9b53493e",
+      "published_at": "2026-10-07T14:00:00+09:00",
+      "security_code": "2998",
+      "company_name": "Ｇ－クリアル",
+      "title": "当社主要ＫＰＩ（2026年９月度）に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261007547223.pdf"
+    },
+    {
+      "id": "93c0a1142240ab46e399",
+      "published_at": "2026-10-07T14:00:00+09:00",
+      "security_code": "4212",
+      "company_name": "積水樹脂",
+      "title": "自己株式の取得状況に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261007547230.pdf"
+    },
+    {
+      "id": "97dc883e7ef33df0f7e8",
+      "published_at": "2026-10-07T14:00:00+09:00",
+      "security_code": "6981",
+      "company_name": "村田製",
+      "title": "自己株式の取得状況に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261007546989.pdf"
+    },
+    {
+      "id": "31a089e95a41e350a187",
+      "published_at": "2026-10-07T13:30:00+09:00",
+      "security_code": "2503",
+      "company_name": "キリンＨＤ",
+      "title": "公正取引委員会による当社子会社への捜索について",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261007547228.pdf"
+    },
+    {
+      "id": "b7a47339f2c71f0ec003",
+      "published_at": "2026-10-07T13:30:00+09:00",
+      "security_code": "7636",
+      "company_name": "ハンズマン",
+      "title": "2026年9月度 売上高の状況（2026年7月1日～2026年9月30日）",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261007547220.pdf"
+    },
+    {
+      "id": "3e316d4ab45d2fcc1525",
+      "published_at": "2026-10-07T13:00:00+09:00",
+      "security_code": "1605",
+      "company_name": "ＩＮＰＥＸ",
+      "title": "自己株式の取得状況に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261007547047.pdf"
+    },
+    {
+      "id": "21814cd1a68446187c12",
+      "published_at": "2026-10-07T12:45:00+09:00",
+      "security_code": "2501",
+      "company_name": "サッポロビール",
+      "title": "当社に対する公正取引委員会の調査について",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261007547218.pdf"
+    },
+    {
+      "id": "c1286851250dd20177d2",
+      "published_at": "2026-10-07T11:45:00+09:00",
+      "security_code": "1482",
+      "company_name": "ｉＳ米国債七十円へジ",
+      "title": "ＥＴＦの収益分配金見込額のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261007547147.pdf"
+    },
+    {
+      "id": "5bd0d108b041c4d4d928",
+      "published_at": "2026-10-07T11:45:00+09:00",
+      "security_code": "1496",
+      "company_name": "ｉＳ米＄ＩＧ社債ヘジ",
+      "title": "ＥＴＦの収益分配金見込額のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261007547148.pdf"
+    },
+    {
+      "id": "7ec72e48b4e67ff9d431",
+      "published_at": "2026-10-07T11:45:00+09:00",
+      "security_code": "1497",
+      "company_name": "ｉＳ米＄ＨＹ社債ヘジ",
+      "title": "ＥＴＦの収益分配金見込額のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261007547149.pdf"
+    },
+    {
+      "id": "3bede6a6d9bfd859ec10",
+      "published_at": "2026-10-07T11:45:00+09:00",
+      "security_code": "1656",
+      "company_name": "ｉＳ米国債七十",
+      "title": "ＥＴＦの収益分配金見込額のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261007547150.pdf"
+    },
+    {
+      "id": "67cb8c3a21718d188f74",
+      "published_at": "2026-10-07T11:45:00+09:00",
+      "security_code": "2012",
+      "company_name": "ｉＳ米国債０３月",
+      "title": "ＥＴＦの収益分配金見込額のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261007547151.pdf"
+    },
+    {
+      "id": "40c957d6c426f2294d98",
+      "published_at": "2026-10-07T11:45:00+09:00",
+      "security_code": "2255",
+      "company_name": "ｉＳ米国債二十",
+      "title": "ＥＴＦの収益分配金見込額のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261007547152.pdf"
+    },
+    {
+      "id": "72dbd03aa28bf447e532",
+      "published_at": "2026-10-07T11:45:00+09:00",
+      "security_code": "2256",
+      "company_name": "ｉＳ米国総合債券",
+      "title": "ＥＴＦの収益分配金見込額のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261007547153.pdf"
+    },
+    {
+      "id": "a0296d8adc6ad2710de9",
+      "published_at": "2026-10-07T11:45:00+09:00",
+      "security_code": "2257",
+      "company_name": "ｉＳ＄ＩＧ社債",
+      "title": "ＥＴＦの収益分配金見込額のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261007547154.pdf"
+    },
+    {
+      "id": "11ad831a4a5c24197fa8",
+      "published_at": "2026-10-07T11:45:00+09:00",
+      "security_code": "2258",
+      "company_name": "ｉＳ＄ＨＹ社債",
+      "title": "ＥＴＦの収益分配金見込額のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261007547155.pdf"
+    },
+    {
+      "id": "e57ca4bd300537ad4a60",
+      "published_at": "2026-10-07T11:45:00+09:00",
+      "security_code": "2259",
+      "company_name": "ｉＳフランス国債ヘジ",
+      "title": "ＥＴＦの収益分配金見込額のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261007547156.pdf"
+    },
+    {
+      "id": "25fc269f66bb7946d833",
+      "published_at": "2026-10-07T11:45:00+09:00",
+      "security_code": "2561",
+      "company_name": "ｉＳ日本国債",
+      "title": "ＥＴＦの収益分配金見込額のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261007547160.pdf"
+    },
+    {
+      "id": "4cba3bf2b474ed71921e",
+      "published_at": "2026-10-07T11:45:00+09:00",
+      "security_code": "2620",
+      "company_name": "ｉＳ米国債一三",
+      "title": "ＥＴＦの収益分配金見込額のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261007547161.pdf"
+    },
+    {
+      "id": "8fac63636eb59a00d655",
+      "published_at": "2026-10-07T11:45:00+09:00",
+      "security_code": "2621",
+      "company_name": "ｉＳ米国債二十へジ",
+      "title": "ＥＴＦの収益分配金見込額のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261007547162.pdf"
+    },
+    {
+      "id": "9aef2ddfb29ff425bc0a",
+      "published_at": "2026-10-07T11:45:00+09:00",
+      "security_code": "2622",
+      "company_name": "ｉＳ新興国債券へジ",
+      "title": "ＥＴＦの収益分配金見込額のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261007547163.pdf"
+    },
+    {
+      "id": "4ec88e4b29ca484f17c8",
+      "published_at": "2026-10-07T11:45:00+09:00",
+      "security_code": "2623",
+      "company_name": "ｉＳユロＩＧ社債ヘジ",
+      "title": "ＥＴＦの収益分配金見込額のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261007547164.pdf"
+    },
+    {
+      "id": "8652ea40f2120c796d20",
+      "published_at": "2026-10-07T11:45:00+09:00",
+      "security_code": "2649",
+      "company_name": "ｉＳＧＮＭＡ債ヘジ",
+      "title": "ＥＴＦの収益分配金見込額のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261007547165.pdf"
+    },
+    {
+      "id": "e63972a3392b4f23ed28",
+      "published_at": "2026-10-07T11:45:00+09:00",
+      "security_code": "2853",
+      "company_name": "ｉＳ気候外国債券ヘジ",
+      "title": "ＥＴＦの収益分配金見込額のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261007547166.pdf"
+    },
+    {
+      "id": "ea02d4dc0b2b3094ad41",
+      "published_at": "2026-10-07T11:45:00+09:00",
+      "security_code": "2856",
+      "company_name": "ｉＳ米国債三七ヘジ",
+      "title": "ＥＴＦの収益分配金見込額のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261007547167.pdf"
+    },
+    {
+      "id": "ac5aefc53f64154db21a",
+      "published_at": "2026-10-07T11:45:00+09:00",
+      "security_code": "2857",
+      "company_name": "ｉＳドイツ国債ヘジ",
+      "title": "ＥＴＦの収益分配金見込額のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261007547168.pdf"
+    },
+    {
+      "id": "920c3ef3e20b6f3ab885",
+      "published_at": "2026-10-07T11:35:00+09:00",
+      "security_code": "1557",
+      "company_name": "Ｅ－ＳＳＧＡＴＣ",
+      "title": "State Street SPDR S&P500 ETFに関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261007547105.pdf"
+    },
+    {
+      "id": "a3fd12157a6c097f0106",
+      "published_at": "2026-10-07T11:30:00+09:00",
+      "security_code": "1326",
+      "company_name": "Ｅ－ワールド",
+      "title": "SPDRゴールド・シェアに関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261007547094.pdf"
+    },
+    {
+      "id": "460a72754373c56a700e",
+      "published_at": "2026-10-07T11:30:00+09:00",
+      "security_code": "2070",
+      "company_name": "Ｎ－三菱ＵＦＪ証ＨＤ",
+      "title": "上場ETN（発行者：三菱UFJ証券ホールディングス株式会社）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261007547050.pdf"
+    },
+    {
+      "id": "dbebb1aa9da5af51bf9c",
+      "published_at": "2026-10-07T11:30:00+09:00",
+      "security_code": "3287",
+      "company_name": "Ｒ－星野",
+      "title": "ポートフォリオの運営実績に関するお知らせ（2026年8月度）",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261005546184.pdf"
+    },
+    {
+      "id": "8c19e2c34d8a7656f607",
+      "published_at": "2026-10-07T11:30:00+09:00",
+      "security_code": "7211",
+      "company_name": "三菱自",
+      "title": "（開示事項の経過）子会社に対する訴訟の終了に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261007546984.pdf"
+    },
+    {
+      "id": "0f0d20d008f46128ba31",
+      "published_at": "2026-10-07T11:30:00+09:00",
+      "security_code": "9832",
+      "company_name": "オートバックス",
+      "title": "2027年3月期 9月度 月次売上概況（速報）についてのお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261007547117.pdf"
+    },
+    {
+      "id": "da529be9ed99918800db",
+      "published_at": "2026-10-07T11:25:00+09:00",
+      "security_code": "1349",
+      "company_name": "Ｅ－ＳＳＧＡ－ＳＩＮ",
+      "title": "アジア国債・公債ＥＴＦ（正式名称：ＡＢＦ汎アジア債券インデックス・ファンド）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261007547101.pdf"
+    },
+    {
+      "id": "6889370a2c0625d2f652",
+      "published_at": "2026-10-07T11:00:00+09:00",
+      "security_code": "8254",
+      "company_name": "さいか屋",
+      "title": "特別利益(受取配当金等）の計上のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260908533171.pdf"
+    },
+    {
+      "id": "0d56af19ed9b8123cecc",
+      "published_at": "2026-10-07T11:00:00+09:00",
+      "security_code": "8766",
+      "company_name": "東京海上",
+      "title": "自己株式の取得状況に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261007546981.pdf"
+    },
+    {
+      "id": "cfa7d70999d7bd7d8347",
+      "published_at": "2026-10-07T11:00:00+09:00",
+      "security_code": "9532",
+      "company_name": "大瓦斯",
+      "title": "自己株式の取得状況に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261002545183.pdf"
+    },
+    {
+      "id": "621c95731baa77c4edc6",
+      "published_at": "2026-10-07T11:00:00+09:00",
+      "security_code": "9973",
+      "company_name": "ＫＯＺＯＨＤ",
+      "title": "2026年12月期 ９月度月次前年比データ（速報値）についてのお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261007547034.pdf"
+    },
+    {
+      "id": "25cf58cd1c6d2b5334e3",
+      "published_at": "2026-10-07T10:30:00+09:00",
+      "security_code": "1499",
+      "company_name": "ＭＸＳ高配当７０ＭＮ",
+      "title": "ＭＡＸＩＳ ＥＴＦの収益分配金見込額のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261007547036.pdf"
+    },
+    {
+      "id": "e3c1b3df1bcd68341050",
+      "published_at": "2026-10-07T10:30:00+09:00",
+      "security_code": "1660",
+      "company_name": "ＭＸＳ高利Ｊリート",
+      "title": "ＭＡＸＩＳ ＥＴＦの収益分配金見込額のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261007547037.pdf"
+    },
+    {
+      "id": "389ab942f32c46e251db",
+      "published_at": "2026-10-07T10:30:00+09:00",
+      "security_code": "1671",
+      "company_name": "ＷＴＩ原油ＥＴＦ",
+      "title": "ETFの約款変更に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261007547025.pdf"
+    },
+    {
+      "id": "e2fe417cb6cf3f59abe9",
+      "published_at": "2026-10-07T10:30:00+09:00",
+      "security_code": "2085",
+      "company_name": "ＭＸ高配日株ア",
+      "title": "ＭＡＸＩＳ ＥＴＦの収益分配金見込額のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261007547038.pdf"
+    },
+    {
+      "id": "ecce70da7921f2d173da",
+      "published_at": "2026-10-07T10:30:00+09:00",
+      "security_code": "8219",
+      "company_name": "青山商",
+      "title": "2026年9月 月次売上高前年比（速報）に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261006546818.pdf"
+    },
+    {
+      "id": "7093f021c399c06a6080",
+      "published_at": "2026-10-07T10:00:00+09:00",
+      "security_code": "1329",
+      "company_name": "Ｅ－ブラックロック",
+      "title": "上場ETF（管理会社：ブラックロック・ジャパン）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261007546995.pdf"
+    },
+    {
+      "id": "11cde70886075e320b56",
+      "published_at": "2026-10-07T10:00:00+09:00",
+      "security_code": "1671",
+      "company_name": "Ｅ－シンプレクス",
+      "title": "上場ＥＴＦ(管理会社：シンプレクス・アセット・マネジメント)に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261007546940.pdf"
+    },
+    {
+      "id": "35bbaf70304734d7a206",
+      "published_at": "2026-10-07T10:00:00+09:00",
+      "security_code": "2094",
+      "company_name": "ＲＥＩＴインバース",
+      "title": "ＥＴＦの収益分配金見込額のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261007546959.pdf"
+    },
+    {
+      "id": "a570c5dbb7181f6c60cd",
+      "published_at": "2026-10-07T10:00:00+09:00",
+      "security_code": "2555",
+      "company_name": "東証ＲＥＩＴ－ＥＴＦ",
+      "title": "ＥＴＦの収益分配金見込額のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261007546960.pdf"
+    },
+    {
+      "id": "7dd0e01948056ade9e97",
+      "published_at": "2026-10-07T10:00:00+09:00",
+      "security_code": "6859",
+      "company_name": "エスペック",
+      "title": "自己株式の取得状況に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261006546916.pdf"
+    },
+    {
+      "id": "b7c7266f05323e55cd8f",
+      "published_at": "2026-10-07T08:55:00+09:00",
+      "security_code": "1677",
+      "company_name": "上場外債",
+      "title": "ＥＴＦの収益分配金見込額のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261007546927.pdf"
+    },
+    {
+      "id": "f1593d78dfb5debbee83",
+      "published_at": "2026-10-07T08:50:00+09:00",
+      "security_code": "2017",
+      "company_name": "ｉＦＪＰＸプラ１５０",
+      "title": "iFreeETFの収益分配金見込額のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261006546888.pdf"
+    },
+    {
+      "id": "b0e5ee190b32d403e653",
+      "published_at": "2026-10-07T08:50:00+09:00",
+      "security_code": "2624",
+      "company_name": "ｉＦ２２５年４",
+      "title": "iFreeETFの収益分配金見込額のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261006546889.pdf"
+    },
+    {
+      "id": "9d82b7071c40ab8294b0",
+      "published_at": "2026-10-07T08:50:00+09:00",
+      "security_code": "2625",
+      "company_name": "ｉＦＴＰＸ年４",
+      "title": "iFreeETFの収益分配金見込額のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261006546890.pdf"
+    },
+    {
+      "id": "8804a0c1d6162f6921ff",
+      "published_at": "2026-10-07T08:50:00+09:00",
+      "security_code": "2865",
+      "company_name": "ＧＸＮＤＸカバコ",
+      "title": "ETFの収益分配金見込額のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261006546853.pdf"
+    },
+    {
+      "id": "53450be5612f619f8dad",
+      "published_at": "2026-10-07T08:50:00+09:00",
+      "security_code": "2866",
+      "company_name": "ＧＸ優先証券",
+      "title": "ETFの収益分配金見込額のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261006546854.pdf"
+    },
+    {
+      "id": "7f244ac51bab5cbc7063",
+      "published_at": "2026-10-07T08:50:00+09:00",
+      "security_code": "2868",
+      "company_name": "ＧＸＳＰＸカバコ",
+      "title": "ETFの収益分配金見込額のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261006546855.pdf"
+    },
+    {
+      "id": "c7209991086bdb29c963",
+      "published_at": "2026-10-07T08:50:00+09:00",
+      "security_code": "4586",
+      "company_name": "メドレックス",
+      "title": "東京証券取引所「スタンダード市場」への市場区分変更に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261006546349.pdf"
+    },
+    {
+      "id": "f88f624ed57a372f53ce",
+      "published_at": "2026-10-07T08:30:00+09:00",
+      "security_code": "1672",
+      "company_name": "Ｅ－ＷｉｓｄｏｍＴｒ",
+      "title": "上場ETF（管理会社：WisdomTree、外国投資法人：MSL）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261007546955.pdf"
+    },
+    {
+      "id": "87cafdedd1c8e963da90",
+      "published_at": "2026-10-07T08:30:00+09:00",
+      "security_code": "1672",
+      "company_name": "Ｅ－ＷｉｓｄｏｍＴｒ",
+      "title": "上場ETF（管理会社：WisdomTree、外国投資法人：CSL）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261007546956.pdf"
+    },
     {
       "id": "708d4aa6ef2cbd82c49c",
       "published_at": "2026-10-06T19:00:00+09:00",
