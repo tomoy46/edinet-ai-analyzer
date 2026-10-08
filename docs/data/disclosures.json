@@ -1,7 +1,557 @@
 {
   "sample": false,
-  "last_success_at": "2026-10-08T00:43:07+09:00",
+  "last_success_at": "2026-10-08T14:51:17+09:00",
   "disclosures": [
+    {
+      "id": "bcb6eec2ae55624153f0",
+      "published_at": "2026-10-08T14:00:00+09:00",
+      "security_code": "2303",
+      "company_name": "ドーン",
+      "title": "2027年５月期第１四半期決算短信〔日本基準〕(非連結)",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261006546678.pdf"
+    },
+    {
+      "id": "06bb89b66e3efa64795f",
+      "published_at": "2026-10-08T14:00:00+09:00",
+      "security_code": "2698",
+      "company_name": "キャンドゥ",
+      "title": "2026年9月度 月次売上高前年比速報",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261008547803.pdf"
+    },
+    {
+      "id": "04fbd9ead261613adaba",
+      "published_at": "2026-10-08T14:00:00+09:00",
+      "security_code": "2903",
+      "company_name": "シノブフーズ",
+      "title": "自己株式取得に係る事項の決定に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261008547657.pdf"
+    },
+    {
+      "id": "c03b45caeb02238366ff",
+      "published_at": "2026-10-08T14:00:00+09:00",
+      "security_code": "4995",
+      "company_name": "サンケイ化",
+      "title": "2026年11月期 第３四半期決算短信〔日本基準〕（連結）",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261007547290.pdf"
+    },
+    {
+      "id": "a5400b49dcab91f4aba2",
+      "published_at": "2026-10-08T14:00:00+09:00",
+      "security_code": "7506",
+      "company_name": "ハウスローゼ",
+      "title": "主要株主の異動に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120260907532259.pdf"
+    },
+    {
+      "id": "40f041266bfd6a1ab60d",
+      "published_at": "2026-10-08T14:00:00+09:00",
+      "security_code": "7506",
+      "company_name": "ハウスローゼ",
+      "title": "2027年3月期9月度売上高に関するお知らせ(単体)",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261008547684.pdf"
+    },
+    {
+      "id": "33f058d1ff7ac326e9e9",
+      "published_at": "2026-10-08T14:00:00+09:00",
+      "security_code": "9763",
+      "company_name": "丸建リース",
+      "title": "雄正工業株式会社の株式取得（子会社化）完了に関するお知らせ （開示事項の経過報告）",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261007547586.pdf"
+    },
+    {
+      "id": "1c48fbb06efe8034174d",
+      "published_at": "2026-10-08T13:30:00+09:00",
+      "security_code": "6380",
+      "company_name": "オリチエン工業",
+      "title": "持株会社体制への移行の検討開始に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261008547856.pdf"
+    },
+    {
+      "id": "ca2948b4bc764d068707",
+      "published_at": "2026-10-08T13:00:00+09:00",
+      "security_code": "3083",
+      "company_name": "スターシーズ",
+      "title": "連結子会社におけるサーバー関連商品の仕入及び販売に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261008547825.pdf"
+    },
+    {
+      "id": "fa1b89b01e48963a28cd",
+      "published_at": "2026-10-08T12:30:00+09:00",
+      "security_code": "6073",
+      "company_name": "アサンテ",
+      "title": "2027年３月期 ９月度月次売上高のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261003545596.pdf"
+    },
+    {
+      "id": "159857d5c31e6284f2d6",
+      "published_at": "2026-10-08T12:30:00+09:00",
+      "security_code": "8198",
+      "company_name": "ＭＶ東海",
+      "title": "2027年２月期 ９月度月次売上高前年比速報",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261008547779.pdf"
+    },
+    {
+      "id": "096533952d408714d769",
+      "published_at": "2026-10-08T12:30:00+09:00",
+      "security_code": "9268",
+      "company_name": "オプティマス",
+      "title": "持分法適用関連会社におけるVoluntary Administration手続開始に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261008547797.pdf"
+    },
+    {
+      "id": "dabfe54f05830bcc87ba",
+      "published_at": "2026-10-08T12:00:00+09:00",
+      "security_code": "1482",
+      "company_name": "ｉＳ米国債七十円へジ",
+      "title": "金銭設定型ETF の解約に係る清算制度への対応に伴う投資信託約款の変更に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261008547599.pdf"
+    },
+    {
+      "id": "c711ac95f2c56f4557ea",
+      "published_at": "2026-10-08T12:00:00+09:00",
+      "security_code": "1496",
+      "company_name": "ｉＳ米＄ＩＧ社債ヘジ",
+      "title": "金銭設定型ETF の解約に係る清算制度への対応に伴う投資信託約款の変更に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261008547600.pdf"
+    },
+    {
+      "id": "e5c93f21d259fc1a4ab1",
+      "published_at": "2026-10-08T12:00:00+09:00",
+      "security_code": "1496",
+      "company_name": "ｉＳ米＄ＩＧ社債ヘジ",
+      "title": "iシェアーズ 米ドル建て投資適格社債 ETF（為替ヘッジあり）、iシェアーズ 米ドル建てハイイールド社債 ETF（為替ヘッジあり）のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261008547638.pdf"
+    },
+    {
+      "id": "c50b7f765bd5fe70fc41",
+      "published_at": "2026-10-08T12:00:00+09:00",
+      "security_code": "1497",
+      "company_name": "ｉＳ米＄ＨＹ社債ヘジ",
+      "title": "金銭設定型ETF の解約に係る清算制度への対応に伴う投資信託約款の変更に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261008547601.pdf"
+    },
+    {
+      "id": "cb79d25d8043f9eb1458",
+      "published_at": "2026-10-08T12:00:00+09:00",
+      "security_code": "1497",
+      "company_name": "ｉＳ米＄ＨＹ社債ヘジ",
+      "title": "iシェアーズ 米ドル建て投資適格社債 ETF（為替ヘッジあり）、iシェアーズ 米ドル建てハイイールド社債 ETF（為替ヘッジあり）のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261008547639.pdf"
+    },
+    {
+      "id": "f61ac6e815f754b86e4f",
+      "published_at": "2026-10-08T12:00:00+09:00",
+      "security_code": "1655",
+      "company_name": "ｉＳＳＰ５００米国株",
+      "title": "金銭設定型ETF の解約に係る清算制度への対応に伴う投資信託約款の変更に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261008547602.pdf"
+    },
+    {
+      "id": "306dd21267715a964047",
+      "published_at": "2026-10-08T12:00:00+09:00",
+      "security_code": "1656",
+      "company_name": "ｉＳ米国債七十",
+      "title": "金銭設定型ETF の解約に係る清算制度への対応に伴う投資信託約款の変更に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261008547603.pdf"
+    },
+    {
+      "id": "8b1d38f365dfb2126612",
+      "published_at": "2026-10-08T12:00:00+09:00",
+      "security_code": "1657",
+      "company_name": "ｉＳＭＳＣＩ先進国株",
+      "title": "金銭設定型ETF の解約に係る清算制度への対応に伴う投資信託約款の変更に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261008547604.pdf"
+    },
+    {
+      "id": "7cbcd0a0dec18e747e37",
+      "published_at": "2026-10-08T12:00:00+09:00",
+      "security_code": "1658",
+      "company_name": "ｉＳＭＳＣＩ新興国株",
+      "title": "金銭設定型ETF の解約に係る清算制度への対応に伴う投資信託約款の変更に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261008547605.pdf"
+    },
+    {
+      "id": "9a1f90f168cc24fad5b0",
+      "published_at": "2026-10-08T12:00:00+09:00",
+      "security_code": "1659",
+      "company_name": "ｉＳ米国リート",
+      "title": "金銭設定型ETF の解約に係る清算制度への対応に伴う投資信託約款の変更に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261008547606.pdf"
+    },
+    {
+      "id": "c4f73ed2382303c74fc0",
+      "published_at": "2026-10-08T12:00:00+09:00",
+      "security_code": "2012",
+      "company_name": "ｉＳ米国債０３月",
+      "title": "金銭設定型ETF の解約に係る清算制度への対応に伴う投資信託約款の変更に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261008547607.pdf"
+    },
+    {
+      "id": "ec0c75cb35f6632d9a86",
+      "published_at": "2026-10-08T12:00:00+09:00",
+      "security_code": "2013",
+      "company_name": "ｉＳ米国高配当株",
+      "title": "金銭設定型ETF の解約に係る清算制度への対応に伴う投資信託約款の変更に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261008547608.pdf"
+    },
+    {
+      "id": "6099e713ce2ac5358d8a",
+      "published_at": "2026-10-08T12:00:00+09:00",
+      "security_code": "2014",
+      "company_name": "ｉＳ米国連続増配株",
+      "title": "金銭設定型ETF の解約に係る清算制度への対応に伴う投資信託約款の変更に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261008547609.pdf"
+    },
+    {
+      "id": "0e21eba25bf0069ef55f",
+      "published_at": "2026-10-08T12:00:00+09:00",
+      "security_code": "2255",
+      "company_name": "ｉＳ米国債二十",
+      "title": "金銭設定型ETF の解約に係る清算制度への対応に伴う投資信託約款の変更に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261008547611.pdf"
+    },
+    {
+      "id": "fe0dbdd2e65114e69d57",
+      "published_at": "2026-10-08T12:00:00+09:00",
+      "security_code": "2256",
+      "company_name": "ｉＳ米国総合債券",
+      "title": "金銭設定型ETF の解約に係る清算制度への対応に伴う投資信託約款の変更に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261008547612.pdf"
+    },
+    {
+      "id": "2728f45a304e564178c2",
+      "published_at": "2026-10-08T12:00:00+09:00",
+      "security_code": "2257",
+      "company_name": "ｉＳ＄ＩＧ社債",
+      "title": "金銭設定型ETF の解約に係る清算制度への対応に伴う投資信託約款の変更に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261008547613.pdf"
+    },
+    {
+      "id": "ec02510308da55a5f396",
+      "published_at": "2026-10-08T12:00:00+09:00",
+      "security_code": "2258",
+      "company_name": "ｉＳ＄ＨＹ社債",
+      "title": "金銭設定型ETF の解約に係る清算制度への対応に伴う投資信託約款の変更に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261008547614.pdf"
+    },
+    {
+      "id": "405f7766928d6f9e23ba",
+      "published_at": "2026-10-08T12:00:00+09:00",
+      "security_code": "2259",
+      "company_name": "ｉＳフランス国債ヘジ",
+      "title": "金銭設定型ETF の解約に係る清算制度への対応に伴う投資信託約款の変更に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261008547615.pdf"
+    },
+    {
+      "id": "9883fe7bd84fe5f42036",
+      "published_at": "2026-10-08T12:00:00+09:00",
+      "security_code": "2522",
+      "company_name": "ｉＳロボット",
+      "title": "金銭設定型ETF の解約に係る清算制度への対応に伴う投資信託約款の変更に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261008547618.pdf"
+    },
+    {
+      "id": "2e90e0bd6057dc1db416",
+      "published_at": "2026-10-08T12:00:00+09:00",
+      "security_code": "2563",
+      "company_name": "ｉＳＳＰ５百米株ヘジ",
+      "title": "金銭設定型ETF の解約に係る清算制度への対応に伴う投資信託約款の変更に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261008547619.pdf"
+    },
+    {
+      "id": "6d8b48ca1065b072c88e",
+      "published_at": "2026-10-08T12:00:00+09:00",
+      "security_code": "2620",
+      "company_name": "ｉＳ米国債一三",
+      "title": "金銭設定型ETF の解約に係る清算制度への対応に伴う投資信託約款の変更に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261008547620.pdf"
+    },
+    {
+      "id": "1ee6f8070b440f651c3b",
+      "published_at": "2026-10-08T12:00:00+09:00",
+      "security_code": "2621",
+      "company_name": "ｉＳ米国債二十へジ",
+      "title": "金銭設定型ETF の解約に係る清算制度への対応に伴う投資信託約款の変更に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261008547621.pdf"
+    },
+    {
+      "id": "6c1ad20c5732341efa10",
+      "published_at": "2026-10-08T12:00:00+09:00",
+      "security_code": "2622",
+      "company_name": "ｉＳ新興国債券へジ",
+      "title": "金銭設定型ETF の解約に係る清算制度への対応に伴う投資信託約款の変更に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261008547622.pdf"
+    },
+    {
+      "id": "6ae0a37d756c78b6bdb0",
+      "published_at": "2026-10-08T12:00:00+09:00",
+      "security_code": "2623",
+      "company_name": "ｉＳユロＩＧ社債ヘジ",
+      "title": "金銭設定型ETF の解約に係る清算制度への対応に伴う投資信託約款の変更に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261008547623.pdf"
+    },
+    {
+      "id": "49f93e4122330991eac8",
+      "published_at": "2026-10-08T12:00:00+09:00",
+      "security_code": "2649",
+      "company_name": "ｉＳＧＮＭＡ債ヘジ",
+      "title": "金銭設定型ETF の解約に係る清算制度への対応に伴う投資信託約款の変更に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261008547624.pdf"
+    },
+    {
+      "id": "abf0ca902fa76c7bac36",
+      "published_at": "2026-10-08T12:00:00+09:00",
+      "security_code": "2856",
+      "company_name": "ｉＳ米国債三七ヘジ",
+      "title": "金銭設定型ETF の解約に係る清算制度への対応に伴う投資信託約款の変更に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261008547625.pdf"
+    },
+    {
+      "id": "b85b46f6e632b36ae9bf",
+      "published_at": "2026-10-08T12:00:00+09:00",
+      "security_code": "2857",
+      "company_name": "ｉＳドイツ国債ヘジ",
+      "title": "金銭設定型ETF の解約に係る清算制度への対応に伴う投資信託約款の変更に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261008547626.pdf"
+    },
+    {
+      "id": "0d26fc45b2c5be013c94",
+      "published_at": "2026-10-08T11:50:00+09:00",
+      "security_code": "1557",
+      "company_name": "Ｅ－ＳＳＧＡＴＣ",
+      "title": "State Street SPDR S&P500 ETFに関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261008547813.pdf"
+    },
+    {
+      "id": "74d54ee23c0c1f13018e",
+      "published_at": "2026-10-08T11:45:00+09:00",
+      "security_code": "1326",
+      "company_name": "Ｅ－ワールド",
+      "title": "SPDRゴールド・シェアに関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261008547788.pdf"
+    },
+    {
+      "id": "406d327c2823e383038b",
+      "published_at": "2026-10-08T11:40:00+09:00",
+      "security_code": "1349",
+      "company_name": "Ｅ－ＳＳＧＡ－ＳＩＮ",
+      "title": "アジア国債・公債ＥＴＦ（正式名称：ＡＢＦ汎アジア債券インデックス・ファンド）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261008547786.pdf"
+    },
+    {
+      "id": "38eadddd91e5c68f6e60",
+      "published_at": "2026-10-08T11:30:00+09:00",
+      "security_code": "2070",
+      "company_name": "Ｎ－三菱ＵＦＪ証ＨＤ",
+      "title": "上場ETN（発行者：三菱UFJ証券ホールディングス株式会社）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261008547764.pdf"
+    },
+    {
+      "id": "6841959eeb1cfe24a267",
+      "published_at": "2026-10-08T11:30:00+09:00",
+      "security_code": "4680",
+      "company_name": "ラウンドワン",
+      "title": "第47期（2027年３月期）９月の売上の状況に関するお知らせ（速報）",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261008547580.pdf"
+    },
+    {
+      "id": "a71f5c5a1d18931eb81a",
+      "published_at": "2026-10-08T11:30:00+09:00",
+      "security_code": "8194",
+      "company_name": "ライフコーポ",
+      "title": "2027年２月期 第２四半期（中間期）決算短信〔日本基準〕（連結）",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261001544866.pdf"
+    },
+    {
+      "id": "468bdfcd001ab66bdc6d",
+      "published_at": "2026-10-08T11:30:00+09:00",
+      "security_code": "8194",
+      "company_name": "ライフコーポ",
+      "title": "2027年２月期 第２四半期 決算・参考資料",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261001544868.pdf"
+    },
+    {
+      "id": "76ab3df3d0d930a39d19",
+      "published_at": "2026-10-08T11:00:00+09:00",
+      "security_code": "2864",
+      "company_name": "ＧＸロジリート",
+      "title": "2026年8月期（2026年2月25日～2026年8月24日）決算短信",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261008547698.pdf"
+    },
+    {
+      "id": "89bc11b39da5b0847e64",
+      "published_at": "2026-10-08T10:30:00+09:00",
+      "security_code": "5589",
+      "company_name": "オートサーバー",
+      "title": "コーポレートサイト/IRサイトの閲覧障害について",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261008547720.pdf"
+    },
+    {
+      "id": "7496eba06edc6414efe6",
+      "published_at": "2026-10-08T10:30:00+09:00",
+      "security_code": "7520",
+      "company_name": "エコス",
+      "title": "自己株式の取得状況及び取得終了に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261008547707.pdf"
+    },
+    {
+      "id": "6d2dec1251d4e947c54f",
+      "published_at": "2026-10-08T10:00:00+09:00",
+      "security_code": "1329",
+      "company_name": "Ｅ－ブラックロック",
+      "title": "上場ETF（管理会社：ブラックロック・ジャパン）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261008547650.pdf"
+    },
+    {
+      "id": "e7d0cc1b11e7a2dfa971",
+      "published_at": "2026-10-08T10:00:00+09:00",
+      "security_code": "1671",
+      "company_name": "Ｅ－シンプレクス",
+      "title": "上場ＥＴＦ(管理会社：シンプレクス・アセット・マネジメント)に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261008547654.pdf"
+    },
+    {
+      "id": "0ed21cfebc62d1d0ff9f",
+      "published_at": "2026-10-08T10:00:00+09:00",
+      "security_code": "7490",
+      "company_name": "日新商",
+      "title": "当社株式の上場廃止に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261007547402.pdf"
+    },
+    {
+      "id": "7e45854e935fe438b4ff",
+      "published_at": "2026-10-08T10:00:00+09:00",
+      "security_code": "8052",
+      "company_name": "椿本興",
+      "title": "従業員持株会向け譲渡制限付株式インセンティブとしての自己株式の処分の払込完了及び一部失権に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261006546797.pdf"
+    },
+    {
+      "id": "00848468c0b55948efcb",
+      "published_at": "2026-10-08T08:45:00+09:00",
+      "security_code": "1672",
+      "company_name": "Ｅ－ＷｉｓｄｏｍＴｒ",
+      "title": "上場ETF（管理会社：WisdomTree、外国投資法人：MSL）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261008547574.pdf"
+    },
+    {
+      "id": "c83d1ab0803630b17c68",
+      "published_at": "2026-10-08T08:45:00+09:00",
+      "security_code": "1672",
+      "company_name": "Ｅ－ＷｉｓｄｏｍＴｒ",
+      "title": "上場ETF（管理会社：WisdomTree、外国投資法人：CSL）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261008547575.pdf"
+    },
     {
       "id": "0ae9194f56b1f0978c80",
       "published_at": "2026-10-07T18:30:00+09:00",
