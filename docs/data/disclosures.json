@@ -1,7 +1,27 @@
 {
   "sample": false,
-  "last_success_at": "2026-10-09T19:23:23+09:00",
+  "last_success_at": "2026-10-09T22:39:13+09:00",
   "disclosures": [
+    {
+      "id": "8131d985817f0d33ece4",
+      "published_at": "2026-10-09T19:30:00+09:00",
+      "security_code": "7603",
+      "company_name": "ジーイエット",
+      "title": "連結子会社における新たな事業の開始及び株式会社i.Dとの基本合意書締結に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261009549010.pdf"
+    },
+    {
+      "id": "3ade0c66341fd65e0b55",
+      "published_at": "2026-10-09T19:30:00+09:00",
+      "security_code": "9556",
+      "company_name": "Ｇ－ＩＮＴＬＯＯＰ",
+      "title": "（訂正・数値データ訂正）「2026年７月期 決算短信〔日本基準〕(連結)」の一部訂正について",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261009549004.pdf"
+    },
     {
       "id": "3524e614b22af0b0cce5",
       "published_at": "2026-10-09T19:00:00+09:00",
