@@ -1,7 +1,17 @@
 {
   "sample": false,
-  "last_success_at": "2026-10-14T17:36:00+09:00",
+  "last_success_at": "2026-10-14T21:16:43+09:00",
   "disclosures": [
+    {
+      "id": "84c577869ebd047564f6",
+      "published_at": "2026-10-14T17:40:00+09:00",
+      "security_code": "2371",
+      "company_name": "カカクコム",
+      "title": "Kamgras １株式会社による株式会社カカクコム（証券コード：2371）の株券等に対する公開買付けの買付条件等の変更に関するお知らせ",
+      "category": "TOB",
+      "importance": 5,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261014550805.pdf"
+    },
     {
       "id": "b55d4bc3b3f6eef60967",
       "published_at": "2026-10-14T17:30:00+09:00",
