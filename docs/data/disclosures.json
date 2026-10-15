@@ -1,7 +1,247 @@
 {
   "sample": false,
-  "last_success_at": "2026-10-15T17:11:23+09:00",
+  "last_success_at": "2026-10-15T20:58:42+09:00",
   "disclosures": [
+    {
+      "id": "3680241f4ee62a84d304",
+      "published_at": "2026-10-15T20:00:00+09:00",
+      "security_code": "8031",
+      "company_name": "三井物産",
+      "title": "（経過開示）Penske Corporationと共同での米国Penske Automotive Group, Inc.の浮動株買収の決定",
+      "category": "M&A",
+      "importance": 5,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261015551440.pdf"
+    },
+    {
+      "id": "eedf36e20d4a31c97fd4",
+      "published_at": "2026-10-15T19:40:00+09:00",
+      "security_code": "6085",
+      "company_name": "Ｇ－アーキテクツＳＪ",
+      "title": "2027年２月期半期報告書の提出予定に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261015551899.pdf"
+    },
+    {
+      "id": "7183b714c6cd0d7b285d",
+      "published_at": "2026-10-15T19:00:00+09:00",
+      "security_code": "7831",
+      "company_name": "ウイルコＨＤ",
+      "title": "連結子会社に対する債権放棄に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261015551161.pdf"
+    },
+    {
+      "id": "586c2c564219b7bcc156",
+      "published_at": "2026-10-15T19:00:00+09:00",
+      "security_code": "9075",
+      "company_name": "福山運",
+      "title": "（開示事項の経過）投資有価証券売却益（特別利益）の計上に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261015551910.pdf"
+    },
+    {
+      "id": "fb672d3de3fc8579ba92",
+      "published_at": "2026-10-15T19:00:00+09:00",
+      "security_code": "9628",
+      "company_name": "燦ＨＤ",
+      "title": "2026年８月期決算補足資料",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261015551892.pdf"
+    },
+    {
+      "id": "ced1d9d7806ee5dc6214",
+      "published_at": "2026-10-15T18:00:00+09:00",
+      "security_code": "1445",
+      "company_name": "Ｐ－ひかりＨＤ",
+      "title": "2026年８月期 決算短信〔日本基準〕(連結)",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261014550756.pdf"
+    },
+    {
+      "id": "a81ab5d90656a89233d0",
+      "published_at": "2026-10-15T18:00:00+09:00",
+      "security_code": "3627",
+      "company_name": "テクミラ",
+      "title": "2027年２月期 第２四半期 決算説明会資料",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261015551548.pdf"
+    },
+    {
+      "id": "a55f8e0fe12bfb24ee0e",
+      "published_at": "2026-10-15T18:00:00+09:00",
+      "security_code": "5125",
+      "company_name": "Ｇ－ファインズ",
+      "title": "株式報酬型ストック・オプション（新株予約権）の発行内容確定に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261015551202.pdf"
+    },
+    {
+      "id": "0ec52cd6f2cbc22f3eb9",
+      "published_at": "2026-10-15T17:45:00+09:00",
+      "security_code": "3189",
+      "company_name": "ＡＮＡＰ",
+      "title": "2026年8月期決算短信〔日本基準〕（連結）",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261014550787.pdf"
+    },
+    {
+      "id": "103b6852577cc8725b58",
+      "published_at": "2026-10-15T17:45:00+09:00",
+      "security_code": "3189",
+      "company_name": "ＡＮＡＰ",
+      "title": "特別損失（事業再編損）の計上に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261014550778.pdf"
+    },
+    {
+      "id": "aee4ce4776f7191dcd90",
+      "published_at": "2026-10-15T17:45:00+09:00",
+      "security_code": "3189",
+      "company_name": "ＡＮＡＰ",
+      "title": "営業外費用（暗号資産評価損）の計上に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261014550746.pdf"
+    },
+    {
+      "id": "f3d4a3d9de83a29f4883",
+      "published_at": "2026-10-15T17:45:00+09:00",
+      "security_code": "3189",
+      "company_name": "ＡＮＡＰ",
+      "title": "連結業績及び個別業績の前期実績値との差異に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261015551825.pdf"
+    },
+    {
+      "id": "00f2b2fa68660561121a",
+      "published_at": "2026-10-15T17:45:00+09:00",
+      "security_code": "3765",
+      "company_name": "ガンホー",
+      "title": "株主による臨時株主総会の招集請求に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261015551770.pdf"
+    },
+    {
+      "id": "54eefb7b1af9b82a1360",
+      "published_at": "2026-10-15T17:30:00+09:00",
+      "security_code": "8254",
+      "company_name": "さいか屋",
+      "title": "2026年８月期 決算短信［日本基準］（連結）",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261015551348.pdf"
+    },
+    {
+      "id": "4ddc4ebd80f85bb75c26",
+      "published_at": "2026-10-15T17:30:00+09:00",
+      "security_code": "8254",
+      "company_name": "さいか屋",
+      "title": "剰余金の配当（期末配当）に関するお知らせ",
+      "category": "その他",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261015551585.pdf"
+    },
+    {
+      "id": "369195150f0e15a9d77e",
+      "published_at": "2026-10-15T17:20:00+09:00",
+      "security_code": "1595",
+      "company_name": "ＮＺＡＭ Ｊリート",
+      "title": "ETFの収益分配のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261015551861.pdf"
+    },
+    {
+      "id": "916d328ca1fe368bac86",
+      "published_at": "2026-10-15T17:20:00+09:00",
+      "security_code": "2086",
+      "company_name": "ＮＺＡＭ ＳＰ５Ｈ",
+      "title": "ETFの収益分配のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261015551862.pdf"
+    },
+    {
+      "id": "ac75858a7721df350e95",
+      "published_at": "2026-10-15T17:20:00+09:00",
+      "security_code": "2087",
+      "company_name": "ＮＺＡＭ ＮＱ１Ｈ",
+      "title": "ETFの収益分配のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261015551863.pdf"
+    },
+    {
+      "id": "2aab9a3205cb9c6d4134",
+      "published_at": "2026-10-15T17:20:00+09:00",
+      "security_code": "2088",
+      "company_name": "ＮＺＡＭ ＤｏｗＨ",
+      "title": "ETFの収益分配のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261015551864.pdf"
+    },
+    {
+      "id": "1685f8ec4759c5f840f8",
+      "published_at": "2026-10-15T17:20:00+09:00",
+      "security_code": "2146",
+      "company_name": "ＵＴグループ",
+      "title": "当社グループの元従業員による不正行為について",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261015551835.pdf"
+    },
+    {
+      "id": "a74a2552b33b68829f1d",
+      "published_at": "2026-10-15T17:15:00+09:00",
+      "security_code": "8783",
+      "company_name": "ａｂｃ",
+      "title": "2026年８月期 決算短信〔日本基準〕（連結）",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261015551728.pdf"
+    },
+    {
+      "id": "2f1429985c8d983eb851",
+      "published_at": "2026-10-15T17:15:00+09:00",
+      "security_code": "8783",
+      "company_name": "ａｂｃ",
+      "title": "連結業績における営業損失、営業外費用及び特別損失の計上並びに連結業績の当期予想値との差異に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261015551729.pdf"
+    },
+    {
+      "id": "4354af0d4c00edf4ca5b",
+      "published_at": "2026-10-15T17:15:00+09:00",
+      "security_code": "8783",
+      "company_name": "ａｂｃ",
+      "title": "個別業績における営業外費用及び特別利益、特別損失計上並びに個別業績の前期実績値との差異に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261015551730.pdf"
+    },
+    {
+      "id": "7ab00d47e96ed1ee6c1c",
+      "published_at": "2026-10-15T17:15:00+09:00",
+      "security_code": "8783",
+      "company_name": "ａｂｃ",
+      "title": "WOWOO PTE. LTD. との業務委託契約の締結に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261015551733.pdf"
+    },
     {
       "id": "bf9926305570b0d4c82f",
       "published_at": "2026-10-15T17:00:00+09:00",
