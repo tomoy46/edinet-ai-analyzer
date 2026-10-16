@@ -1,7 +1,147 @@
 {
   "sample": false,
-  "last_success_at": "2026-10-16T17:04:16+09:00",
+  "last_success_at": "2026-10-16T20:49:37+09:00",
   "disclosures": [
+    {
+      "id": "5711ece61825a83b10f4",
+      "published_at": "2026-10-16T20:00:00+09:00",
+      "security_code": "6594",
+      "company_name": "ニデック",
+      "title": "役員責任調査委員会からの調査報告について",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261016552498.pdf"
+    },
+    {
+      "id": "f2c2df85942c24cf81bf",
+      "published_at": "2026-10-16T19:30:00+09:00",
+      "security_code": "6503",
+      "company_name": "三菱電",
+      "title": "自動車機器事業に伴う会社分割（簡易吸収分割）等及び三菱電機モビリティの株式の50%譲渡に係る株式譲渡契約締結のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261016552155.pdf"
+    },
+    {
+      "id": "61dae407c2514d8ef7d0",
+      "published_at": "2026-10-16T19:15:00+09:00",
+      "security_code": "6030",
+      "company_name": "Ｇ－アドベンチャー",
+      "title": "不正アクセスによるお客様情報の流出に関するお詫びとお知らせ（第2報）及び第1報の一部訂正について",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261016552377.pdf"
+    },
+    {
+      "id": "7b3708b5718430b2cb0c",
+      "published_at": "2026-10-16T18:35:00+09:00",
+      "security_code": "3935",
+      "company_name": "エディア",
+      "title": "2027年２月期 第２四半期決算説明動画公開のお知らせ",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261016552513.pdf"
+    },
+    {
+      "id": "09b8a5d19ad8ef0859e0",
+      "published_at": "2026-10-16T18:30:00+09:00",
+      "security_code": "3656",
+      "company_name": "ＫＬａｂ",
+      "title": "（訂正）「主要株主及び主要株主である筆頭株主の異動に関するお知らせ」の訂正につきまして",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261016552440.pdf"
+    },
+    {
+      "id": "461197ef2540c4a85fd0",
+      "published_at": "2026-10-16T18:15:00+09:00",
+      "security_code": "3189",
+      "company_name": "ＡＮＡＰ",
+      "title": "(訂正)「(訂正)連結業績及び個別業績の前期実績値との差異に関するお知らせ」の一部訂正について",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261016552511.pdf"
+    },
+    {
+      "id": "fcf46d44c81674f73f6b",
+      "published_at": "2026-10-16T18:00:00+09:00",
+      "security_code": "2503",
+      "company_name": "キリンＨＤ",
+      "title": "当社子会社（株式会社ファンケル）における不正アクセスによる個人情報漏えいに関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261016552454.pdf"
+    },
+    {
+      "id": "228ee625ca5dfa94f05a",
+      "published_at": "2026-10-16T17:45:00+09:00",
+      "security_code": "5237",
+      "company_name": "ノザワ",
+      "title": "当社及び当社連結子会社の従業員に対する譲渡制限付株式としての自己株式処分に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261016552459.pdf"
+    },
+    {
+      "id": "a774c230af54732ac9f4",
+      "published_at": "2026-10-16T17:30:00+09:00",
+      "security_code": "1401",
+      "company_name": "Ｇ－エムビーエス",
+      "title": "テックビルド株式会社との合弁会社設立に向けた契約締結に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261016552052.pdf"
+    },
+    {
+      "id": "f6400959f98e9711f589",
+      "published_at": "2026-10-16T17:30:00+09:00",
+      "security_code": "3490",
+      "company_name": "アズ企画設計",
+      "title": "（訂正）「販売用不動産（信託受益権）の取得並びに取得に係る資金借入に関するお知らせ」の一部訂正に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261016552450.pdf"
+    },
+    {
+      "id": "32e74393ff320272ab71",
+      "published_at": "2026-10-16T17:30:00+09:00",
+      "security_code": "4996",
+      "company_name": "クミアイ化",
+      "title": "簡易株式交換における株式交換比率の決定に関するお知らせ",
+      "category": "M&A",
+      "importance": 5,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261016552465.pdf"
+    },
+    {
+      "id": "b499adebf54520c27a2a",
+      "published_at": "2026-10-16T17:30:00+09:00",
+      "security_code": "6659",
+      "company_name": "メディアリンクス",
+      "title": "一時会計監査人の選任に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261016552239.pdf"
+    },
+    {
+      "id": "da0f98a0d7243778c0db",
+      "published_at": "2026-10-16T17:15:00+09:00",
+      "security_code": "8105",
+      "company_name": "ＢｉｔｃｏｉｎＪＰＮ",
+      "title": "（開示事項の経過）UBTECHグループとの業務提携（日本国内における対象製品等の独占販売契約）締結の決定に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261016552363.pdf"
+    },
+    {
+      "id": "ee841fd6c8b6879c546c",
+      "published_at": "2026-10-16T17:10:00+09:00",
+      "security_code": "4446",
+      "company_name": "Ｌｉｎｋ－Ｕグループ",
+      "title": "Studio株式会社で発生した不正アクセスに伴う個人情報漏えいの可能性に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261016552453.pdf"
+    },
     {
       "id": "316ed8892cc29aecad24",
       "published_at": "2026-10-16T17:00:00+09:00",
