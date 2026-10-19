@@ -1,7 +1,57 @@
 {
   "sample": false,
-  "last_success_at": "2026-10-19T17:44:24+09:00",
+  "last_success_at": "2026-10-19T22:50:48+09:00",
   "disclosures": [
+    {
+      "id": "70c9cd77dfbc1b1a7f8b",
+      "published_at": "2026-10-19T19:00:00+09:00",
+      "security_code": "3323",
+      "company_name": "レカム",
+      "title": "連結子会社レカムIEパートナー株式会社の株式交換（簡易株式交換）による完全子会社化に関するお知らせ",
+      "category": "M&A",
+      "importance": 5,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261019553000.pdf"
+    },
+    {
+      "id": "aeed94cd08f2d084420a",
+      "published_at": "2026-10-19T18:40:00+09:00",
+      "security_code": "3905",
+      "company_name": "Ｇ－データセクション",
+      "title": "第23回新株予約権の行使期間満了に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261019553166.pdf"
+    },
+    {
+      "id": "524184510322e9efdd01",
+      "published_at": "2026-10-19T18:00:00+09:00",
+      "security_code": "7516",
+      "company_name": "コーナン商",
+      "title": "役員の委嘱事項の変更等に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261016552427.pdf"
+    },
+    {
+      "id": "1181f14f09f8b15f0d49",
+      "published_at": "2026-10-19T17:45:00+09:00",
+      "security_code": "6407",
+      "company_name": "ＣＫＤ",
+      "title": "売出価格等の決定に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261019552749.pdf"
+    },
+    {
+      "id": "3f45fd666d4d05c48b36",
+      "published_at": "2026-10-19T17:45:00+09:00",
+      "security_code": "6407",
+      "company_name": "ＣＫＤ",
+      "title": "（開示事項の経過）自己株式取得に係る事項の決定に関するお知らせ（会社法第459条第１項の規定による定款の定めに基づく自己株式の取得）",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261019552754.pdf"
+    },
     {
       "id": "9393fae4b17c97522483",
       "published_at": "2026-10-19T17:30:00+09:00",
