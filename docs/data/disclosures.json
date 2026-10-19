@@ -1,7 +1,377 @@
 {
   "sample": false,
-  "last_success_at": "2026-10-16T22:28:22+09:00",
+  "last_success_at": "2026-10-19T13:27:37+09:00",
   "disclosures": [
+    {
+      "id": "51731c855d862f48a111",
+      "published_at": "2026-10-19T13:00:00+09:00",
+      "security_code": "2245",
+      "company_name": "独債７－１０ヘッジ有",
+      "title": "NEXT FUNDS ブルームバーグ・ドイツ国債（7-10年）インデックス（為替ヘッジあり）連動型上場投信 決算短信",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261019552666.pdf"
+    },
+    {
+      "id": "b46c7a32a171cd3089aa",
+      "published_at": "2026-10-19T13:00:00+09:00",
+      "security_code": "2510",
+      "company_name": "ＮＦ国内債券",
+      "title": "NEXT FUNDS 国内債券・NOMURA-BPI総合連動型上場投信 決算短信",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261019552650.pdf"
+    },
+    {
+      "id": "57aa7f362f053f1c675d",
+      "published_at": "2026-10-19T13:00:00+09:00",
+      "security_code": "2511",
+      "company_name": "ＮＦ外債ヘッジ無",
+      "title": "NEXT FUNDS 外国債券・FTSE世界国債インデックス（除く日本・為替ヘッジなし）連動型上場投信 決算短信",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261019552653.pdf"
+    },
+    {
+      "id": "89ddee0fabf47c7aca66",
+      "published_at": "2026-10-19T13:00:00+09:00",
+      "security_code": "2512",
+      "company_name": "ＮＦ外債ヘッジ有",
+      "title": "NEXT FUNDS 外国債券・FTSE世界国債インデックス（除く日本・為替ヘッジあり）連動型上場投信 決算短信",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261019552655.pdf"
+    },
+    {
+      "id": "e01b886ed9fcba324d57",
+      "published_at": "2026-10-19T13:00:00+09:00",
+      "security_code": "2513",
+      "company_name": "ＮＦ外株ヘッジ無",
+      "title": "NEXT FUNDS 外国株式・MSCI-KOKUSAI指数（為替ヘッジなし）連動型上場投信 決算短信",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261019552657.pdf"
+    },
+    {
+      "id": "45a6aaf5382002c54619",
+      "published_at": "2026-10-19T13:00:00+09:00",
+      "security_code": "2514",
+      "company_name": "ＮＦ外株ヘッジ有",
+      "title": "NEXT FUNDS 外国株式・MSCI-KOKUSAI指数（為替ヘッジあり）連動型上場投信 決算短信",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261019552660.pdf"
+    },
+    {
+      "id": "9d6631a5274a5d8ff0e4",
+      "published_at": "2026-10-19T13:00:00+09:00",
+      "security_code": "2515",
+      "company_name": "ＮＦ外ＲＥＩＴヘ無",
+      "title": "NEXT FUNDS 外国REIT・S&P先進国REIT指数（除く日本・為替ヘッジなし）連動型上場投信 決算短信",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261019552669.pdf"
+    },
+    {
+      "id": "11671fdb2220b7102556",
+      "published_at": "2026-10-19T13:00:00+09:00",
+      "security_code": "2519",
+      "company_name": "ＮＦ新興国債券ヘ無",
+      "title": "NEXT FUNDS 新興国債券・J.P.モルガン・エマージング・マーケット・ボンド・インデックス・プラス（為替ヘッジなし）連動型上場投信 決算短信",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261019552662.pdf"
+    },
+    {
+      "id": "9a3a73f63e79743c3b45",
+      "published_at": "2026-10-19T13:00:00+09:00",
+      "security_code": "2520",
+      "company_name": "ＮＦ新興国株式ヘ無",
+      "title": "NEXT FUNDS 新興国株式・MSCIエマージング・マーケット・インデックス（為替ヘッジなし）連動型上場投信 決算短信",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261019552664.pdf"
+    },
+    {
+      "id": "d59309acd65fbf442bf5",
+      "published_at": "2026-10-19T13:00:00+09:00",
+      "security_code": "2554",
+      "company_name": "ＮＦ米社債ヘ有",
+      "title": "NEXT FUNDS ブルームバーグ米国投資適格社債（1-10年）インデックス（為替ヘッジあり）連動型上場投信 決算短信",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261019552671.pdf"
+    },
+    {
+      "id": "c886b0d3401e09a0e4ec",
+      "published_at": "2026-10-19T13:00:00+09:00",
+      "security_code": "2647",
+      "company_name": "米債７－１０ヘッジ無",
+      "title": "NEXT FUNDS ブルームバーグ米国国債（7-10年）インデックス（為替ヘッジなし）連動型上場投信 決算短信",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261019552673.pdf"
+    },
+    {
+      "id": "e6b81606d5b74a3405f1",
+      "published_at": "2026-10-19T13:00:00+09:00",
+      "security_code": "2648",
+      "company_name": "米債７－１０ヘッジ有",
+      "title": "NEXT FUNDS ブルームバーグ米国国債（7-10年）インデックス（為替ヘッジあり）連動型上場投信 決算短信",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261019552677.pdf"
+    },
+    {
+      "id": "d3b1253f906322482b43",
+      "published_at": "2026-10-19T13:00:00+09:00",
+      "security_code": "4623",
+      "company_name": "アサヒペン",
+      "title": "業績予想の修正に関するお知らせ",
+      "category": "業績予想修正",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261019552875.pdf"
+    },
+    {
+      "id": "ea3d56afc73a2f018537",
+      "published_at": "2026-10-19T12:30:00+09:00",
+      "security_code": "2972",
+      "company_name": "Ｒ－サンケイＲＥ",
+      "title": "2026年８月期（第15期）決算説明資料",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261019552800.pdf"
+    },
+    {
+      "id": "5dd450581770d606ac09",
+      "published_at": "2026-10-19T12:30:00+09:00",
+      "security_code": "8173",
+      "company_name": "Ｊｏｓｈｉｎ",
+      "title": "不正アクセスによるシステム障害発生のお詫びとお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261019552813.pdf"
+    },
+    {
+      "id": "f05e43ad08c02f7a4c57",
+      "published_at": "2026-10-19T12:00:00+09:00",
+      "security_code": "7604",
+      "company_name": "梅の花グループ",
+      "title": "公認会計士等の合併に伴う異動に関するお知らせ",
+      "category": "M&A",
+      "importance": 5,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261019552806.pdf"
+    },
+    {
+      "id": "e473432393d194e81d75",
+      "published_at": "2026-10-19T12:00:00+09:00",
+      "security_code": "8624",
+      "company_name": "いちよし",
+      "title": "2027年３月期第２四半期（中間期） 連結決算速報値に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261016552233.pdf"
+    },
+    {
+      "id": "2d173544b406cdeb5bdf",
+      "published_at": "2026-10-19T12:00:00+09:00",
+      "security_code": "8624",
+      "company_name": "いちよし",
+      "title": "２０２７年３月期の中間普通配当予定の増配に関するお知らせ",
+      "category": "増配",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261019552787.pdf"
+    },
+    {
+      "id": "a106a5acbbf7d6627e83",
+      "published_at": "2026-10-19T11:40:00+09:00",
+      "security_code": "1557",
+      "company_name": "Ｅ－ＳＳＧＡＴＣ",
+      "title": "State Street SPDR S&P500 ETFに関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261019552769.pdf"
+    },
+    {
+      "id": "db499c5225f8ff7e13c2",
+      "published_at": "2026-10-19T11:35:00+09:00",
+      "security_code": "1326",
+      "company_name": "Ｅ－ワールド",
+      "title": "SPDRゴールド・シェアに関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261019552767.pdf"
+    },
+    {
+      "id": "5780f6541a80b857d682",
+      "published_at": "2026-10-19T11:30:00+09:00",
+      "security_code": "1349",
+      "company_name": "Ｅ－ＳＳＧＡ－ＳＩＮ",
+      "title": "アジア国債・公債ＥＴＦ（正式名称：ＡＢＦ汎アジア債券インデックス・ファンド）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261019552760.pdf"
+    },
+    {
+      "id": "d318b147ac8c1a724fa8",
+      "published_at": "2026-10-19T11:30:00+09:00",
+      "security_code": "2070",
+      "company_name": "Ｎ－三菱ＵＦＪ証ＨＤ",
+      "title": "上場ETN（発行者：三菱UFJ証券ホールディングス株式会社）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261019552707.pdf"
+    },
+    {
+      "id": "5e231ce194132aafb1e4",
+      "published_at": "2026-10-19T11:30:00+09:00",
+      "security_code": "3641",
+      "company_name": "パピレス",
+      "title": "当社が運営する電子書籍販売サイト「Renta！」のサービス一時停止に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261019552777.pdf"
+    },
+    {
+      "id": "b387893a9aeac7157151",
+      "published_at": "2026-10-19T11:00:00+09:00",
+      "security_code": "1488",
+      "company_name": "ｉＦＪリート",
+      "title": "2026年9月期（2026年3月5日～2026年9月4日）決算短信",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261019552741.pdf"
+    },
+    {
+      "id": "415c0969494c2ccf3c77",
+      "published_at": "2026-10-19T11:00:00+09:00",
+      "security_code": "7811",
+      "company_name": "中本パックス",
+      "title": "2027年２月期中間期 決算説明会資料",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261019552624.pdf"
+    },
+    {
+      "id": "3c6139371ca39c4cd8ad",
+      "published_at": "2026-10-19T10:45:00+09:00",
+      "security_code": "4884",
+      "company_name": "Ｇ－クリングル",
+      "title": "脊髄損傷急性期を対象とするoremepermin alfaの米国FDAにおけるIND発効のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261019552701.pdf"
+    },
+    {
+      "id": "483a129b15fd33dc9793",
+      "published_at": "2026-10-19T10:40:00+09:00",
+      "security_code": "8746",
+      "company_name": "ｕｎｂａｎｋｅｄ",
+      "title": "監査等委員である取締役の辞任に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261019552711.pdf"
+    },
+    {
+      "id": "6ef00e8e6b98cda5ff39",
+      "published_at": "2026-10-19T10:25:00+09:00",
+      "security_code": "6503",
+      "company_name": "三菱電",
+      "title": "鴻海精密工業と自動車機器事業の共同運営を通じた戦略的提携について",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261016552539.pdf"
+    },
+    {
+      "id": "3af9364bea62a884b3e9",
+      "published_at": "2026-10-19T10:00:00+09:00",
+      "security_code": "1329",
+      "company_name": "Ｅ－ブラックロック",
+      "title": "上場ETF（管理会社：ブラックロック・ジャパン）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261019552628.pdf"
+    },
+    {
+      "id": "5acdfac3294b3aa6b1e3",
+      "published_at": "2026-10-19T10:00:00+09:00",
+      "security_code": "1671",
+      "company_name": "Ｅ－シンプレクス",
+      "title": "上場ＥＴＦ(管理会社：シンプレクス・アセット・マネジメント)に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261019552630.pdf"
+    },
+    {
+      "id": "6240fe46f1e52c892e13",
+      "published_at": "2026-10-19T09:45:00+09:00",
+      "security_code": "2437",
+      "company_name": "シンワワイズ",
+      "title": "【10月17日開催】西洋美術 /Bags /Jewelry ＆ Watchesオークションの落札結果に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261017552559.pdf"
+    },
+    {
+      "id": "601a94468a5fe01b342b",
+      "published_at": "2026-10-19T08:50:00+09:00",
+      "security_code": "5408",
+      "company_name": "中山鋼",
+      "title": "（開示事項の経過）熱延工場の操業再開について",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261016552464.pdf"
+    },
+    {
+      "id": "7859734eaec8af2d2bf8",
+      "published_at": "2026-10-19T08:30:00+09:00",
+      "security_code": "1672",
+      "company_name": "Ｅ－ＷｉｓｄｏｍＴｒ",
+      "title": "上場ETF（管理会社：WisdomTree、外国投資法人：CSL）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261019552580.pdf"
+    },
+    {
+      "id": "78440110ea271862eefb",
+      "published_at": "2026-10-19T08:30:00+09:00",
+      "security_code": "1672",
+      "company_name": "Ｅ－ＷｉｓｄｏｍＴｒ",
+      "title": "上場ETF（管理会社：WisdomTree、外国投資法人：MSL）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261019552601.pdf"
+    },
+    {
+      "id": "3ca6c0267908cd429792",
+      "published_at": "2026-10-19T08:00:00+09:00",
+      "security_code": "6521",
+      "company_name": "Ｇ－オキサイド",
+      "title": "2027年2月期第2四半期 決算説明会の質疑応答（要旨）について",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261016552473.pdf"
+    },
+    {
+      "id": "a39f28a7c58e1383efed",
+      "published_at": "2026-10-19T08:00:00+09:00",
+      "security_code": "6521",
+      "company_name": "Ｇ－オキサイド",
+      "title": "2027年２月期 第２四半期決算補足説明資料(スクリプト付)",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261016552477.pdf"
+    },
+    {
+      "id": "ddb64a502f80884cc306",
+      "published_at": "2026-10-19T08:00:00+09:00",
+      "security_code": "8750",
+      "company_name": "第一ライフグループ",
+      "title": "一部報道について",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261016552543.pdf"
+    },
     {
       "id": "5711ece61825a83b10f4",
       "published_at": "2026-10-16T20:00:00+09:00",
