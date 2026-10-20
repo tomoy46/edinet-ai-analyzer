@@ -1,7 +1,157 @@
 {
   "sample": false,
-  "last_success_at": "2026-10-20T17:25:03+09:00",
+  "last_success_at": "2026-10-20T20:59:42+09:00",
   "disclosures": [
+    {
+      "id": "86a4f45171c8e872c1c6",
+      "published_at": "2026-10-20T18:50:00+09:00",
+      "security_code": "1495",
+      "company_name": "上場アジアリート",
+      "title": "ＥＴＦの収益分配のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261020553709.pdf"
+    },
+    {
+      "id": "cda6390bbc49b0d5b783",
+      "published_at": "2026-10-20T18:35:00+09:00",
+      "security_code": "3962",
+      "company_name": "チェンジＨＤ",
+      "title": "当社連結子会社における不正アクセスによる個人情報の外部流出に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261020553586.pdf"
+    },
+    {
+      "id": "3ffbcb1860a3298902d9",
+      "published_at": "2026-10-20T18:30:00+09:00",
+      "security_code": "5575",
+      "company_name": "Ｇ－Ｇｌｏｂｅｅ",
+      "title": "第三者による不正アクセスおよび個人情報漏えいのおそれに関するお詫びとお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261020553707.pdf"
+    },
+    {
+      "id": "827aa3713b78b07fd8dc",
+      "published_at": "2026-10-20T18:15:00+09:00",
+      "security_code": "2901",
+      "company_name": "ウェルディッシュ",
+      "title": "改善計画の策定方針に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261020553664.pdf"
+    },
+    {
+      "id": "9cc1a94521657ca49fc7",
+      "published_at": "2026-10-20T18:15:00+09:00",
+      "security_code": "2901",
+      "company_name": "ウェルディッシュ",
+      "title": "第70期定時株主総会及び継続会の開催に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261020553666.pdf"
+    },
+    {
+      "id": "e30f78dcce37ede40695",
+      "published_at": "2026-10-20T18:15:00+09:00",
+      "security_code": "2901",
+      "company_name": "ウェルディッシュ",
+      "title": "会計監査人の選任に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261020553671.pdf"
+    },
+    {
+      "id": "157c50f21884d357c15e",
+      "published_at": "2026-10-20T18:15:00+09:00",
+      "security_code": "2901",
+      "company_name": "ウェルディッシュ",
+      "title": "剰余金の配当（無配）に関するお知らせ",
+      "category": "減配",
+      "importance": 5,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261020553697.pdf"
+    },
+    {
+      "id": "b8d4df87b056b6ec54c4",
+      "published_at": "2026-10-20T18:15:00+09:00",
+      "security_code": "2901",
+      "company_name": "ウェルディッシュ",
+      "title": "株主優待制度廃止に関するお知らせ",
+      "category": "優待廃止",
+      "importance": 5,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261020553675.pdf"
+    },
+    {
+      "id": "ef51008c3f66f45390c2",
+      "published_at": "2026-10-20T18:00:00+09:00",
+      "security_code": "2428",
+      "company_name": "ウェルネット",
+      "title": "譲渡制限付株式報酬の株主総会決議超過及び自己株式の無償取得に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261020553333.pdf"
+    },
+    {
+      "id": "e4855f55cc9eecd4db6c",
+      "published_at": "2026-10-20T18:00:00+09:00",
+      "security_code": "2733",
+      "company_name": "あらた",
+      "title": "公正取引委員会による当社連結子会社への立入検査について",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261020553638.pdf"
+    },
+    {
+      "id": "733a8569f2ca1072df93",
+      "published_at": "2026-10-20T17:30:00+09:00",
+      "security_code": "1480",
+      "company_name": "ＮＦ企業価値",
+      "title": "ETFの収益分配のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261020553667.pdf"
+    },
+    {
+      "id": "a36e258438d827df205c",
+      "published_at": "2026-10-20T17:30:00+09:00",
+      "security_code": "2251",
+      "company_name": "ＪＧＢダブルインバ",
+      "title": "ETFの収益分配のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261020553668.pdf"
+    },
+    {
+      "id": "c7c683336024602af450",
+      "published_at": "2026-10-20T17:30:00+09:00",
+      "security_code": "2518",
+      "company_name": "ＮＦ日本株女性活躍",
+      "title": "ETFの収益分配のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261020553669.pdf"
+    },
+    {
+      "id": "f58e332c92f60600a3e4",
+      "published_at": "2026-10-20T17:30:00+09:00",
+      "security_code": "6890",
+      "company_name": "フェローテック",
+      "title": "中際旭創股フン有限公司（InnoLight社）との戦略的提携契約締結に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261019553164.pdf"
+    },
+    {
+      "id": "f3ad3483f80347ef41dc",
+      "published_at": "2026-10-20T17:30:00+09:00",
+      "security_code": "6890",
+      "company_name": "フェローテック",
+      "title": "持分法適用会社の株式取得に伴う特定子会社への異動のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261020553550.pdf"
+    },
     {
       "id": "6748024f2383aaf2b01f",
       "published_at": "2026-10-20T17:00:00+09:00",
