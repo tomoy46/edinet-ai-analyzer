@@ -1,7 +1,267 @@
 {
   "sample": false,
-  "last_success_at": "2026-10-20T00:49:39+09:00",
+  "last_success_at": "2026-10-20T13:37:46+09:00",
   "disclosures": [
+    {
+      "id": "3eeb1185549fa6d3e1c2",
+      "published_at": "2026-10-20T13:30:00+09:00",
+      "security_code": "9425",
+      "company_name": "ＲｅＹｕｕＪａｐａｎ",
+      "title": "連結子会社ネクスト・セキュリティ株式会社とのサイバーセキュリティ分野における販売連携開始に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261020553354.pdf"
+    },
+    {
+      "id": "a74fd7766ef10f5d1998",
+      "published_at": "2026-10-20T13:00:00+09:00",
+      "security_code": "2851",
+      "company_name": "ｉＳＭＳＣＩＪＳＲＩ",
+      "title": "「ｉシェアーズ ＭＳＣＩ ジャパンＳＲＩ ＥＴＦ」繰上償還および投資信託約款の重大な変更（確定）のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261020553424.pdf"
+    },
+    {
+      "id": "1ab9f2ed44a2e73c4764",
+      "published_at": "2026-10-20T13:00:00+09:00",
+      "security_code": "2876",
+      "company_name": "デルソーレ",
+      "title": "特別利益（受取保険金）の計上に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261020553391.pdf"
+    },
+    {
+      "id": "42434bba89b98f0bc1da",
+      "published_at": "2026-10-20T13:00:00+09:00",
+      "security_code": "6101",
+      "company_name": "ツガミ",
+      "title": "2027 年３月期 第２四半期(中間期)の連結業績予想および中間配当予想の修正に関するお知らせ",
+      "category": "その他",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261019552815.pdf"
+    },
+    {
+      "id": "55a8318081b3422ce89b",
+      "published_at": "2026-10-20T13:00:00+09:00",
+      "security_code": "6101",
+      "company_name": "ツガミ",
+      "title": "自己株式の消却に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261019552849.pdf"
+    },
+    {
+      "id": "2d48e23ace711fa8f607",
+      "published_at": "2026-10-20T12:30:00+09:00",
+      "security_code": "2152",
+      "company_name": "幼児活動研究会",
+      "title": "当社ネットワークへの不正アクセスに関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261020553396.pdf"
+    },
+    {
+      "id": "60f2e0763681f606ff38",
+      "published_at": "2026-10-20T12:30:00+09:00",
+      "security_code": "2892",
+      "company_name": "日食化",
+      "title": "自己株式の取得状況及び取得終了に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261020553223.pdf"
+    },
+    {
+      "id": "6fac5ae483483bb1caff",
+      "published_at": "2026-10-20T12:30:00+09:00",
+      "security_code": "3245",
+      "company_name": "ディア・ライフ",
+      "title": "収益不動産の取得に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261020553301.pdf"
+    },
+    {
+      "id": "67d81bb2a2469f3d4fe2",
+      "published_at": "2026-10-20T12:00:00+09:00",
+      "security_code": "3825",
+      "company_name": "ＲＥＭＩＸ",
+      "title": "系統用蓄電所（福岡県嘉麻市）の需給調整市場参入（４か所目）に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261016552530.pdf"
+    },
+    {
+      "id": "608bcc41b7d069e0837c",
+      "published_at": "2026-10-20T11:45:00+09:00",
+      "security_code": "1557",
+      "company_name": "Ｅ－ＳＳＧＡＴＣ",
+      "title": "State Street SPDR S&P500 ETFに関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261020553329.pdf"
+    },
+    {
+      "id": "3eea41ff3841b26a9377",
+      "published_at": "2026-10-20T11:40:00+09:00",
+      "security_code": "1326",
+      "company_name": "Ｅ－ワールド",
+      "title": "SPDRゴールド・シェアに関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261020553327.pdf"
+    },
+    {
+      "id": "a8ba4dc16cf854fdd860",
+      "published_at": "2026-10-20T11:35:00+09:00",
+      "security_code": "1349",
+      "company_name": "Ｅ－ＳＳＧＡ－ＳＩＮ",
+      "title": "アジア国債・公債ＥＴＦ（正式名称：ＡＢＦ汎アジア債券インデックス・ファンド）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261020553342.pdf"
+    },
+    {
+      "id": "353f6e83d72a4ca7d6f5",
+      "published_at": "2026-10-20T11:30:00+09:00",
+      "security_code": "2070",
+      "company_name": "Ｎ－三菱ＵＦＪ証ＨＤ",
+      "title": "上場ETN（発行者：三菱UFJ証券ホールディングス株式会社）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261020553288.pdf"
+    },
+    {
+      "id": "d66eed8407bbecc0eb8e",
+      "published_at": "2026-10-20T11:30:00+09:00",
+      "security_code": "5834",
+      "company_name": "Ｇ－ＳＢＩリーシング",
+      "title": "販売用航空機等（航空機用エンジン）譲渡のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261020553212.pdf"
+    },
+    {
+      "id": "a97065da6d2d7dbb1744",
+      "published_at": "2026-10-20T11:30:00+09:00",
+      "security_code": "6561",
+      "company_name": "Ｇ－ＨＡＮＡＴＯＵＲ",
+      "title": "月次業績速報 2026年9月",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261019552990.pdf"
+    },
+    {
+      "id": "ce7754a700818cd128b4",
+      "published_at": "2026-10-20T11:30:00+09:00",
+      "security_code": "8622",
+      "company_name": "水戸証",
+      "title": "2027年３月期第２四半期（中間期）決算速報値に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261019553037.pdf"
+    },
+    {
+      "id": "0d028126ec6d3263cc49",
+      "published_at": "2026-10-20T11:00:00+09:00",
+      "security_code": "2780",
+      "company_name": "コメ兵ＨＤ",
+      "title": "ブランド・ファッション事業の2027年３月期９月度月次に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261020553309.pdf"
+    },
+    {
+      "id": "277e5b43481e2de293bc",
+      "published_at": "2026-10-20T11:00:00+09:00",
+      "security_code": "3663",
+      "company_name": "セルシス",
+      "title": "2026年９月度月次事業進捗レポートのお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261016552535.pdf"
+    },
+    {
+      "id": "38f9f48989cd80893a5e",
+      "published_at": "2026-10-20T10:30:00+09:00",
+      "security_code": "7276",
+      "company_name": "小糸製",
+      "title": "連結子会社の解散及び清算に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261020553257.pdf"
+    },
+    {
+      "id": "281e3f80c684968c6ad5",
+      "published_at": "2026-10-20T10:00:00+09:00",
+      "security_code": "1329",
+      "company_name": "Ｅ－ブラックロック",
+      "title": "上場ETF（管理会社：ブラックロック・ジャパン）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261020553219.pdf"
+    },
+    {
+      "id": "beab2ba81912bfec3e12",
+      "published_at": "2026-10-20T10:00:00+09:00",
+      "security_code": "1671",
+      "company_name": "Ｅ－シンプレクス",
+      "title": "上場ＥＴＦ(管理会社：シンプレクス・アセット・マネジメント)に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261020553226.pdf"
+    },
+    {
+      "id": "b389dd4e5e2104791a53",
+      "published_at": "2026-10-20T09:30:00+09:00",
+      "security_code": "6230",
+      "company_name": "ＳＡＮＥＩ",
+      "title": "剰余金の配当（中間配当）に関するお知らせ",
+      "category": "その他",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261020553217.pdf"
+    },
+    {
+      "id": "83882a0d581db4b80764",
+      "published_at": "2026-10-20T08:45:00+09:00",
+      "security_code": "4112",
+      "company_name": "保土谷化",
+      "title": "（開示事項の経過）韓国連結子会社の株式上場承認に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261019553180.pdf"
+    },
+    {
+      "id": "72f71bffc9c1817df5d1",
+      "published_at": "2026-10-20T08:30:00+09:00",
+      "security_code": "1672",
+      "company_name": "Ｅ－ＷｉｓｄｏｍＴｒ",
+      "title": "上場ETF（管理会社：WisdomTree、外国投資法人：MSL）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261020552607.pdf"
+    },
+    {
+      "id": "865f95d8de31b7b2fe9f",
+      "published_at": "2026-10-20T08:30:00+09:00",
+      "security_code": "1672",
+      "company_name": "Ｅ－ＷｉｓｄｏｍＴｒ",
+      "title": "上場ETF（管理会社：WisdomTree、外国投資法人：CSL）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261020552608.pdf"
+    },
+    {
+      "id": "df116fec71a52dafb492",
+      "published_at": "2026-10-20T08:00:00+09:00",
+      "security_code": "4475",
+      "company_name": "ＨＥＮＮＧＥ",
+      "title": "東京証券取引所プライム市場への上場市場区分変更に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261015551109.pdf"
+    },
     {
       "id": "70c9cd77dfbc1b1a7f8b",
       "published_at": "2026-10-19T19:00:00+09:00",
