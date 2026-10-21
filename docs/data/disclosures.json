@@ -1,7 +1,37 @@
 {
   "sample": false,
-  "last_success_at": "2026-10-21T17:28:15+09:00",
+  "last_success_at": "2026-10-21T21:15:02+09:00",
   "disclosures": [
+    {
+      "id": "a7d511015f67e30bc838",
+      "published_at": "2026-10-21T18:30:00+09:00",
+      "security_code": "2646",
+      "company_name": "ＧＸメタルビジ日株",
+      "title": "ETFの収益分配金見込額の修正のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261021554199.pdf"
+    },
+    {
+      "id": "b7015dce6d732d0e0417",
+      "published_at": "2026-10-21T18:00:00+09:00",
+      "security_code": "2469",
+      "company_name": "ヒビノ",
+      "title": "主要株主の異動に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261020553787.pdf"
+    },
+    {
+      "id": "29057732878e01217fa4",
+      "published_at": "2026-10-21T17:30:00+09:00",
+      "security_code": "4829",
+      "company_name": "日本エンタープライズ",
+      "title": "株式会社ハニー・ビーの株式取得（子会社化）に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261021554197.pdf"
+    },
     {
       "id": "08cfa4eee55ef7f096b5",
       "published_at": "2026-10-21T17:20:00+09:00",
