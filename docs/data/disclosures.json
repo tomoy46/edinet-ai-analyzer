@@ -1,7 +1,27 @@
 {
   "sample": false,
-  "last_success_at": "2026-10-22T17:30:28+09:00",
+  "last_success_at": "2026-10-22T21:17:02+09:00",
   "disclosures": [
+    {
+      "id": "768526ecbb4d65f2b954",
+      "published_at": "2026-10-22T20:00:00+09:00",
+      "security_code": "9202",
+      "company_name": "ＡＮＡ",
+      "title": "一部報道について",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261022554845.pdf"
+    },
+    {
+      "id": "b9f169c2a3e53d9cd361",
+      "published_at": "2026-10-22T18:00:00+09:00",
+      "security_code": "5932",
+      "company_name": "三協立山",
+      "title": "株式報酬制度の導入に伴う信託設定及び自己株式の処分の中止に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261022554770.pdf"
+    },
     {
       "id": "459f164c09c4c3e7b2dc",
       "published_at": "2026-10-22T17:15:00+09:00",
