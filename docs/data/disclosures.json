@@ -1,7 +1,287 @@
 {
   "sample": false,
-  "last_success_at": "2026-10-23T22:44:02+09:00",
+  "last_success_at": "2026-10-26T13:31:39+09:00",
   "disclosures": [
+    {
+      "id": "d840796d29344b4aea98",
+      "published_at": "2026-10-26T13:00:00+09:00",
+      "security_code": "3803",
+      "company_name": "Ｇ－イメージ情",
+      "title": "特別利益(投資有価証券売却益)の計上に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261026555825.pdf"
+    },
+    {
+      "id": "4e825f764c24564c6174",
+      "published_at": "2026-10-26T13:00:00+09:00",
+      "security_code": "8190",
+      "company_name": "ヤマナカ",
+      "title": "2027年３月期第２四半期（中間期）決算短信〔日本基準〕(連結)",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261024555621.pdf"
+    },
+    {
+      "id": "ddb5c21af47612fea1d0",
+      "published_at": "2026-10-26T13:00:00+09:00",
+      "security_code": "9663",
+      "company_name": "ナガワ",
+      "title": "2027年3月期第２四半期（中間期）決算短信〔日本基準〕(非連結)",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261023555472.pdf"
+    },
+    {
+      "id": "0de12b7dbd2b2a00e0c7",
+      "published_at": "2026-10-26T13:00:00+09:00",
+      "security_code": "9663",
+      "company_name": "ナガワ",
+      "title": "2027年３月期配当予想の修正に関するお知らせ",
+      "category": "その他",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261026555743.pdf"
+    },
+    {
+      "id": "eddd89044e2cbf459810",
+      "published_at": "2026-10-26T13:00:00+09:00",
+      "security_code": "9904",
+      "company_name": "ベリテ",
+      "title": "財務上の特約が付された金銭消費貸借契約の締結に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261026555764.pdf"
+    },
+    {
+      "id": "6e4e35088e7ad4999f47",
+      "published_at": "2026-10-26T13:00:00+09:00",
+      "security_code": "9904",
+      "company_name": "ベリテ",
+      "title": "財務上の特約が付された金銭消費貸借契約の締結に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261026555805.pdf"
+    },
+    {
+      "id": "cfe8e9a04751add8cba2",
+      "published_at": "2026-10-26T12:30:00+09:00",
+      "security_code": "2134",
+      "company_name": "キタハマキャピタル",
+      "title": "連結子会社の持分の一部譲渡及び共同事業に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261026555705.pdf"
+    },
+    {
+      "id": "360d8874886a6d2bb793",
+      "published_at": "2026-10-26T12:30:00+09:00",
+      "security_code": "3440",
+      "company_name": "日創グループ",
+      "title": "剰余金の配当に関するお知らせ",
+      "category": "その他",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261026555894.pdf"
+    },
+    {
+      "id": "e520e63cd2ce782b7748",
+      "published_at": "2026-10-26T12:30:00+09:00",
+      "security_code": "4344",
+      "company_name": "ソースネクスト",
+      "title": "2026年12月期第３四半期連結業績速報値並びに営業外費用及び特別損失の計上に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261018552583.pdf"
+    },
+    {
+      "id": "f0acec9e76dc76f120ab",
+      "published_at": "2026-10-26T12:30:00+09:00",
+      "security_code": "6538",
+      "company_name": "ディスラプターズ",
+      "title": "自己株式の取得状況及び取得終了に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261023555535.pdf"
+    },
+    {
+      "id": "4c814fae8fbca6b580dd",
+      "published_at": "2026-10-26T12:00:00+09:00",
+      "security_code": "3930",
+      "company_name": "Ｇ－はてな",
+      "title": "事業計画及び成長可能性に関する説明資料",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261023555296.pdf"
+    },
+    {
+      "id": "b2e654ca9b109f39b940",
+      "published_at": "2026-10-26T12:00:00+09:00",
+      "security_code": "6230",
+      "company_name": "ＳＡＮＥＩ",
+      "title": "2027年３月期 第２四半期（中間期）決算短信〔日本基準〕(連結)",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261020553351.pdf"
+    },
+    {
+      "id": "a9d6e5481f6efd6901cf",
+      "published_at": "2026-10-26T12:00:00+09:00",
+      "security_code": "6230",
+      "company_name": "ＳＡＮＥＩ",
+      "title": "2027年３月期 第２四半期（中間期）連結業績予想と実績の差異及び通期連結業績予想の修正に関するお知らせ",
+      "category": "業績予想修正",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261020553436.pdf"
+    },
+    {
+      "id": "9f38e448741fc568980a",
+      "published_at": "2026-10-26T12:00:00+09:00",
+      "security_code": "6999",
+      "company_name": "ＫＯＡ",
+      "title": "2027年3月期 第2四半期決算説明会資料",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261022554595.pdf"
+    },
+    {
+      "id": "4fae6b1ed7a79e37e1cc",
+      "published_at": "2026-10-26T11:40:00+09:00",
+      "security_code": "1557",
+      "company_name": "Ｅ－ＳＳＧＡＴＣ",
+      "title": "State Street SPDR S&P500 ETFに関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261026555844.pdf"
+    },
+    {
+      "id": "5cf485fb6ab9d9406a49",
+      "published_at": "2026-10-26T11:35:00+09:00",
+      "security_code": "1326",
+      "company_name": "Ｅ－ワールド",
+      "title": "SPDRゴールド・シェアに関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261026555839.pdf"
+    },
+    {
+      "id": "692b336d165c98105080",
+      "published_at": "2026-10-26T11:30:00+09:00",
+      "security_code": "1349",
+      "company_name": "Ｅ－ＳＳＧＡ－ＳＩＮ",
+      "title": "アジア国債・公債ＥＴＦ（正式名称：ＡＢＦ汎アジア債券インデックス・ファンド）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261026555832.pdf"
+    },
+    {
+      "id": "f2ef03af6ce9672f3ee5",
+      "published_at": "2026-10-26T11:30:00+09:00",
+      "security_code": "2070",
+      "company_name": "Ｎ－三菱ＵＦＪ証ＨＤ",
+      "title": "上場ETN（発行者：三菱UFJ証券ホールディングス株式会社）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261026555767.pdf"
+    },
+    {
+      "id": "91d4fe2e7374dd796300",
+      "published_at": "2026-10-26T11:00:00+09:00",
+      "security_code": "2865",
+      "company_name": "ＧＸＮＤＸカバコ",
+      "title": "2026年9月期（2026年3月11日～2026年9月10日）決算短信",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261026555760.pdf"
+    },
+    {
+      "id": "ae637ed597364f98acd0",
+      "published_at": "2026-10-26T11:00:00+09:00",
+      "security_code": "2866",
+      "company_name": "ＧＸ優先証券",
+      "title": "2026年9月期（2026年3月11日～2026年9月10日）決算短信",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261026555750.pdf"
+    },
+    {
+      "id": "680328fdd0aa444dd098",
+      "published_at": "2026-10-26T10:00:00+09:00",
+      "security_code": "1329",
+      "company_name": "Ｅ－ブラックロック",
+      "title": "上場ETF（管理会社：ブラックロック・ジャパン）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261026555696.pdf"
+    },
+    {
+      "id": "c34b695eeba5e75bcc69",
+      "published_at": "2026-10-26T10:00:00+09:00",
+      "security_code": "1671",
+      "company_name": "Ｅ－シンプレクス",
+      "title": "上場ＥＴＦ(管理会社：シンプレクス・アセット・マネジメント)に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261026555700.pdf"
+    },
+    {
+      "id": "e83646beada70bb99752",
+      "published_at": "2026-10-26T09:30:00+09:00",
+      "security_code": "3905",
+      "company_name": "Ｇ－データセクション",
+      "title": "主要株主及び主要株主である筆頭株主の異動に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261026555703.pdf"
+    },
+    {
+      "id": "55c72c9bb9464d03b8c3",
+      "published_at": "2026-10-26T09:00:00+09:00",
+      "security_code": "2934",
+      "company_name": "Ｇ－Ｊフロンティア",
+      "title": "株主優待制度の拡充（電子マネー優待の追加）に関するお知らせ",
+      "category": "優待拡充",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261023555479.pdf"
+    },
+    {
+      "id": "d6d0c479c5ff0fa2040c",
+      "published_at": "2026-10-26T08:30:00+09:00",
+      "security_code": "1672",
+      "company_name": "Ｅ－ＷｉｓｄｏｍＴｒ",
+      "title": "上場ETF（管理会社：WisdomTree、外国投資法人：MSL）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261026555663.pdf"
+    },
+    {
+      "id": "01fa8b18d3ab254ee92a",
+      "published_at": "2026-10-26T08:30:00+09:00",
+      "security_code": "1672",
+      "company_name": "Ｅ－ＷｉｓｄｏｍＴｒ",
+      "title": "上場ETF（管理会社：WisdomTree、外国投資法人：CSL）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261026555664.pdf"
+    },
+    {
+      "id": "8d9cebdbae5e06159da5",
+      "published_at": "2026-10-26T08:30:00+09:00",
+      "security_code": "3463",
+      "company_name": "Ｒ－いちごホテル",
+      "title": "投資主総会決議のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261023555169.pdf"
+    },
+    {
+      "id": "76563fa7432dc6e7af21",
+      "published_at": "2026-10-26T08:30:00+09:00",
+      "security_code": "4559",
+      "company_name": "ゼリア新薬",
+      "title": "当社連結子会社によるHaupt Pharma Wulfling GmbHの持分取得（孫会社化）に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261023555526.pdf"
+    },
     {
       "id": "c820c961e82651375e81",
       "published_at": "2026-10-23T19:30:00+09:00",
