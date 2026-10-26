@@ -1,7 +1,77 @@
 {
   "sample": false,
-  "last_success_at": "2026-10-26T17:46:39+09:00",
+  "last_success_at": "2026-10-26T22:28:25+09:00",
   "disclosures": [
+    {
+      "id": "b5dddc268294cb175123",
+      "published_at": "2026-10-26T20:30:00+09:00",
+      "security_code": "1333",
+      "company_name": "Ｕｍｉｏｓ",
+      "title": "北米 大手水産加工会社High Liner Foods Incorporatedの株式取得（完全子会社化）に関する契約締結のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261026556143.pdf"
+    },
+    {
+      "id": "74e0e66d7424e323fa09",
+      "published_at": "2026-10-26T18:50:00+09:00",
+      "security_code": "1596",
+      "company_name": "ＮＺＡＭ Ｅｘ―Ｆ",
+      "title": "弊社ＥＴＦの基準価額と市場価格の重要な乖離についてのお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261026556389.pdf"
+    },
+    {
+      "id": "d0290c825d802e0aba51",
+      "published_at": "2026-10-26T18:30:00+09:00",
+      "security_code": "3189",
+      "company_name": "ＡＮＡＰ",
+      "title": "外部の専門家から構成される調査チームからの調査報告書公表について（1/3）",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261026556331.pdf"
+    },
+    {
+      "id": "c97fa6fb693fe9a3ef7e",
+      "published_at": "2026-10-26T18:30:00+09:00",
+      "security_code": "3189",
+      "company_name": "ＡＮＡＰ",
+      "title": "外部の専門家から構成される調査チームからの調査報告書公表について（2/3）",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261026556358.pdf"
+    },
+    {
+      "id": "9b619e51f5c00a14e074",
+      "published_at": "2026-10-26T18:30:00+09:00",
+      "security_code": "3189",
+      "company_name": "ＡＮＡＰ",
+      "title": "外部の専門家から構成される調査チームからの調査報告書公表について（3/3）",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261026556373.pdf"
+    },
+    {
+      "id": "9015f5cec990823c3d6e",
+      "published_at": "2026-10-26T18:30:00+09:00",
+      "security_code": "9235",
+      "company_name": "Ｇ－売れるネットＧ",
+      "title": "上場維持基準（純資産基準）への適合に向けた計画（改善期間入り）について",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261025555638.pdf"
+    },
+    {
+      "id": "85193d3447aa8340ae77",
+      "published_at": "2026-10-26T18:00:00+09:00",
+      "security_code": "7063",
+      "company_name": "Ｇ－Ｂｉｒｄｍａｎ",
+      "title": "その他の関係会社の異動に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261026556333.pdf"
+    },
     {
       "id": "d8066d1165f193c528ac",
       "published_at": "2026-10-26T17:40:00+09:00",
