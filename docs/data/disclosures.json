@@ -1,7 +1,277 @@
 {
   "sample": false,
-  "last_success_at": "2026-10-27T00:24:02+09:00",
+  "last_success_at": "2026-10-27T13:50:10+09:00",
   "disclosures": [
+    {
+      "id": "08c63016d4edf67ad927",
+      "published_at": "2026-10-27T12:30:00+09:00",
+      "security_code": "2068",
+      "company_name": "高ベータ３０ＥＴＮ",
+      "title": "「NEXT NOTES 高ベータ30（ネットリターン）ETN」一証券あたりの償還価額と市場価格の重要な乖離に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261027556747.pdf"
+    },
+    {
+      "id": "f082dff03aa0fda78351",
+      "published_at": "2026-10-27T12:30:00+09:00",
+      "security_code": "2371",
+      "company_name": "カカクコム",
+      "title": "「BCPE Blitz Cayman, L.P.による当社株券等に対する公開買付けの開始予定に関するお知らせ」の一部変更に関するお知らせ",
+      "category": "TOB",
+      "importance": 5,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261027556744.pdf"
+    },
+    {
+      "id": "f8eb37c640943a749c7b",
+      "published_at": "2026-10-27T12:00:00+09:00",
+      "security_code": "1812",
+      "company_name": "鹿島",
+      "title": "特定子会社の異動を伴う連結子会社株式の譲渡に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261026556375.pdf"
+    },
+    {
+      "id": "d88dd9e59ca868be8ea3",
+      "published_at": "2026-10-27T12:00:00+09:00",
+      "security_code": "2345",
+      "company_name": "ＨＯＤＬ１",
+      "title": "システム開発業務の受注に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261027556590.pdf"
+    },
+    {
+      "id": "6147877b11c35e03a449",
+      "published_at": "2026-10-27T12:00:00+09:00",
+      "security_code": "4099",
+      "company_name": "四国化成ＨＤ",
+      "title": "当社及び子会社の代表取締役並びに当社役員の異動に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261027556487.pdf"
+    },
+    {
+      "id": "bd1057877254de1ea9cf",
+      "published_at": "2026-10-27T12:00:00+09:00",
+      "security_code": "4936",
+      "company_name": "アクシージア",
+      "title": "2026年7月21日付開示「委任型執行役員制度の導入」の延期に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261027556522.pdf"
+    },
+    {
+      "id": "4e3a426a59a98b3a1b66",
+      "published_at": "2026-10-27T12:00:00+09:00",
+      "security_code": "8697",
+      "company_name": "ＪＰＸ",
+      "title": "2027年３月期 第２四半期（中間期）決算短信〔ＩＦＲＳ〕（連結）",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261026556190.pdf"
+    },
+    {
+      "id": "ce811d66099bf04e406f",
+      "published_at": "2026-10-27T12:00:00+09:00",
+      "security_code": "8697",
+      "company_name": "ＪＰＸ",
+      "title": "2026年度 第２四半期決算の概要",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261026556196.pdf"
+    },
+    {
+      "id": "89eb27141d56512a0d16",
+      "published_at": "2026-10-27T12:00:00+09:00",
+      "security_code": "8697",
+      "company_name": "ＪＰＸ",
+      "title": "自己株式の消却に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261026556227.pdf"
+    },
+    {
+      "id": "41804988325a29e72fc2",
+      "published_at": "2026-10-27T12:00:00+09:00",
+      "security_code": "8697",
+      "company_name": "ＪＰＸ",
+      "title": "株式分割及び株式分割に伴う定款の一部変更に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261026556229.pdf"
+    },
+    {
+      "id": "1c1e0bea0ed6ac28ecde",
+      "published_at": "2026-10-27T11:40:00+09:00",
+      "security_code": "1557",
+      "company_name": "Ｅ－ＳＳＧＡＴＣ",
+      "title": "State Street SPDR S&P500 ETFに関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261027556646.pdf"
+    },
+    {
+      "id": "fa2336d61360a7f4210f",
+      "published_at": "2026-10-27T11:35:00+09:00",
+      "security_code": "1326",
+      "company_name": "Ｅ－ワールド",
+      "title": "SPDRゴールド・シェアに関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261027556640.pdf"
+    },
+    {
+      "id": "b25306a12dbef1d5e2c6",
+      "published_at": "2026-10-27T11:30:00+09:00",
+      "security_code": "1349",
+      "company_name": "Ｅ－ＳＳＧＡ－ＳＩＮ",
+      "title": "アジア国債・公債ＥＴＦ（正式名称：ＡＢＦ汎アジア債券インデックス・ファンド）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261027556634.pdf"
+    },
+    {
+      "id": "9ee13dfaea1bbbecbad2",
+      "published_at": "2026-10-27T11:30:00+09:00",
+      "security_code": "2070",
+      "company_name": "Ｎ－三菱ＵＦＪ証ＨＤ",
+      "title": "上場ETN（発行者：三菱UFJ証券ホールディングス株式会社）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261027556573.pdf"
+    },
+    {
+      "id": "c9b5dd9f99d3e5c29ff1",
+      "published_at": "2026-10-27T11:30:00+09:00",
+      "security_code": "5076",
+      "company_name": "インフロニアＨＤ",
+      "title": "2029年満期ユーロ円建転換社債型新株予約権付社債（グリーンCB）の転換価額の調整に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261026555772.pdf"
+    },
+    {
+      "id": "0e9f45484092ae210604",
+      "published_at": "2026-10-27T11:00:00+09:00",
+      "security_code": "2816",
+      "company_name": "ダイショー",
+      "title": "業績予想の修正に関するお知らせ",
+      "category": "業績予想修正",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261026556084.pdf"
+    },
+    {
+      "id": "bf07892eeea240d28662",
+      "published_at": "2026-10-27T11:00:00+09:00",
+      "security_code": "4536",
+      "company_name": "参天薬",
+      "title": "主要株主の異動に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261027556513.pdf"
+    },
+    {
+      "id": "fc7c5cd6763cade9489f",
+      "published_at": "2026-10-27T10:40:00+09:00",
+      "security_code": "5869",
+      "company_name": "早稲田学習研究会",
+      "title": "自己株式立会外買付取引（ToSTNeT-3）による自己株式の取得結果及び取得終了並びに親会社以外の支配株主及び主要株主の異動に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261027556460.pdf"
+    },
+    {
+      "id": "81373b11d51aa05dc5ed",
+      "published_at": "2026-10-27T10:30:00+09:00",
+      "security_code": "7050",
+      "company_name": "Ｇ－フロンティアＩ",
+      "title": "株式の立会外分売終了に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261027556529.pdf"
+    },
+    {
+      "id": "92a2a77966a146f8dbbb",
+      "published_at": "2026-10-27T10:00:00+09:00",
+      "security_code": "1329",
+      "company_name": "Ｅ－ブラックロック",
+      "title": "上場ETF（管理会社：ブラックロック・ジャパン）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261027556500.pdf"
+    },
+    {
+      "id": "cee0f6ad1c61570f2163",
+      "published_at": "2026-10-27T10:00:00+09:00",
+      "security_code": "1671",
+      "company_name": "Ｅ－シンプレクス",
+      "title": "上場ＥＴＦ(管理会社：シンプレクス・アセット・マネジメント)に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261027556484.pdf"
+    },
+    {
+      "id": "458d28be828d6ac07adc",
+      "published_at": "2026-10-27T10:00:00+09:00",
+      "security_code": "4076",
+      "company_name": "Ｇ－シイエヌエス",
+      "title": "株式の立会外分売終了に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261026556298.pdf"
+    },
+    {
+      "id": "757d71693ce41d250318",
+      "published_at": "2026-10-27T09:00:00+09:00",
+      "security_code": "5026",
+      "company_name": "Ｇ－トリプルアイズ",
+      "title": "代表取締役及び取締役の異動に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261026555969.pdf"
+    },
+    {
+      "id": "a0fde14f774c84d7f301",
+      "published_at": "2026-10-27T08:45:00+09:00",
+      "security_code": "4004",
+      "company_name": "レゾナックＨＤ",
+      "title": "主要株主である筆頭株主の異動に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261026556090.pdf"
+    },
+    {
+      "id": "06c542acbb56a7843b7b",
+      "published_at": "2026-10-27T08:30:00+09:00",
+      "security_code": "1672",
+      "company_name": "Ｅ－ＷｉｓｄｏｍＴｒ",
+      "title": "上場ETF（管理会社：WisdomTree、外国投資法人：MSL）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261027556455.pdf"
+    },
+    {
+      "id": "6ce518b09287c2adaf2e",
+      "published_at": "2026-10-27T08:30:00+09:00",
+      "security_code": "1672",
+      "company_name": "Ｅ－ＷｉｓｄｏｍＴｒ",
+      "title": "上場ETF（管理会社：WisdomTree、外国投資法人：CSL）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261027556457.pdf"
+    },
+    {
+      "id": "f59e5ba8cbc613723516",
+      "published_at": "2026-10-27T08:30:00+09:00",
+      "security_code": "5020",
+      "company_name": "ＥＮＥＯＳ",
+      "title": "TPC Holdings, Inc.の買収完了に関するお知らせ",
+      "category": "M&A",
+      "importance": 5,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261026556237.pdf"
+    },
     {
       "id": "b5dddc268294cb175123",
       "published_at": "2026-10-26T20:30:00+09:00",
