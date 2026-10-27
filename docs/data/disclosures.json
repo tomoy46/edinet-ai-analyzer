@@ -1,7 +1,107 @@
 {
   "sample": false,
-  "last_success_at": "2026-10-27T17:52:15+09:00",
+  "last_success_at": "2026-10-27T21:36:11+09:00",
   "disclosures": [
+    {
+      "id": "59c0d16ca631f11e0ed6",
+      "published_at": "2026-10-27T19:00:00+09:00",
+      "security_code": "2325",
+      "company_name": "ＮＪＳ",
+      "title": "2030 中期経営計画策定のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261027556798.pdf"
+    },
+    {
+      "id": "a790fa05ecf73795a759",
+      "published_at": "2026-10-27T19:00:00+09:00",
+      "security_code": "6787",
+      "company_name": "メイコー",
+      "title": "ユニマイクロンジャパン株式会社の株式取得に関する基本合意書締結のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261027556471.pdf"
+    },
+    {
+      "id": "892d85f1866785e1b199",
+      "published_at": "2026-10-27T18:30:00+09:00",
+      "security_code": "2894",
+      "company_name": "石井食",
+      "title": "株主優待制度の拡充ならびに株主優待における対象条件変更に関するお知らせ",
+      "category": "優待拡充",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261023554985.pdf"
+    },
+    {
+      "id": "3305a263546e6b03ec40",
+      "published_at": "2026-10-27T18:20:00+09:00",
+      "security_code": "8966",
+      "company_name": "Ｒ－平和ＲＥ",
+      "title": "国内資産の取得及び譲渡に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261026555848.pdf"
+    },
+    {
+      "id": "e221210803ffae83bb41",
+      "published_at": "2026-10-27T18:20:00+09:00",
+      "security_code": "8966",
+      "company_name": "Ｒ－平和ＲＥ",
+      "title": "本日付公表の適時開示に関する補足説明資料",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261026555846.pdf"
+    },
+    {
+      "id": "ee24dabb0c3926e52dde",
+      "published_at": "2026-10-27T18:20:00+09:00",
+      "security_code": "8966",
+      "company_name": "Ｒ－平和ＲＥ",
+      "title": "2026年11月期（第50期）及び2027年5月期（第51期）の運用状況の予想の修正に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261026555854.pdf"
+    },
+    {
+      "id": "ca4360b449571ec3aa03",
+      "published_at": "2026-10-27T18:20:00+09:00",
+      "security_code": "8966",
+      "company_name": "Ｒ－平和ＲＥ",
+      "title": "金利スワップ契約の締結に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261026555843.pdf"
+    },
+    {
+      "id": "9fd3631708d201907283",
+      "published_at": "2026-10-27T18:20:00+09:00",
+      "security_code": "8966",
+      "company_name": "Ｒ－平和ＲＥ",
+      "title": "資産運用会社における役員の異動に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261026555842.pdf"
+    },
+    {
+      "id": "f9268a0caeafb3be99c4",
+      "published_at": "2026-10-27T18:20:00+09:00",
+      "security_code": "8966",
+      "company_name": "Ｒ－平和ＲＥ",
+      "title": "（訂正）「国内資産の取得に関するお知らせ（ＨＦ瑞江レジデンス、ＨＦ東瑞江レジデンス）」の一部訂正に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261026555840.pdf"
+    },
+    {
+      "id": "7497102fa4235d410be7",
+      "published_at": "2026-10-27T18:00:00+09:00",
+      "security_code": "4776",
+      "company_name": "ＣＹＢＯＺＵ",
+      "title": "当社に対する訴訟の終了（請求の放棄）に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261027556927.pdf"
+    },
     {
       "id": "c2feb4a81511634e79b6",
       "published_at": "2026-10-27T17:30:00+09:00",
