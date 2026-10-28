@@ -1,7 +1,57 @@
 {
   "sample": false,
-  "last_success_at": "2026-10-28T18:32:09+09:00",
+  "last_success_at": "2026-10-28T22:26:48+09:00",
   "disclosures": [
+    {
+      "id": "e5d25e248cc7ca9013d7",
+      "published_at": "2026-10-28T21:00:00+09:00",
+      "security_code": "2612",
+      "company_name": "かどや製油",
+      "title": "（変更）「株式会社ITG-Gホールディングスによる当社株式に対する公開買付けに関する賛同の意見表明及び応募推奨のお知らせ」の一部変更に関するお知らせ",
+      "category": "TOB",
+      "importance": 5,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261028558671.pdf"
+    },
+    {
+      "id": "98eabed84d844fa17d95",
+      "published_at": "2026-10-28T19:35:00+09:00",
+      "security_code": "8025",
+      "company_name": "ツカモト",
+      "title": "固定資産の譲渡及び特別利益の計上に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261028558527.pdf"
+    },
+    {
+      "id": "ccad02e000a6194bee7a",
+      "published_at": "2026-10-28T19:00:00+09:00",
+      "security_code": "2901",
+      "company_name": "ウェルディッシュ",
+      "title": "（開示事項の経過）新株予約権（第５回）の強制行使に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261028558632.pdf"
+    },
+    {
+      "id": "bae1063ff8a6f4310037",
+      "published_at": "2026-10-28T19:00:00+09:00",
+      "security_code": "4523",
+      "company_name": "エーザイ",
+      "title": "抗アミロイドβ抗体「レケンビ」の売上収益（速報）について",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261028558217.pdf"
+    },
+    {
+      "id": "a79d17ddfe4ecdf110a7",
+      "published_at": "2026-10-28T18:40:00+09:00",
+      "security_code": "2371",
+      "company_name": "カカクコム",
+      "title": "Kamgras １株式会社による株式会社カカクコム（証券コード：2371）の株券等に対する公開買付けの買付条件等の変更に関するお知らせ",
+      "category": "TOB",
+      "importance": 5,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261028558577.pdf"
+    },
     {
       "id": "7f7db9a1b4f3858cf64d",
       "published_at": "2026-10-28T18:30:00+09:00",
