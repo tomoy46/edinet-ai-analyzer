@@ -1,7 +1,77 @@
 {
   "sample": false,
-  "last_success_at": "2026-10-29T18:47:49+09:00",
+  "last_success_at": "2026-10-29T22:36:32+09:00",
   "disclosures": [
+    {
+      "id": "816e00c31f36b3a6b08c",
+      "published_at": "2026-10-29T19:30:00+09:00",
+      "security_code": "2612",
+      "company_name": "かどや製油",
+      "title": "（変更）「株式会社ITG-Gホールディングスによる当社株式に対する公開買付けに関する賛同の意見表明及び応募推奨のお知らせ」の一部変更に関するお知らせ",
+      "category": "TOB",
+      "importance": 5,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261029560108.pdf"
+    },
+    {
+      "id": "146cb65444e1d8c0cd42",
+      "published_at": "2026-10-29T19:30:00+09:00",
+      "security_code": "2612",
+      "company_name": "かどや製油",
+      "title": "（株）ITG-Gホールディングスによる公開買付届出書の訂正に伴う「かどや製油（株）の普通株式に対する公開買付けの開始に関するお知らせ」の変更について",
+      "category": "TOB",
+      "importance": 5,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261029559761.pdf"
+    },
+    {
+      "id": "4c8b3fd963633654a0d3",
+      "published_at": "2026-10-29T19:00:00+09:00",
+      "security_code": "3691",
+      "company_name": "Ｇ－デジタルプラス",
+      "title": "2026年９月期 連結業績予想の開示に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261029560032.pdf"
+    },
+    {
+      "id": "2f9b0a309107e491a81f",
+      "published_at": "2026-10-29T19:00:00+09:00",
+      "security_code": "3691",
+      "company_name": "Ｇ－デジタルプラス",
+      "title": "2027年９月期 連結業績予想及び株主優待制度の拡充に関するお知らせ",
+      "category": "優待拡充",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261029559944.pdf"
+    },
+    {
+      "id": "ef34c1a0884ef0e3f72d",
+      "published_at": "2026-10-29T19:00:00+09:00",
+      "security_code": "3691",
+      "company_name": "Ｇ－デジタルプラス",
+      "title": "2027年９月期通期業績予想および株主還元 補足説明資料",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261029560175.pdf"
+    },
+    {
+      "id": "ccf1c06b60a0130609b2",
+      "published_at": "2026-10-29T19:00:00+09:00",
+      "security_code": "3691",
+      "company_name": "Ｇ－デジタルプラス",
+      "title": "2026年９月期第4四半期流通速報及び事業進捗 補足説明資料",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261029560173.pdf"
+    },
+    {
+      "id": "3cfb9226360ce33d26cd",
+      "published_at": "2026-10-29T19:00:00+09:00",
+      "security_code": "7063",
+      "company_name": "Ｇ－Ｂｉｒｄｍａｎ",
+      "title": "資金の借入及び担保提供に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261029560132.pdf"
+    },
     {
       "id": "1e09d175e1ccd507e0e2",
       "published_at": "2026-10-29T18:00:00+09:00",
