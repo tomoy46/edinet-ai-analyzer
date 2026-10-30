@@ -1,7 +1,57 @@
 {
   "sample": false,
-  "last_success_at": "2026-10-30T18:53:31+09:00",
+  "last_success_at": "2026-10-30T22:25:12+09:00",
   "disclosures": [
+    {
+      "id": "4114d103638101f20e2d",
+      "published_at": "2026-10-30T20:00:00+09:00",
+      "security_code": "9658",
+      "company_name": "ビジ太田昭和",
+      "title": "持分法適用会社（グローバルセキュリティエキスパート株式会社）に対する公開買付に係る契約締結に関するお知らせ",
+      "category": "TOB",
+      "importance": 5,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261030561903.pdf"
+    },
+    {
+      "id": "03694a847c08c4d805ee",
+      "published_at": "2026-10-30T19:00:00+09:00",
+      "security_code": "7551",
+      "company_name": "ウェッズ",
+      "title": "2027年３月期 第２四半期（中間期）決算短信〔日本基準〕（連結）",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261028558064.pdf"
+    },
+    {
+      "id": "29329bc94ff49682179a",
+      "published_at": "2026-10-30T19:00:00+09:00",
+      "security_code": "7551",
+      "company_name": "ウェッズ",
+      "title": "第２四半期（中間期）連結業績予想と実績値との差異に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261028558104.pdf"
+    },
+    {
+      "id": "06fd13f4fefafd641171",
+      "published_at": "2026-10-30T19:00:00+09:00",
+      "security_code": "8020",
+      "company_name": "兼松",
+      "title": "公開買付けに伴う株式売却に係る「持分法による投資利益」の計上（見込み）および業績への影響に関するお知らせ",
+      "category": "TOB",
+      "importance": 5,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261030560876.pdf"
+    },
+    {
+      "id": "140b5a864fb88741fc3e",
+      "published_at": "2026-10-30T18:55:00+09:00",
+      "security_code": "4461",
+      "company_name": "第一工業",
+      "title": "主要株主および主要株主である筆頭株主の異動に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261030561715.pdf"
+    },
     {
       "id": "ef93519716f05beaa21b",
       "published_at": "2026-10-30T18:45:00+09:00",
