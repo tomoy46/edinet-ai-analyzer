@@ -1,7 +1,897 @@
 {
   "sample": false,
-  "last_success_at": "2026-10-31T00:14:25+09:00",
+  "last_success_at": "2026-11-02T14:49:23+09:00",
   "disclosures": [
+    {
+      "id": "a729235c2248077d3fca",
+      "published_at": "2026-11-02T14:40:00+09:00",
+      "security_code": "5979",
+      "company_name": "カネソウ",
+      "title": "2027年３月期第２四半期（中間期）決算短信〔日本基準〕(非連結)",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261029559910.pdf"
+    },
+    {
+      "id": "6c62163aee6b727fa219",
+      "published_at": "2026-11-02T14:30:00+09:00",
+      "security_code": "2489",
+      "company_name": "ＡＤＷＡＹＳ",
+      "title": "特別損失（減損損失）の計上並びに業績予想及び配当予想の修正に関するお知らせ",
+      "category": "その他",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261102562646.pdf"
+    },
+    {
+      "id": "4b2ff79a7e3732409c1f",
+      "published_at": "2026-11-02T14:30:00+09:00",
+      "security_code": "2489",
+      "company_name": "ＡＤＷＡＹＳ",
+      "title": "2026年12月期 第3四半期決算短信〔日本基準〕（連結）",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261102562648.pdf"
+    },
+    {
+      "id": "45cbe4a9e1357fd4e4b5",
+      "published_at": "2026-11-02T14:30:00+09:00",
+      "security_code": "2489",
+      "company_name": "ＡＤＷＡＹＳ",
+      "title": "2026年12月期 第3四半期決算説明会資料",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261102562653.pdf"
+    },
+    {
+      "id": "72f1994af4bd759c64d0",
+      "published_at": "2026-11-02T14:30:00+09:00",
+      "security_code": "3419",
+      "company_name": "アートグリーン",
+      "title": "取締役の辞任に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261102562778.pdf"
+    },
+    {
+      "id": "6e851179a3e359ab4067",
+      "published_at": "2026-11-02T14:30:00+09:00",
+      "security_code": "4222",
+      "company_name": "児玉化",
+      "title": "自己株式の取得状況に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261102562491.pdf"
+    },
+    {
+      "id": "57689727313dd3efce67",
+      "published_at": "2026-11-02T14:30:00+09:00",
+      "security_code": "6432",
+      "company_name": "竹内製作所",
+      "title": "自己株式の取得状況に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261102562399.pdf"
+    },
+    {
+      "id": "9f61494fa7fbcb622210",
+      "published_at": "2026-11-02T14:30:00+09:00",
+      "security_code": "8617",
+      "company_name": "光世証",
+      "title": "自己株式の取得状況に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261102562823.pdf"
+    },
+    {
+      "id": "768ea21f297c4b3da396",
+      "published_at": "2026-11-02T14:20:00+09:00",
+      "security_code": "7723",
+      "company_name": "愛知時",
+      "title": "2027年３月期 第２四半期（中間期）決算短信〔日本基準〕（連結）",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261030560739.pdf"
+    },
+    {
+      "id": "891ba704252e82ce9599",
+      "published_at": "2026-11-02T14:20:00+09:00",
+      "security_code": "7723",
+      "company_name": "愛知時",
+      "title": "2027年３月期 第２四半期（中間期）決算説明資料",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261030560986.pdf"
+    },
+    {
+      "id": "70f1a768b88b47aa9c5d",
+      "published_at": "2026-11-02T14:00:00+09:00",
+      "security_code": "1870",
+      "company_name": "矢作建",
+      "title": "2027年３月期第２四半期（中間期）連結業績予想の修正に関するお知らせ",
+      "category": "業績予想修正",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261030561692.pdf"
+    },
+    {
+      "id": "efeda35cb18d5506c4b1",
+      "published_at": "2026-11-02T14:00:00+09:00",
+      "security_code": "2220",
+      "company_name": "亀田菓",
+      "title": "通期業績予想の修正に関するお知らせ",
+      "category": "業績予想修正",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261102562572.pdf"
+    },
+    {
+      "id": "d0e6807e6850f4739fbb",
+      "published_at": "2026-11-02T14:00:00+09:00",
+      "security_code": "2220",
+      "company_name": "亀田菓",
+      "title": "2027年３月期 第２四半期（中間期）決算短信〔日本基準〕（連結）",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261102562566.pdf"
+    },
+    {
+      "id": "54d3556bde9bccf5682d",
+      "published_at": "2026-11-02T14:00:00+09:00",
+      "security_code": "3557",
+      "company_name": "Ｇ－Ｕ＆Ｃ",
+      "title": "2026年10月度 月次報告",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261102562744.pdf"
+    },
+    {
+      "id": "9978fdfdfa81fdb4797d",
+      "published_at": "2026-11-02T14:00:00+09:00",
+      "security_code": "4220",
+      "company_name": "リケンテクノス",
+      "title": "自己株式の取得状況に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261030561240.pdf"
+    },
+    {
+      "id": "c1c71fafc45fd35db7d5",
+      "published_at": "2026-11-02T14:00:00+09:00",
+      "security_code": "4534",
+      "company_name": "持田薬",
+      "title": "自己株式の取得状況に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261102562204.pdf"
+    },
+    {
+      "id": "d52bb5262832d26b4f13",
+      "published_at": "2026-11-02T14:00:00+09:00",
+      "security_code": "4635",
+      "company_name": "東インキ",
+      "title": "自己株式の取得状況に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261030561372.pdf"
+    },
+    {
+      "id": "b041c885304076b1a13f",
+      "published_at": "2026-11-02T14:00:00+09:00",
+      "security_code": "4840",
+      "company_name": "トライアイズ",
+      "title": "係争中の相手方からの真偽不明の情報拡散への対応方針につきまして",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261102562387.pdf"
+    },
+    {
+      "id": "32971cd29a5bafb621ea",
+      "published_at": "2026-11-02T14:00:00+09:00",
+      "security_code": "5703",
+      "company_name": "日軽金ＨＤ",
+      "title": "2027年３月期 第２四半期（中間期）決算短信〔日本基準〕（連結）",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261102562297.pdf"
+    },
+    {
+      "id": "1c3381202f35cee42185",
+      "published_at": "2026-11-02T14:00:00+09:00",
+      "security_code": "5703",
+      "company_name": "日軽金ＨＤ",
+      "title": "2026年度中間期決算 通期業績予想",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261102562675.pdf"
+    },
+    {
+      "id": "7d0d53de0979d5301d59",
+      "published_at": "2026-11-02T14:00:00+09:00",
+      "security_code": "5703",
+      "company_name": "日軽金ＨＤ",
+      "title": "自己株式取得に係る事項の決定に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261102562336.pdf"
+    },
+    {
+      "id": "d6b8baa30b11350ae6ee",
+      "published_at": "2026-11-02T14:00:00+09:00",
+      "security_code": "5703",
+      "company_name": "日軽金ＨＤ",
+      "title": "持分法適用関連会社の異動（株式譲渡）に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261102562724.pdf"
+    },
+    {
+      "id": "85c2c633349ed737ad94",
+      "published_at": "2026-11-02T14:00:00+09:00",
+      "security_code": "7971",
+      "company_name": "東リ",
+      "title": "2027年３月期 第２四半期（中間期）決算短信〔日本基準〕（連結）",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261022554780.pdf"
+    },
+    {
+      "id": "c8e842f05ed353fa1361",
+      "published_at": "2026-11-02T14:00:00+09:00",
+      "security_code": "7971",
+      "company_name": "東リ",
+      "title": "2027年３月期 第２四半期（中間期） 決算補足説明資料",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261030561717.pdf"
+    },
+    {
+      "id": "a09002ff6994eef4dfb1",
+      "published_at": "2026-11-02T14:00:00+09:00",
+      "security_code": "7971",
+      "company_name": "東リ",
+      "title": "自己株式取得に係る事項の決定に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261102562303.pdf"
+    },
+    {
+      "id": "c4f4c38a788ba089a34b",
+      "published_at": "2026-11-02T14:00:00+09:00",
+      "security_code": "8511",
+      "company_name": "日証金",
+      "title": "貸借取引貸付金・貸付有価証券等の平均残高のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261102562688.pdf"
+    },
+    {
+      "id": "bd2547e1051daeaf8e8c",
+      "published_at": "2026-11-02T14:00:00+09:00",
+      "security_code": "9044",
+      "company_name": "ＮＡＮＫＡＩ",
+      "title": "2027年3月期 第2四半期（中間期）決算短信〔日本基準〕(連結)",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261016552520.pdf"
+    },
+    {
+      "id": "33d0ad9202db2b8760dc",
+      "published_at": "2026-11-02T14:00:00+09:00",
+      "security_code": "9044",
+      "company_name": "ＮＡＮＫＡＩ",
+      "title": "2026年度 第2四半期（中間期）決算補足説明資料",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261016552522.pdf"
+    },
+    {
+      "id": "11a61951758cd4351117",
+      "published_at": "2026-11-02T13:45:00+09:00",
+      "security_code": "7040",
+      "company_name": "サン・ライフＨＤ",
+      "title": "非上場の親会社等の決算に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261102562719.pdf"
+    },
+    {
+      "id": "f042e2cdf08e50167660",
+      "published_at": "2026-11-02T13:30:00+09:00",
+      "security_code": "2531",
+      "company_name": "宝ＨＬＤ",
+      "title": "（開示事項の経過）会社分割（簡易吸収分割）による 当社連結子会社（タカラバイオ株式会社）の事業承継に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261031561984.pdf"
+    },
+    {
+      "id": "943bf618a1d2f466d42a",
+      "published_at": "2026-11-02T13:30:00+09:00",
+      "security_code": "4005",
+      "company_name": "住友化",
+      "title": "2026年３月期第２四半期決算短信〔ＩＦＲＳ〕（連結）",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261030560852.pdf"
+    },
+    {
+      "id": "cafcf334f449d1de48ed",
+      "published_at": "2026-11-02T13:30:00+09:00",
+      "security_code": "4005",
+      "company_name": "住友化",
+      "title": "持分法による投資利益の計上に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261030561117.pdf"
+    },
+    {
+      "id": "59d5b8fb15f4f12a76d3",
+      "published_at": "2026-11-02T13:30:00+09:00",
+      "security_code": "4005",
+      "company_name": "住友化",
+      "title": "2027年３月期通期業績予想及び配当予想の修正に関するお知らせ",
+      "category": "その他",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261030561075.pdf"
+    },
+    {
+      "id": "099cc33b883de3b996b8",
+      "published_at": "2026-11-02T13:30:00+09:00",
+      "security_code": "6339",
+      "company_name": "新東工",
+      "title": "自己株式の取得状況に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261030561937.pdf"
+    },
+    {
+      "id": "2619b4859336f16bd82b",
+      "published_at": "2026-11-02T13:15:00+09:00",
+      "security_code": "2437",
+      "company_name": "シンワワイズ",
+      "title": "オークションの落札結果に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261102562446.pdf"
+    },
+    {
+      "id": "be207afa8b7a8c5a688b",
+      "published_at": "2026-11-02T13:05:00+09:00",
+      "security_code": "7686",
+      "company_name": "ひとまいる",
+      "title": "第３回新株予約権（行使価額修正条項付）の月間行使状況に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261102562651.pdf"
+    },
+    {
+      "id": "30e4a9be92cde5cb579d",
+      "published_at": "2026-11-02T13:00:00+09:00",
+      "security_code": "1951",
+      "company_name": "エクシオグループ",
+      "title": "自己株式の取得状況に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261102562405.pdf"
+    },
+    {
+      "id": "7c70f1ecf095d6a89509",
+      "published_at": "2026-11-02T13:00:00+09:00",
+      "security_code": "2003",
+      "company_name": "日東富士",
+      "title": "2027年3月期 第２四半期（中間期）決算短信〔日本基準〕（連結）",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261102562455.pdf"
+    },
+    {
+      "id": "96a7c964340f1dfe7694",
+      "published_at": "2026-11-02T13:00:00+09:00",
+      "security_code": "2815",
+      "company_name": "アリアケ",
+      "title": "自己株式の取得状況に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261102562608.pdf"
+    },
+    {
+      "id": "6a7176f19cef9296a832",
+      "published_at": "2026-11-02T13:00:00+09:00",
+      "security_code": "3083",
+      "company_name": "スターシーズ",
+      "title": "第三者割当により発行された第８回～第10回新株予約権（行使価額固定型）の月間行使状況に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261102562296.pdf"
+    },
+    {
+      "id": "b8aac3a7e010db745866",
+      "published_at": "2026-11-02T13:00:00+09:00",
+      "security_code": "5444",
+      "company_name": "大和工",
+      "title": "2027年３月期第２四半期（中間期）決算短信〔日本基準〕(連結)",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261030560482.pdf"
+    },
+    {
+      "id": "e52cbe5359e62b0f98e3",
+      "published_at": "2026-11-02T13:00:00+09:00",
+      "security_code": "5444",
+      "company_name": "大和工",
+      "title": "剰余金の配当（中間配当）及び期末配当予想の修正に関するお知らせ",
+      "category": "その他",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261030560521.pdf"
+    },
+    {
+      "id": "c280cd45663a950a37e6",
+      "published_at": "2026-11-02T13:00:00+09:00",
+      "security_code": "5444",
+      "company_name": "大和工",
+      "title": "2027年３月期第２四半期（中間期）の連結業績予想値と実績値との差異及び通期業績予想の修正に関するお知らせ",
+      "category": "業績予想修正",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261030560539.pdf"
+    },
+    {
+      "id": "17c771565e5c4ff26d89",
+      "published_at": "2026-11-02T13:00:00+09:00",
+      "security_code": "5444",
+      "company_name": "大和工",
+      "title": "営業外収益（持分法による投資利益）の計上に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261030560553.pdf"
+    },
+    {
+      "id": "39aff97109a571b577d9",
+      "published_at": "2026-11-02T13:00:00+09:00",
+      "security_code": "5589",
+      "company_name": "オートサーバー",
+      "title": "2026年12月期10月度 ASNET取引台数実績（速報値）",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261102562332.pdf"
+    },
+    {
+      "id": "f5962f9b749dc7fa0264",
+      "published_at": "2026-11-02T13:00:00+09:00",
+      "security_code": "7363",
+      "company_name": "Ｇ－ベビーカレンダー",
+      "title": "株式会社オレンジページの株式取得完了及び 連結決算への移行に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261028558023.pdf"
+    },
+    {
+      "id": "d64f2f0eec862f90114d",
+      "published_at": "2026-11-02T13:00:00+09:00",
+      "security_code": "8032",
+      "company_name": "紙パル商",
+      "title": "自己株式の取得状況に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261030561870.pdf"
+    },
+    {
+      "id": "45646e6eace19a115161",
+      "published_at": "2026-11-02T13:00:00+09:00",
+      "security_code": "8053",
+      "company_name": "住友商",
+      "title": "2027年3月期第2四半期決算短信〔IFRS〕（連結）",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261030561906.pdf"
+    },
+    {
+      "id": "2569e17c0b90b30ecc0a",
+      "published_at": "2026-11-02T13:00:00+09:00",
+      "security_code": "8053",
+      "company_name": "住友商",
+      "title": "2027年3月期 連結業績予想の修正 並びに 剰余金の配当（中間配当）及び 配当予想の修正（増配）に関するお知らせ",
+      "category": "増配",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261030561927.pdf"
+    },
+    {
+      "id": "25ab2760a9d0ed555e5a",
+      "published_at": "2026-11-02T13:00:00+09:00",
+      "security_code": "9303",
+      "company_name": "住友倉",
+      "title": "自己株式の取得状況に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261102562076.pdf"
+    },
+    {
+      "id": "f67c56667d386a1b5833",
+      "published_at": "2026-11-02T13:00:00+09:00",
+      "security_code": "9900",
+      "company_name": "サガミＨＤ",
+      "title": "業績予想の修正に関するお知らせ",
+      "category": "業績予想修正",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261029558887.pdf"
+    },
+    {
+      "id": "62c164cf488a7eb9231c",
+      "published_at": "2026-11-02T12:30:00+09:00",
+      "security_code": "6592",
+      "company_name": "マブチモーター",
+      "title": "2026年12月期第3四半期決算短信〔日本基準〕（連結）",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261026556154.pdf"
+    },
+    {
+      "id": "19d2130261bf8f4a7590",
+      "published_at": "2026-11-02T12:15:00+09:00",
+      "security_code": "6085",
+      "company_name": "Ｇ－アーキテクツＳＪ",
+      "title": "第三者割当により発行された第５回新株予約権（行使価額修正条項付）の月間行使状況に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261102562562.pdf"
+    },
+    {
+      "id": "55974920cbbfeee4956c",
+      "published_at": "2026-11-02T12:10:00+09:00",
+      "security_code": "1557",
+      "company_name": "Ｅ－ＳＳＧＡＴＣ",
+      "title": "State Street SPDR S&P500 ETFに関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261102562519.pdf"
+    },
+    {
+      "id": "1cc3c27ccff1abb74270",
+      "published_at": "2026-11-02T12:05:00+09:00",
+      "security_code": "1326",
+      "company_name": "Ｅ－ワールド",
+      "title": "SPDRゴールド・シェアに関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261102562497.pdf"
+    },
+    {
+      "id": "bbf8f80ca08bc764e372",
+      "published_at": "2026-11-02T12:00:00+09:00",
+      "security_code": "1349",
+      "company_name": "Ｅ－ＳＳＧＡ－ＳＩＮ",
+      "title": "アジア国債・公債ＥＴＦ（正式名称：ＡＢＦ汎アジア債券インデックス・ファンド）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261102562508.pdf"
+    },
+    {
+      "id": "2e3f532ef34d8ce6da81",
+      "published_at": "2026-11-02T12:00:00+09:00",
+      "security_code": "1979",
+      "company_name": "大気社",
+      "title": "自己株式の取得状況に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261102562266.pdf"
+    },
+    {
+      "id": "e25457446dfe210a389a",
+      "published_at": "2026-11-02T12:00:00+09:00",
+      "security_code": "3825",
+      "company_name": "ＲＥＭＩＸ",
+      "title": "自己株式の取得状況に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261028558631.pdf"
+    },
+    {
+      "id": "ccd2277a7e4beac68d88",
+      "published_at": "2026-11-02T12:00:00+09:00",
+      "security_code": "3825",
+      "company_name": "ＲＥＭＩＸ",
+      "title": "（訂正）「自己株式取得に係る事項の決定に関するお知らせ」の一部訂正について",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261030560913.pdf"
+    },
+    {
+      "id": "268a4be23982c9aeccfb",
+      "published_at": "2026-11-02T12:00:00+09:00",
+      "security_code": "4445",
+      "company_name": "Ｇ－リビンＴ",
+      "title": "自己株式の取得状況に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261102562552.pdf"
+    },
+    {
+      "id": "638237fa6e0816d877f7",
+      "published_at": "2026-11-02T12:00:00+09:00",
+      "security_code": "6059",
+      "company_name": "ウチヤマＨＤ",
+      "title": "2027年３月期対前年比較月次速報",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261102562377.pdf"
+    },
+    {
+      "id": "d86804725c2bca15b26f",
+      "published_at": "2026-11-02T12:00:00+09:00",
+      "security_code": "6059",
+      "company_name": "ウチヤマＨＤ",
+      "title": "第三者割当による第２回及び第３回新株予約権（行使価額修正型新株予約権への転換権付）の月間行使状況に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261102562380.pdf"
+    },
+    {
+      "id": "043a1d2684db777e8d2b",
+      "published_at": "2026-11-02T12:00:00+09:00",
+      "security_code": "9201",
+      "company_name": "ＪＡＬ",
+      "title": "2027年３月期 第２四半期（中間期）決算短信〔ＩＦＲＳ〕（連結）",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261102562314.pdf"
+    },
+    {
+      "id": "ea7d332f53043d658610",
+      "published_at": "2026-11-02T12:00:00+09:00",
+      "security_code": "9201",
+      "company_name": "ＪＡＬ",
+      "title": "剰余金の配当(中間配当)に関するお知らせ",
+      "category": "その他",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261102562334.pdf"
+    },
+    {
+      "id": "ae54c32b670a43568a9e",
+      "published_at": "2026-11-02T11:50:00+09:00",
+      "security_code": "9621",
+      "company_name": "建設技研",
+      "title": "自己株式の取得状況に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261102562040.pdf"
+    },
+    {
+      "id": "3163d1a8255927589245",
+      "published_at": "2026-11-02T11:30:00+09:00",
+      "security_code": "2070",
+      "company_name": "Ｎ－三菱ＵＦＪ証ＨＤ",
+      "title": "上場ETN（発行者：三菱UFJ証券ホールディングス株式会社）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261102562319.pdf"
+    },
+    {
+      "id": "e75224f666bd7318c097",
+      "published_at": "2026-11-02T11:30:00+09:00",
+      "security_code": "4709",
+      "company_name": "ＩＤホールディングス",
+      "title": "自己株式の取得状況および取得終了に関するお知らせ（会社法第165条第２項の規定による定款の定めに基づく自己株式の取得）",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261102562310.pdf"
+    },
+    {
+      "id": "12c22dc4f916b7b40384",
+      "published_at": "2026-11-02T11:30:00+09:00",
+      "security_code": "6495",
+      "company_name": "宮入バル",
+      "title": "第三者割当による行使価額修正条項付株式会社宮入バルブ製作所第３回新株予約権（停止要請条項付）の月間行使状況に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261102562333.pdf"
+    },
+    {
+      "id": "c693494dece8ed3e3f8e",
+      "published_at": "2026-11-02T11:30:00+09:00",
+      "security_code": "6517",
+      "company_name": "デンヨー",
+      "title": "自己株式の取得状況に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261013549219.pdf"
+    },
+    {
+      "id": "e6aff798ceae8e018ec3",
+      "published_at": "2026-11-02T11:00:00+09:00",
+      "security_code": "3151",
+      "company_name": "バイタルＫＳＫ",
+      "title": "自己株式の取得状況に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261102562307.pdf"
+    },
+    {
+      "id": "91d378e850439838dc40",
+      "published_at": "2026-11-02T11:00:00+09:00",
+      "security_code": "4193",
+      "company_name": "ファブリカＨＤ",
+      "title": "連結子会社における不正アクセスに関する調査完了のお知らせ（最終報）",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261102562358.pdf"
+    },
+    {
+      "id": "496b0a1bc65b17cd81ab",
+      "published_at": "2026-11-02T11:00:00+09:00",
+      "security_code": "5195",
+      "company_name": "バンドー化",
+      "title": "自己株式の取得状況に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261102562157.pdf"
+    },
+    {
+      "id": "3098e7cd15228d05c575",
+      "published_at": "2026-11-02T11:00:00+09:00",
+      "security_code": "5273",
+      "company_name": "三谷セキサン",
+      "title": "自己株式の取得状況に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261030561919.pdf"
+    },
+    {
+      "id": "f6ff4fcc36c0a5654942",
+      "published_at": "2026-11-02T11:00:00+09:00",
+      "security_code": "6272",
+      "company_name": "レオン自機",
+      "title": "自己株式の取得状況に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261102562168.pdf"
+    },
+    {
+      "id": "72f03aab10acdcb89f2a",
+      "published_at": "2026-11-02T11:00:00+09:00",
+      "security_code": "6929",
+      "company_name": "日セラミック",
+      "title": "自己株式の取得状況に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261102562195.pdf"
+    },
+    {
+      "id": "e93a7752c23b7709f122",
+      "published_at": "2026-11-02T11:00:00+09:00",
+      "security_code": "9882",
+      "company_name": "イエローハット",
+      "title": "自己株式立会外買付取引（ToSTNeT-3）による自己株式の取得結果に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261030561767.pdf"
+    },
+    {
+      "id": "756b30be428296fbae95",
+      "published_at": "2026-11-02T11:00:00+09:00",
+      "security_code": "9987",
+      "company_name": "スズケン",
+      "title": "自己株式の取得状況に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261028557776.pdf"
+    },
+    {
+      "id": "cfef08ed695ad8f1081e",
+      "published_at": "2026-11-02T10:30:00+09:00",
+      "security_code": "2411",
+      "company_name": "ゲンダイＡＧ",
+      "title": "自己株式の取得状況に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261102562138.pdf"
+    },
+    {
+      "id": "2a6ecf588d877f10c21a",
+      "published_at": "2026-11-02T10:15:00+09:00",
+      "security_code": "9331",
+      "company_name": "Ｇ－キャスター",
+      "title": "主要株主の異動に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261030561782.pdf"
+    },
+    {
+      "id": "1214d91936d8e587c1c4",
+      "published_at": "2026-11-02T10:10:00+09:00",
+      "security_code": "8473",
+      "company_name": "ＳＢＩ",
+      "title": "ユーロ円建転換社債型新株予約権付社債の転換価額の調整に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261102562224.pdf"
+    },
+    {
+      "id": "43b3d387662c463bc499",
+      "published_at": "2026-11-02T10:10:00+09:00",
+      "security_code": "8473",
+      "company_name": "ＳＢＩ",
+      "title": "2027年３月期 第２四半期（中間期）決算短信〔ＩＦＲＳ〕（連結）",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261030561832.pdf"
+    },
+    {
+      "id": "52714f834e2e726f2265",
+      "published_at": "2026-11-02T10:10:00+09:00",
+      "security_code": "8473",
+      "company_name": "ＳＢＩ",
+      "title": "剰余金の配当（中間配当）の決定及び期末配当予想の修正に関するお知らせ",
+      "category": "その他",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261102562069.pdf"
+    },
+    {
+      "id": "b48f86779a6bede21111",
+      "published_at": "2026-11-02T10:00:00+09:00",
+      "security_code": "1329",
+      "company_name": "Ｅ－ブラックロック",
+      "title": "上場ETF（管理会社：ブラックロック・ジャパン）に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261102562126.pdf"
+    },
+    {
+      "id": "ed99dd3e6eb5f62ab1de",
+      "published_at": "2026-11-02T10:00:00+09:00",
+      "security_code": "1671",
+      "company_name": "Ｅ－シンプレクス",
+      "title": "上場ＥＴＦ(管理会社：シンプレクス・アセット・マネジメント)に関する日々の開示事項",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261102562125.pdf"
+    },
+    {
+      "id": "7e6f02923712f0c497bf",
+      "published_at": "2026-11-02T10:00:00+09:00",
+      "security_code": "2053",
+      "company_name": "中部飼料",
+      "title": "自己株式立会外買付取引（ToSTNeT-3）による自己株式の取得結果及び取得終了に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261102562121.pdf"
+    },
+    {
+      "id": "11ffc08240cb93d22a1c",
+      "published_at": "2026-11-02T10:00:00+09:00",
+      "security_code": "3490",
+      "company_name": "アズ企画設計",
+      "title": "第三者割当による第７回新株予約権及び第８回新株予約権（行使価額修正条項選択権付）並びに第９回新株予約権（行使価額固定型）の月間行使状況に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261102562090.pdf"
+    },
+    {
+      "id": "6d681de7f6af886df094",
+      "published_at": "2026-11-02T10:00:00+09:00",
+      "security_code": "3580",
+      "company_name": "小松マテーレ",
+      "title": "自己株式の取得状況および取得終了に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261102562054.pdf"
+    },
+    {
+      "id": "e1b5f54a38d7ac67c86b",
+      "published_at": "2026-11-02T10:00:00+09:00",
+      "security_code": "3648",
+      "company_name": "ＡＧＳ",
+      "title": "自己株式立会外買付取引（ToSTNeT-3）による自己株式の取得結果及び取得終了に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261030561769.pdf"
+    },
+    {
+      "id": "c6b9e42f240b8bce7d3f",
+      "published_at": "2026-11-02T10:00:00+09:00",
+      "security_code": "3951",
+      "company_name": "朝日印刷",
+      "title": "自己株式の取得状況に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261102562139.pdf"
+    },
     {
       "id": "4114d103638101f20e2d",
       "published_at": "2026-10-30T20:00:00+09:00",
