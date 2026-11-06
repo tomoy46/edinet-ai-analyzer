@@ -1,7 +1,17 @@
 {
   "sample": false,
-  "last_success_at": "2026-11-06T19:42:52+09:00",
+  "last_success_at": "2026-11-06T23:31:58+09:00",
   "disclosures": [
+    {
+      "id": "5646a1a492058b0f26be",
+      "published_at": "2026-11-06T19:52:00+09:00",
+      "security_code": "4015",
+      "company_name": "Ｇ－ペイクラウドＨＤ",
+      "title": "（訂正）当社連結子会社が提供する「アララメッセージ」への不正アクセスによる情報流出およびサービス停止について（第３報）の一部訂正について",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261106568259.pdf"
+    },
     {
       "id": "8c621d57c7f5f564cf57",
       "published_at": "2026-11-06T19:30:00+09:00",
