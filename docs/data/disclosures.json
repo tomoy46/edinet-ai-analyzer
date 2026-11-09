@@ -1,7 +1,17 @@
 {
   "sample": false,
-  "last_success_at": "2026-11-09T20:19:07+09:00",
+  "last_success_at": "2026-11-10T01:46:33+09:00",
   "disclosures": [
+    {
+      "id": "8b4803d1b4c105de5b93",
+      "published_at": "2026-11-10T01:10:00+09:00",
+      "security_code": "7267",
+      "company_name": "ホンダ",
+      "title": "北米における新四輪車生産工場の建設および生産拠点への設備投資決定のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261109569771.pdf"
+    },
     {
       "id": "077172e29e8e315af0cd",
       "published_at": "2026-11-09T18:30:00+09:00",
