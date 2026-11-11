@@ -1,7 +1,77 @@
 {
   "sample": false,
-  "last_success_at": "2026-11-11T19:43:45+09:00",
+  "last_success_at": "2026-11-11T23:40:04+09:00",
   "disclosures": [
+    {
+      "id": "ca6b1bcdfaf784e73103",
+      "published_at": "2026-11-11T21:00:00+09:00",
+      "security_code": "2612",
+      "company_name": "かどや製油",
+      "title": "（株）ITG-Gホールディングスによる公開買付届出書の訂正に伴う「かどや製油（株）の普通株式に対する公開買付けの開始に関するお知らせ」の変更について",
+      "category": "TOB",
+      "importance": 5,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261111574588.pdf"
+    },
+    {
+      "id": "ef556cc7f81095d34950",
+      "published_at": "2026-11-11T21:00:00+09:00",
+      "security_code": "2612",
+      "company_name": "かどや製油",
+      "title": "（変更）「株式会社ITG-Gホールディングスによる当社株式に対する公開買付けに関する賛同の意見表明及び応募推奨のお知らせ」の一部変更に関するお知らせ",
+      "category": "TOB",
+      "importance": 5,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261111573558.pdf"
+    },
+    {
+      "id": "897fc6616155a9002dc2",
+      "published_at": "2026-11-11T20:00:00+09:00",
+      "security_code": "3920",
+      "company_name": "アイビーシー",
+      "title": "OPI・ITホールディングス株式会社による当社株式に対する公開買付けに関する賛同の意見表明及び応募推奨のお知らせ",
+      "category": "TOB",
+      "importance": 5,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261111573919.pdf"
+    },
+    {
+      "id": "a0e28c8e79f80bd25325",
+      "published_at": "2026-11-11T20:00:00+09:00",
+      "security_code": "3920",
+      "company_name": "アイビーシー",
+      "title": "2026年9月期 剰余金の配当（無配）に関するお知らせ",
+      "category": "減配",
+      "importance": 5,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261111573841.pdf"
+    },
+    {
+      "id": "0535e76bb60a25d91a4c",
+      "published_at": "2026-11-11T20:00:00+09:00",
+      "security_code": "3920",
+      "company_name": "アイビーシー",
+      "title": "2026年9月期決算短信〔日本基準〕（非連結）",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261111573818.pdf"
+    },
+    {
+      "id": "e79342685c653ce0e290",
+      "published_at": "2026-11-11T20:00:00+09:00",
+      "security_code": "3920",
+      "company_name": "アイビーシー",
+      "title": "2026年9月期通期決算説明資料",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261111573846.pdf"
+    },
+    {
+      "id": "b6169dbcefe8d7249bda",
+      "published_at": "2026-11-11T20:00:00+09:00",
+      "security_code": "8591",
+      "company_name": "オリックス",
+      "title": "オリックス株式会社の子会社（OPI・ITホールディングス株式会社）によるアイビーシー株式会社（証券コード：3920）に対する公開買付けの開始について",
+      "category": "TOB",
+      "importance": 5,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261110571635.pdf"
+    },
     {
       "id": "e4e1e5114c6734544d57",
       "published_at": "2026-11-11T18:59:00+09:00",
