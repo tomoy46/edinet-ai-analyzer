@@ -1,7 +1,167 @@
 {
   "sample": false,
-  "last_success_at": "2026-11-13T19:49:53+09:00",
+  "last_success_at": "2026-11-13T23:50:41+09:00",
   "disclosures": [
+    {
+      "id": "f4fb21e121c6e7c8136a",
+      "published_at": "2026-11-13T21:00:00+09:00",
+      "security_code": "3719",
+      "company_name": "ＡＩストーム",
+      "title": "過年度有価証券報告書等の訂正報告書の提出及び過年度決算短信等の訂正に関するお知らせ",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261112577422.pdf"
+    },
+    {
+      "id": "cba1ff22fcbd00b06105",
+      "published_at": "2026-11-13T21:00:00+09:00",
+      "security_code": "3719",
+      "company_name": "ＡＩストーム",
+      "title": "（数値データ訂正）令和８年12月期 第１四半期決算短信〔日本基準〕（非連結）",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261112577374.pdf"
+    },
+    {
+      "id": "18574726daa73f24f352",
+      "published_at": "2026-11-13T21:00:00+09:00",
+      "security_code": "3719",
+      "company_name": "ＡＩストーム",
+      "title": "令和８年12月期第２四半期決算短信〔日本基準〕（連結）",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261112577383.pdf"
+    },
+    {
+      "id": "15b82492d183f8cce3b3",
+      "published_at": "2026-11-13T21:00:00+09:00",
+      "security_code": "3719",
+      "company_name": "ＡＩストーム",
+      "title": "令和８年12月期第３四半期決算短信〔日本基準〕（連結）",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261112577411.pdf"
+    },
+    {
+      "id": "8bbffb4a4c01cf3be717",
+      "published_at": "2026-11-13T21:00:00+09:00",
+      "security_code": "3719",
+      "company_name": "ＡＩストーム",
+      "title": "過年度修正に伴う分配可能額超過に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261112577433.pdf"
+    },
+    {
+      "id": "6d505aad982d748fce47",
+      "published_at": "2026-11-13T21:00:00+09:00",
+      "security_code": "3719",
+      "company_name": "ＡＩストーム",
+      "title": "通期における連結業績業績予想及び配当予想の修正（無配）に関するお知らせ",
+      "category": "減配",
+      "importance": 5,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261112577234.pdf"
+    },
+    {
+      "id": "2dbac40a4a289b25dcff",
+      "published_at": "2026-11-13T20:46:00+09:00",
+      "security_code": "6191",
+      "company_name": "エアトリ",
+      "title": "（変更・追加）2026年9月期第4四半期決算説明資料の一部変更・追加について",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261113580336.pdf"
+    },
+    {
+      "id": "8b24e5fe1372e5a32bdd",
+      "published_at": "2026-11-13T20:35:00+09:00",
+      "security_code": "4260",
+      "company_name": "Ｇ－ハイブリッドテク",
+      "title": "2026年９月期 決算短信〔ＩＦＲＳ〕（連結）",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261113580375.pdf"
+    },
+    {
+      "id": "71c1d0013a034abb036d",
+      "published_at": "2026-11-13T20:35:00+09:00",
+      "security_code": "4260",
+      "company_name": "Ｇ－ハイブリッドテク",
+      "title": "2026年９月期決算説明資料",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261113580377.pdf"
+    },
+    {
+      "id": "3b14ac681da2767bb5cc",
+      "published_at": "2026-11-13T20:35:00+09:00",
+      "security_code": "4260",
+      "company_name": "Ｇ－ハイブリッドテク",
+      "title": "株式会社ハイブリッドテクノロジーズ_中期経営計画(FY2027-FY2029)",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261113580378.pdf"
+    },
+    {
+      "id": "2b597e939ca4d0ab237d",
+      "published_at": "2026-11-13T20:35:00+09:00",
+      "security_code": "4260",
+      "company_name": "Ｇ－ハイブリッドテク",
+      "title": "減損損失の計上、及び2026年９月期業績予想値と実績値との差異に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261113580379.pdf"
+    },
+    {
+      "id": "de59a3de27e5f217d252",
+      "published_at": "2026-11-13T20:00:00+09:00",
+      "security_code": "7522",
+      "company_name": "ワタミ",
+      "title": "配当予想の修正（無配）及び株主優待制度の廃止に関するお知らせ",
+      "category": "優待廃止",
+      "importance": 5,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261113580317.pdf"
+    },
+    {
+      "id": "e11d07ae8146477db052",
+      "published_at": "2026-11-13T20:00:00+09:00",
+      "security_code": "7522",
+      "company_name": "ワタミ",
+      "title": "株式会社Wisdomによるワタミ株式会社（証券コード：7522）の株式に対する公開買付けの開始に関するお知らせ",
+      "category": "TOB",
+      "importance": 5,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261113580325.pdf"
+    },
+    {
+      "id": "f576ff2f618aecdbf135",
+      "published_at": "2026-11-13T20:00:00+09:00",
+      "security_code": "7522",
+      "company_name": "ワタミ",
+      "title": "Ａ種優先株式の全部取得及び消却に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261113580331.pdf"
+    },
+    {
+      "id": "1b1653a8487ff2fca8a3",
+      "published_at": "2026-11-13T20:00:00+09:00",
+      "security_code": "7522",
+      "company_name": "ワタミ",
+      "title": "ＭＢＯの実施及び応募の推奨に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261113580345.pdf"
+    },
+    {
+      "id": "26d5f7be6549c804affb",
+      "published_at": "2026-11-13T20:00:00+09:00",
+      "security_code": "7522",
+      "company_name": "ワタミ",
+      "title": "2027年３月期 第２四半期決算短信〔日本基準〕（連結）",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261113580290.pdf"
+    },
     {
       "id": "f090db8fd1bb216e3269",
       "published_at": "2026-11-13T19:05:00+09:00",
