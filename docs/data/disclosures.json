@@ -1,7 +1,367 @@
 {
   "sample": false,
-  "last_success_at": "2026-11-19T16:10:12+09:00",
+  "last_success_at": "2026-11-19T20:28:06+09:00",
   "disclosures": [
+    {
+      "id": "54a1cc3035718f978d6b",
+      "published_at": "2026-11-19T19:00:00+09:00",
+      "security_code": "5186",
+      "company_name": "ニッタ",
+      "title": "Gates社との合弁事業解消によるゲイツ・ユニッタ・アジア株式会社の完全子会社化と持分法適用関連会社の異動および特別利益の計上見込みに関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261118582765.pdf"
+    },
+    {
+      "id": "f6443c895cc5613f5271",
+      "published_at": "2026-11-19T18:30:00+09:00",
+      "security_code": "6706",
+      "company_name": "電気興",
+      "title": "中間配当（無配）および期末配当予想の修正（未定）に関する補足のお知らせ",
+      "category": "減配",
+      "importance": 5,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261119583682.pdf"
+    },
+    {
+      "id": "06f8139b5a730240cd72",
+      "published_at": "2026-11-19T18:30:00+09:00",
+      "security_code": "9936",
+      "company_name": "王将フード",
+      "title": "2027年3月期第2四半期 決算説明会",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261119583732.pdf"
+    },
+    {
+      "id": "df9c023bcbfda8c45867",
+      "published_at": "2026-11-19T18:00:00+09:00",
+      "security_code": "4591",
+      "company_name": "Ｇ－リボミック",
+      "title": "2027年3月期第2四半期（中間期）決算説明会資料",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261118582855.pdf"
+    },
+    {
+      "id": "305f2bfa6ce3bbc541f2",
+      "published_at": "2026-11-19T18:00:00+09:00",
+      "security_code": "8127",
+      "company_name": "ヤマトインター",
+      "title": "（訂正）「2026年8月期 決算短信〔日本基準〕（連結）」の一部訂正について",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261119583646.pdf"
+    },
+    {
+      "id": "f2422a2f3fd343c400bc",
+      "published_at": "2026-11-19T17:45:00+09:00",
+      "security_code": "4260",
+      "company_name": "Ｇ－ハイブリッドテク",
+      "title": "会計監査人の異動に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261119583703.pdf"
+    },
+    {
+      "id": "b885a13d00220f7db837",
+      "published_at": "2026-11-19T17:45:00+09:00",
+      "security_code": "7590",
+      "company_name": "タカショー",
+      "title": "財務上の特約が付された既存コミットメントライン契約に基づく借入の実施について",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261119583693.pdf"
+    },
+    {
+      "id": "1c8da7f4809e8c23e1bd",
+      "published_at": "2026-11-19T17:30:00+09:00",
+      "security_code": "7603",
+      "company_name": "ジーイエット",
+      "title": "第三者割当による第13回新株予約権、第14回新株予約権（行使価額修正条項付）及び第３回無担保普通社債の発行並びに新株予約権の買取契約の締結に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261119583617.pdf"
+    },
+    {
+      "id": "30c20c2af1363a3bfd5a",
+      "published_at": "2026-11-19T17:30:00+09:00",
+      "security_code": "8977",
+      "company_name": "Ｒ－阪急阪神",
+      "title": "国内不動産信託受益権の取得及び譲渡に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261119583393.pdf"
+    },
+    {
+      "id": "622a4b8fb695ec3071c9",
+      "published_at": "2026-11-19T17:30:00+09:00",
+      "security_code": "8977",
+      "company_name": "Ｒ－阪急阪神",
+      "title": "2027年5月期の運用状況及び分配金の予想の修正に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261119583503.pdf"
+    },
+    {
+      "id": "1260deddb5723678d21c",
+      "published_at": "2026-11-19T17:30:00+09:00",
+      "security_code": "8977",
+      "company_name": "Ｒ－阪急阪神",
+      "title": "資産入替及びプレスリリースに関する補足説明資料",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261119583399.pdf"
+    },
+    {
+      "id": "4b1e1be631ea3f2573cc",
+      "published_at": "2026-11-19T17:30:00+09:00",
+      "security_code": "8977",
+      "company_name": "Ｒ－阪急阪神",
+      "title": "資金の借入に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261119583401.pdf"
+    },
+    {
+      "id": "40a190197ce5314e39a7",
+      "published_at": "2026-11-19T17:30:00+09:00",
+      "security_code": "8977",
+      "company_name": "Ｒ－阪急阪神",
+      "title": "プロパティマネジメント会社選定に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261119583488.pdf"
+    },
+    {
+      "id": "bd55dafbcf37434f4b4e",
+      "published_at": "2026-11-19T17:30:00+09:00",
+      "security_code": "8979",
+      "company_name": "Ｒ－スターツＰＲ",
+      "title": "資金の借入及び金利スワップ契約締結に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261119583684.pdf"
+    },
+    {
+      "id": "2d2eac1725cd6059a138",
+      "published_at": "2026-11-19T17:00:00+09:00",
+      "security_code": "2418",
+      "company_name": "ツカダグローバルＨＤ",
+      "title": "特定子会社の異動に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261119583158.pdf"
+    },
+    {
+      "id": "09c3d3caaf7674577942",
+      "published_at": "2026-11-19T17:00:00+09:00",
+      "security_code": "4575",
+      "company_name": "Ｇ－ＣＡＮＢＡＳ",
+      "title": "第22回新株予約権（行使価額修正条項付）の大量行使に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261119583673.pdf"
+    },
+    {
+      "id": "7b430e23c5ba0841d42f",
+      "published_at": "2026-11-19T17:00:00+09:00",
+      "security_code": "9347",
+      "company_name": "日本管財ＨＤ",
+      "title": "自己株式の取得及び自己株式立会外買付取引(ToSTNeT-3)による買付けに関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261119583302.pdf"
+    },
+    {
+      "id": "8ba5042d51a1e0101c8d",
+      "published_at": "2026-11-19T16:45:00+09:00",
+      "security_code": "7695",
+      "company_name": "Ｇ－リフォームテクノ",
+      "title": "自己株式の取得及び自己株式立会外買付取引（ToSTNeT-3）による自己株式の買付けに関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261119583476.pdf"
+    },
+    {
+      "id": "19bf3e6308d5224f04a7",
+      "published_at": "2026-11-19T16:30:00+09:00",
+      "security_code": "4012",
+      "company_name": "アクシス",
+      "title": "従業員向けインセンティブ・プランの導入に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261117581773.pdf"
+    },
+    {
+      "id": "e1634d27eb4eca145b61",
+      "published_at": "2026-11-19T16:30:00+09:00",
+      "security_code": "4012",
+      "company_name": "アクシス",
+      "title": "自己株式の取得及び自己株式立会外買付取引（ＴｏＳＴＮｅＴ－３）による自己株式の買付けに関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261117581776.pdf"
+    },
+    {
+      "id": "f3d16e4d73cb0a25bcee",
+      "published_at": "2026-11-19T16:30:00+09:00",
+      "security_code": "4019",
+      "company_name": "Ｇ－スタメン",
+      "title": "2026年12月期 第3四半期決算説明会動画および書き起こし公開のお知らせ",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261119583635.pdf"
+    },
+    {
+      "id": "e37144ad7db461306efb",
+      "published_at": "2026-11-19T16:30:00+09:00",
+      "security_code": "4307",
+      "company_name": "ＮＲＩ",
+      "title": "自己株式の取得及び自己株式立会外買付取引（ToSTNeT-3）による自己株式の買付け並びに自己株式の消却に係る事項の決定に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261119583106.pdf"
+    },
+    {
+      "id": "6ca8273c5de6498fbcb6",
+      "published_at": "2026-11-19T16:30:00+09:00",
+      "security_code": "4477",
+      "company_name": "Ｇ－ＢＡＳＥ",
+      "title": "譲渡制限付株式報酬としての新株式発行に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261119583291.pdf"
+    },
+    {
+      "id": "06cc90eab71d75de1f1a",
+      "published_at": "2026-11-19T16:30:00+09:00",
+      "security_code": "7199",
+      "company_name": "プレミアグループ",
+      "title": "2027年３月期 第２四半期決算説明会 質疑応答集",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261119583575.pdf"
+    },
+    {
+      "id": "6b1a3d782ef1d4812dbb",
+      "published_at": "2026-11-19T16:30:00+09:00",
+      "security_code": "8766",
+      "company_name": "東京海上",
+      "title": "2027年3月期 第2四半期（中間期）決算短信〔ＩＦＲＳ〕（連結）",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261118583013.pdf"
+    },
+    {
+      "id": "0d553df3e9a22ceb7edb",
+      "published_at": "2026-11-19T16:30:00+09:00",
+      "security_code": "8766",
+      "company_name": "東京海上",
+      "title": "2027年3月期 第2四半期（中間期）決算参考資料",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261118583034.pdf"
+    },
+    {
+      "id": "27c2383a7f84e2fa4040",
+      "published_at": "2026-11-19T16:30:00+09:00",
+      "security_code": "8766",
+      "company_name": "東京海上",
+      "title": "自己株式取得に係る事項の決定に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261118583037.pdf"
+    },
+    {
+      "id": "8ffcbc74c52fb8c417ff",
+      "published_at": "2026-11-19T16:20:00+09:00",
+      "security_code": "8803",
+      "company_name": "平和不",
+      "title": "通期業績予想の修正に関するお知らせ",
+      "category": "業績予想修正",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261119583455.pdf"
+    },
+    {
+      "id": "c9d9dead22a4743e9610",
+      "published_at": "2026-11-19T16:20:00+09:00",
+      "security_code": "8966",
+      "company_name": "Ｒ－平和ＲＥ",
+      "title": "（訂正）第47期、第48期及び第49期 資産運用報告の一部訂正に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261118582900.pdf"
+    },
+    {
+      "id": "97c55ea140e3bd0e0ff4",
+      "published_at": "2026-11-19T16:20:00+09:00",
+      "security_code": "8966",
+      "company_name": "Ｒ－平和ＲＥ",
+      "title": "借入金の期限前返済及び資金の借入れに関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261118582944.pdf"
+    },
+    {
+      "id": "a485b0d731eb211a9742",
+      "published_at": "2026-11-19T16:20:00+09:00",
+      "security_code": "8966",
+      "company_name": "Ｒ－平和ＲＥ",
+      "title": "国内資産の取得に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261118582945.pdf"
+    },
+    {
+      "id": "a630fc156cdbedaaba1b",
+      "published_at": "2026-11-19T16:20:00+09:00",
+      "security_code": "8966",
+      "company_name": "Ｒ－平和ＲＥ",
+      "title": "「2026年11月期（第50期）の運用状況の予想の修正及び2027年5月期（第51期）の運用状況の予想に関するお知らせ」等に関する補足説明資料",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261118582947.pdf"
+    },
+    {
+      "id": "bf752f08ddc4102c3bfc",
+      "published_at": "2026-11-19T16:20:00+09:00",
+      "security_code": "8966",
+      "company_name": "Ｒ－平和ＲＥ",
+      "title": "2027年5月期（第51期）の運用状況の予想の修正及び2027年11月期（第52期）の運用状況の予想に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261118583059.pdf"
+    },
+    {
+      "id": "fda2a7e458aea34ba71f",
+      "published_at": "2026-11-19T16:20:00+09:00",
+      "security_code": "8966",
+      "company_name": "Ｒ－平和ＲＥ",
+      "title": "「新投資口発行及び投資口売出しに関するお知らせ」等に関する補足説明資料",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261118582949.pdf"
+    },
+    {
+      "id": "c4d7fbd179c3a2487839",
+      "published_at": "2026-11-19T16:20:00+09:00",
+      "security_code": "8966",
+      "company_name": "Ｒ－平和ＲＥ",
+      "title": "新投資口発行及び投資口売出しに関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261118582951.pdf"
+    },
+    {
+      "id": "1af692e5173532371951",
+      "published_at": "2026-11-19T16:15:00+09:00",
+      "security_code": "8473",
+      "company_name": "ＳＢＩ",
+      "title": "2033年満期ユーロ円建転換社債型新株予約権付社債の発行に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261119583632.pdf"
+    },
     {
       "id": "cda3b259c74a91626daf",
       "published_at": "2026-11-19T16:00:00+09:00",
