@@ -1,7 +1,57 @@
 {
   "sample": false,
-  "last_success_at": "2026-11-24T18:42:07+09:00",
+  "last_success_at": "2026-11-24T22:31:27+09:00",
   "disclosures": [
+    {
+      "id": "e78f09da10b221858710",
+      "published_at": "2026-11-24T19:00:00+09:00",
+      "security_code": "2667",
+      "company_name": "イメージワン",
+      "title": "(開示事項の経過) 資金貸付に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261124585446.pdf"
+    },
+    {
+      "id": "050df775d2d8f42a962f",
+      "published_at": "2026-11-24T19:00:00+09:00",
+      "security_code": "3291",
+      "company_name": "飯田ＧＨＤ",
+      "title": "主要株主の異動に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261124585450.pdf"
+    },
+    {
+      "id": "edc27150467befea3d7b",
+      "published_at": "2026-11-24T19:00:00+09:00",
+      "security_code": "9101",
+      "company_name": "郵船",
+      "title": "持分法適用会社からの配当金受領に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261124585288.pdf"
+    },
+    {
+      "id": "1155dc502cea24686fee",
+      "published_at": "2026-11-24T19:00:00+09:00",
+      "security_code": "9104",
+      "company_name": "商船三井",
+      "title": "持分法適用関連会社OCEAN NETWORK EXPRESS PTE.LTD.からの配当金受領に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261116581331.pdf"
+    },
+    {
+      "id": "fb098d29e37cf4209b2a",
+      "published_at": "2026-11-24T19:00:00+09:00",
+      "security_code": "9107",
+      "company_name": "川崎船",
+      "title": "当社個別決算における営業外収益（受取配当金）の計上に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261119583583.pdf"
+    },
     {
       "id": "32e6b0c67b3c2921f608",
       "published_at": "2026-11-24T18:00:00+09:00",
