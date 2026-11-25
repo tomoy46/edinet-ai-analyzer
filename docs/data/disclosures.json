@@ -1,7 +1,207 @@
 {
   "sample": false,
-  "last_success_at": "2026-11-25T17:14:48+09:00",
+  "last_success_at": "2026-11-25T21:37:20+09:00",
   "disclosures": [
+    {
+      "id": "dedb99f4674b9e04fb7e",
+      "published_at": "2026-11-25T21:15:00+09:00",
+      "security_code": "2612",
+      "company_name": "かどや製油",
+      "title": "（変更）「株式会社ITG-Gホールディングスによる当社株式に対する公開買付けに関する賛同の意見表明及び応募推奨のお知らせ」の一部変更に関するお知らせ",
+      "category": "TOB",
+      "importance": 5,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261125586355.pdf"
+    },
+    {
+      "id": "de898bebc44717b84b22",
+      "published_at": "2026-11-25T20:00:00+09:00",
+      "security_code": "3807",
+      "company_name": "Ｇ－フィスコ",
+      "title": "当社の主要株主である筆頭株主の異動に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261125586236.pdf"
+    },
+    {
+      "id": "25dde6a8413db6064d46",
+      "published_at": "2026-11-25T20:00:00+09:00",
+      "security_code": "6584",
+      "company_name": "三桜工",
+      "title": "連結子会社による子会社（当社孫会社）の設立（特定子会社の異動）に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261125586270.pdf"
+    },
+    {
+      "id": "7aa23eb7f1a99c12c6e8",
+      "published_at": "2026-11-25T19:00:00+09:00",
+      "security_code": "2901",
+      "company_name": "ウェルディッシュ",
+      "title": "現任役員による役員報酬の一部自主返納及び元代表取締役に対する損害賠償請求の検討について",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261125586296.pdf"
+    },
+    {
+      "id": "1fdbb2f125f6e55f480a",
+      "published_at": "2026-11-25T19:00:00+09:00",
+      "security_code": "4272",
+      "company_name": "日化薬",
+      "title": "組織再編成および役員の異動に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261125586207.pdf"
+    },
+    {
+      "id": "1c924ed8622bfd835e40",
+      "published_at": "2026-11-25T19:00:00+09:00",
+      "security_code": "4272",
+      "company_name": "日化薬",
+      "title": "完全子会社の吸収合併（簡易合併・略式合併）に関するお知らせ",
+      "category": "M&A",
+      "importance": 5,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261117582056.pdf"
+    },
+    {
+      "id": "e440cc178941e9e193b2",
+      "published_at": "2026-11-25T18:30:00+09:00",
+      "security_code": "3697",
+      "company_name": "ＳＨＩＦＴ",
+      "title": "当社子会社（株式会社デケム）の吸収合併（簡易合併）に関するお知らせ",
+      "category": "M&A",
+      "importance": 5,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261125586263.pdf"
+    },
+    {
+      "id": "7543f2dea0fa562dfcf8",
+      "published_at": "2026-11-25T18:20:00+09:00",
+      "security_code": "2015",
+      "company_name": "ｉＦ米国債７１０Ｈ無",
+      "title": "iFreeETFの収益分配のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261125586281.pdf"
+    },
+    {
+      "id": "1ddb182337c46df194b4",
+      "published_at": "2026-11-25T18:20:00+09:00",
+      "security_code": "2016",
+      "company_name": "ｉＦ米国債７１０Ｈ有",
+      "title": "iFreeETFの収益分配のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261125586282.pdf"
+    },
+    {
+      "id": "6087be36b6c3ee3dbefb",
+      "published_at": "2026-11-25T18:20:00+09:00",
+      "security_code": "8966",
+      "company_name": "Ｒ－平和ＲＥ",
+      "title": "新投資口発行及び投資口売出しに係る価格等の決定に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261124585384.pdf"
+    },
+    {
+      "id": "301038a6d1b2da485053",
+      "published_at": "2026-11-25T18:20:00+09:00",
+      "security_code": "8966",
+      "company_name": "Ｒ－平和ＲＥ",
+      "title": "資金の借入れ及び借入金の返済に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261125586136.pdf"
+    },
+    {
+      "id": "2b16607345110f0f0955",
+      "published_at": "2026-11-25T18:20:00+09:00",
+      "security_code": "8966",
+      "company_name": "Ｒ－平和ＲＥ",
+      "title": "資金の借入れ（利率決定）に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261125586137.pdf"
+    },
+    {
+      "id": "5512dabf070a7722098b",
+      "published_at": "2026-11-25T18:10:00+09:00",
+      "security_code": "9241",
+      "company_name": "Ｇ－ＦＬＮ",
+      "title": "事業計画及び成長可能性に関する事項について",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261125586261.pdf"
+    },
+    {
+      "id": "27c77155eeb3e7e4e86a",
+      "published_at": "2026-11-25T18:00:00+09:00",
+      "security_code": "3358",
+      "company_name": "Ｔｒａｉｌｈｅａｄ",
+      "title": "剰余金の配当（中間配当・復配）の効力発生日変更に関するお知らせ",
+      "category": "その他",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261125586148.pdf"
+    },
+    {
+      "id": "76bf89742a75f51205fe",
+      "published_at": "2026-11-25T18:00:00+09:00",
+      "security_code": "6161",
+      "company_name": "エスティック",
+      "title": "2027年3月期 第2四半期 決算説明資料",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261125586223.pdf"
+    },
+    {
+      "id": "6cac511b2b48d7db1687",
+      "published_at": "2026-11-25T17:50:00+09:00",
+      "security_code": "3323",
+      "company_name": "レカム",
+      "title": "資本準備金の額の減少に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261125586231.pdf"
+    },
+    {
+      "id": "0804c4802ba2451f70d4",
+      "published_at": "2026-11-25T17:30:00+09:00",
+      "security_code": "3608",
+      "company_name": "ＴＳＩ ＨＤ",
+      "title": "（開示事項の経過）一般財団法人TSIファッション未来財団の設立及び 第三者割当による自己株式の処分に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261124585451.pdf"
+    },
+    {
+      "id": "54fe33dabff81109bbdb",
+      "published_at": "2026-11-25T17:30:00+09:00",
+      "security_code": "3965",
+      "company_name": "ＣＡＰ",
+      "title": "資本コストや株価を意識した経営の実現に向けた対応について（アップデート）",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261125585922.pdf"
+    },
+    {
+      "id": "07f3c46f12f2786ec5b7",
+      "published_at": "2026-11-25T17:30:00+09:00",
+      "security_code": "3965",
+      "company_name": "ＣＡＰ",
+      "title": "取締役の異動に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261125585930.pdf"
+    },
+    {
+      "id": "7572d49c86b54dcc01a6",
+      "published_at": "2026-11-25T17:30:00+09:00",
+      "security_code": "4893",
+      "company_name": "Ｇ－ノイルイミューン",
+      "title": "行使価額修正条項付新株予約権の大量行使に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261125586198.pdf"
+    },
     {
       "id": "96be4ac490a8752cb3c2",
       "published_at": "2026-11-25T17:00:00+09:00",
