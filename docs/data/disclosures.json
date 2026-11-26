@@ -1,7 +1,167 @@
 {
   "sample": false,
-  "last_success_at": "2026-11-26T17:01:46+09:00",
+  "last_success_at": "2026-11-26T21:14:10+09:00",
   "disclosures": [
+    {
+      "id": "4e807524174be61870e1",
+      "published_at": "2026-11-26T19:30:00+09:00",
+      "security_code": "2612",
+      "company_name": "かどや製油",
+      "title": "（株）ITG-Gホールディングスによる公開買付届出書の訂正に伴う「かどや製油（株）の普通株式に対する公開買付けの開始に関するお知らせ」の変更について",
+      "category": "TOB",
+      "importance": 5,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261126587202.pdf"
+    },
+    {
+      "id": "2602e996f4637a27f85d",
+      "published_at": "2026-11-26T19:30:00+09:00",
+      "security_code": "2612",
+      "company_name": "かどや製油",
+      "title": "（変更）「株式会社ITG-Gホールディングスによる当社株式に対する公開買付けに関する賛同の意見表明及び応募推奨のお知らせ」の一部変更に関するお知らせ",
+      "category": "TOB",
+      "importance": 5,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261126587203.pdf"
+    },
+    {
+      "id": "c98956e98ebaaec02c5f",
+      "published_at": "2026-11-26T19:30:00+09:00",
+      "security_code": "5137",
+      "company_name": "Ｇ－スマートドライブ",
+      "title": "自己株式の取得結果及び取得終了に関するお知らせ",
+      "category": "自社株買い",
+      "importance": 4,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261126587208.pdf"
+    },
+    {
+      "id": "2991d5ac10006aeb860b",
+      "published_at": "2026-11-26T19:05:00+09:00",
+      "security_code": "4575",
+      "company_name": "Ｇ－ＣＡＮＢＡＳ",
+      "title": "（訂正）適時開示書類「第22回新株予約権（行使価額修正条項付）の大量行使に関するお知らせ」 一部訂正について",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261126587209.pdf"
+    },
+    {
+      "id": "20a3ab1bf1ccfa70b93b",
+      "published_at": "2026-11-26T18:45:00+09:00",
+      "security_code": "2241",
+      "company_name": "ＭＸＳダウ",
+      "title": "ＭＡＸＩＳ ＥＴＦの収益分配のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261126587189.pdf"
+    },
+    {
+      "id": "a3b820fd09727cf9da8b",
+      "published_at": "2026-11-26T18:45:00+09:00",
+      "security_code": "2242",
+      "company_name": "ＭＸＳダウヘ有",
+      "title": "ＭＡＸＩＳ ＥＴＦの収益分配のお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261126587190.pdf"
+    },
+    {
+      "id": "1cd5b3b526d96b8d53dd",
+      "published_at": "2026-11-26T18:38:00+09:00",
+      "security_code": "4444",
+      "company_name": "Ｇ－インフォネットＧ",
+      "title": "当社子会社が運用するinfoCMSへの不正アクセスに関するお知らせ（第2報）",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261126587182.pdf"
+    },
+    {
+      "id": "5c8d4cefce836f054505",
+      "published_at": "2026-11-26T18:30:00+09:00",
+      "security_code": "6425",
+      "company_name": "ユニバーサル",
+      "title": "子会社の異動に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261126587007.pdf"
+    },
+    {
+      "id": "600a6e85b360cc329f77",
+      "published_at": "2026-11-26T18:00:00+09:00",
+      "security_code": "6198",
+      "company_name": "Ｇ－キャリア",
+      "title": "取締役候補者の選任に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261126587134.pdf"
+    },
+    {
+      "id": "5dc813d66ac098124c08",
+      "published_at": "2026-11-26T18:00:00+09:00",
+      "security_code": "7037",
+      "company_name": "テノ．",
+      "title": "（開示事項の経過）連結子会社の異動（株式譲渡）の実行日変更に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261126586394.pdf"
+    },
+    {
+      "id": "99bf1cba90c5da3392f2",
+      "published_at": "2026-11-26T17:30:00+09:00",
+      "security_code": "3279",
+      "company_name": "Ｒ－ＡＰＩ",
+      "title": "自己投資口取得に係る事項の決定（投資信託及び投資法人に関する法律第80条の5に基づく自己投資口の取得）に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261125586341.pdf"
+    },
+    {
+      "id": "8cc0b542b729d5667b28",
+      "published_at": "2026-11-26T17:30:00+09:00",
+      "security_code": "3662",
+      "company_name": "エイチームＨＤ",
+      "title": "（訂正）「（訂正）「第９回新株予約権の行使価額及び第１回無担保転換社債型新株予約権付社債の転換価額の調整に関するお知らせ」の訂正について」の訂正",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261126587051.pdf"
+    },
+    {
+      "id": "6b498986f4800a4fecb4",
+      "published_at": "2026-11-26T17:30:00+09:00",
+      "security_code": "7640",
+      "company_name": "トップカルチャ",
+      "title": "上場維持基準への適合及び当社株式の監理銘柄（確認中）指定解除に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261126586923.pdf"
+    },
+    {
+      "id": "9426604ca9fd2d345a2a",
+      "published_at": "2026-11-26T17:30:00+09:00",
+      "security_code": "8746",
+      "company_name": "ｕｎｂａｎｋｅｄ",
+      "title": "改善計画・状況報告書の公表について",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261126587119.pdf"
+    },
+    {
+      "id": "04fe255dae94dee22cb5",
+      "published_at": "2026-11-26T17:30:00+09:00",
+      "security_code": "8848",
+      "company_name": "レオパレス２１",
+      "title": "主要株主の異動に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261126586908.pdf"
+    },
+    {
+      "id": "1537112fc710bb15e37f",
+      "published_at": "2026-11-26T17:10:00+09:00",
+      "security_code": "3647",
+      "company_name": "アスリナ",
+      "title": "第11回新株予約権の買取及び消却の完了並びに第三者割当による第12回新株予約権及び第13回新株予約権の発行価額の払込完了に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261126587048.pdf"
+    },
     {
       "id": "8636d075249bfd4efc02",
       "published_at": "2026-11-26T17:00:00+09:00",
