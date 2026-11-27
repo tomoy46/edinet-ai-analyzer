@@ -1,7 +1,137 @@
 {
   "sample": false,
-  "last_success_at": "2026-11-27T17:06:44+09:00",
+  "last_success_at": "2026-11-27T21:00:10+09:00",
   "disclosures": [
+    {
+      "id": "99ef9769be406fc5838d",
+      "published_at": "2026-11-27T19:00:00+09:00",
+      "security_code": "2338",
+      "company_name": "クオンタムＳ",
+      "title": "連結子会社によるAIインフラに係る計算サービス（Tokens（トークン））の購入に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261127588118.pdf"
+    },
+    {
+      "id": "8b68a1b8fd6063ff27bd",
+      "published_at": "2026-11-27T19:00:00+09:00",
+      "security_code": "2338",
+      "company_name": "クオンタムＳ",
+      "title": "連結子会社における資金の借入れに関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261126586484.pdf"
+    },
+    {
+      "id": "3a3930e924b414ac3aff",
+      "published_at": "2026-11-27T18:10:00+09:00",
+      "security_code": "4395",
+      "company_name": "Ｇ－アクリート",
+      "title": "第三者委員会の委員の選任に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261127588074.pdf"
+    },
+    {
+      "id": "8bbf0734b8b07e12ce54",
+      "published_at": "2026-11-27T18:00:00+09:00",
+      "security_code": "4175",
+      "company_name": "Ｇ－ｃｏｌｙ",
+      "title": "空株式会社の株式の取得（子会社化）に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261127587662.pdf"
+    },
+    {
+      "id": "5f2ca90c58618d865321",
+      "published_at": "2026-11-27T18:00:00+09:00",
+      "security_code": "7806",
+      "company_name": "Ｇ－ＭＴＧ",
+      "title": "自己株式取得に係る事項の決定に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261127587702.pdf"
+    },
+    {
+      "id": "f1c3294daecc90820d05",
+      "published_at": "2026-11-27T18:00:00+09:00",
+      "security_code": "9115",
+      "company_name": "明海グループ",
+      "title": "固定資産の取得に関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261127587681.pdf"
+    },
+    {
+      "id": "74ca0e82143bb2b49716",
+      "published_at": "2026-11-27T17:55:00+09:00",
+      "security_code": "2304",
+      "company_name": "ＣＳＳＨＤ",
+      "title": "2026年9月期 通期決算説明動画公開のお知らせ",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261127588018.pdf"
+    },
+    {
+      "id": "02ce23edc008ea06e657",
+      "published_at": "2026-11-27T17:40:00+09:00",
+      "security_code": "7488",
+      "company_name": "ヤガミ",
+      "title": "(訂正・数値データ訂正)「2027年4月期 第2四半期（中間期）決算短信〔日本基準〕（連結）」の一部訂正について",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261127588054.pdf"
+    },
+    {
+      "id": "ef103052baa8ba770f61",
+      "published_at": "2026-11-27T17:30:00+09:00",
+      "security_code": "2764",
+      "company_name": "ひらまつ",
+      "title": "2027年3月期第２四半期（中間期）決算説明会資料",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261127588040.pdf"
+    },
+    {
+      "id": "6dacc50be79f4d154d23",
+      "published_at": "2026-11-27T17:30:00+09:00",
+      "security_code": "5122",
+      "company_name": "オカモト",
+      "title": "2027年3月期中間期決算説明会資料について",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261127588035.pdf"
+    },
+    {
+      "id": "1f04d01b6984d7d2d2ee",
+      "published_at": "2026-11-27T17:15:00+09:00",
+      "security_code": "2345",
+      "company_name": "ＨＯＤＬ１",
+      "title": "有価証券届出書の取下げに関するお知らせ",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261127588059.pdf"
+    },
+    {
+      "id": "109a42947050e47a62e2",
+      "published_at": "2026-11-27T17:15:00+09:00",
+      "security_code": "8705",
+      "company_name": "日産証券グループ",
+      "title": "外部委託先システムへの不正アクセスの発生及び情報漏洩に関するお知らせ（第一報）",
+      "category": "その他",
+      "importance": 1,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261127587800.pdf"
+    },
+    {
+      "id": "6a5b6b0d77ce17270d8c",
+      "published_at": "2026-11-27T17:10:00+09:00",
+      "security_code": "3323",
+      "company_name": "レカム",
+      "title": "（訂正・数値データ訂正） 「2026年９月期 決算短信〔ＩＦＲＳ〕(連結)」の一部変更に関するお知らせ",
+      "category": "決算",
+      "importance": 3,
+      "pdf_url": "https://www.release.tdnet.info/inbs/140120261127588019.pdf"
+    },
     {
       "id": "a6c6fe274984b04eac40",
       "published_at": "2026-11-27T17:00:00+09:00",
